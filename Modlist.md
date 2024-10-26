@@ -167,3 +167,26 @@ Enhancements and adjustments to gameplay mechanics, offering improved control, n
     Keeps the "Reset Attributes" option available at all times, allowing players to respec their character whenever needed.  
     [Reset Attributes on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4279)
 
+
+## Enemies and Difficulty
+This section enhances the difficulty and interactions with enemies, making combat more engaging and challenging with tweaks to AI behavior, difficulty scaling, and combat rewards.
+
+1. **Challenging Breach Minigame**  
+   Increases the difficulty of the Breach Protocol minigame, requiring more strategy and focus for successful hacks.  
+   [Challenging Breach Minigame on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/3315)
+
+2. **Convo Skill Check Scaling**  
+   Adjusts conversation skill checks to scale with player level, making dialog choices and interactions more dynamic.  
+   [Convo Skill Check Scaling on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4234)
+
+3. **No shooting delay**  
+   Removes the delay when firing weapons, allowing for more immediate and responsive shooting mechanics.  
+   [No Shooting Delay on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4203)
+
+4. **Enemies of Night City**  
+   Introduces more challenging enemy types throughout Night City, increasing the variety and intensity of combat encounters.  
+   [Enemies of Night City on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4112)
+
+5. **Ped Damage Overhaul 2077**  
+   Overhauls damage interactions with pedestrians and other NPCs, making encounters feel more realistic and impactful.  
+   [Ped Damage Overhaul on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4174)
