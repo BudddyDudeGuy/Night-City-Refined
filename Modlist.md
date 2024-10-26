@@ -190,3 +190,28 @@ This section enhances the difficulty and interactions with enemies, making comba
 5. **Ped Damage Overhaul 2077**  
    Overhauls damage interactions with pedestrians and other NPCs, making encounters feel more realistic and impactful.  
    [Ped Damage Overhaul on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4174)
+
+
+## Quests
+Adds new quests, storyline expansions, and narrative-driven experiences to enrich the world of Cyberpunk 2077.
+
+1. **Artistic**  
+   A mod that introduces a series of quests exploring the art world in Night City, with unique NPCs and immersive story elements.  
+   [Artistic on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4196)
+
+2. **New Quest - Californication**  
+   Adds a new quest called "Californication," taking players through a story inspired by themes of Hollywood glamour and crime.  
+   [Californication on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4220)
+
+3. **New Quest - Hot Fuzz**  
+   An action-packed quest inspired by classic buddy-cop films, with high-stakes situations and unique dialogue options.  
+   [Hot Fuzz on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4215)
+
+4. **New Quest - One More Light**  
+   A heartfelt quest that focuses on personal relationships and deep moral choices, enhancing the narrative depth of the game.  
+   [One More Light on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4241)
+
+5. **New Quest - Encore**  
+   A continuation quest that revisits past characters and choices, allowing players to engage with a narrative extension of previous events.  
+   [Encore on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4236)
+
