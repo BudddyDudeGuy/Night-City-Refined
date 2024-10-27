@@ -550,3 +550,86 @@ This section adds enhancements and adjustments to cyberware, expanding its funct
    A compatibility add-on for Optical Camo Realism, specifically designed to work seamlessly with the Stealthrunner mod for integrated stealth mechanics.  
    [Optical Camo Realism - Stealthrunner Compatibility on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4464)
 
+
+## Aesthetics
+These mods enhance the visual aspects of the game, from character appearances to environmental improvements, creating a more immersive and polished look for Cyberpunk 2077.
+
+1. **Clean Computer Wallpaper**  
+   Replaces computer wallpapers with cleaner, high-quality images, enhancing visual clarity and style.  
+   [Clean Computer Wallpaper on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4470)
+
+2. **Crouch vignette effect remover**  
+   Removes the vignette effect when crouching, providing a clearer view without darkened edges, ideal for stealth gameplay.  
+   [Crouch Vignette Effect Remover on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4471)
+
+3. **E3 Smart Windows**  
+   Adds interactive smart windows based on the original E3 demo, making indoor environments feel more dynamic and futuristic.  
+   [E3 Smart Windows on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4472)
+
+4. **Enable Advert Animations (Ads)**  
+   Activates animations for in-game ads, making the cityscape more lively and interactive.  
+   [Enable Advert Animations on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4473)
+
+5. **Enable Finisher Ragdolls**  
+   Adds ragdoll physics to finishers, making combat animations more dramatic and satisfying.  
+   [Enable Finisher Ragdolls on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4474)
+
+6. **Enhanced Craft**  
+   Improves crafting animations and sound effects, adding visual appeal to the crafting process.  
+   [Enhanced Craft on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4475)
+
+7. **Equipment-EX**  
+   Introduces new equipment visuals, enhancing the appearance and details of various character gear.  
+   [Equipment-EX on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4476)
+
+8. **Focus Vignette Removal**  
+   Removes the vignette effect when focusing on objects, allowing for a cleaner and more immersive experience.  
+   [Focus Vignette Removal on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4477)
+
+9. **Immersive Timeskip**  
+   Adjusts the timeskip visuals to make them more seamless and immersive, improving the transition between time periods.  
+   [Immersive Timeskip on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4478)
+
+10. **Less Samurai**  
+    Modifies certain Samurai band visuals, creating a more minimalist and clean aesthetic.  
+    [Less Samurai on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4479)
+
+11. **Limited HUD**  
+    Reduces the in-game HUD to minimal elements, enhancing immersion by removing unnecessary on-screen distractions.  
+    [Limited HUD on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4480)
+
+12. **Malorian Arms 3516 Alternative Ironsight Animation**  
+    Changes the ironsight animation for the Malorian Arms 3516, adding a fresh visual for aiming.  
+    [Malorian Arms 3516 Alternative Ironsight Animation on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4481)
+
+13. **Malorian Arms 3516 Slide Fix**  
+    Fixes the slide animation on the Malorian Arms 3516 for smoother visuals during weapon handling.  
+    [Malorian Arms 3516 Slide Fix on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4482)
+
+14. **No Paper Bags From Vending Machines**  
+    Removes paper bags from vending machines, giving a cleaner appearance to purchased items.  
+    [No Paper Bags From Vending Machines on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4483)
+
+15. **Playable Arcade Machines**  
+    Adds functionality to in-game arcade machines, allowing players to interact with and play them.  
+    [Playable Arcade Machines on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4484)
+
+16. **Preem Scopes (Remove Tint Glitches Scanlines and 3D Depth Effect - FOMOD)**  
+    Fixes scope visuals by removing tint glitches, scanlines, and other visual issues, improving scope clarity.  
+    [Preem Scopes on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4485)
+
+17. **QoL - Higher TV Quality**  
+    Enhances the quality of in-game TVs, improving clarity and reducing pixelation.  
+    [Higher TV Quality on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4486)
+
+18. **QoL - Stencil Text Enhanced**  
+    Improves the quality of stencil text used in the game, enhancing readability and overall visual quality.  
+    [Stencil Text Enhanced on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4487)
+
+19. **Ragdoll Physics Overhaul**  
+    Overhauls ragdoll physics, making NPC reactions more realistic during combat and environmental interactions.  
+    [Ragdoll Physics Overhaul on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4488)
+
+20. **Spicy Clean Hack Screen**  
+    Provides a cleaner and more visually appealing hack screen, improving usability and aesthetics during hacking.  
+    [Spicy Clean Hack Screen on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4489)
