@@ -68,3 +68,13 @@ To install the modlist, complete the following steps.
 > - **DO NOT** place it in Program Files, User folders (such as Desktop, Documents,   Downloads, OneDrive, etc.), or in your games steam, epic or gog folder
 5. You can also set the download location to where you please.
 6. Press the play arrow to begin the download and install
+
+
+## Updating the Modlist
+
+Updating is like installing the list. Go on wabbajack and make sure your paths are the same and tick the overwrite installation button. Please keep in mind any mods you have added will be deleted when updating. To make sure that Wabbajack does not delete your added mods upon updating, prefix your mods with [NoDelete].
+
+## Removing the Modlist
+
+Just go to wherever your modlist is installed and delete the entire modlist folder.
+
