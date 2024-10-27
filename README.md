@@ -5,7 +5,6 @@
   - [System Requirements](#system-requirements)
 - [Installation](#installation)
   - [Pre-Installation](#pre-installation)
-  
   - [Wabbajack Installation](#wabbajack-installation)
     - [Installing Wabbajack](#installing-wabbajack)
     - [Downloading and Installing Modlist](#downloading-and-installing-apostasy)
@@ -44,9 +43,9 @@ Before starting the installation, complete the following steps to ensure a smoot
 2. **Clean Install**: Start with a fresh installation of Cyberpunk 2077, especially if you’ve previously installed mods. This reduces the risk of conflicts or leftover files affecting your modlist.
 3. **Verify Game Files**: Use your game launcher (Steam, GOG, etc.) to verify game files before proceeding. This ensures that all core files are intact and compatible with the modlist.
 
-## Wabbajack Installation
+### Wabbajack Installation
 
-### Installing Wabbjack
+#### Installing Wabbjack
 
 Once you have completed the pre-installation section, follow these steps to install Wabbajack:
 
@@ -59,7 +58,7 @@ Once you have completed the pre-installation section, follow these steps to inst
 2. **Download Wabbajack**: Download the latest version of Wabbajack from [Wabbajack’s official website](https://www.wabbajack.org/).
 3. **Install Wabbajack**: Follow the installation instructions on Wabbajack’s website to set it up. Make sure to place the Wabbajack.exe file inside the folder from step 1.
 
-### Downloading and Installing Modlist
+#### Downloading and Installing Modlist
 
 Downloading and installing the modlist can take a while depending on your internet connection, PC specs, and if you have Nexus Premium. Without Premium, you will need to manually click the Slow Download button for each mod.
 
