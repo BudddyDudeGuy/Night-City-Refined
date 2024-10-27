@@ -1030,3 +1030,86 @@ These mods enhance the visual detail and variety of NPCs in Cyberpunk 2077, prov
     Adds a selection of high-quality hair textures to improve NPC hairstyles, providing greater variety and detail.  
     [Preem Hair on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4590)
 
+
+## Visuals
+This section improves the game's environmental and visual effects, enhancing immersion with high-quality textures, improved lighting, and adjustments to specific visual elements.
+
+1. **Clear Windows - Cars Edition**  
+   Improves the clarity of car windows, reducing glare and reflections for a more realistic driving experience.  
+   [Clear Windows - Cars Edition on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4591)
+
+2. **Clear Windows - Little Smearing**  
+   Adds subtle smearing effects to clear windows, adding realism without obscuring visibility.  
+   [Clear Windows - Little Smearing on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4592)
+
+3. **BetterWindows**  
+   Replaces the default windows with higher-quality textures, enhancing window visuals across buildings and vehicles.  
+   [BetterWindows on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4593)
+
+4. **Blur Begone**  
+   Removes excess motion blur effects, improving visual clarity and reducing strain on the eyes during fast-paced actions.  
+   [Blur Begone on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4594)
+
+5. **Ultra Fog Lite**  
+   Modifies the fog effects to a lighter version, balancing atmosphere and visibility for a clearer view of the environment.  
+   [Ultra Fog Lite on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4595)
+
+6. **Modern Screens and Ads**  
+   Updates the in-game screens and advertisements with high-quality textures, adding a modern and polished look to Night City’s ads.  
+   [Modern Screens and Ads on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4596)
+
+7. **Improved Vegetation LODs**  
+   Increases the level of detail for vegetation, providing more realistic trees, plants, and grass throughout the game.  
+   [Improved Vegetation LODs on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4597)
+
+8. **Trash Begone - Floating Debris**  
+   Removes floating trash and debris, cleaning up the visual clutter in Night City for a cleaner aesthetic.  
+   [Trash Begone on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4598)
+
+9. **Preem Water 2.0 - Canon**  
+   Enhances water textures and reflections, creating more lifelike water effects in rivers, lakes, and rain puddles.  
+   [Preem Water 2.0 on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4599)
+
+10. **Improved Vehicle Lights Draw Distance**  
+    Extends the draw distance for vehicle lights, ensuring consistent and realistic lighting even at longer ranges.  
+    [Improved Vehicle Lights Draw Distance on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4600)
+
+11. **Not So Good Draw Distance Mod**  
+    Adjusts the draw distance settings for better performance while keeping visuals sharp, balancing quality and FPS.  
+    [Not So Good Draw Distance on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4601)
+
+12. **Air Traffic Visual Improvements**  
+    Improves the appearance and behavior of air traffic in Night City, adding visual detail to the skies.  
+    [Air Traffic Visual Improvements on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4602)
+
+13. **Dirt Begone - 1.2.0c - FSR**  
+    Reduces dirt effects on the screen and objects, cleaning up visual noise for a clearer view of the game world.  
+    [Dirt Begone on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4603)
+
+14. **00 Immersive Flash**  
+    Adds immersive flash effects to explosions and gunfire, enhancing the cinematic feel of combat.  
+    [00 Immersive Flash on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4604)
+
+15. **(2k) Immersive Bullet Holes**  
+    Upgrades bullet hole textures to 2K resolution, providing more realistic and detailed impact effects.  
+    [2k Immersive Bullet Holes on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4605)
+
+16. **2077 More Gore V3.0**  
+    Enhances gore effects for a more intense and visceral experience during combat.  
+    [2077 More Gore on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4606)
+
+17. **V2 - Fire and Explosions Texture Overhaul**  
+    Overhauls the textures for fire and explosions, making these effects more realistic and visually impressive.  
+    [Fire and Explosions Overhaul on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4607)
+
+18. **Smoke Texture Overhaul**  
+    Enhances smoke textures for thicker and more immersive smoke effects in combat and environmental events.  
+    [Smoke Texture Overhaul on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4608)
+
+19. **Smoke FX Extras**  
+    Adds additional smoke effects for weapons and environment interactions, boosting visual realism.  
+    [Smoke FX Extras on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4609)
+
+20. **Fire FX Extras**  
+    Adds additional fire effects to explosions and environmental fires, increasing the impact of visuals during combat.  
+    [Fire FX Extras on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4610)
