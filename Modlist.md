@@ -1169,3 +1169,23 @@ These mods overhaul the lighting and color grading of Cyberpunk 2077, providing 
 8. **Nova City (Custom Weather - Beta)**  
    Introduces customizable weather options in Nova City, allowing for different atmospheric effects and moods across the district.  
    [Nova City Weather on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4622)
+
+
+## SORT
+Mods in this section enhance various gameplay elements, providing quality-of-life improvements, additional customization, and enhanced in-game content.
+
+- **Ripperdoc Cyberware Specialization**  
+   Adds specialized options at ripperdocs for customizing cyberware, enhancing character progression with unique upgrades.  
+   [Ripperdoc Cyberware Specialization on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4626)
+
+- **Pacifica Typhoon - Dogtown's Hidden Gems**  
+   Expands Dogtown with hidden gems, allowing players to find unique content and items specific to this district.  
+   [Pacifica Typhoon - Dogtown's Hidden Gems on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4625)
+
+- **Missing Persons - Fixer's Hidden Gems**  
+   Adds new exploration opportunities and hidden quests provided by fixers, encouraging players to discover secrets throughout Night City.  
+   [Missing Persons - Fixer's Hidden Gems on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4624)
+
+- **Economy Punk**  
+   Adjusts the in-game economy, rebalancing prices and vendor interactions for a more immersive and challenging financial experience.  
+   [Economy Punk on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4623)
