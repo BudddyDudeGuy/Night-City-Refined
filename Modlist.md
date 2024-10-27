@@ -503,3 +503,21 @@ This section enhances the driving experience, providing better control, visual i
     [Auto On Neon Rims on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4375)
 
 
+## Weapons
+This section enhances weapons, adding new functionality, improved visuals, and balancing tweaks to enhance the combat experience.
+
+1. **Borg Malorian Restored**  
+   Restores and enhances the Borg Malorian, adding unique effects and animations for a more powerful and cinematic feel.  
+   [Borg Malorian Restored on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4453)
+
+2. **Comrade's Hammer Restored**  
+   Restores the original power of the Comrade’s Hammer pistol, bringing back its devastating impact and distinct animations.  
+   [Comrade's Hammer Restored on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4454)
+
+3. **Slaught-O-Matic QoL**  
+   Provides quality-of-life improvements to the Slaught-O-Matic weapon, making it more reliable and effective in combat.  
+   [Slaught-O-Matic QoL on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4455)
+
+4. **Guns Redone Overhauled v3.0 (PL)**  
+   Overhauls the stats and mechanics for various firearms, balancing weapons for a more engaging combat experience.  
+   [Guns Redone Overhauled on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4456)
