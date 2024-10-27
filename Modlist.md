@@ -1113,3 +1113,24 @@ This section improves the game's environmental and visual effects, enhancing imm
 20. **Fire FX Extras**  
     Adds additional fire effects to explosions and environmental fires, increasing the impact of visuals during combat.  
     [Fire FX Extras on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4610)
+
+
+    ## FPS
+These mods improve frame rates and optimize performance for smoother gameplay, particularly on lower-end or optimized setups, enhancing Cyberpunk 2077's playability.
+
+1. **Cyberpunk Ultra Plus**  
+   Enhances graphics settings, providing an optimized setup for high-end machines to achieve the best visual quality without compromising FPS.  
+   [Cyberpunk Ultra Plus on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4611)
+
+2. **FSR3 Frame Gen for Cyberpunk 2077 (DLSS Enabler 2077 Edition)**  
+   Adds FSR3 frame generation support, helping maintain high frame rates with AMD's FidelityFX technology, particularly useful for non-NVIDIA cards.  
+   [FSR3 Frame Gen on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4612)
+
+3. **FrameGen Ghosting Fix Contextual Frame Generation**  
+   Addresses ghosting artifacts in frame generation, enhancing the visual quality of FSR3 and DLSS-generated frames.  
+   [FrameGen Ghosting Fix on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4613)
+
+4. **DLSSG-to-FSR3.1 menu Nameplates**  
+   Enables DLSSG users to access FSR3.1 options, improving customization for frame generation and enabling seamless toggling between DLSS and FSR.  
+   [DLSSG-to-FSR3.1 Nameplates on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4614)
+
