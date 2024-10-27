@@ -28,9 +28,9 @@ Welcome to the Cyberpunk 2077 Enhanced Modlist! This collection of mods is metic
 
 Beyond gameplay, this modlist also brings substantial improvements to visuals and performance. Through carefully selected graphic and optimization mods, Night City becomes more visually stunning and immersive without sacrificing performance. Each mod is chosen to make Cyberpunk 2077’s world more cohesive, challenging, and true to its dystopian roots.
 
-For a full list of mods and detailed descriptions, visit the [Mod_list.md](./Mod_list.md).
+For a full list of mods and a brief descriptions of each, visit the [Mod_list.md](./Mod_list.md).
 
-Also to see if you want to see which mods really have an imapct on the gameplay loops, balancing and other key parts of the game you can click [GAMEPLAY.md](./GAMEPLAY.md)
+Also if you want to see which mods really have an imapct on the gameplay loops, balancing and other key parts of the game you can visit the [GAMEPLAY.md](./GAMEPLAY.md)
 
 ## Installation
 
