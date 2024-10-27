@@ -44,10 +44,31 @@ Before starting the installation, complete the following steps to ensure a smoot
 2. **Clean Install**: Start with a fresh installation of Cyberpunk 2077, especially if you’ve previously installed mods. This reduces the risk of conflicts or leftover files affecting your modlist.
 3. **Verify Game Files**: Use your game launcher (Steam, GOG, etc.) to verify game files before proceeding. This ensures that all core files are intact and compatible with the modlist.
 
-### Wabbajack Installation
+## Wabbajack Installation
 
-1. **Download Wabbajack**: Download the latest version of Wabbajack from [Wabbajack’s official website](https://www.wabbajack.org/).
-2. **Install Wabbajack**: Follow the installation instructions on Wabbajack’s website to set up the tool on your computer.
-3. **Download the Modlist**: Obtain the modlist file by selecting it from the Wabbajack gallery or by loading the provided `.wabbajack` file.
-4. **Choose Installation Location**: Select a dedicated folder for the mod installation, separate from the Cyberpunk 2077 game files.
-5. **Run Wabbajack**: Start the installation process by selecting the modlist and the installation location.
+### Installing Wabbjack
+
+Once you have completed the pre-installation section, follow these steps to install Wabbajack:
+
+1. Create an empty folder named Wabbajack on the root of your drive, such as C:\Wabbajack for example.
+
+  > - **DO NOT** place it in Program Files, User folders (such as Desktop, Documents, Downloads, OneDrive, etc.), in your Skyrim's Steam folder, or in any folders related to the modlist itself (the downloads or install folder).
+>
+> - The `Wabbajack` folder does not need to be on an SSD, but it makes installing faster. You can set this location to be on an HDD for the sake of saving space.
+
+2. **Download Wabbajack**: Download the latest version of Wabbajack from [Wabbajack’s official website](https://www.wabbajack.org/).
+3. **Install Wabbajack**: Follow the installation instructions on Wabbajack’s website to set it up. Make sure to place the Wabbajack.exe file inside the folder from step 1.
+
+### Downloading and Installing Modlist
+
+Downloading and installing the modlist can take a while depending on your internet connection, PC specs, and if you have Nexus Premium. Without Premium, you will need to manually click the Slow Download button for each mod.
+
+To install the modlist, complete the following steps.
+
+1. Open Wabbajack and click Browse Modlists
+2. Pick the Cyberpunk 2077 option from the game filter drop-down box (or use the search bar to find the modlist).
+3.Press the download arrow (looks like a play button) on the Modlist UI card and wait for it to download
+4. Set the Modlist Installation Location to a folder such as C:\Apostasy. It can be placed anywhere you please
+> - **DO NOT** place it in Program Files, User folders (such as Desktop, Documents,   Downloads, OneDrive, etc.), or in your games steam, epic or gog folder
+5. You can also set the download location to where you please.
+6. Press the play arrow to begin the download and install
