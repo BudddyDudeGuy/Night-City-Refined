@@ -714,3 +714,115 @@ This section improves and customizes the game’s user interface, providing qual
     Shifts the quest widget to the right side of the screen, optimizing the display for better immersion and accessibility.  
     [Quest Widget - Right Aligned on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4508)
 
+
+## Quality of Life
+These mods introduce a range of quality-of-life improvements, simplifying and enhancing the gameplay experience in various areas, from inventory management to environmental interactions.
+
+1. **Appearance Change Unlocker - Character Preset Manager**  
+   Unlocks additional appearance options for character customization, allowing players to change their appearance with a more extensive preset manager.  
+   [Appearance Change Unlocker on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4510)
+
+2. **Clear Skill Checks**  
+   Adds clarity to skill checks in dialog, showing exactly which skill is required and whether the player meets the requirement.  
+   [Clear Skill Checks on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4511)
+
+3. **Crafting Recipe Owned Labels**  
+   Displays labels on crafting recipes that the player already owns, making it easier to track recipes in inventory.  
+   [Crafting Recipe Owned Labels on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4512)
+
+4. **Deadeye Sound Remover**  
+   Removes the sound effect when the Deadeye quickhack is activated, creating a quieter hacking experience.  
+   [Deadeye Sound Remover on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4513)
+
+5. **Faster Iguana Hatch**  
+   Reduces the time it takes for the iguana egg to hatch, speeding up one of the game's minor quest interactions.  
+   [Faster Iguana Hatch on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4514)
+
+6. **Faster Vehicle Knockback Animation**  
+   Speeds up the animation when a vehicle is hit and recoils, making it less disruptive to driving.  
+   [Faster Vehicle Knockback Animation on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4515)
+
+7. **Find-EX**  
+   Adds an in-game tool for locating specific items, making it easier to track down objects in complex environments.  
+   [Find-EX on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4516)
+
+8. **Flashback Fixer**  
+   Corrects flashback scenes for smoother transitions and visuals, improving story immersion.  
+   [Flashback Fixer on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4517)
+
+9. **Game v2.0 patch - Quick Message Exit**  
+   Enables a faster exit option for message dialogs, streamlining interaction with messages in-game.  
+   [Quick Message Exit on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4518)
+
+10. **Hide Read Shards**  
+    Automatically hides shards that have already been read, cleaning up the inventory for easier shard management.  
+    [Hide Read Shards on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4519)
+
+11. **Immersion patch - No crowd panic from stealth activity**  
+    Prevents crowds from panicking when the player performs stealth activities, making stealth gameplay less disruptive in populated areas.  
+    [No Crowd Panic on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4520)
+
+12. **Immersion patch - No crowd panic from using devices**  
+    Keeps crowds calm when the player uses devices like computers and terminals, enhancing immersion in public spaces.  
+    [No Crowd Panic from Device Use on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4521)
+
+13. **Immersion patch - The Hunt quest missing audio restore**  
+    Restores missing audio files for The Hunt quest, ensuring a more complete narrative experience.  
+    [The Hunt Quest Audio Restore on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4522)
+
+14. **Instant Wardrobe**  
+    Provides an instant wardrobe option, allowing players to quickly change outfits without delay.  
+    [Instant Wardrobe on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4523)
+
+15. **Looting QoL**  
+    Improves looting functionality with more responsive interaction, making item pickup faster and smoother.  
+    [Looting QoL on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4524)
+
+16. **Metro Pocket Guide**  
+    Adds a metro guide to the game, helping players navigate Night City’s metro system with ease.  
+    [Metro Pocket Guide on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4525)
+
+17. **More Climbable Objects**  
+    Increases the number of climbable objects in the environment, opening up additional exploration paths.  
+    [More Climbable Objects on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4526)
+
+18. **No Intro Videos**  
+    Skips the intro videos on startup, reducing the time it takes to load into the game.  
+    [No Intro Videos on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4527)
+
+19. **QoL - Faster Checkpoints**  
+    Speeds up the checkpoint loading process, reducing wait times for respawning.  
+    [Faster Checkpoints on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4528)
+
+20. **Relic Effect Periods**  
+    Adds periodic effects to the relic, enhancing gameplay dynamics with temporary boosts or effects.  
+    [Relic Effect Periods on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4529)
+
+21. **Replace Weapon Mods**  
+    Allows players to replace weapon mods without the usual restrictions, making it easier to customize loadouts.  
+    [Replace Weapon Mods on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4530)
+
+22. **Retrothrusters QoL**  
+    Adds quality-of-life improvements to the retrothrusters, optimizing movement and control in the air.  
+    [Retrothrusters QoL on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4531)
+
+23. **Sensible Time Bomb**  
+    Adjusts the time bomb mechanics to be more realistic and manageable, improving player control in high-stakes situations.  
+    [Sensible Time Bomb on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4532)
+
+24. **Stay Hydrated - Stay Nourished - Stay Healthy**  
+    Adds reminders for hydration, nutrition, and health management, emphasizing realism in survival mechanics.  
+    [Stay Hydrated on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4533)
+
+25. **TV Adverts Fixes**  
+    Fixes issues with TV advertisements, ensuring smoother playback and improved visuals for in-game television.  
+    [TV Adverts Fixes on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4534)
+
+26. **TV Mute Control**  
+    Adds the ability to mute TVs in-game, giving players control over background noise in their environment.  
+    [TV Mute Control on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4535)
+
+27. **Untrack Quest Ultimate - No Main Quest re-tracking - No leftovers**  
+    Prevents the main quest from automatically re-tracking, allowing players to manage their quest log more effectively.  
+    [Untrack Quest Ultimate on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4536)
+
