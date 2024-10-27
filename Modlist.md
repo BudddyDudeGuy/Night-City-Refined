@@ -826,3 +826,138 @@ These mods introduce a range of quality-of-life improvements, simplifying and en
     Prevents the main quest from automatically re-tracking, allowing players to manage their quest log more effectively.  
     [Untrack Quest Ultimate on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4536)
 
+
+## Bug Fixes
+This section addresses various bugs and inconsistencies in Cyberpunk 2077, providing fixes for gameplay mechanics, visual glitches, and performance issues to enhance overall stability and enjoyment.
+
+1. **Allow Unbound Actions (Keybinds)**  
+   Enables the ability to unbind actions from specific keys, improving control customization options for players.  
+   [Allow Unbound Actions on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4540)
+
+2. **Better Armor Tooltip**  
+   Fixes and improves the armor tooltip display, making it more accurate and readable.  
+   [Better Armor Tooltip on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4541)
+
+3. **Bug Fix - Base Fists and Arm Cyberware Attack Speed Fix**  
+   Addresses issues with the attack speed of base fists and arm cyberware, ensuring consistent speed during combat.  
+   [Base Fists Attack Speed Fix on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4542)
+
+4. **Bug Fix - Full-Auto Tech Weapons Bolt Duration**  
+   Corrects the bolt duration on full-auto tech weapons, improving their responsiveness and performance.  
+   [Full-Auto Tech Weapons Fix on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4543)
+
+5. **Bug Fix - Recon Grenade Bounce Fix**  
+   Fixes the bouncing mechanics for recon grenades, making them function more predictably during use.  
+   [Recon Grenade Bounce Fix on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4544)
+
+6. **Car Dodge Stutter Fix**  
+   Resolves stutter issues during vehicle dodge maneuvers, ensuring smoother and more responsive driving.  
+   [Car Dodge Stutter Fix on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4545)
+
+7. **Cop Killer - NCPD Fixes**  
+   Improves NCPD behavior and reactions, making police interactions more realistic and less glitch-prone.  
+   [Cop Killer NCPD Fixes on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4546)
+
+8. **Decals Flickering Fix**  
+   Fixes issues with flickering decals on surfaces, stabilizing visual quality for environments.  
+   [Decals Flickering Fix on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4547)
+
+9. **Disable W-S Keys To Select Dialogue Options**  
+   Prevents the W and S keys from affecting dialogue choices, reducing accidental selection during conversations.  
+   [Disable W-S Keys on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4548)
+
+10. **Don't Hide Stamina Bar on Holster (Bug Fix)**  
+    Ensures the stamina bar remains visible when holstering a weapon, providing players with consistent HUD feedback.  
+    [Don't Hide Stamina Bar on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4549)
+
+11. **Eddies Notification Fix**  
+    Fixes issues with Eddie (currency) notifications, making them appear correctly and consistently during gameplay.  
+    [Eddies Notification Fix on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4550)
+
+12. **Fix Adrenaline (Overshield) Decay**  
+    Adjusts the decay rate for the Adrenaline (Overshield) mechanic, balancing the feature for combat.  
+    [Fix Adrenaline Decay on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4551)
+
+13. **Gamepad Button Hold Indicator Fix**  
+    Fixes the visual indicator for gamepad button holds, ensuring correct display and interaction.  
+    [Gamepad Button Hold Indicator Fix on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4552)
+
+14. **In Cold Blood - NPC Execution Fix**  
+    Fixes issues related to NPC execution while using the In Cold Blood perk, improving functionality.  
+    [NPC Execution Fix on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4553)
+
+15. **Passenger Targeting Fix**  
+    Resolves targeting issues when aiming from a vehicle as a passenger, enhancing combat accuracy.  
+    [Passenger Targeting Fix on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4554)
+
+16. **QoL - Fix for holotext shadows with RT or PT**  
+    Fixes shadow issues for holotexts when using ray tracing or path tracing, improving visual clarity.  
+    [Holotext Shadows Fix on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4555)
+
+17. **Radio Port Vehicle Fix**  
+    Corrects issues with vehicle radio ports, ensuring audio playback functions correctly.  
+    [Radio Port Fix on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4556)
+
+18. **Rasetsu screens bug fix**  
+    Fixes screen issues on the Rasetsu sniper rifle, providing a clearer and more accurate reticle.  
+    [Rasetsu Screens Fix on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4557)
+
+19. **Repeating Synaptic Accelerator Bug Fix**  
+    Fixes a bug causing the Synaptic Accelerator to repeat, ensuring smooth functionality.  
+    [Repeating Synaptic Accelerator Fix on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4558)
+
+20. **Small TV Channels Fix**  
+    Fixes minor issues with TV channels, improving playback consistency and reducing bugs.  
+    [Small TV Channels Fix on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4559)
+
+21. **Stanley's Morning Audio Fix**  
+    Corrects audio playback issues with Stanley's morning show, enhancing immersion.  
+    [Stanley's Morning Audio Fix on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4560)
+
+22. **Status Bar Bug Fixes**  
+    Fixes various bugs related to the status bar display, ensuring consistent feedback during gameplay.  
+    [Status Bar Bug Fixes on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4561)
+
+23. **TV Audio Fixes**  
+    Addresses audio issues for in-game TVs, enhancing overall sound quality.  
+    [TV Audio Fixes on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4562)
+
+24. **V's Apartment TV Volume Fix**  
+    Adjusts the volume for the TV in V's apartment, balancing audio levels for a more comfortable experience.  
+    [V's Apartment TV Volume Fix on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4563)
+
+25. **Light Beams Fix**  
+    Corrects visual issues with light beams, ensuring consistent lighting effects throughout Night City.  
+    [Light Beams Fix on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4564)
+
+26. **Database Fixes**  
+    Addresses inconsistencies in the game's database entries, improving accuracy and completeness.  
+    [Database Fixes on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4565)
+
+27. **Johnny's Vest - Samurai Logo Fix**  
+    Fixes an issue with the Samurai logo on Johnny's vest, enhancing its appearance.  
+    [Johnny's Vest Logo Fix on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4566)
+
+28. **Judy's Cone Lights No More**  
+    Removes the cone lights in Judy's apartment, providing a cleaner visual experience.  
+    [Judy's Cone Lights on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4567)
+
+29. **H10 Apartment Billboards**  
+    Fixes billboard displays in the H10 apartment, ensuring accurate content display.  
+    [H10 Apartment Billboards on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4568)
+
+30. **Apartment Bench Arm Fix**  
+    Corrects clipping issues with the bench arm in the apartment, improving visual accuracy.  
+    [Apartment Bench Arm Fix on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4569)
+
+31. **Clear view - Panam in Panzer scene**  
+    Provides a clear view in the Panzer scene with Panam, removing obstructive visuals.  
+    [Clear View for Panam Scene on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4570)
+
+32. **Fix for the Arasaka nuke being on the 21st**  
+    Adjusts a lore-related issue with the Arasaka nuke event date, aligning with in-game history.  
+    [Arasaka Nuke Date Fix on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4571)
+
+33. **Arasaka 2023 Logo Fix**  
+    Fixes issues with the Arasaka Logo, enhancing its visual consistency.  
+   [Arasaka 2023 Logo Fix on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4572)
