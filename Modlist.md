@@ -981,3 +981,52 @@ This section includes high-quality texture mods that enhance the visuals of vari
 4. **All Advert - Classic Drinks**  
    Updates classic drink advertisements with high-quality textures, enhancing the visual appeal of in-game advertisements.  
    [Classic Drinks Adverts on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4578)
+
+
+## NPC's
+These mods enhance the visual detail and variety of NPCs in Cyberpunk 2077, providing high-quality textures and unique customizations for major characters.
+
+1. **SET01 - Panam Clothes**  
+   Adds new clothing options for Panam, updating her outfits with detailed, lore-friendly designs that enhance her character.  
+   [SET01 - Panam Clothes on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4580)
+
+2. **Panam Body Enhanced 2.1**  
+   Improves the texture quality of Panam’s character model, adding more realistic skin and body details.  
+   [Panam Body Enhanced on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4581)
+
+3. **1. Panam Head 4K**  
+   Upgrades Panam's head model to 4K resolution, providing more realistic facial textures and expressions.  
+   [Panam Head 4K on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4582)
+
+4. **4K Body 1 (Default)**  
+   Replaces the default body textures with high-resolution 4K textures for greater realism across multiple NPCs.  
+   [4K Body 1 on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4583)
+
+5. **Judy Enhanced Body with 4K Texture**  
+   Improves Judy’s body textures, upgrading them to 4K resolution for sharper and more detailed visuals.  
+   [Judy Enhanced Body on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4584)
+
+6. **Alt Cunningham Body Enhanced**  
+   Adds high-resolution textures to Alt Cunningham’s character model, enhancing the realism of her appearance.  
+   [Alt Cunningham Body Enhanced on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4585)
+
+7. **Johnny hairstyle3**  
+   Introduces a new hairstyle option for Johnny Silverhand, adding variety to his iconic look.  
+   [Johnny Hairstyle on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4586)
+
+8. **Johnny new beard**  
+   Adds a more rugged and realistic beard texture to Johnny Silverhand’s model, enhancing his appearance.  
+   [Johnny New Beard on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4587)
+
+9. **Vessnelle Johnny 4k complexion**  
+   Updates Johnny’s complexion with 4K textures, making his facial details more lifelike.  
+   [Johnny 4K Complexion on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4588)
+
+10. **Crowd E3 2018 Restored**  
+    Restores the appearance and diversity of NPC crowds seen in the E3 2018 demo, making the world feel more populated and dynamic.  
+    [Crowd E3 2018 Restored on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4589)
+
+11. **Preem Hair**  
+    Adds a selection of high-quality hair textures to improve NPC hairstyles, providing greater variety and detail.  
+    [Preem Hair on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4590)
+
