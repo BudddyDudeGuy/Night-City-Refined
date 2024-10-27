@@ -633,3 +633,84 @@ These mods enhance the visual aspects of the game, from character appearances to
 20. **Spicy Clean Hack Screen**  
     Provides a cleaner and more visually appealing hack screen, improving usability and aesthetics during hacking.  
     [Spicy Clean Hack Screen on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4489)
+
+
+## UI
+This section improves and customizes the game’s user interface, providing quality-of-life enhancements for easier access to information and a cleaner display.
+
+1. **Adaptive Sliders**  
+   Adds customizable sliders for various in-game settings, allowing players to fine-tune aspects of the UI and visuals.  
+   [Adaptive Sliders on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4490)
+
+2. **Backpack Search**  
+   Adds a search function to the in-game backpack, making it easier to locate specific items in large inventories.  
+   [Backpack Search on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4491)
+
+3. **Cleaner Main Menu and Pause Menu**  
+   Simplifies the main menu and pause menu interface for a more streamlined and aesthetically pleasing appearance.  
+   [Cleaner Main Menu on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4492)
+
+4. **Fading Crosshairs**  
+   Adds fading crosshairs for a less intrusive HUD, allowing players to focus more on the environment.  
+   [Fading Crosshairs on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4493)
+
+5. **Filter Saves by Lifepath and Type**  
+   Allows players to filter save files based on lifepath and save type, making it easier to manage multiple playthroughs.  
+   [Filter Saves on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4494)
+
+6. **Mark To Sell**  
+   Adds an option to mark items for sale in the inventory, streamlining inventory management and vendor interactions.  
+   [Mark To Sell on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4495)
+
+7. **Muted Markers**  
+   Reduces the volume of map markers for a more immersive experience without constant icon distractions.  
+   [Muted Markers on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4496)
+
+8. **Named Saves**  
+   Allows players to name their save files, enhancing save organization and the ability to track progress across different play styles.  
+   [Named Saves on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4497)
+
+9. **Native Settings UI Side Menu Add-on**  
+   Adds a side menu to the Native Settings UI, improving navigation and usability for custom mod settings.  
+   [Native Settings UI Side Menu Add-on on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4498)
+
+10. **Quickhack Hotkeys**  
+    Adds hotkey support for quickhacks, allowing players to execute hacks more efficiently in combat scenarios.  
+    [Quickhack Hotkeys on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4499)
+
+11. **Quickhack Loadouts**  
+    Introduces customizable loadouts for quickhacks, giving players flexibility to switch setups based on tactical needs.  
+    [Quickhack Loadouts on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4500)
+
+12. **Real Vendor Names**  
+    Replaces generic vendor names with more descriptive names, helping players locate specific types of vendors in Night City.  
+    [Real Vendor Names on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4501)
+
+13. **Simple XP Multiplier**  
+    Allows players to adjust the XP multiplier, controlling the rate of leveling to match preferred pacing.  
+    [Simple XP Multiplier on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4502)
+
+14. **Stash Filters**  
+    Adds filters to the stash menu, making it easier to organize items stored in the player’s stash.  
+    [Stash Filters on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4503)
+
+15. **Stash Search**  
+    Provides a search function for the stash, helping players quickly find specific items.  
+    [Stash Search on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4504)
+
+16. **Vehicle Durability Display**  
+    Adds a durability meter for vehicles, allowing players to monitor the condition of their rides.  
+    [Vehicle Durability Display on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4505)
+
+17. **Modern Phone Icon - Thin**  
+    Replaces the default phone icon with a sleeker, more modern design that fits the game’s cyber aesthetic.  
+    [Modern Phone Icon - Thin on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4506)
+
+18. **More Weapon And Inventory Filters**  
+    Introduces additional filters for weapon and inventory management, improving accessibility and ease of use.  
+    [More Weapon And Inventory Filters on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4507)
+
+19. **Quest Widget - Right Aligned**  
+    Shifts the quest widget to the right side of the screen, optimizing the display for better immersion and accessibility.  
+    [Quest Widget - Right Aligned on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4508)
+
