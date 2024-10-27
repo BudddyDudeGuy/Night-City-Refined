@@ -521,3 +521,32 @@ This section enhances weapons, adding new functionality, improved visuals, and b
 4. **Guns Redone Overhauled v3.0 (PL)**  
    Overhauls the stats and mechanics for various firearms, balancing weapons for a more engaging combat experience.  
    [Guns Redone Overhauled on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4456)
+
+
+## Cyberware
+This section adds enhancements and adjustments to cyberware, expanding its functionality and realism to provide players with more strategic customization options.
+
+1. **Actual Chrome Compression**  
+   Reduces the visual bulk of certain cyberware, giving characters a sleeker and more compact look that aligns with Cyberpunk's aesthetic.  
+   [Actual Chrome Compression on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4460)
+
+2. **Gorilla Grapple**  
+   Enhances the Gorilla Arms cyberware, adding a grapple mechanic to enable more dynamic melee combat options.  
+   [Gorilla Grapple on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4459)
+
+3. **Jenkins Tendons Cyberware Can Recharge While Airborne**  
+   Adjusts the Jenkins Tendons to allow for recharging during airborne sequences, increasing mobility options and maneuverability.  
+   [Jenkins Tendons Recharge on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4461)
+
+4. **Kiroshi Optics Night Vision Mod**  
+   Adds night vision capabilities to the Kiroshi Optics, enhancing vision in low-light settings for a tactical advantage.  
+   [Kiroshi Optics Night Vision on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4462)
+
+5. **Optical Camo Realism and Utility**  
+   Improves the Optical Camo cyberware with more realistic visual effects, making it blend better with the environment and enhancing stealth gameplay.  
+   [Optical Camo Realism on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4463)
+
+6. **Optical Camo Realism and Utility - Stealthrunner Compatibility**  
+   A compatibility add-on for Optical Camo Realism, specifically designed to work seamlessly with the Stealthrunner mod for integrated stealth mechanics.  
+   [Optical Camo Realism - Stealthrunner Compatibility on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4464)
+
