@@ -1134,3 +1134,38 @@ These mods improve frame rates and optimize performance for smoother gameplay, p
    Enables DLSSG users to access FSR3.1 options, improving customization for frame generation and enabling seamless toggling between DLSS and FSR.  
    [DLSSG-to-FSR3.1 Nameplates on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4614)
 
+
+## NOVA LIGHTING
+These mods overhaul the lighting and color grading of Cyberpunk 2077, providing new atmospheric effects and enhancing the aesthetic of Night City for a more immersive experience.
+
+1. **Night City Visuals Nulled**  
+   Reduces visual noise in Night City, creating a cleaner aesthetic that enhances lighting and shadow effects.  
+   [Night City Visuals Nulled on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4615)
+
+2. **Dogtown Visuals Nulled**  
+   Applies the "Nulled" visual effects to Dogtown, giving this district a unique and refined look.  
+   [Dogtown Visuals Nulled on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4616)
+
+3. **LUT Switcher - Core**  
+   A core mod that enables users to switch between different LUT (Look-Up Table) packs, adjusting color grading for a customized appearance.  
+   [LUT Switcher Core on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4617)
+
+4. **LUT Switcher - GITS LUT Pack**  
+   Adds a "Ghost in the Shell" inspired LUT pack, altering colors to match the aesthetics of the iconic film.  
+   [GITS LUT Pack on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4618)
+
+5. **LUT Switcher - Nova LUT Pack**  
+   Adds the Nova LUT pack for customizable lighting and color grading, offering a cinematic tone for Night City.  
+   [Nova LUT Pack on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4619)
+
+6. **Nova City - Night Vision**  
+   Adds night vision effects to Nova City, improving visibility in low-light areas for a more atmospheric exploration experience.  
+   [Nova City Night Vision on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4620)
+
+7. **Nova Scanner**  
+   Enhances the scanning system with improved visuals and functionality, making it easier to identify and interact with objects in the environment.  
+   [Nova Scanner on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4621)
+
+8. **Nova City (Custom Weather - Beta)**  
+   Introduces customizable weather options in Nova City, allowing for different atmospheric effects and moods across the district.  
+   [Nova City Weather on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4622)
