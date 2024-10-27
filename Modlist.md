@@ -277,3 +277,136 @@ Enhances interactions and relationships with key NPCs, providing new dialogue op
 15. **Judy Romance Message Mod**  
     Expands Judy’s romance messages, adding detail to her storyline with custom text interactions.  
     [Judy Romance Message on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4281)
+
+
+## World Interactions
+These mods add more dynamic interactions and immersive elements to Night City, from interactive vendors and gambling to expanded locations and NPC activities.
+
+1. **Apartment Cats - Custom Cats**  
+   Allows players to customize their apartment with different cat breeds, adding a touch of personalization to the home space.  
+   [Apartment Cats - Custom Cats on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4357)
+
+2. **Apartment Cats - Corpo Plaza**  
+   Adds a pet cat to the Corpo Plaza apartment, creating a more homely and lived-in feel.  
+   [Apartment Cats - Corpo Plaza on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4356)
+
+3. **Apartment Cats - Dogtown**  
+   Introduces a pet cat to the Dogtown apartment, enhancing immersion in one of Cyberpunk’s newer areas.  
+   [Apartment Cats - Dogtown on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4355)
+
+4. **Apartment Cats - Japantown**  
+   Adds a cat companion to the Japantown apartment, providing extra life and atmosphere to the space.  
+   [Apartment Cats - Japantown on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4354)
+
+5. **Apartment Cats - Northside Motel**  
+   Introduces a pet cat to the Northside Motel, making it feel more comfortable and interactive.  
+   [Apartment Cats - Northside Motel on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4353)
+
+6. **Apartment Cats - The Glen**  
+   Adds a cat to the apartment in The Glen, enriching the environment with a lovable pet.  
+   [Apartment Cats - The Glen on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4352)
+
+7. **Dance Off**  
+   Adds a dance-off event in Night City, offering players a fun interaction and an opportunity to show off their moves.  
+   [Dance Off on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4246)
+
+8. **DLC Liberation Protocol**  
+   Expands the main story with new side missions, focusing on liberating specific areas of Night City from corporate control.  
+   [DLC Liberation Protocol on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4327)
+
+9. **Gambling Props - Poker Chips and Playing Cards**  
+   Adds props like poker chips and playing cards to the game, enhancing gambling interactions with more detailed visuals.  
+   [Gambling Props on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4309)
+
+10. **Gambling System - Roulette**  
+    Introduces a fully functional roulette game, allowing players to gamble in Night City’s casinos.  
+    [Gambling System - Roulette on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4308)
+
+11. **Here's Johnny**  
+    Adds interactive Johnny Silverhand scenes, offering more engagement with this iconic character.  
+    [Here's Johnny on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4320)
+
+12. **Idle Anywhere**  
+    Allows the player to idle anywhere, sitting down or relaxing in various locations across Night City, adding immersion.  
+    [Idle Anywhere on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4306)
+
+13. **Immersive Food Vendors**  
+    Enables immersive interactions with food vendors, allowing players to order food and drink in a more realistic manner.  
+    [Immersive Food Vendors on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4310)
+
+14. **Immersive Food Vendors - Dogtown**  
+    Extends the immersive food vendor experience to the Dogtown area, allowing for interactions with vendors in this location.  
+    [Immersive Food Vendors - Dogtown on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4311)
+
+15. **Immersive Rippers**  
+    Improves interactions with ripperdocs, making the experience more immersive and realistic with additional dialogue and actions.  
+    [Immersive Rippers on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4331)
+
+16. **Immersive Rippers - Dogtown**  
+    Extends immersive ripperdoc interactions to Dogtown, enhancing character customization and story immersion in this area.  
+    [Immersive Rippers - Dogtown on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4332)
+
+17. **Immersive Vik**  
+    Adds immersive options and dialogue to interactions with Viktor, making him a more engaging character.  
+    [Immersive Vik on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4342)
+
+18. **Kabuki Gun Range Enhanced**  
+    Expands the Kabuki Gun Range with new challenges and options for players who want to test their shooting skills.  
+    [Kabuki Gun Range Enhanced on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4339)
+
+19. **Night City Interactions - Core**  
+    Adds core interactions in various locations, enhancing immersion and encouraging players to explore Night City in new ways.  
+    [Night City Interactions - Core on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4330)
+
+20. **NCI Addon - Heywood**  
+    An addon to Night City Interactions, introducing new points of interaction in Heywood.  
+    [NCI Addon - Heywood on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4334)
+
+21. **NCI Addon - Badlands and Pacifica**  
+    Adds new interactions in the Badlands and Pacifica, expanding exploration options in these areas.  
+    [NCI Addon - Badlands and Pacifica on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4335)
+
+22. **NCI Addon - Badlands and Pacifica Beer Tweak**  
+    Introduces a new beer item in the Badlands and Pacifica areas, adding more flavor to the exploration experience.  
+    [NCI Addon - Badlands and Pacifica Beer Tweak on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4336)
+
+23. **NCI Addon - Watson**  
+    Expands Night City Interactions to include more locations and NPCs in Watson, increasing interaction variety.  
+    [NCI Addon - Watson on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4337)
+
+24. **NCI Addon - Westbrook**  
+    Adds new interaction points in Westbrook, enriching exploration and player engagement in this area.  
+    [NCI Addon - Westbrook on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4338)
+
+25. **Parking Spots Enhanced**  
+    Adds more detailed parking spots, improving the visual look and feel when players park vehicles.  
+    [Parking Spots Enhanced on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4345)
+
+26. **Roller Coaster Enhanced**  
+    Enhances the roller coaster experience in Night City, making it more interactive and visually exciting.  
+    [Roller Coaster Enhanced on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4346)
+
+27. **The Passenger**  
+    Introduces a recurring NPC with unique dialogue, creating a more dynamic atmosphere in Night City.  
+    [The Passenger on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4347)
+
+28. **QoL - Interactive Judy's Apartment Devices**  
+    Makes devices in Judy’s apartment interactive, adding more realism and player engagement within her space.  
+    [Interactive Judy's Apartment Devices on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4351)
+
+29. **Wilson's Range**  
+    Adds a range at Wilson’s shop, where players can test and hone their skills with different weapons.  
+    [Wilson's Range on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4350)
+
+30. **NIGHT CITY ALIVE (REDmod)**  
+    Brings more life to Night City with increased NPC activity, making the city feel more vibrant and immersive.  
+    [NIGHT CITY ALIVE on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4359)
+
+31. **NCPD Prevention Police Enhancement (Redmod)**  
+    Enhances police interactions, creating more believable and dynamic reactions from the NCPD during crimes.  
+    [NCPD Prevention Police Enhancement on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4360)
+
+32. **Lizzie's Braindances - Staff**  
+    Adds more staff to Lizzie’s Braindance club, enhancing its atmosphere and making it feel like a popular Night City hangout.  
+    [Lizzie's Braindances - Staff on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4358)
+
