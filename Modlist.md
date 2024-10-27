@@ -961,3 +961,23 @@ This section addresses various bugs and inconsistencies in Cyberpunk 2077, provi
 33. **Arasaka 2023 Logo Fix**  
     Fixes issues with the Arasaka Logo, enhancing its visual consistency.  
    [Arasaka 2023 Logo Fix on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4572)
+
+
+## Textures
+This section includes high-quality texture mods that enhance the visuals of various objects and environments in Cyberpunk 2077, providing a more detailed and immersive world.
+
+1. **Classic Cigarettes HD**  
+   Replaces in-game cigarette textures with high-resolution versions, adding more detail to these small but frequently seen items.  
+   [Classic Cigarettes HD on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4575)
+
+2. **High-Res Vending Machines 2K**  
+   Upgrades the textures on vending machines to 2K resolution, making these common objects look sharper and more detailed.  
+   [High-Res Vending Machines on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4576)
+
+3. **HQ Fast Food**  
+   Improves textures for fast food items found throughout the game, adding realism to the food and drink items in Night City.  
+   [HQ Fast Food on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4577)
+
+4. **All Advert - Classic Drinks**  
+   Updates classic drink advertisements with high-quality textures, enhancing the visual appeal of in-game advertisements.  
+   [Classic Drinks Adverts on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4578)
