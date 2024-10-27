@@ -215,3 +215,65 @@ Adds new quests, storyline expansions, and narrative-driven experiences to enric
    A continuation quest that revisits past characters and choices, allowing players to engage with a narrative extension of previous events.  
    [Encore on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4236)
 
+## NPC Interactions
+Enhances interactions and relationships with key NPCs, providing new dialogue options, hangouts, and additional scenes that add depth to character connections.
+
+1. **Flaming Crotch Man Romanced**  
+   Adds romance interactions with the Flaming Crotch Man NPC, offering humorous and unique dialogue options.  
+   [Flaming Crotch Man Romanced on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4251)
+
+2. **Judy Romanced Enhanced**  
+   Expands the romance storyline with Judy Alvarez, adding new scenes, dialogue, and choices that enrich her character arc.  
+   [Judy Romanced Enhanced on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4260)
+
+3. **Kerry Interactions Enhanced**  
+   Improves interactions with Kerry Eurodyne, adding additional romance options and dialogue paths.  
+   [Kerry Interactions Enhanced on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4233)
+
+4. **I Really Want To Stay At Your House - Judy**  
+   Adds the song "I Really Want To Stay At Your House" as an emotional underscore to certain interactions with Judy, enhancing atmosphere.  
+   [I Really Want To Stay At Your House - Judy on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4287)
+
+5. **I Really Want To Stay At Your House - Kerry**  
+   Plays "I Really Want To Stay At Your House" during scenes with Kerry, adding an emotional layer to interactions with him.  
+   [I Really Want To Stay At Your House - Kerry on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4288)
+
+6. **I Really Want To Stay At Your House - Panam**  
+   Adds "I Really Want To Stay At Your House" to specific scenes with Panam, enhancing the romantic connection.  
+   [I Really Want To Stay At Your House - Panam on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4289)
+
+7. **I Really Want To Stay At Your House - River**  
+   Features the song "I Really Want To Stay At Your House" during moments with River, adding a deeper emotional impact.  
+   [I Really Want To Stay At Your House - River on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4290)
+
+8. **Panam Romanced Enhanced**  
+   Expands the romance with Panam Palmer, offering new conversations, interactions, and cutscenes for a richer relationship experience.  
+   [Panam Romanced Enhanced on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4247)
+
+9. **Pet Your Cat**  
+   Allows players to pet a cat in the game, adding a small but endearing interaction with an animal NPC.  
+   [Pet Your Cat on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4265)
+
+10. **Rita Wheeler Romanced**  
+    Adds romance options with Rita Wheeler, giving players more romantic choices in Night City.  
+    [Rita Wheeler Romanced on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4266)
+
+11. **River Romanced Enhanced**  
+    Expands the relationship with River Ward, adding more dialogue and hangout scenes to deepen the connection.  
+    [River Romanced Enhanced on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4252)
+
+12. **Romance Hangouts Enhanced**  
+    Adds new hangout options with various NPCs, making relationships in Night City feel more genuine and engaging.  
+    [Romance Hangouts Enhanced on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4249)
+
+13. **Aurore Romanced (Lady Marmalade)**  
+    Introduces a romance path with Aurore, featuring unique interactions and narrative choices.  
+    [Aurore Romanced on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4271)
+
+14. **Panam Romance Message Mod**  
+    Adds custom messages to the Panam romance storyline, adding depth to player interactions.  
+    [Panam Romance Message on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4282)
+
+15. **Judy Romance Message Mod**  
+    Expands Judy’s romance messages, adding detail to her storyline with custom text interactions.  
+    [Judy Romance Message on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4281)
