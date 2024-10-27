@@ -410,3 +410,96 @@ These mods add more dynamic interactions and immersive elements to Night City, f
     Adds more staff to Lizzie’s Braindance club, enhancing its atmosphere and making it feel like a popular Night City hangout.  
     [Lizzie's Braindances - Staff on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4358)
 
+
+## Vehicles and Driving
+This section enhances the driving experience, providing better control, visual improvements, and customization options for a more immersive journey across Night City.
+
+1. **Authentic Shift (QoL Gear Ratios Shifts Audio Sound ASMR and OPTIONAL Tuning System)**  
+   Improves the authenticity of driving with realistic gear ratios, sound adjustments, and optional tuning features for a more immersive experience.  
+   [Authentic Shift on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4390)
+
+2. **Delamain No. 22**  
+   Adds a new vehicle option from Delamain with unique features, expanding the choices for player-owned vehicles.  
+   [Delamain No. 22 on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4385)
+
+3. **No Camera Auto Centering**  
+   Disables the automatic centering of the camera while driving, allowing players to control the camera manually for a more consistent view.  
+   [No Camera Auto Centering on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4367)
+
+4. **Virtual Car Dealer**  
+   Adds a car dealership where players can purchase a variety of vehicles, enhancing immersion and customization options.  
+   [Virtual Car Dealer on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4368)
+
+5. **Virtual Car Dealer - Browser Extension**  
+   Provides a browser-based extension to view and manage vehicles in the car dealership mod, making it easier to explore available options.  
+   [Virtual Car Dealer - Browser Extension on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4369)
+
+6. **Vehicle Pack - Basic Pack 1**  
+   Introduces a pack of additional vehicles for more variety and customization.  
+   [Vehicle Pack - Basic Pack 1 on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4370)
+
+7. **Vehicle Pack - Basic Pack 2**  
+   Expands on the vehicle pack with additional unique options, providing even more choices for players.  
+   [Vehicle Pack - Basic Pack 2 on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4371)
+
+8. **Vehicle Pack - Corpo**  
+   Adds corporate-themed vehicles to match a more professional or militarized aesthetic.  
+   [Vehicle Pack - Corpo on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4372)
+
+9. **Vehicle Pack - Gangs**  
+   Includes gang-themed vehicles that align with the styles of Night City's various factions.  
+   [Vehicle Pack - Gangs on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4373)
+
+10. **Vehicle Summon Tweaks - Repair Cost**  
+    Adds a repair cost mechanic when summoning vehicles, enhancing realism by simulating vehicle wear and tear.  
+    [Vehicle Summon Tweaks - Repair Cost on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4383)
+
+11. **Vehicle Summon Tweaks - Dismiss**  
+    Allows players to dismiss summoned vehicles, improving convenience and providing better control over vehicle management.  
+    [Vehicle Summon Tweaks - Dismiss on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4384)
+
+12. **Bike Overhaul - Redmod**  
+    Overhauls bike handling and control for a smoother and more realistic riding experience.  
+    [Bike Overhaul - Redmod on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4380)
+
+13. **Cyber Drift**  
+    Enhances drifting mechanics for cars, allowing players to perform smoother and more dramatic drifts while driving.  
+    [Cyber Drift on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4378)
+
+14. **Dynamic Downforce**  
+    Adjusts vehicle downforce dynamically based on speed, improving handling and realism at high speeds.  
+    [Dynamic Downforce on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4379)
+
+15. **Dynamic Gravity Modifier**  
+    Modifies gravity dynamically based on vehicle type, enhancing the feel and control of various vehicle classes.  
+    [Dynamic Gravity Modifier on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4376)
+
+16. **Nulled Angle Correction**  
+    Corrects the angle for a more natural and controlled driving experience, especially in first-person view.  
+    [Nulled Angle Correction on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4381)
+
+17. **Gripped Up - Main**  
+    Increases the grip of vehicles, making them more stable and less prone to sliding on sharp turns.  
+    [Gripped Up on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4377)
+
+18. **Better Vehicle First Person**  
+    Improves the first-person driving experience with better visibility and control.  
+    [Better Vehicle First Person on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4364)
+
+19. **Presets for Better Vehicle First Person**  
+    Adds customizable presets to the Better Vehicle First Person mod, allowing users to adjust camera position and view.  
+    [Presets for Better Vehicle First Person on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4365)
+
+20. **Immersive FPP Bike Cam**  
+    Enhances the first-person view for bikes, providing a more realistic and immersive riding experience.  
+    [Immersive FPP Bike Cam on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4366)
+
+21. **DFPCT - Buckle Up Edition - Tiltfix**  
+    Fixes the tilt issue on vehicles, making driving smoother and more natural, especially in cinematic scenes.  
+    [DFPCT - Buckle Up Edition on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4382)
+
+22. **Auto On Neon Rims and Custom Colors**  
+    Automatically activates neon rims on vehicles with customizable color options, adding a sleek aesthetic to Night City's streets.  
+    [Auto On Neon Rims on NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/4375)
+
+
