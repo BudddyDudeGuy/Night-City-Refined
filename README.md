@@ -7,7 +7,7 @@
   - [Pre-Installation](#pre-installation)
   - [Wabbajack Installation](#wabbajack-installation)
     - [Installing Wabbajack](#installing-wabbajack)
-    - [Downloading and Installing Modlist](#downloading-and-installing-apostasy)
+    - [Downloading and Installing Modlist](#downloading-and-installing-modlist)
   - [Problems with Installation](#problems-with-installation)
     - [Problematic Files](#problematic-files)
 - [Post-Installation and Optional Setup](#post-installation-and-optional-setup)
@@ -45,7 +45,7 @@ Before starting the installation, complete the following steps to ensure a smoot
 
 ### Wabbajack Installation
 
-#### Installing Wabbjack
+#### Installing Wabbajack
 
 Once you have completed the pre-installation section, follow these steps to install Wabbajack:
 
