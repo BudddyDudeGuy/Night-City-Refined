@@ -36,11 +36,11 @@ Welcome to the Cyberpunk 2077 Enhanced Modlist! This collection of mods is metic
 
 Beyond gameplay, this modlist also brings substantial improvements to visuals and performance. Through carefully selected graphic and optimization mods, Night City becomes more visually stunning and immersive while improving performance and gameplay stability. Each mod is chosen to make Cyberpunk 2077’s world more cohesive, challenging, and true to its dystopian roots.
 
-Please take the time go through this README in its entirety, it goes over everything related to setup for mod organizer and Cyberpunk
+:exclamation::exclamation: Please take the time go through this README in its entirety, it goes over everything related to setup for mod organizer and Cyberpunk
 
-*For a full list of mods and a brief descriptions of each, visit the [Mod_list.md](./Mod_list.md).*
+:bulb:*For a full list of mods and a brief descriptions of each, visit the [Mod_list.md](./Mod_list.md).*
 
-*Also if you want to see which mods really have an imapct on the gameplay loops, balancing and other key parts of the game you can visit the [GAMEPLAY.md](./GAMEPLAY.md)*
+:bulb:*Also if you want to see which mods really have an imapct on the gameplay loops, balancing and other key parts of the game you can visit the [GAMEPLAY.md](./GAMEPLAY.md)*
 
 ## INSTALLATION
 
@@ -48,9 +48,7 @@ Follow the steps below to successfully install the modlist and prepare your game
 
 ### Pre-Installation
 
-	MAKE SURE TO HAVE REDMOD INSTALLED,IF YOU ARE ON STEAM. YOU CAN DO SO BY GOING ON THE DLC PAGE FOR CYBERPUNK 2077 AND CAN DOWNLOAD IT FROM THERE. ITS THE SAME FOR OTHER CLIENTS AS WELL.
-
-Before starting the installation, complete the following steps to ensure a smooth setup process
+	:hand: MAKE SURE TO HAVE REDMOD INSTALLED,IF YOU ARE ON STEAM. YOU CAN DO SO BY GOING ON THE DLC PAGE FOR CYBERPUNK 2077 AND CAN DOWNLOAD IT FROM THERE. ITS THE SAME FOR OTHER CLIENTS AS WELL.
 
 1. **Clean Install**: Start with a fresh installation of Cyberpunk 2077, especially if you’ve previously installed mods. This reduces the risk of conflicts or leftover files affecting your modlist
 
@@ -60,7 +58,7 @@ Before starting the installation, complete the following steps to ensure a smoot
 
 3. In "AppData" folder go to "Local," and in this folder delete the "CD Projekt Red" and "Red Engine" folders to ensure there are no errors with the cached config files
 
-(inset Image)
+(insert Image)
 
 ### For Previoulsy Modded Game
 
@@ -77,7 +75,7 @@ Before starting the installation, complete the following steps to ensure a smoot
 
 #### Installing Wabbajack
 
-	Once you have completed the pre-installation section, follow these steps to install Wabbajack:
+	Once you have completed the pre-installation section, follow these steps to install Wabbajack
 
 1. Create an empty folder named Wabbajack on the root of your drive, such as C:\Wabbajack for example.
   > - **DO NOT** place it in Program Files, User folders (such as Desktop, Documents, Downloads, OneDrive, etc.), in your Syberpunk 2077's steam, gog, epic or in any folders related to the modlist itself (the downloads or install folder)
@@ -88,7 +86,7 @@ Before starting the installation, complete the following steps to ensure a smoot
 	
 #### Downloading and Installing Modlist
 
-	Downloading and installing the modlist can take a while depending on your internet connection, PC specs, and if you have Nexus Premium. Without Premium, you will need to manually click the Slow Download button for each mod.
+	:hand: Downloading and installing the modlist can take a while depending on your internet connection, PC specs, and if you have Nexus Premium. Without Premium, you will need to manually click the Slow Download button for each mod.
 
 To install the modlist, complete the following steps:
 
