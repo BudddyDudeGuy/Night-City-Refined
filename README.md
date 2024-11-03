@@ -109,9 +109,10 @@ My Graphics Settings I have a RTX 4070 ti super and ryzen 7 7700x
 (insert image)
 
 
-After your done adjusting graphics, activate the overlay using your assigned key Look for the ULTRA PLUS header in the Overlay click the arrow and expand the window. There will be raytracing and texture settings boxes you can tick You can tick these boxes based on your pc hardware. If you dont have ray tracing or path tracing enabled in your base game graphics settings.**⚠️ DO NOT ENABLE THEM IN THE ULTRA PLUS WINDOWS OR THE GAME WILL BREAK WHEN RELAUNCHING. DO NOT TICK ANY OF THE BOXES UNDER THE GAME SETTINGS TITLE ⚠️**.  While in the overlay look for nova city weather beat and untick two boxes in the miscleanues header. this is what it should like 
+After your done adjusting graphics, activate the overlay using your assigned key Look for the ULTRA PLUS header in the Overlay click the arrow and expand the window. There will be raytracing and texture settings boxes you can tick You can tick these boxes based on your pc hardware. If you dont have ray tracing or path tracing enabled in your base game graphics settings.<p style="color: red; font-weight: bold;">
+DO NOT ENABLE THEM IN THE ULTRA PLUS WINDOWS OR THE GAME WILL BREAK WHEN RELAUNCHING.DO NOT TICK ANY OF THE BOXES UNDER THE GAME SETTINGS TITLE</p>.  While in the overlay look for nova city weather beat and untick two boxes in the miscleanues header. this is what it should like 
 
-(insert Image)
+(insert Image)i 
 
 ## FOR BETTER CONTRLLER AIMING
 
