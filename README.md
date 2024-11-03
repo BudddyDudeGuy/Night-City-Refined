@@ -1,6 +1,6 @@
 # Cyberpunk_2077-Modlist
 
-## Contents
+## CONTENTS
 - [Introduction](#introduction)
   - [System Requirements](#system-requirements)
 - [Installation](#installation)
@@ -27,7 +27,7 @@
 
 
 
-## Introduction
+## INTRODUCTION
 <img src="Images/intro%20pic.jpg" alt="Cyberpunk_2077-Modlist" style="width:100%; height:300px; object-fit:cover;">
 
 
@@ -39,11 +39,13 @@ For a full list of mods and a brief descriptions of each, visit the [Mod_list.md
 
 Also if you want to see which mods really have an imapct on the gameplay loops, balancing and other key parts of the game you can visit the [GAMEPLAY.md](./GAMEPLAY.md)
 
-## Installation
+## INSTALLATION
 
 Follow the steps below to successfully install the modlist and prepare your game for an enhanced Cyberpunk 2077 experience.
 
 ### Pre-Installation
+
+MAKE SURE TO HAVE REDMOD INSTALLED,IF YOU ARE ON STEAM. YOU CAN DO SO BY GOING ON THE DLC PAGE FOR CYBERPUNK 2077 AND CAN DOWNLOAD IT FROM THERE. ITS THE SAME FOR OTHER CLIENTS AS WELL.
 
 Before starting the installation, complete the following steps to ensure a smooth setup process:
 
@@ -57,7 +59,7 @@ Before starting the installation, complete the following steps to ensure a smoot
 
 (inset Image)
 
-## If Game Was Modded Before
+### For Previoulsy Modded Game
 
 1. Go to your main Cyberpunk 2077 directory and delete the bin, engine, r6, red4ext folders
 (insert image)
@@ -70,47 +72,43 @@ Before starting the installation, complete the following steps to ensure a smoot
 
 ### Wabbajack Installation
 
-#### Installing Wabbajack
+	#### Installing Wabbajack
 
-Once you have completed the pre-installation section, follow these steps to install Wabbajack:
+	Once you have completed the pre-installation section, follow these steps to install Wabbajack:
 
-1. Create an empty folder named Wabbajack on the root of your drive, such as C:\Wabbajack for example.
-  > - **DO NOT** place it in Program Files, User folders (such as Desktop, Documents, Downloads, OneDrive, etc.), in your Syberpunk 2077's steam, gog, epic or in any folders related to the modlist itself (the downloads or install folder).
+	1. Create an empty folder named Wabbajack on the root of your drive, such as C:\Wabbajack for example.
+  	> - **DO NOT** place it in Program Files, User folders (such as Desktop, Documents, Downloads, OneDrive, etc.), in your Syberpunk 2077's steam, gog, epic or in any folders related to the modlist itself (the downloads or install folder).
 
-2. **Download Wabbajack**: Download the latest version of Wabbajack from [Wabbajack’s official website](https://www.wabbajack.org/).
-3. **Install Wabbajack**: Follow the installation instructions on Wabbajack’s website to set it up. Make sure to place the Wabbajack.exe file inside the folder from step 1.
+	2. **Download Wabbajack**: Download the latest version of Wabbajack from [Wabbajack’s official website](https://www.wabbajack.org/).
+	3. **Install Wabbajack**: Follow the installation instructions on Wabbajack’s website to set it up. Make sure to place the Wabbajack.exe file inside the folder from step 1.
+	
+	#### Downloading and Installing Modlist
 
-#### Downloading and Installing Modlist
+	Downloading and installing the modlist can take a while depending on your internet connection, PC specs, and if you have Nexus Premium. Without Premium, you will need to manually click the Slow Download button for each mod.
 
-Downloading and installing the modlist can take a while depending on your internet connection, PC specs, and if you have Nexus Premium. Without Premium, you will need to manually click the Slow Download button for each mod.
+	To install the modlist, complete the following steps:
 
-To install the modlist, complete the following steps:
-
-1. Open Wabbajack and click the gear icon in the top right
+	1. Open Wabbajack and click the gear icon in the top right
    
-2. Click the login button for nexus to link your account to nexus so all the mods may be downloaded
+	2. Click the login button for nexus to link your account to nexus so all the mods may be downloaded
 
-3. Select install from disk and set the target modlist path to my modlist file (insert name)
+	3. Select install from disk and set the target modlist path to my modlist file (insert name)
 
-4. Set the Modlist Installation Location to a folder such as C:\Modlist. It can be placed anywhere you please
+	4. Set the Modlist Installation Location to a folder such as C:\Modlist. It can be placed anywhere you please
 > - **DO NOT** place it in Program Files, User folders (such as Desktop, Documents, Downloads, OneDrive, etc.), or in your games steam, epic or gog folder
 
-4. Set the download path where you please I recomend leaving the downloads location in a downloads folders in the same spot as the install location.
+	5. Set the download path where you please I recomend setting the path for the downloads folders in the same spot as the install location.
 
-6. Press the play arrow to begin the download and install.
+	6. Press the play arrow to begin the download and install.
 
 
-## Updating the Modlist
+### Post Installation:
 
-Updating is like installing the list. Go on wabbajack and make sure your paths are the same and tick the overwrite installation button. Please keep in mind any mods you have added will be deleted when updating. To make sure that Wabbajack does not delete your added mods upon updating, prefix your mods with [NoDelete].
-
-## Post Installation:
-
-1. Open your mod list folder and run mod_organizer.exe
+1. Open your mod list folder and run "ModOrganizer.exe"
 
 2. Once mod organizer is open, in the upper right of Mod organizer 2 you will see a dropdown, select "REDprelauncher"
 
-4. Once REDlauncher is open click the gear icon beside play and click enable mods
+4. Once "REDprelauncher" is open click the gear icon beside play and click enable mods
 
 5. You may now close REDlauncher and select "Cyberpunk 2077" from the drop down and the game will now run
 
@@ -128,17 +126,20 @@ My Graphics Settings I have a RTX 4070 ti super and ryzen 7 7700x
 
 After your done adjusting graphics, activate the overlay using your assigned key Look for the ULTRA + header in the Overlay click the arrow and expand the window. There will be raytracing and texture settings boxes you can tick You can tick these boxes based on your pc hardware. If you dont have ray tracing or path tracing enabled in your base game graphics settings.**⚠️ DO NOT ENABLE THEM IN THE ULTRA PLUS WINDOWS OR THE GAME WILL BREAK WHEN RELAUNCHING. DO NOT TICK ANY OF THE BOXES UNDER THE GAME SETTINGS TITLE ⚠️**. While in the overlay look for nova city weather beat and untick two boxes: weather notification and and notification pop up. this is what it should like. 
 
-(insert Image)i 
+(insert Image)
+
 
 ## FOR BETTER CONTROLLER AIMING
-
 if you play on gamepad and dont want the game to be mega easy copy these setting below for tthe controller. Two other testers and myself have tested these contrliier configuration's thoroughly over hudnreds of hours of game time this give gave best feeling for gameplay keeping it somewhat challengining.
 
 
 (insert controller setting image)
 
-## Removing the Modlist
 
+## Updating the Modlist
+Updating is like installing the list. Go on wabbajack and make sure your paths are the same and tick the overwrite installation button. Please keep in mind any mods you have added will be deleted when updating. To make sure that Wabbajack does not delete your added mods upon updating, prefix your mods with [NoDelete].
+
+## Removing the Modlist
 Just go to wherever your modlist is installed and delete the entire modlist folder.
 
 
