@@ -46,23 +46,23 @@ Before starting the installation, complete the following steps to ensure a smoot
 
 1.**Clean Install**: Start with a fresh installation of Cyberpunk 2077, especially if you’ve previously installed mods. This reduces the risk of conflicts or leftover files affecting your modlist.
 
-2. to do this head to your "appdata" folder by searching in the windows searchbar and typing %appdata%
+2.to do this head to your "appdata" folder by searching in the windows searchbar and typing %appdata%
 
 (insert Image)
 
-3..In "AppData" folder go to "Local," and in this folder delete the "CD Projekt Red" and "Red Engine" folders to ensure there are no errors with the cached config files
+3.In "AppData" folder go to "Local," and in this folder delete the "CD Projekt Red" and "Red Engine" folders to ensure there are no errors with the cached config files
 
 (inset Image)
 
-4.. Go to your main Cyberpunk 2077 directory and delete the all folders except for "archive"
+4.Go to your main Cyberpunk 2077 directory and delete the all folders except for "archive"
 
 (insert image)
 
-5. Additionally delete the "mod" folder in "Cyberpunk 2077/archive/pc/"
+5.Additionally delete the "mod" folder in "Cyberpunk 2077/archive/pc/"
 
 (Insert Image)
 
-6. **Verify Game Files**: Use your game launcher (Steam, GOG, etc.) to verify game files before proceeding. This ensures that all core files are intact and compatible with the modlist.
+6.**Verify Game Files**: Use your game launcher (Steam, GOG, etc.) to verify game files before proceeding. This ensures that all core files are intact and compatible with the modlist.
 
 ### Wabbajack Installation
 
