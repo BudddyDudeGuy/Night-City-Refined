@@ -2,27 +2,28 @@
 
 ## CONTENTS
 - [Introduction](#introduction)
-  - [System Requirements](#system-requirements)
+  <!-- - [System Requirements](#system-requirements) -->
 - [Installation](#installation)
   - [Pre-Installation](#pre-installation)
   - [Wabbajack Installation](#wabbajack-installation)
     - [Installing Wabbajack](#installing-wabbajack)
     - [Downloading and Installing Modlist](#downloading-and-installing-modlist)
-  - [Problems with Installation](#problems-with-installation)
-    - [Problematic Files](#problematic-files)
-- [Post-Installation and Optional Setup](#post-installation-and-optional-setup)
-  - [Game Folder](#game-folder)
-  - [Post-Installation Issues and Troubleshooting](#post-installation-issues-and-troubleshooting)
+  <!-- - [Problems with Installation](#problems-with-installation) -->
+    <!-- - [Problematic Files](#problematic-files)-->
+- [Post-Installation](#post-installation)
+  - [First Time Game Startup](#first-time-game-startup)
+  <!-- - [Post-Installation Issues and Troubleshooting](#post-installation-issues-and-troubleshooting)-->
 
-- [Gameplay](#gameplay)
-- [FAQ](#FAQ)
-
-- [Playing the List](#playing-the-list)
-- [Starting the Game](#starting-the-game)
 - [Updating the Modlist](#updating-the-modlist)
 - [Removing the Modlist](#removing-the-modlist)
-- [Issues](#issues)
-- [Credits and Thanks](#credits-and-thanks)
+
+<!-- - [Gameplay](#gameplay)
+!- [FAQ](#FAQ)
+
+!- [Playing the List](#playing-the-list)
+!- [Starting the Game](#starting-the-game)
+!- [Issues](#issues) 
+- [Credits and Thanks](#credits-and-thanks) --> 
 
 
 
@@ -76,7 +77,7 @@ Before starting the installation, complete the following steps to ensure a smoot
 
 #### Installing Wabbajack
 
-Once you have completed the pre-installation section, follow these steps to install Wabbajack:
+	Once you have completed the pre-installation section, follow these steps to install Wabbajack:
 
 1. Create an empty folder named Wabbajack on the root of your drive, such as C:\Wabbajack for example.
   > - **DO NOT** place it in Program Files, User folders (such as Desktop, Documents, Downloads, OneDrive, etc.), in your Syberpunk 2077's steam, gog, epic or in any folders related to the modlist itself (the downloads or install folder).
@@ -87,7 +88,7 @@ Once you have completed the pre-installation section, follow these steps to inst
 	
 #### Downloading and Installing Modlist
 
-Downloading and installing the modlist can take a while depending on your internet connection, PC specs, and if you have Nexus Premium. Without Premium, you will need to manually click the Slow Download button for each mod.
+	Downloading and installing the modlist can take a while depending on your internet connection, PC specs, and if you have Nexus Premium. Without Premium, you will need to manually click the Slow Download button for each mod.
 
 To install the modlist, complete the following steps:
 
@@ -103,44 +104,54 @@ To install the modlist, complete the following steps:
 6. Press the play arrow to begin the download and install.
 
 
-### Post Installation:
+### Post-Installation
 
 1. Open your mod list folder and run "ModOrganizer.exe"
 
-2. Once mod organizer is open, in the upper right of Mod organizer 2 you will see a dropdown, select "REDprelauncher"
+2. Once mod organizer is open, in the upper right of Mod organizer 2 you will see a dropdown menu beside the "RUN" button, select "REDprelauncher" and click the "RUN" button
 
-4. Once "REDprelauncher" is open click the gear icon beside play and click enable mods
+3. Once "REDprelauncher" is open click the gear icon beside "Play" and click enable mods
 
-5. You may now close REDlauncher and select "Cyberpunk 2077" from the drop down and the game will now run
+4. You may now close REDlauncher and select "Cyberpunk 2077" from the drop down and click "RUN"
 
-5. After following the preinstallation steps properly, launch the game and a prompt should appear that looks like this
 
-(insert image)
+#### First Time Game Startup
+	After following the preinstallation steps properly, launch the game and a prompt should appear that looks like this
+	(insert image)
 
-Assign your keybind to the CET overaly. This button will be used to activate the CET overlay menu. CET overlay menu is used for changing lighting and adjusting other mods and accessing the console command for the game. After this open your in game settings and adjust the graphics to your settings I recommend taking a look at this mod page (insert link) to thoroughly adjust your graphics settings. Or if you have an RTX 4070 card or above copy my settings. 
+1. You will be prompted to assign a keybind to the CET overaly 
+	*This button will be used to activate the CET overlay menu. CET overlay menu is used for changing lighting and adjusting other mods and accessing the console command for the game* 
+
+2. Close the CET overlay, open your in game settings and adjust the graphics to your liking
+	 
+3. After your done adjusting graphics, activate the overlay using the key you assigned earlier
+
+4. Look for the "ULTRA+" header in the Overlay, click the arrow and expand the window. There will be raytracing and texture settings boxes you can tick. Tick these boxes based on your graphics settings and hardware 
+*If you dont have ray tracing or path tracing enabled in your base game graphics settings.**⚠️ DO NOT ENABLE THEM IN THE ULTRA PLUS WINDOWS OR THE GAME WILL BREAK WHEN RELAUNCHING. DO NOT TICK ANY OF THE BOXES UNDER THE GAME SETTINGS TITLE ⚠️***
+
+5.While in the overlay look for the header "nova city weather", click the misc tab, scroll down and untick two boxes: weather "Weather Notification" & "Warning Message" 
+
+(insert Image)
+
+
+## Updating the Modlist
+Updating is like installing the list. Go on wabbajack and make sure your paths are the same and tick the overwrite installation button. Please keep in mind any mods you have added will be deleted when updating. To make sure that Wabbajack does not delete your added mods upon updating, prefix your mods in MO2 with [NoDelete]
+
+## Removing the Modlist
+Just go to wherever your modlist is installed and delete the entire modlist folder. You may also delete the download folder
+
+
+
+
+## FOR BETTER CONTROLLER AIMING
+if you play on gamepad and dont want the game to be mega easy copy these setting below for tthe controller. Two other testers and myself have tested these contrliier configuration's thoroughly over hudnreds of hours of game time this give gave best feeling for gameplay keeping it somewhat challengining
+(insert controller setting image)
+
+*I recommend taking a look at this mod page (insert link) to thoroughly adjust your graphics settings. Or if you have an RTX 4070 card or above copy my settings. 
 
 
 My Graphics Settings I have a RTX 4070 ti super and ryzen 7 7700x 
 
 (insert image)
-
-
-After your done adjusting graphics, activate the overlay using your assigned key Look for the ULTRA + header in the Overlay click the arrow and expand the window. There will be raytracing and texture settings boxes you can tick You can tick these boxes based on your pc hardware. If you dont have ray tracing or path tracing enabled in your base game graphics settings.**⚠️ DO NOT ENABLE THEM IN THE ULTRA PLUS WINDOWS OR THE GAME WILL BREAK WHEN RELAUNCHING. DO NOT TICK ANY OF THE BOXES UNDER THE GAME SETTINGS TITLE ⚠️**. While in the overlay look for nova city weather beat and untick two boxes: weather notification and and notification pop up. this is what it should like. 
-
-(insert Image)
-
-
-## FOR BETTER CONTROLLER AIMING
-if you play on gamepad and dont want the game to be mega easy copy these setting below for tthe controller. Two other testers and myself have tested these contrliier configuration's thoroughly over hudnreds of hours of game time this give gave best feeling for gameplay keeping it somewhat challengining.
-
-
-(insert controller setting image)
-
-
-## Updating the Modlist
-Updating is like installing the list. Go on wabbajack and make sure your paths are the same and tick the overwrite installation button. Please keep in mind any mods you have added will be deleted when updating. To make sure that Wabbajack does not delete your added mods upon updating, prefix your mods with [NoDelete].
-
-## Removing the Modlist
-Just go to wherever your modlist is installed and delete the entire modlist folder.
 
 
