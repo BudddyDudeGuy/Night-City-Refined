@@ -44,10 +44,6 @@ Follow the steps below to successfully install the modlist and prepare your game
 
 Before starting the installation, complete the following steps to ensure a smooth setup process:
 
-1. **Disable Cloud Saves**: Disabling cloud saves helps prevent conflicts or accidental overwrites. This is recommended for a stable modding experience.
-2. **Clean Install**: Start with a fresh installation of Cyberpunk 2077, especially if you’ve previously installed mods. This reduces the risk of conflicts or leftover files affecting your modlist.
-3. **Verify Game Files**: Use your game launcher (Steam, GOG, etc.) to verify game files before proceeding. This ensures that all core files are intact and compatible with the modlist.
-
 1.**Clean Install**: Start with a fresh installation of Cyberpunk 2077, especially if you’ve previously installed mods. This reduces the risk of conflicts or leftover files affecting your modlist.
 
 2. to do this head to your "appdata" folder by searching in the windows searchbar and typing %appdata%
