@@ -99,3 +99,29 @@ Updating is like installing the list. Go on wabbajack and make sure your paths a
 
 Just go to wherever your modlist is installed and delete the entire modlist folder.
 
+## Post Installation:
+
+After following the preinstallation steps properly launch the game and a prompt should appear that looks like this
+
+(insert image)
+
+Assign your keybind to the CET overaly. This button will be used to activate the CET overlay menu. CET overlay menu is used for changing lighting and adjusting other mods and accessing the console command for the game. After this open your in game settings and adjust the graphics to your settings I recommend taking a look at this mod page (insert link) to thoroughly adjust your graphics settings. Or if you have an RTX 4070 card or above copy my settings. 
+
+
+My Graphics Settings I have a RTX 4070 ti super and ryzen 7 7700x 
+
+(insert image)
+
+
+After your done adjusting graphics, activate the overlay using your assigned key Look for the ULTRA PLUS header in the Overlay click the arrow and expand the window. There will be raytracing and texture settings boxes you can tick You can tick these boxes based on your pc hardware. If you dont have ray tracing or path tracing enabled in your base game graphics settings DO NOT ENABLE THEM IN THE ULTRA PLUS WINDOWS OR THE GAME WILL BREAK WHEN RELAUNCHING. DO NOT TICK ANY OF BOXES UNDER THE GAME SETTINGS TITLE.  While in the overlay look for nova city weather beat and untick two boxes in the miscleanues header. this is what it should like 
+
+(insert Image)
+
+FOR BETTER CONTRLLER AIMING
+
+if you play on gamepad and dont want the game to be mega easy copy these setting below for tthe controller. Two other testers and myself have tested these contrliier configuration's thoroughly over hudnreds of hours of game time this give gave best feeling for gameplay keeping it somewhat challengining.
+
+
+(insert controller setting image)
+
+
