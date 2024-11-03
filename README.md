@@ -119,7 +119,7 @@ To install the modlist, complete the following steps:
 	After following the preinstallation steps properly, launch the game and a prompt should appear that looks like this
 	(insert image)
 
-1. You will be prompted to assign a keybind to the CET overaly 
+1. You will be prompted to assign a keybind to the CET overaly<br>
 	*This button will be used to activate the CET overlay menu. CET overlay menu is used for changing lighting and adjusting other mods and accessing the console command for the game* 
 
 2. Close the CET overlay, open your in game settings and adjust the graphics to your liking
@@ -129,7 +129,7 @@ To install the modlist, complete the following steps:
 4. Look for the "ULTRA+" header in the Overlay, click the arrow and expand the window. There will be raytracing and texture settings boxes you can tick. Tick these boxes based on your graphics settings and hardware 
 *If you dont have ray tracing or path tracing enabled in your base game graphics settings.**⚠️ DO NOT ENABLE THEM IN THE ULTRA PLUS WINDOWS OR THE GAME WILL BREAK WHEN RELAUNCHING. DO NOT TICK ANY OF THE BOXES UNDER THE GAME SETTINGS TITLE ⚠️***
 
-5.While in the overlay look for the header "nova city weather", click the misc tab, scroll down and untick two boxes: weather "Weather Notification" & "Warning Message" 
+5. While in the overlay look for the header "nova city weather", click the misc tab, scroll down and untick two boxes: weather "Weather Notification" & "Warning Message" 
 
 (insert Image)
 
