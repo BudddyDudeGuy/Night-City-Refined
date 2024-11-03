@@ -38,21 +38,21 @@ Beyond gameplay, this modlist also brings substantial improvements to visuals an
 
 Please take the time go through this README in its entirety, it goes over everything related to setup for mod organizer and Cyberpunk
 
-	For a full list of mods and a brief descriptions of each, visit the [Mod_list.md](./Mod_list.md).
+*For a full list of mods and a brief descriptions of each, visit the [Mod_list.md](./Mod_list.md).*
 
-	Also if you want to see which mods really have an imapct on the gameplay loops, balancing and other key parts of the game you can visit the [GAMEPLAY.md](./GAMEPLAY.md)
+*Also if you want to see which mods really have an imapct on the gameplay loops, balancing and other key parts of the game you can visit the [GAMEPLAY.md](./GAMEPLAY.md)*
 
 ## INSTALLATION
 
-Follow the steps below to successfully install the modlist and prepare your game for an enhanced Cyberpunk 2077 experience.
+Follow the steps below to successfully install the modlist and prepare your game for an enhanced Cyberpunk 2077 experience
 
 ### Pre-Installation
 
 	MAKE SURE TO HAVE REDMOD INSTALLED,IF YOU ARE ON STEAM. YOU CAN DO SO BY GOING ON THE DLC PAGE FOR CYBERPUNK 2077 AND CAN DOWNLOAD IT FROM THERE. ITS THE SAME FOR OTHER CLIENTS AS WELL.
 
-Before starting the installation, complete the following steps to ensure a smooth setup process:
+Before starting the installation, complete the following steps to ensure a smooth setup process
 
-1. **Clean Install**: Start with a fresh installation of Cyberpunk 2077, especially if you’ve previously installed mods. This reduces the risk of conflicts or leftover files affecting your modlist.
+1. **Clean Install**: Start with a fresh installation of Cyberpunk 2077, especially if you’ve previously installed mods. This reduces the risk of conflicts or leftover files affecting your modlist
 
 2. To do this head to your "appdata" folder by searching in the windows searchbar and typing %appdata%
 
@@ -71,7 +71,7 @@ Before starting the installation, complete the following steps to ensure a smoot
 
 (Insert Image)
 
-3. **Verify Game Files**: Use your game launcher (Steam, GOG, etc.) to verify game files before proceeding. This ensures that all core files are intact and compatible with the modlist.
+3. **Verify Game Files**: Use your game launcher (Steam, GOG, etc.) to verify game files before proceeding. This ensures that all core files are intact and compatible with the modlist
 
 ### Wabbajack Installation
 
@@ -80,11 +80,11 @@ Before starting the installation, complete the following steps to ensure a smoot
 	Once you have completed the pre-installation section, follow these steps to install Wabbajack:
 
 1. Create an empty folder named Wabbajack on the root of your drive, such as C:\Wabbajack for example.
-  > - **DO NOT** place it in Program Files, User folders (such as Desktop, Documents, Downloads, OneDrive, etc.), in your Syberpunk 2077's steam, gog, epic or in any folders related to the modlist itself (the downloads or install folder).
+  > - **DO NOT** place it in Program Files, User folders (such as Desktop, Documents, Downloads, OneDrive, etc.), in your Syberpunk 2077's steam, gog, epic or in any folders related to the modlist itself (the downloads or install folder)
 
-2. **Download Wabbajack**: Download the latest version of Wabbajack from [Wabbajack’s official website](https://www.wabbajack.org/).
+2. **Download Wabbajack**: Download the latest version of Wabbajack from [Wabbajack’s official website](https://www.wabbajack.org/)
 
-3. **Install Wabbajack**: Follow the installation instructions on Wabbajack’s website to set it up. Make sure to place the Wabbajack.exe file inside the folder from step 1.
+3. **Install Wabbajack**: Follow the installation instructions on Wabbajack’s website to set it up. Make sure to place the Wabbajack.exe file inside the folder from step 1
 	
 #### Downloading and Installing Modlist
 
@@ -99,9 +99,9 @@ To install the modlist, complete the following steps:
 4. Set the Modlist Installation Location to a folder such as C:\Modlist. It can be placed anywhere you please
 > - **DO NOT** place it in Program Files, User folders (such as Desktop, Documents, Downloads, OneDrive, etc.), or in your games steam, epic or gog folder
 
-5. Set the download path where you please I recomend setting the path for the downloads folders in the same spot as the install location.
+5. Set the download path where you please I recomend setting the path for the downloads folders in the same spot as the install location
 
-6. Press the play arrow to begin the download and install.
+6. Press the play arrow to begin the download and install
 
 
 ### Post-Installation
