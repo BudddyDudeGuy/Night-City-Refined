@@ -105,7 +105,7 @@ Updating is like installing the list. Go on wabbajack and make sure your paths a
 
 1. Open your mod list folder and run mod_organizer.exe
 
-2. Once mod organizer is open, in the upper right of Mod organizer 2 you will see a dropdown, select "launch REDlauncher"
+2. Once mod organizer is open, in the upper right of Mod organizer 2 you will see a dropdown, select "REDprelauncher"
 
 4. Once REDlauncher is open click the gear icon beside play and click enable mods
 
