@@ -87,14 +87,14 @@ To install the modlist, complete the following steps:
    
 2. Click the login button for nexus to link your account to nexus so all the mods may be downloaded
 
-3. Select install from disk
+3. Select install from disk and set the target modlist path to my modlist file (insert name)
 
 4. Set the Modlist Installation Location to a folder such as C:\Modlist. It can be placed anywhere you please
 > - **DO NOT** place it in Program Files, User folders (such as Desktop, Documents, Downloads, OneDrive, etc.), or in your games steam, epic or gog folder
 
-4. You can also set the download location to where you please.
+4. Set the download path where you please I recomend leaving the downloads location in a downloads folders in the same spot as the install location.
 
-6. Press the play arrow to begin the download and install
+6. Press the play arrow to begin the download and install.
 
 
 ## Updating the Modlist
@@ -123,7 +123,7 @@ My Graphics Settings I have a RTX 4070 ti super and ryzen 7 7700x
 (insert image)
 
 
-After your done adjusting graphics, activate the overlay using your assigned key Look for the ULTRA + header in the Overlay click the arrow and expand the window. There will be raytracing and texture settings boxes you can tick You can tick these boxes based on your pc hardware. If you dont have ray tracing or path tracing enabled in your base game graphics settings.**⚠️ DO NOT ENABLE THEM IN THE ULTRA PLUS WINDOWS OR THE GAME WILL BREAK WHEN RELAUNCHING. DO NOT TICK ANY OF THE BOXES UNDER THE GAME SETTINGS TITLE ⚠️**. While in the overlay look for nova city weather beat and untick two boxes in the miscleanues header. this is what it should like 
+After your done adjusting graphics, activate the overlay using your assigned key Look for the ULTRA + header in the Overlay click the arrow and expand the window. There will be raytracing and texture settings boxes you can tick You can tick these boxes based on your pc hardware. If you dont have ray tracing or path tracing enabled in your base game graphics settings.**⚠️ DO NOT ENABLE THEM IN THE ULTRA PLUS WINDOWS OR THE GAME WILL BREAK WHEN RELAUNCHING. DO NOT TICK ANY OF THE BOXES UNDER THE GAME SETTINGS TITLE ⚠️**. While in the overlay look for nova city weather beat and untick two boxes: weather notification and and notification pop up. this is what it should like. 
 
 (insert Image)i 
 
