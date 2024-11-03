@@ -54,15 +54,16 @@ Before starting the installation, complete the following steps to ensure a smoot
 
 (inset Image)
 
-4. Go to your main Cyberpunk 2077 directory and delete the all folders except for "archive"
+## If Game Was Modded Before
 
+1. Go to your main Cyberpunk 2077 directory and delete the bin, engine, r6, red4ext folders
 (insert image)
 
-5. Additionally delete the "mod" folder in "Cyberpunk 2077/archive/pc/"
+2. Additionally delete the "mod" folder in "Cyberpunk 2077/archive/pc/"
 
 (Insert Image)
 
-6. **Verify Game Files**: Use your game launcher (Steam, GOG, etc.) to verify game files before proceeding. This ensures that all core files are intact and compatible with the modlist.
+3. **Verify Game Files**: Use your game launcher (Steam, GOG, etc.) to verify game files before proceeding. This ensures that all core files are intact and compatible with the modlist.
 
 ### Wabbajack Installation
 
