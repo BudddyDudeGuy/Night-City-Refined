@@ -111,7 +111,7 @@ Updating is like installing the list. Go on wabbajack and make sure your paths a
 
 5. You may now close REDlauncher and select "Cyberpunk 2077" from the drop down and the game will now run
 
-After following the preinstallation steps properly, launch the game and a prompt should appear that looks like this
+5. After following the preinstallation steps properly, launch the game and a prompt should appear that looks like this
 
 (insert image)
 
