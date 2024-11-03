@@ -95,10 +95,6 @@ To install the modlist, complete the following steps.
 
 Updating is like installing the list. Go on wabbajack and make sure your paths are the same and tick the overwrite installation button. Please keep in mind any mods you have added will be deleted when updating. To make sure that Wabbajack does not delete your added mods upon updating, prefix your mods with [NoDelete].
 
-## Removing the Modlist
-
-Just go to wherever your modlist is installed and delete the entire modlist folder.
-
 ## Post Installation:
 
 After following the preinstallation steps properly launch the game and a prompt should appear that looks like this
@@ -123,5 +119,9 @@ if you play on gamepad and dont want the game to be mega easy copy these setting
 
 
 (insert controller setting image)
+
+## Removing the Modlist
+
+Just go to wherever your modlist is installed and delete the entire modlist folder.
 
 
