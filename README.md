@@ -82,17 +82,15 @@ Downloading and installing the modlist can take a while depending on your intern
 
 To install the modlist, complete the following steps.
 
-1. Open Wabbajack and click Browse Modlists
+1. Open Wabbajack and click install from disk
 
+2. Click the .wabbajack file
 
-2. Pick the Cyberpunk 2077 option from the game filter drop-down box (or use the search bar to find the modlist).
-
-3. Press the download arrow (looks like a play button) on the Modlist UI card and wait for it to download
-
-4. Set the Modlist Installation Location to a folder such as C:\Apostasy. It can be placed anywhere you please
+3. Set the Modlist Installation Location to a folder such as C:\Apostasy. It can be placed anywhere you please
 > - **DO NOT** place it in Program Files, User folders (such as Desktop, Documents,   Downloads, OneDrive, etc.), or in your games steam, epic or gog folder
 
-5. You can also set the download location to where you please.
+4. You can also set the download location to where you please.
+
 6. Press the play arrow to begin the download and install
 
 
