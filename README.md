@@ -81,11 +81,11 @@ Once you have completed the pre-installation section, follow these steps to inst
 
 Downloading and installing the modlist can take a while depending on your internet connection, PC specs, and if you have Nexus Premium. Without Premium, you will need to manually click the Slow Download button for each mod.
 
-To install the modlist, complete the following steps.
+To install the modlist, complete the following steps:
 
 1. Open Wabbajack and click install from disk
 
-2. Click the .wabbajack file
+2. Select the .wabbajack file
 
 3. Set the Modlist Installation Location to a folder such as C:\Modlist. It can be placed anywhere you please
 > - **DO NOT** place it in Program Files, User folders (such as Desktop, Documents, Downloads, OneDrive, etc.), or in your games steam, epic or gog folder
@@ -117,7 +117,7 @@ After your done adjusting graphics, activate the overlay using your assigned key
 
 (insert Image)i 
 
-## FOR BETTER CONTRLLER AIMING
+## FOR BETTER CONTROLLER AIMING
 
 if you play on gamepad and dont want the game to be mega easy copy these setting below for tthe controller. Two other testers and myself have tested these contrliier configuration's thoroughly over hudnreds of hours of game time this give gave best feeling for gameplay keeping it somewhat challengining.
 
