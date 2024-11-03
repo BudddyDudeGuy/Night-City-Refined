@@ -35,9 +35,11 @@ Welcome to the Cyberpunk 2077 Enhanced Modlist! This collection of mods is metic
 
 Beyond gameplay, this modlist also brings substantial improvements to visuals and performance. Through carefully selected graphic and optimization mods, Night City becomes more visually stunning and immersive while improving performance and gameplay stability. Each mod is chosen to make Cyberpunk 2077’s world more cohesive, challenging, and true to its dystopian roots.
 
-For a full list of mods and a brief descriptions of each, visit the [Mod_list.md](./Mod_list.md).
+Please take the time go through this README in its entirety, it goes over everything related to setup for mod organizer and Cyberpunk
 
-Also if you want to see which mods really have an imapct on the gameplay loops, balancing and other key parts of the game you can visit the [GAMEPLAY.md](./GAMEPLAY.md)
+	For a full list of mods and a brief descriptions of each, visit the [Mod_list.md](./Mod_list.md).
+
+	Also if you want to see which mods really have an imapct on the gameplay loops, balancing and other key parts of the game you can visit the [GAMEPLAY.md](./GAMEPLAY.md)
 
 ## INSTALLATION
 
@@ -45,7 +47,7 @@ Follow the steps below to successfully install the modlist and prepare your game
 
 ### Pre-Installation
 
-MAKE SURE TO HAVE REDMOD INSTALLED,IF YOU ARE ON STEAM. YOU CAN DO SO BY GOING ON THE DLC PAGE FOR CYBERPUNK 2077 AND CAN DOWNLOAD IT FROM THERE. ITS THE SAME FOR OTHER CLIENTS AS WELL.
+	MAKE SURE TO HAVE REDMOD INSTALLED,IF YOU ARE ON STEAM. YOU CAN DO SO BY GOING ON THE DLC PAGE FOR CYBERPUNK 2077 AND CAN DOWNLOAD IT FROM THERE. ITS THE SAME FOR OTHER CLIENTS AS WELL.
 
 Before starting the installation, complete the following steps to ensure a smooth setup process:
 
@@ -72,34 +74,33 @@ Before starting the installation, complete the following steps to ensure a smoot
 
 ### Wabbajack Installation
 
-	#### Installing Wabbajack
+#### Installing Wabbajack
 
-	Once you have completed the pre-installation section, follow these steps to install Wabbajack:
+Once you have completed the pre-installation section, follow these steps to install Wabbajack:
 
-	1. Create an empty folder named Wabbajack on the root of your drive, such as C:\Wabbajack for example.
-  	> - **DO NOT** place it in Program Files, User folders (such as Desktop, Documents, Downloads, OneDrive, etc.), in your Syberpunk 2077's steam, gog, epic or in any folders related to the modlist itself (the downloads or install folder).
+1. Create an empty folder named Wabbajack on the root of your drive, such as C:\Wabbajack for example.
+  > - **DO NOT** place it in Program Files, User folders (such as Desktop, Documents, Downloads, OneDrive, etc.), in your Syberpunk 2077's steam, gog, epic or in any folders related to the modlist itself (the downloads or install folder).
 
-	2. **Download Wabbajack**: Download the latest version of Wabbajack from [Wabbajack’s official website](https://www.wabbajack.org/).
-	3. **Install Wabbajack**: Follow the installation instructions on Wabbajack’s website to set it up. Make sure to place the Wabbajack.exe file inside the folder from step 1.
+2. **Download Wabbajack**: Download the latest version of Wabbajack from [Wabbajack’s official website](https://www.wabbajack.org/).
+
+3. **Install Wabbajack**: Follow the installation instructions on Wabbajack’s website to set it up. Make sure to place the Wabbajack.exe file inside the folder from step 1.
 	
-	#### Downloading and Installing Modlist
+#### Downloading and Installing Modlist
 
-	Downloading and installing the modlist can take a while depending on your internet connection, PC specs, and if you have Nexus Premium. Without Premium, you will need to manually click the Slow Download button for each mod.
+Downloading and installing the modlist can take a while depending on your internet connection, PC specs, and if you have Nexus Premium. Without Premium, you will need to manually click the Slow Download button for each mod.
 
-	To install the modlist, complete the following steps:
+To install the modlist, complete the following steps:
 
-	1. Open Wabbajack and click the gear icon in the top right
-   
-	2. Click the login button for nexus to link your account to nexus so all the mods may be downloaded
+1. Open Wabbajack and click the gear icon in the top right. Click the login button for nexus to link your account to nexus so all the mods may be downloaded
 
-	3. Select install from disk and set the target modlist path to my modlist file (insert name)
+3. Select install from disk and set the target modlist path to my modlist file (insert name)
 
-	4. Set the Modlist Installation Location to a folder such as C:\Modlist. It can be placed anywhere you please
+4. Set the Modlist Installation Location to a folder such as C:\Modlist. It can be placed anywhere you please
 > - **DO NOT** place it in Program Files, User folders (such as Desktop, Documents, Downloads, OneDrive, etc.), or in your games steam, epic or gog folder
 
-	5. Set the download path where you please I recomend setting the path for the downloads folders in the same spot as the install location.
+5. Set the download path where you please I recomend setting the path for the downloads folders in the same spot as the install location.
 
-	6. Press the play arrow to begin the download and install.
+6. Press the play arrow to begin the download and install.
 
 
 ### Post Installation:
