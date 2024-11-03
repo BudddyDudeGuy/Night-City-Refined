@@ -83,11 +83,13 @@ Downloading and installing the modlist can take a while depending on your intern
 
 To install the modlist, complete the following steps:
 
-1. Open Wabbajack and click install from disk
+1. Open Wabbajack and click the gear icon in the top right
+   
+2. Click the login button for nexus to link your account to nexus so all the mods may be downloaded
 
-2. Select the .wabbajack file
+3. Select install from disk
 
-3. Set the Modlist Installation Location to a folder such as C:\Modlist. It can be placed anywhere you please
+4. Set the Modlist Installation Location to a folder such as C:\Modlist. It can be placed anywhere you please
 > - **DO NOT** place it in Program Files, User folders (such as Desktop, Documents, Downloads, OneDrive, etc.), or in your games steam, epic or gog folder
 
 4. You can also set the download location to where you please.
