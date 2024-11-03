@@ -36,11 +36,11 @@ Welcome to the Cyberpunk 2077 Enhanced Modlist! This collection of mods is metic
 
 Beyond gameplay, this modlist also brings substantial improvements to visuals and performance. Through carefully selected graphic and optimization mods, Night City becomes more visually stunning and immersive while improving performance and gameplay stability. Each mod is chosen to make Cyberpunk 2077’s world more cohesive, challenging, and true to its dystopian roots.
 
-:exclamation exclamation: Please take the time go through this README in its entirety, it goes over everything related to setup for mod organizer and Cyberpunk
+:exclamation: :exclamation: Please take the time go through this README in its entirety, it goes over everything related to setup for mod organizer and Cyberpunk
 
-:bulb:*For a full list of mods and a brief descriptions of each, visit the [Mod_list.md](./Mod_list.md).*
+:bulb: *For a full list of mods and a brief descriptions of each, visit the [Mod_list.md](./Mod_list.md).*
 
-:bulb:*Also if you want to see which mods really have an imapct on the gameplay loops, balancing and other key parts of the game you can visit the [GAMEPLAY.md](./GAMEPLAY.md)*
+:bulb: *Also if you want to see which mods really have an imapct on the gameplay loops, balancing and other key parts of the game you can visit the [GAMEPLAY.md](./GAMEPLAY.md)*
 
 ## INSTALLATION
 
@@ -48,7 +48,7 @@ Follow the steps below to successfully install the modlist and prepare your game
 
 ### Pre-Installation
 
-	:raised_hand: MAKE SURE TO HAVE REDMOD INSTALLED,IF YOU ARE ON STEAM. YOU CAN DO SO BY GOING ON THE DLC PAGE FOR CYBERPUNK 2077 AND CAN DOWNLOAD IT FROM THERE. ITS THE SAME FOR OTHER CLIENTS AS WELL.
+	MAKE SURE TO HAVE REDMOD INSTALLED,IF YOU ARE ON STEAM. YOU CAN DO SO BY GOING ON THE DLC PAGE FOR CYBERPUNK 2077 AND CAN DOWNLOAD IT FROM THERE. ITS THE SAME FOR OTHER CLIENTS AS WELL.
 
 1. **Clean Install**: Start with a fresh installation of Cyberpunk 2077, especially if you’ve previously installed mods. This reduces the risk of conflicts or leftover files affecting your modlist
 
@@ -86,7 +86,7 @@ Follow the steps below to successfully install the modlist and prepare your game
 	
 #### Downloading and Installing Modlist
 
-	:raised_hand: Downloading and installing the modlist can take a while depending on your internet connection, PC specs, and if you have Nexus Premium. Without Premium, you will need to manually click the Slow Download button for each mod.
+	Downloading and installing the modlist can take a while depending on your internet connection, PC specs, and if you have Nexus Premium. Without Premium, you will need to manually click the Slow Download button for each mod.
 
 To install the modlist, complete the following steps:
 
