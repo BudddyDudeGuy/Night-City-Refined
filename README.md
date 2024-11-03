@@ -14,6 +14,9 @@
   - [Game Folder](#game-folder)
   - [Post-Installation Issues and Troubleshooting](#post-installation-issues-and-troubleshooting)
 
+- [Gameplay](#gameplay)
+- [FAQ](#FAQ)
+
 - [Playing the List](#playing-the-list)
 - [Starting the Game](#starting-the-game)
 - [Updating the Modlist](#updating-the-modlist)
