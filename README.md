@@ -97,7 +97,7 @@ Updating is like installing the list. Go on wabbajack and make sure your paths a
 
 ## Post Installation:
 
-After following the preinstallation steps properly launch the game and a prompt should appear that looks like this
+After following the preinstallation steps properly, launch the game and a prompt should appear that looks like this
 
 (insert image)
 
@@ -113,7 +113,7 @@ After your done adjusting graphics, activate the overlay using your assigned key
 
 (insert Image)
 
-FOR BETTER CONTRLLER AIMING
+## FOR BETTER CONTRLLER AIMING
 
 if you play on gamepad and dont want the game to be mega easy copy these setting below for tthe controller. Two other testers and myself have tested these contrliier configuration's thoroughly over hudnreds of hours of game time this give gave best feeling for gameplay keeping it somewhat challengining.
 
