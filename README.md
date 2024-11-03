@@ -15,7 +15,7 @@
   - [Post-Installation Issues and Troubleshooting](#post-installation-issues-and-troubleshooting)
 
 - [Playing the List](#playing-the-list)
-  - [Starting the Game](#starting-the-game)
+- [Starting the Game](#starting-the-game)
 - [Updating the Modlist](#updating-the-modlist)
 - [Removing the Modlist](#removing-the-modlist)
 - [Issues](#issues)
