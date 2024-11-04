@@ -36,11 +36,11 @@ Welcome to the Cyberpunk 2077 Enhanced Modlist! This collection of mods is metic
 Beyond gameplay, this modlist also brings substantial improvements to visuals and performance. Through carefully selected graphic and optimization mods, Night City becomes more visually stunning and immersive while improving performance and gameplay stability. Each mod is chosen to make Cyberpunk 2077’s world more cohesive, challenging, and true to its dystopian roots.
 
 <div style="border-left: 4px solid #FFA500; padding-left: 10px; margin-top: 10px;">
-<strong>⚠️ WANRING</strong><br>
+<strong>⚠️ WARNING</strong><br>
 You must have Phantom Liberty and Red Mod DLC Installed for this list to work
 </div>  <br>
 
-:exclamation: :exclamation: IT IS VERY IMPORTNAT YOU READ THIS ENTIRE README TO MAKE SURE THE MODLIST IS DOWNLOADED AND SETUP CORRECTLY 
+:exclamation: :exclamation: IT IS VERY IMPORTANT YOU READ THIS ENTIRE README TO MAKE SURE THE MODLIST IS DOWNLOADED AND SETUP CORRECTLY 
 
 :bulb: *For a full list of mods and a brief descriptions of each, visit the [Mod_list.md](./Mod_list.md).*
 
