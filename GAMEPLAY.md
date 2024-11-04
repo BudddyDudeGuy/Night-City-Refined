@@ -38,6 +38,16 @@ Key Features: <br>
 
 ### NEW CYBERWARE
 
+  ## Extra Hands
+      
+  The Extra Hands mod enhances Cyberpunk 2077 with an additional cyberware slot for hand enhancements, offering players greater customization while maintaining the game’s balance and immersive feel.
+
+  Key Features:
+  Additional Hand Cyberware Slot: Grants an extra slot for hand cyberware, letting players equip more enhancements without becoming overpowered.
+  Enhanced Customization: Allows a mix of different hand cyberware options, expanding both combat and utility abilities.
+  Balanced and Seamless Integration: Designed to fit naturally into the game’s mechanics, so the added slot feels like an organic part of the experience rather than an out-of-place addition.
+  With Extra Hands, players can tailor their loadouts to their style, making each choice meaningful and immersive. The mod enriches strategic depth without breaking the flow, fitting smoothly into Cyberpunk 2077’s   world.
+
 
 
 ## VIUSALS
