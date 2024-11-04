@@ -54,7 +54,8 @@ Follow the steps below to successfully install the modlist and prepare your game
 
 2. To do this head to your "appdata" folder by searching in the windows searchbar and typing %appdata%
 
-(insert Image)
+![68747470733a2f2f692e696d6775722e636f6d2f56694179554f582e706e67](https://github.com/user-attachments/assets/5c09ec98-c842-4083-b63c-cc8088447dd5)
+
 
 3. In "AppData" folder go to "Local," and in this folder delete the "CD Projekt Red" and "Red Engine" folders to ensure there are no errors with the cached config files
 
