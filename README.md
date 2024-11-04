@@ -50,7 +50,7 @@ You must have Phantom Liberty and Red Mod DLC Installed for this list to work
 
 Follow the steps below to successfully install the modlist and prepare your game for an enhanced Cyberpunk 2077 experience
 
-### Pre-Installation
+### PRE-INSTALLATION
 
 	MAKE SURE TO HAVE REDMOD INSTALLED,IF YOU ARE ON STEAM. YOU CAN DO SO BY GOING ON THE DLC PAGE FOR CYBERPUNK 2077 AND CAN DOWNLOAD IT FROM THERE. ITS THE SAME FOR OTHER CLIENTS AS WELL.
 
@@ -67,7 +67,7 @@ Follow the steps below to successfully install the modlist and prepare your game
 ![68747470733a2f2f692e696d6775722e636f6d2f656775306438412e706e67](https://github.com/user-attachments/assets/677275ec-6ffb-45fa-a394-23bd86500604)
 
 
-### For Previously Modded Game
+### FOR PREVIOUSLY MODDED GAME
 
 1. Go to your main Cyberpunk 2077 directory and delete the bin, engine, r6, red4ext folders
 
@@ -82,9 +82,9 @@ Follow the steps below to successfully install the modlist and prepare your game
 
 3. **Verify Game Files**: Use your game launcher (Steam, GOG, etc.) to verify game files before proceeding. This ensures that all core files are intact and compatible with the modlist
 
-### Wabbajack Installation
+### WABBAJACK 
 
-#### Installing Wabbajack
+#### INSTALLING WABBAJACK
 
 	Once you have completed the pre-installation section, follow these steps to install Wabbajack
 
@@ -98,7 +98,7 @@ Follow the steps below to successfully install the modlist and prepare your game
 
 3. **Install Wabbajack**: Follow the installation instructions on Wabbajack’s website to set it up. Make sure to place the Wabbajack.exe file inside the folder from step 1
 	
-#### Downloading and Installing Modlist
+#### DOWNLOADING AND INSTALLING MODLIST
 
 	Downloading and installing the modlist can take a while depending on your internet connection, PC specs, and if you have Nexus Premium. Without Premium, you will need to manually click the Slow Download button for each mod.
 
@@ -123,7 +123,7 @@ To install the modlist, complete the following steps:
 6. Press the play arrow to begin the download and install
 
 
-### Post-Installation
+### POST-INSTALLATION
 	Cyberpunk 2077 will always have to be launched through MO2, you can create a dekstop shortcut if desired. Look for the drop down menu under the "RUN" button
 
 1. Open your mod list folder and run "ModOrganizer.exe"
@@ -136,10 +136,10 @@ To install the modlist, complete the following steps:
 
 4. You may now close "REDprelauncher" and select "Cyberpunk 2077" from the drop down and click "RUN"
 
-⚠️⚠️YOU WILL SEE A WINDOW POP UP WITH AN UNLOCK BUTTON. DO NOT CLICK UNLOCK, GIVE THE GAME SOME TIME TO LAUNCH. NEVER CLICK UNLOCK WHILE PLAYING THE LIST IT WILL BREAK THE GAME ⚠️⚠️
+⚠️⚠️YOU WILL SEE A WINDOW POP UP WITH AN UNLOCK BUTTON. DO NOT CLICK UNLOCK, GIVE THE GAME SOME TIME TO LAUNCH. NEVER CLICK UNLOCK WHILE PLAYING THE LIST, IT WILL BREAK THE GAME ⚠️⚠️
 
 
-#### First Time Game Startup
+#### FIRST TIME GAME STARTUP
 	After following the preinstallation steps properly, launch the game and a prompt should appear that looks like this
 	(insert image)
 
@@ -157,7 +157,7 @@ To install the modlist, complete the following steps:
 ![Screenshot 2024-11-03 182311](https://github.com/user-attachments/assets/2de03865-3f75-43f4-8b72-c70fce1c3ce3)
 
 
-#### Optional Setup
+#### OPTIONAL SETUP
 
 Look for the "ULTRA+" header in the Overlay, click the arrow and expand the window. There will be raytracing and texture settings boxes you can tick. Tick these boxes based on your graphics settings and hardware *If you dont have ray tracing or path tracing enabled in your base game graphics settings. <br>
 
@@ -171,10 +171,10 @@ Look for the "ULTRA+" header in the Overlay, click the arrow and expand the wind
 
 
 
-## Updating the Modlist
+## UPDATING THE MODLIST
 Updating is like installing the list. Go on wabbajack and make sure your paths are the same and tick the overwrite installation button. Please keep in mind any mods you have added will be deleted when updating. To make sure that Wabbajack does not delete your added mods upon updating, prefix your mods in MO2 with [NoDelete]
 
-## Removing the Modlist
+## REMOVING THE MODLIST
 Just go to wherever your modlist is installed and delete the entire modlist folder. You may also delete the download folder
 
 
