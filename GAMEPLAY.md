@@ -19,6 +19,19 @@ We feel we've balanced the mod as best as we could. However, if you feel it is t
 
 ### Guns Redone
 
+The Guns Redone V3.0 (Overhauled) mod makes gunplay in Cyberpunk 2077 more immersive and realistic, ensuring that no single weapon feels overpowered. The mod is game chaning it has to much to list
+but here are the key features. <br>
+
+Key Features: <br>
+
+
+* Balanced Weapon Classes: Damage varies by caliber, making each weapon type feel impactful without overpowering others.
+* Realistic Recoil and Spread: Aiming removes spread for better accuracy, balanced by natural recoil for more control and skill.
+* Rewarding Headshots and Armor Penetration: Increased headshot damage and varied armor penetration add depth to combat.
+* Diverse Weapon Strengths: Each gun class has unique pros and cons, creating a balanced experience where every weapon feels useful.
+
+With these improvements, gunfights feel intense and authentic, giving players a more realistic and skill-based experience in Night City.
+
 ### Economy Punk
 
 The EconomyPunk mod brings a realistic touch to Cyberpunk 2077’s economy, making every purchase and reward feel meaningful. By adjusting prices, rewards, and item values, it adds a natural flow to the in-game economy, helping you stay immersed in the world of Night City.
