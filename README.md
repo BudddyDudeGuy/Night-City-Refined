@@ -152,7 +152,7 @@ To install the modlist, complete the following steps:
 **⚠️ DO NOT ENABLE RAY TRACING IN ULTRA + OVERALY IF YOU DONT HAVE IT ENABLED IN THE BASE GAME SETTING, SAME GOES FOR PATHTRACING OR THE GAME WILL BREAK WHEN RELAUNCHING. DO NOT TICK ANY OF THE BOXES UNDER THE OVERRIDE GAME GRRAPHIC MENU SETTINGS ⚠️*** <br>
 
 
-This is what it should like you values will be different
+	This is what it should like you values will be different
 
 
 ![Screenshot 2024-11-03 181842](https://github.com/user-attachments/assets/bf3e2eba-17e7-42d3-a28c-a488b66fdce8)
@@ -163,7 +163,10 @@ This is what it should like you values will be different
 
 5. While in the overlay look for the header "nova city weather", click the misc tab, scroll down and untick two boxes: "Weather Notification" & "Warning Message" 
 
-(insert Image)
+
+		these two should be unticked
+
+![Screenshot 2024-11-03 182311](https://github.com/user-attachments/assets/0c8f5129-35ce-4b82-a449-6ef4b01da9cd)
 
 
 ## Updating the Modlist
