@@ -1,9 +1,12 @@
+
+
+
 ## CONTENTS
 - [CORE OVERHAULS](#core-overhauls)
   - [Enemies of Night City](#enemies-of-night-city)
   - [Guns Redone](#guns-redone)
   - [Economy Punk](#economy-punk)
-- [NEW CONTNENTS](#new-contents)
+- [NEW CONTNENT](#new-contents)
   - [New Quests](#new-quests)
   - [NewCyberware](#installing-wabbajack)
 - [VISUALS](#visuals)
@@ -84,7 +87,7 @@ Key Features: <br>
 This mod offers added flexibility and depth, letting players adjust their style while keeping gameplay balanced and immersive.
 
 
-## VIUSALS
+## VISUALS
 
 ## LUT Switcher
 
