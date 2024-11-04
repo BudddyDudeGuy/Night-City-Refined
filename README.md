@@ -151,7 +151,8 @@ To install the modlist, complete the following steps:
 
 **⚠️ DO NOT ENABLE THEM IN THE ULTRA PLUS WINDOWS OR THE GAME WILL BREAK WHEN RELAUNCHING. DO NOT TICK ANY OF THE BOXES UNDER THE GAME SETTINGS TITLE ⚠️***
 
-	![Screenshot 2024-11-03 181537](https://github.com/user-attachments/assets/2404f032-13cf-412a-a293-1ded5a6eeec0)
+
+![Screenshot 2024-11-03 181537](https://github.com/user-attachments/assets/ac786bcf-e412-48ab-a0c0-8a38569291ee)
 
 
 5. While in the overlay look for the header "nova city weather", click the misc tab, scroll down and untick two boxes: "Weather Notification" & "Warning Message" 
