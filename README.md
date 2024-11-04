@@ -40,7 +40,7 @@ Beyond gameplay, this modlist also brings substantial improvements to visuals an
 You must have Phantom Liberty and Red Mod DLC Installed for this list to work
 </div>  <br>
 
-:exclamation: :exclamation: Please take the time go through this README in its entirety, it goes over everything related to setup for mod organizer and Cyberpunk
+:exclamation: :exclamation: IT IS VERY IMPORTNAT YOU READ THIS ENTIRE README TO MAKE SURE THE MODLIST IS DOWNLOADED AND SETUP CORRECTLY 
 
 :bulb: *For a full list of mods and a brief descriptions of each, visit the [Mod_list.md](./Mod_list.md).*
 
