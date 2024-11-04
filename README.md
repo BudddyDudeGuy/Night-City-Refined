@@ -31,11 +31,6 @@
 ## INTRODUCTION
 <img src="Images/intro%20pic.jpg" alt="Cyberpunk_2077-Modlist" style="width:100%; height:300px; object-fit:cover;">
 
-<div style="border-left: 4px solid #5e4bff; padding-left: 10px;">
-<strong>🟪 Important</strong><br>
-Apostasy requires the four free AE mods (Fishing, Rare Curios, Survival Mode, and Saints and Seducers) included in the Skyrim Anniversary Edition update from November 2021.
-</div>
-
 Welcome to the Cyberpunk 2077 Enhanced Modlist! This collection of mods is meticulously curated to elevate every aspect of your Night City experience. Designed to add depth, realism, and immersion, this modlist enhances core gameplay mechanics, the in-game economy, combat, and vehicle handling, aligning with the gritty, survival-driven narrative of Cyberpunk 2077 and many more! The modlist fixes numerous bugs of the original game. Also removing easy gameplay loops, making enemies more harder and smarter while improving and balancing V's weapons and cyberware. Make any build you can think of a stealthrunner, netrunner, or edge runner! 
 
 Beyond gameplay, this modlist also brings substantial improvements to visuals and performance. Through carefully selected graphic and optimization mods, Night City becomes more visually stunning and immersive while improving performance and gameplay stability. Each mod is chosen to make Cyberpunk 2077’s world more cohesive, challenging, and true to its dystopian roots.
