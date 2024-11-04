@@ -124,6 +124,10 @@ To install the modlist, complete the following steps:
 
 2. Once mod organizer is open, in the upper right of Mod organizer 2 you will see a dropdown menu beside the "RUN" button, select "REDprelauncher" and click the "RUN" button
 
+![Screenshot 2024-11-03 181141](https://github.com/user-attachments/assets/aa10df07-46ca-4767-b2ca-22d9aede06b6)
+
+
+
 3. Once "REDprelauncher" is open click the gear icon beside "Play" and click enable mods
 
 4. You may now close "REDprelauncher" and select "Cyberpunk 2077" from the drop down and click "RUN"
