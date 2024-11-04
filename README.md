@@ -38,7 +38,7 @@ Beyond gameplay, this modlist also brings substantial improvements to visuals an
 <div style="border-left: 4px solid #FFA500; padding-left: 10px; margin-top: 10px;">
 <strong>⚠️ WANRING</strong><br>
 You must have Phantom Liberty and Red Mod DLC Installed for this list to work
-</div>
+</div>  <br>
 
 :exclamation: :exclamation: Please take the time go through this README in its entirety, it goes over everything related to setup for mod organizer and Cyberpunk
 
