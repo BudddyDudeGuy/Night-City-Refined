@@ -49,7 +49,8 @@ Key Features: <br>
 * Balanced Rewards: Quest, bounty, and race rewards are tweaked to feel more satisfying and in line with your progress.
 * Better Money Pickups: Early game pickups feel more rewarding, while late-game finds have varied values for a realistic experience.
 * Affordable Vehicles: Autofixer cars now have reasonable prices, with discounts that actually make sense.
-* Fully customizable and script-free, EconomyPunk makes your economic choices impactful, adding depth and realism to every interaction in Night City.
+
+Fully customizable and script-free, EconomyPunk makes your economic choices impactful, adding depth and realism to every interaction in Night City.
 
 
 ## NEW CONTENT
