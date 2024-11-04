@@ -2,6 +2,9 @@
 ## CORE OVERHAULS
 
 ### Enemies of Night City
+
+https://www.nexusmods.com/cyberpunk2077/mods/8467
+
 *The Enemies of Night City mod for Cyberpunk 2077 offers a comprehensive overhaul of enemy AI, behaviors, and abilities, delivering a more immersive and challenging experience.*<br>
 
 Key Features: <br>
@@ -19,6 +22,8 @@ We feel we've balanced the mod as best as we could. However, if you feel it is t
 
 ### Guns Redone
 
+https://www.nexusmods.com/cyberpunk2077/mods/12704
+
 The Guns Redone V3.0 (Overhauled) mod makes gunplay in Cyberpunk 2077 more immersive and realistic, ensuring that no single weapon feels overpowered. The mod is game chaning it has to much to list
 but here are the key features. <br>
 
@@ -33,6 +38,8 @@ Key Features: <br>
 With these improvements, gunfights feel intense and authentic, giving players a more realistic and skill-based experience in Night City.
 
 ### Economy Punk
+
+https://www.nexusmods.com/cyberpunk2077/mods/16952
 
 The EconomyPunk mod brings a realistic touch to Cyberpunk 2077’s economy, making every purchase and reward feel meaningful. By adjusting prices, rewards, and item values, it adds a natural flow to the in-game economy, helping you stay immersed in the world of Night City.
 
@@ -51,7 +58,9 @@ Key Features: <br>
 
 ### NEW CYBERWARE
 
-  ## Extra Hands
+## Extra Hands
+
+https://www.nexusmods.com/cyberpunk2077/mods/12325
       
 The Extra Hands mod adds a new cyberware slot for hand enhancements, giving players more choices without unbalancing the game. <br>
 
@@ -68,6 +77,7 @@ This mod offers added flexibility and depth, letting players adjust their style 
 
 ## LUT Switcher
 
+https://www.nexusmods.com/cyberpunk2077/mods/16310
 
 The LUT Switcher mod lets you easily change the color grading (LUT) of Cyberpunk 2077 in real-time, giving you full control over the game’s look. <br>
 
@@ -81,6 +91,8 @@ Key Features: <br>
 With LUT Switcher, you can quickly customize the game’s visuals, enhancing immersion in Night City
 
 ## Nova City Weather Beta
+
+https://www.nexusmods.com/cyberpunk2077/mods/16310
 
 The Nova City mod adds new weather effects and better lighting to Cyberpunk 2077, making Night City feel more realistic and immersive. <br>
 
