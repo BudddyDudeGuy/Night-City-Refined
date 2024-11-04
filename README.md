@@ -111,7 +111,10 @@ To install the modlist, complete the following steps:
 4. Set the Modlist Installation Location to a folder such as C:\Modlist. It can be placed anywhere you please
 > - **DO NOT** place it in Program Files, User folders (such as Desktop, Documents, Downloads, OneDrive, etc.), or in your games steam, epic or gog folder
 
-5. Set the download path where you please I recomend setting the path for the downloads folders in the same spot as the install location
+5. Set the download path where you please I recomend setting the path for the downloads folders in the same spot as the install location. I recomedn having set as c:\Modlist\Downloads
+
+![Screenshot 2024-11-03 175811](https://github.com/user-attachments/assets/7fcbd99d-ad25-4958-85d1-814852a535f7)
+
 
 6. Press the play arrow to begin the download and install
 
