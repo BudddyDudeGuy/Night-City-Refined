@@ -145,8 +145,10 @@ To install the modlist, complete the following steps:
 	 
 3. After your done adjusting graphics, activate the overlay using the key you assigned earlier
 
-4. Look for the "ULTRA+" header in the Overlay, click the arrow and expand the window.  <br>
-There will be raytracing and texture settings boxes you can tick. Tick these boxes based on your graphics settings and hardware *If you dont have ray tracing or path tracing enabled in your base game graphics settings. <br>
+4. Look for the "ULTRA+" header in the Overlay, click the arrow and expand the window. There will be raytracing and texture settings boxes you can tick. Tick these boxes based on your graphics settings and hardware *If you dont have ray tracing or path tracing enabled in your base game graphics settings. <br>
+
+
+
 **⚠️ DO NOT ENABLE THEM IN THE ULTRA PLUS WINDOWS OR THE GAME WILL BREAK WHEN RELAUNCHING. DO NOT TICK ANY OF THE BOXES UNDER THE GAME SETTINGS TITLE ⚠️***
 
 	![Screenshot 2024-11-03 181537](https://github.com/user-attachments/assets/2404f032-13cf-412a-a293-1ded5a6eeec0)
