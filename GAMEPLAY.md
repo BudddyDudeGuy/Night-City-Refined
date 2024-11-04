@@ -21,6 +21,15 @@ We feel we've balanced the mod as best as we could. However, if you feel it is t
 
 ### Economy Punk
 
+The EconomyPunk mod brings a realistic touch to Cyberpunk 2077’s economy, making every purchase and reward feel meaningful. By adjusting prices, rewards, and item values, it adds a natural flow to the in-game economy, helping you stay immersed in the world of Night City.
+
+Key Features: <br>
+
+* Realistic Pricing: Cyberware, weapons, and clothing now have balanced prices. Cyberware and quickhacks cost more, making them feel like serious investments.
+*Balanced Rewards: Quest, bounty, and race rewards are tweaked to feel more satisfying and in line with your progress.
+*Better Money Pickups: Early game pickups feel more rewarding, while late-game finds have varied values for a realistic experience.
+*Affordable Vehicles: Autofixer cars now have reasonable prices, with discounts that actually make sense.
+*Fully customizable and script-free, EconomyPunk makes your economic choices impactful, adding depth and realism to every interaction in Night City.
 
 
 ## NEW CONTENT
