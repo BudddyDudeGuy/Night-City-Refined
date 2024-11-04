@@ -67,7 +67,7 @@ Follow the steps below to successfully install the modlist and prepare your game
 ![68747470733a2f2f692e696d6775722e636f6d2f656775306438412e706e67](https://github.com/user-attachments/assets/677275ec-6ffb-45fa-a394-23bd86500604)
 
 
-### For Previoulsy Modded Game
+### For Previously Modded Game
 
 1. Go to your main Cyberpunk 2077 directory and delete the bin, engine, r6, red4ext folders
 
