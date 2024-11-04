@@ -145,8 +145,12 @@ To install the modlist, complete the following steps:
 	 
 3. After your done adjusting graphics, activate the overlay using the key you assigned earlier
 
-4. Look for the "ULTRA+" header in the Overlay, click the arrow and expand the window. There will be raytracing and texture settings boxes you can tick. Tick these boxes based on your graphics settings and hardware 
-*If you dont have ray tracing or path tracing enabled in your base game graphics settings.**⚠️ DO NOT ENABLE THEM IN THE ULTRA PLUS WINDOWS OR THE GAME WILL BREAK WHEN RELAUNCHING. DO NOT TICK ANY OF THE BOXES UNDER THE GAME SETTINGS TITLE ⚠️***
+4. Look for the "ULTRA+" header in the Overlay, click the arrow and expand the window.  <br>
+There will be raytracing and texture settings boxes you can tick. Tick these boxes based on your graphics settings and hardware *If you dont have ray tracing or path tracing enabled in your base game graphics settings. <br>
+**⚠️ DO NOT ENABLE THEM IN THE ULTRA PLUS WINDOWS OR THE GAME WILL BREAK WHEN RELAUNCHING. DO NOT TICK ANY OF THE BOXES UNDER THE GAME SETTINGS TITLE ⚠️***
+
+	![Screenshot 2024-11-03 181537](https://github.com/user-attachments/assets/2404f032-13cf-412a-a293-1ded5a6eeec0)
+
 
 5. While in the overlay look for the header "nova city weather", click the misc tab, scroll down and untick two boxes: "Weather Notification" & "Warning Message" 
 
