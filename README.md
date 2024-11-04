@@ -29,9 +29,10 @@
 ## INTRODUCTION
 
 
-Welcome to the Cyberpunk 2077 Enhanced Modlist! This collection of mods is meticulously curated to elevate every aspect of your Night City experience. Designed to add depth, realism, and immersion, this modlist enhances core gameplay mechanics, the in-game economy, combat, and vehicle handling, aligning with the gritty, survival-driven narrative of Cyberpunk 2077 and many more! The modlist fixes numerous bugs of the original game. Also removing easy gameplay loops, making enemies more harder and smarter while improving and balancing V's weapons and cyberware. Make any build you can think of a stealthrunner, netrunner, or edge runner! 
+Welcome to the Cyberpunk 2077 Enhanced Modlist! The modlist is the title its self, Cyberpunk 2077 but better! Better driving hanbdling, guns, enemies, quests, economy and way more! I meticulously adjusted many in game files and mod files to fix gameplay loops diriving, the economy as well as checking for bugs and confilcits. I along with some others have repeatedly tested the game over hudnreds of hours of gameplay, making sure the list is stable, performance friendly and immersive. My vision for this modlist was to not add mods that abstructed the vanilla vision of Cyberpunk 2077's gameplay and lore. I aimed to make it as Immersive and lore friendly as possible. To the best of my abiltiy and the help of other tester and amazing mod authors this this list is bug free as possible with BETTER combat and graphics while improving perfomance of the base game. 
 
-Beyond gameplay, this modlist also brings substantial improvements to visuals and performance. Through carefully selected graphic and optimization mods, Night City becomes more visually stunning and immersive while improving performance and gameplay stability. Each mod is chosen to make Cyberpunk 2077’s world more cohesive, challenging, and true to its dystopian roots.
+Beyond gameplay, this modlist also brings substantial improvements to visuals and performance. Through carefully selected graphic and optimization mods, Night City becomes more visually stunning and immersive while improving performance and gameplay stability. Ray tracing and path tracing are heavily optimmized, paired along with amazing LUTS from mod auuthors the game looks amazing while increasing perfomrance at the same time!
+
 
 <div style="border-left: 4px solid #FFA500; padding-left: 10px; margin-top: 10px;">
 <strong>⚠️ WARNING</strong><br>
