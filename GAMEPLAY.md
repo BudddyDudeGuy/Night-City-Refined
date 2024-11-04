@@ -52,6 +52,18 @@ Key Features: <br>
 
 ## VIUSALS
 
+## Nova City Weather Beta
 
+
+The Nova City mod adds new weather effects and better lighting to Cyberpunk 2077, making Night City feel more realistic and immersive. <br>
+
+Key Features: <br>
+
+*New Weather Types: Adds unique weather like custom fog and storms.
+*Balanced Weather Frequency: Weather events feel more natural and varied.
+*Better Particle Effects: Improved rain and fog particles add depth.
+*Time-Based Weather Changes: Different weather at different times of day.
+*Updated Vanilla Weather: Freshens up the game’s original weather states.
+*These changes make Night City more alive, with improved visuals and lighting that work with color filters (LUTs) for extra customization.
 
 
