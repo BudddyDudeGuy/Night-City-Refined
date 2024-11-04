@@ -101,7 +101,6 @@ Follow the steps below to successfully install the modlist and prepare your game
 
 	Downloading and installing the modlist can take a while depending on your internet connection, PC specs, and if you have Nexus Premium. Without Premium, you will need to manually click the Slow Download button for each mod.
 
-To install the modlist, complete the following steps:
 
 1. Open Wabbajack and click the gear icon in the top right. Click the login button for nexus to link your account to nexus so all the mods may be downloaded
 
