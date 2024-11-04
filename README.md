@@ -35,6 +35,11 @@ Welcome to the Cyberpunk 2077 Enhanced Modlist! This collection of mods is metic
 
 Beyond gameplay, this modlist also brings substantial improvements to visuals and performance. Through carefully selected graphic and optimization mods, Night City becomes more visually stunning and immersive while improving performance and gameplay stability. Each mod is chosen to make Cyberpunk 2077’s world more cohesive, challenging, and true to its dystopian roots.
 
+<div style="border-left: 4px solid #5e4bff; padding-left: 10px;">
+<strong>🟪 Important</strong><br>
+Please take the time to go through this README in its entirety. It goes over everything related to setup for Mod Organizer and Cyberpunk.
+</div>
+
 :exclamation: :exclamation: Please take the time go through this README in its entirety, it goes over everything related to setup for mod organizer and Cyberpunk
 
 :bulb: *For a full list of mods and a brief descriptions of each, visit the [Mod_list.md](./Mod_list.md).*
