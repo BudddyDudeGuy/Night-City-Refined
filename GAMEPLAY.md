@@ -64,7 +64,8 @@ Key Features: <br>
 * LUT Explanation: A LUT (Look-Up Table) changes the game’s colors and lighting, adjusting its overall feel.
 * User-Friendly Options: Includes collapsible categories, favorite lists, and hotkeys for quick toggling.
 * SDR and HDR Support: Works with both SDR and HDR displays for versatile use.
-* With LUT Switcher, you can quickly customize the game’s visuals, enhancing immersion in Night City
+
+With LUT Switcher, you can quickly customize the game’s visuals, enhancing immersion in Night City
 
 ## Nova City Weather Beta
 
