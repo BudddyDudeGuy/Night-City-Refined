@@ -53,6 +53,19 @@ This mod offers added flexibility and depth, letting players adjust their style 
 
 ## VIUSALS
 
+## LUT Switcher
+
+
+The LUT Switcher mod lets you easily change the color grading (LUT) of Cyberpunk 2077 in real-time, giving you full control over the game’s look. <br>
+
+Key Features: <br>
+
+* Real-Time LUT Switching: Switch between different LUTs instantly without restarting.
+* LUT Explanation: A LUT (Look-Up Table) changes the game’s colors and lighting, adjusting its overall feel.
+* User-Friendly Options: Includes collapsible categories, favorite lists, and hotkeys for quick toggling.
+* SDR and HDR Support: Works with both SDR and HDR displays for versatile use.
+* With LUT Switcher, you can quickly customize the game’s visuals, enhancing immersion in Night City
+
 ## Nova City Weather Beta
 
 The Nova City mod adds new weather effects and better lighting to Cyberpunk 2077, making Night City feel more realistic and immersive. <br>
