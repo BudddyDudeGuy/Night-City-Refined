@@ -1,5 +1,7 @@
 
-# Enemies of Night City
+# CORE OVERHAULS
+
+## Enemies of Night City
 *The Enemies of Night City mod for Cyberpunk 2077 offers a comprehensive overhaul of enemy AI, behaviors, and abilities, delivering a more immersive and challenging experience.*<br>
 
 Key Features: <br>
@@ -14,5 +16,18 @@ Key Features: <br>
 Ideal for players wanting a tougher, more engaging gameplay experience, this mod brings purposeful and faction-aligned depth to every enemy encounter.<br>
 
 We feel we've balanced the mod as best as we could. However, if you feel it is too easy or hard, you can always go into Enemies of Night City settings in the "Mods" section and adjust to your liking!
+
+## Guns Redone
+
+
+## Economy Punk
+
+
+
+
+
+# VIUSALS
+
+
 
 
