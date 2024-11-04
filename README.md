@@ -126,6 +126,8 @@ Follow the steps below to successfully install the modlist and prepare your game
 
 1. Open your mod list folder and run "ModOrganizer.exe"
 
+⚠️⚠️YOU WILL SEE A WINDOW POP UP WITH AN UNLOCK BUTTON. DO NOT CLICK UNLOCK, GIVE THE GAME SOME TIME TO LAUNCH. NEVER CLICK UNLOCK WHILE PLAYING THE LIST, IT WILL BREAK THE GAME ⚠️⚠️
+
 2. Once mod organizer is open, in the upper right of Mod organizer 2 you will see a dropdown menu beside the "RUN" button, select "REDprelauncher" and click the "RUN" button
 
 ![Screenshot 2024-11-03 181141](https://github.com/user-attachments/assets/91953cea-5040-45b1-b481-46ee820466f8)
@@ -133,8 +135,6 @@ Follow the steps below to successfully install the modlist and prepare your game
 3. Once "REDprelauncher" is open click the gear icon beside "Play" and click enable mods
 
 4. You may now close "REDprelauncher" and select "Cyberpunk 2077" from the drop down and click "RUN"
-
-⚠️⚠️YOU WILL SEE A WINDOW POP UP WITH AN UNLOCK BUTTON. DO NOT CLICK UNLOCK, GIVE THE GAME SOME TIME TO LAUNCH. NEVER CLICK UNLOCK WHILE PLAYING THE LIST, IT WILL BREAK THE GAME ⚠️⚠️
 
 
 #### FIRST TIME GAME STARTUP
