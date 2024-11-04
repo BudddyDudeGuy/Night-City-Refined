@@ -47,13 +47,13 @@ Key Features: <br>
 * Extra Hand Slot: Adds one more slot for hand cyberware, allowing more enhancements without overpowering the character.
 * More Customization: Lets you mix different hand cyberware for both combat and utility boosts.
 * Fits Naturally: Integrates smoothly, so the extra slot doesn’t feel out of place.
-* This mod offers added flexibility and depth, letting players adjust their style while keeping gameplay balanced and immersive.
+
+This mod offers added flexibility and depth, letting players adjust their style while keeping gameplay balanced and immersive.
 
 
 ## VIUSALS
 
 ## Nova City Weather Beta
-
 
 The Nova City mod adds new weather effects and better lighting to Cyberpunk 2077, making Night City feel more realistic and immersive. <br>
 
@@ -64,6 +64,7 @@ Key Features: <br>
 * Better Particle Effects: Improved rain and fog particles add depth.
 * Time-Based Weather Changes: Different weather at different times of day.
 * Updated Vanilla Weather: Freshens up the game’s original weather states.
-* These changes make Night City more alive, with improved visuals and lighting that work with color filters (LUTs) for extra customization.
+  
+These changes make Night City more alive, with improved visuals and lighting that work with color filters (LUTs) for extra customization.
 
 
