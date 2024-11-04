@@ -102,7 +102,8 @@ To install the modlist, complete the following steps:
 
 1. Open Wabbajack and click the gear icon in the top right. Click the login button for nexus to link your account to nexus so all the mods may be downloaded
 
-![Screenshot 2024-11-03 175438](https://github.com/user-attachments/assets/ea27a847-17e9-452b-b8df-aff3aa809442)
+![Screenshot 2024-11-03 175438](https://github.com/user-attachments/assets/671aea5d-43f9-4aec-89be-6514e1d8c5f9)
+
 
 
 3. Select install from disk and set the target modlist path to my modlist file (insert name)
