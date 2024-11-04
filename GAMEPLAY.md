@@ -67,7 +67,7 @@ Fully customizable and script-free, EconomyPunk makes your economic choices impa
 
 ### NEW CYBERWARE
 
-## [Extra Hands](https://www.nexusmods.com/cyberpunk2077/mods/12325)
+#### [Extra Hands](https://www.nexusmods.com/cyberpunk2077/mods/12325)
       
 The Extra Hands mod adds a new cyberware slot for hand enhancements, giving players more choices without unbalancing the game. <br>
 
@@ -82,7 +82,7 @@ This mod offers added flexibility and depth, letting players adjust their style 
 
 ## VISUALS
 
-## [LUT Switcher](https://www.nexusmods.com/cyberpunk2077/mods/16310)
+### [LUT Switcher](https://www.nexusmods.com/cyberpunk2077/mods/16310)
 
 The LUT Switcher mod lets you easily change the color grading (LUT) of Cyberpunk 2077 in real-time, giving you full control over the game’s look. <br>
 
@@ -95,7 +95,7 @@ Key Features: <br>
 
 With LUT Switcher, you can quickly customize the game’s visuals, enhancing immersion in Night City
 
-## [Nova City Weather Beta](https://www.nexusmods.com/cyberpunk2077/mods/16310)
+### [Nova City Weather Beta](https://www.nexusmods.com/cyberpunk2077/mods/16310)
 
 The Nova City mod adds new weather effects and better lighting to Cyberpunk 2077, making Night City feel more realistic and immersive. <br>
 
