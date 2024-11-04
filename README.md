@@ -124,19 +124,19 @@ To install the modlist, complete the following steps:
 
 
 ### Post-Installation
+	Cyberpunk 2077 will always have to be launched through MO2, you can create a dekstop shortcut if desired. Look for the drop down menu under the "RUN" button
 
 1. Open your mod list folder and run "ModOrganizer.exe"
 
 2. Once mod organizer is open, in the upper right of Mod organizer 2 you will see a dropdown menu beside the "RUN" button, select "REDprelauncher" and click the "RUN" button
 
-
 ![Screenshot 2024-11-03 181141](https://github.com/user-attachments/assets/91953cea-5040-45b1-b481-46ee820466f8)
-
-
 
 3. Once "REDprelauncher" is open click the gear icon beside "Play" and click enable mods
 
 4. You may now close "REDprelauncher" and select "Cyberpunk 2077" from the drop down and click "RUN"
+
+⚠️⚠️YOU WILL SEE A WINDOW POP UP WITH AN UNLOCK BUTTON. DO NOT CLICK UNLOCK, GIVE THE GAME SOME TIME TO LAUNCH. NEVER CLICK UNLOCK WHILE PLAYING THE LIST IT WILL BREAK THE GAME ⚠️⚠️
 
 
 #### First Time Game Startup
@@ -150,28 +150,25 @@ To install the modlist, complete the following steps:
 	 
 3. After your done adjusting graphics, activate the overlay using the key you assigned earlier
 
-4. Look for the "ULTRA+" header in the Overlay, click the arrow and expand the window. There will be raytracing and texture settings boxes you can tick. Tick these boxes based on your graphics settings and hardware *If you dont have ray tracing or path tracing enabled in your base game graphics settings. <br>
+4. While in the overlay look for the header "nova city weather", click the misc tab, scroll down and untick two boxes: "Weather Notification" & "Warning Message" 
+
+   		These two should be unticked
+
+![Screenshot 2024-11-03 182311](https://github.com/user-attachments/assets/2de03865-3f75-43f4-8b72-c70fce1c3ce3)
 
 
+#### Optional Setup
+
+Look for the "ULTRA+" header in the Overlay, click the arrow and expand the window. There will be raytracing and texture settings boxes you can tick. Tick these boxes based on your graphics settings and hardware *If you dont have ray tracing or path tracing enabled in your base game graphics settings. <br>
 
 **⚠️ DO NOT ENABLE RAY TRACING IN THE ULTRA PLUS OVERALY IF YOU DO NOT HAVE IT ENABLED IN THE BASE GAME SETTING, SAME GOES FOR PATHTRACING OR THE GAME WILL BREAK WHEN RELAUNCHING. DO NOT TICK ANY OF THE BOXES UNDER THE OVERRIDE GAME GRAPHIC MENU SETTINGS ⚠️*** <br>
 
 
-	This is what it should like, your values will be different
+	<!-- This is what it should like, your values will be different
 
 
-![Screenshot 2024-11-03 181842](https://github.com/user-attachments/assets/bf3e2eba-17e7-42d3-a28c-a488b66fdce8)
+![Screenshot 2024-11-03 181842](https://github.com/user-attachments/assets/bf3e2eba-17e7-42d3-a28c-a488b66fdce8)-->
 
-
-
-
-
-5. While in the overlay look for the header "nova city weather", click the misc tab, scroll down and untick two boxes: "Weather Notification" & "Warning Message" 
-
-
-		these two should be unticked
-
-![Screenshot 2024-11-03 182311](https://github.com/user-attachments/assets/2de03865-3f75-43f4-8b72-c70fce1c3ce3)
 
 
 ## Updating the Modlist
