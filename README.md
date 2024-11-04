@@ -87,7 +87,10 @@ Follow the steps below to successfully install the modlist and prepare your game
 1. Create an empty folder named Wabbajack on the root of your drive, such as C:\Wabbajack for example.
   > - **DO NOT** place it in Program Files, User folders (such as Desktop, Documents, Downloads, OneDrive, etc.), in your Syberpunk 2077's steam, gog, epic or in any folders related to the modlist itself (the downloads or install folder)
 
-2. **Download Wabbajack**: Download the latest version of Wabbajack from [Wabbajack’s official website](https://www.wabbajack.org/)
+2. **Download Wabbajack**: Download the latest version of Wabbajack from [Wabbajack’s official website](https://www.wabbajack.org/)  
+
+![wjack readme 5](https://github.com/user-attachments/assets/a0d8b2ef-2e7e-4c16-abdc-5591aaa43aee)
+
 
 3. **Install Wabbajack**: Follow the installation instructions on Wabbajack’s website to set it up. Make sure to place the Wabbajack.exe file inside the folder from step 1
 	
