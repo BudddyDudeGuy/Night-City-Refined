@@ -33,9 +33,10 @@ Ideal for players wanting a tougher, more engaging gameplay experience, this mod
 
 We feel we've balanced the mod as best as we could. However, if you feel it is too easy or hard, you can always go into Enemies of Night City settings in the "Mods" section and adjust to your liking!
 
-### Guns Redone
 
-https://www.nexusmods.com/cyberpunk2077/mods/12704
+
+
+### [Guns Redone](https://www.nexusmods.com/cyberpunk2077/mods/12704)
 
 The Guns Redone V3.0 (Overhauled) mod makes gunplay in Cyberpunk 2077 more immersive and realistic, ensuring that no single weapon feels overpowered. The mod is game chaning it has to much to list
 but here are the key features. <br>
