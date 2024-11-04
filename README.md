@@ -166,7 +166,7 @@ To install the modlist, complete the following steps:
 
 		these two should be unticked
 
-![Screenshot 2024-11-03 182311](https://github.com/user-attachments/assets/0c8f5129-35ce-4b82-a449-6ef4b01da9cd)
+![Screenshot 2024-11-03 182311](https://github.com/user-attachments/assets/2de03865-3f75-43f4-8b72-c70fce1c3ce3)
 
 
 ## Updating the Modlist
