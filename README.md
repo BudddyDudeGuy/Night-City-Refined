@@ -124,7 +124,8 @@ To install the modlist, complete the following steps:
 
 2. Once mod organizer is open, in the upper right of Mod organizer 2 you will see a dropdown menu beside the "RUN" button, select "REDprelauncher" and click the "RUN" button
 
-![Screenshot 2024-11-03 181141](https://github.com/user-attachments/assets/aa10df07-46ca-4767-b2ca-22d9aede06b6)
+
+![Screenshot 2024-11-03 181141](https://github.com/user-attachments/assets/91953cea-5040-45b1-b481-46ee820466f8)
 
 
 
