@@ -14,8 +14,6 @@
 
 ## Fixing the Handling
 
-Three mods doing three different jobs, stacked on top of each other.
-
 ### General Vehicle Fixes
 
 [Gashetka's mod](https://www.nexusmods.com/cyberpunk2077/mods/31813), kept current by ShinyaON, is the base layer the other two sit on. Cars have weight. You feel the grip change going from pavement to dirt, sport cars stick to the road, the heavy stuff drives heavy, and the handbrake finally does something. No more understeering into a wall every time you take a corner with any speed on it.
