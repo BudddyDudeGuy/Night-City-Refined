@@ -12,25 +12,29 @@
 
 Let's be real, driving in vanilla Cyberpunk is dog shit. Cars slide around like they're on ice, nothing has any weight to it, and first person driving is basically unplayable. This list rebuilds all of it.
 
-## General Vehicle Fixes
+## Fixing the Handling
 
-[General Vehicle Fixes](https://www.nexusmods.com/cyberpunk2077/mods/31813) by Gashetka, uploaded by ShinyaON, does most of the heavy lifting. Cars have actual weight now. You feel the grip change going from pavement to dirt, sport cars stick to the road, the heavy stuff drives heavy, and the handbrake finally does something. No more understeering into a wall every time you take a corner with any speed on it.
+Three mods doing three different jobs, stacked on top of each other.
 
-## Vehicle Handling Redux
+### General Vehicle Fixes
 
-**Vehicle Handling Redux** by MrFlashMode goes on top and fixes the steering. Turning is sharp and immediate instead of that vague vanilla delay where you turn and the car thinks about it for half a second. Bikes got their own pass too and they're fun as hell now instead of a death sentence.
+[Gashetka's mod](https://www.nexusmods.com/cyberpunk2077/mods/31813), kept current by ShinyaON, is the base layer the other two sit on. Cars have weight. You feel the grip change going from pavement to dirt, sport cars stick to the road, the heavy stuff drives heavy, and the handbrake finally does something. No more understeering into a wall every time you take a corner with any speed on it.
 
-It also kills the hidden assists running in the background. Vanilla is constantly correcting your steering for you, and you can feel it fighting you even if you don't know that's what's going on. With those gone the car just does what you tell it to.
+### Vehicle Handling Redux
+
+Steering is what MrFlashMode fixed. Turning is sharp and immediate instead of that vague vanilla delay where you turn and the car thinks about it for half a second. Bikes got their own pass too and they're fun as hell now instead of a death sentence.
+
+It also strips out the steering correction the base game quietly runs on you. You can feel it pulling against your input in vanilla even if you never knew what it was. Gone now, so the car goes where you point it.
 
 >[!IMPORTANT]
 >Vehicle Handling Redux is hidden on Nexus right now. It ships with the list, so there's nothing for you to go download.
 
-## Authentic Shift
+### Authentic Shift
 
-[Authentic Shift](https://www.nexusmods.com/cyberpunk2077/mods/6823) by imbamakaber handles the gears and the engine sound. Cars run through an actual gearbox now and you hear it climb and drop with the revs. Give it an hour and you'll be shifting by ear without thinking about it.
+[imbamakaber](https://www.nexusmods.com/cyberpunk2077/mods/6823) handles the gears and the engine sound. Cars run through a real gearbox now and you hear it climb and drop with the revs. Give it an hour and you'll be shifting by ear without thinking about it.
 
-## Shift (Dynamic First Person Camera)
+## Making First Person Driving Work
 
-[Shift](https://www.nexusmods.com/cyberpunk2077/mods/22340) by CyanideX is the one that sold me on first person. The camera moves with the car instead of sitting locked to the dashboard, and it comes with presets so you're not fighting it.
+[Shift (Dynamic First Person Camera)](https://www.nexusmods.com/cyberpunk2077/mods/22340) by CyanideX is what sold me on driving in first person. The camera moves with the car instead of sitting locked to the dashboard, and it ships with presets so you can dial in how much it swings.
 
-I honestly don't even switch to third person anymore. First person driving is actually viable now, and in my opinion it's way better and way more immersive.
+I honestly don't even switch to third person anymore. First person is the better way to play this list.
