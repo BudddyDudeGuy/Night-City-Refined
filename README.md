@@ -145,13 +145,8 @@ Follow the steps below to successfully install the modlist and prepare your game
 
 2. Move and resize the CET windows however you like. Your layout is saved automatically for next time.
 
-3. While in the overlay look for the header "nova city weather", click the misc tab, scroll down and untick two boxes: "Weather Notification" & "Warning Message" 
 
-   		These two should be unticked
-
-![Screenshot 2024-11-03 182311](https://github.com/user-attachments/assets/2de03865-3f75-43f4-8b72-c70fce1c3ce3)
-
-4. Press **`~`** again to close the overlay, then open your in game settings and adjust the graphics to your liking
+3. Press **`~`** again to close the overlay, then open your in game settings and adjust the graphics to your liking
 
 
 #### OPTIONAL SETUP
