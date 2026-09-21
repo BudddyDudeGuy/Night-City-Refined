@@ -122,7 +122,7 @@ REDmod is a free DLC and the list will not work without it. On Steam, open the D
 
 Downloading and installing the list can take a while depending on your internet connection, PC specs, and whether you have Nexus Premium. Without Premium you will need to click the **Slow Download** button for each mod manually.
 
- 1. Download [`Cyberpunk 2077 Enhanced.wabbajack`](https://github.com/BudddyDudeGuy/Cyberpunk_2077-Modlist/raw/main/Cyberpunk%202077%20Enhanced.wabbajack) from this repository.
+ 1. Download [`Cyberpunk 2077 Enhanced.wabbajack`](https://github.com/BudddyDudeGuy/Cyberpunk_2077-Modlist/releases/latest/download/Cyberpunk.2077.Enhanced.wabbajack) from the [Releases](https://github.com/BudddyDudeGuy/Cyberpunk_2077-Modlist/releases/latest) page.
 
  2. Open Wabbajack, click the gear icon in the top right, and press the Nexus login button to link your account. Every mod is pulled from Nexus, so this step is not optional.
 
