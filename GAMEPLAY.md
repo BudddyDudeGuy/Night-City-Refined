@@ -18,7 +18,7 @@ Let's be real, driving in vanilla Cyberpunk is dog shit. Cars slide around like 
 
 ## Vehicle Handling Redux
 
-**Vehicle Handling Redux** by MrFlashMode goes on top and fixes the steering. Turning is sharp and immediate instead of that vague vanilla delay where you turn and the car thinks about it for half a second. Bikes got their own pass too and they're genuinely fun now instead of a death sentence.
+**Vehicle Handling Redux** by MrFlashMode goes on top and fixes the steering. Turning is sharp and immediate instead of that vague vanilla delay where you turn and the car thinks about it for half a second. Bikes got their own pass too and they're fun as hell now instead of a death sentence.
 
 It also kills the hidden assists running in the background. Vanilla is constantly correcting your steering for you, and you can feel it fighting you even if you don't know that's what's going on. With those gone the car just does what you tell it to.
 
