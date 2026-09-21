@@ -138,21 +138,20 @@ Follow the steps below to successfully install the modlist and prepare your game
 
 
 #### FIRST TIME GAME STARTUP
-	After following the preinstallation steps properly, launch the game and a prompt should appear that looks like this
-	(insert image)
+	After following the preinstallation steps properly, launch the game and let it load to the main menu.
 
-1. You will be prompted to assign a keybind to the CET overaly<br>
-	*This button will be used to activate the CET overlay menu. CET overlay menu is used for changing lighting and adjusting other mods and accessing the console command for the game* 
+1. Press the tilde key **`~`** to open the CET overlay<br>
+	*The CET overlay is where you adjust mod settings, change lighting, and reach the game console. The keybind already comes configured with this list, so you will not be prompted to assign one on first launch.*
 
-2. Close the CET overlay, open your in game settings and adjust the graphics to your liking
-	 
-3. After your done adjusting graphics, activate the overlay using the key you assigned earlier
+2. Move and resize the CET windows however you like. Your layout is saved automatically for next time.
 
-4. While in the overlay look for the header "nova city weather", click the misc tab, scroll down and untick two boxes: "Weather Notification" & "Warning Message" 
+3. While in the overlay look for the header "nova city weather", click the misc tab, scroll down and untick two boxes: "Weather Notification" & "Warning Message" 
 
    		These two should be unticked
 
 ![Screenshot 2024-11-03 182311](https://github.com/user-attachments/assets/2de03865-3f75-43f4-8b72-c70fce1c3ce3)
+
+4. Press **`~`** again to close the overlay, then open your in game settings and adjust the graphics to your liking
 
 
 #### OPTIONAL SETUP
