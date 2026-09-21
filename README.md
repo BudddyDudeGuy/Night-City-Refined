@@ -165,7 +165,7 @@ Look for the "ULTRA+" header in the Overlay, click the arrow and expand the wind
 	<!-- This is what it should like, your values will be different
 
 
-![Screenshot 2024-11-03 181842](https://github.com/user-attachments/assets/bf3e2eba-17e7-42d3-a28c-a488b66fdce8)-->
+![Ultra Plus settings](Images/ultraplus-settings.png)-->
 
 
 
