@@ -10,7 +10,7 @@
     - [Downloading and Installing Modlist](#downloading-and-installing-modlist)
   <!-- - [Problems with Installation](#problems-with-installation) -->
     <!-- - [Problematic Files](#problematic-files)-->
-- [Post-Installation](#post-installation)
+- [Playing the List](#playing-the-list)
   - [First Time Game Startup](#first-time-game-startup)
   <!-- - [Post-Installation Issues and Troubleshooting](#post-installation-issues-and-troubleshooting)-->
 
@@ -121,7 +121,7 @@ Follow the steps below to successfully install the modlist and prepare your game
 6. Press the play arrow to begin the download and install
 
 
-### POST-INSTALLATION
+### PLAYING THE LIST
 	Cyberpunk 2077 will always have to be launched through MO2, you can create a dekstop shortcut if desired. Look for the drop down menu under the "RUN" button
 
 1. Open your mod list folder and run "ModOrganizer.exe"
