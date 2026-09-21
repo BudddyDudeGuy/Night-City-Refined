@@ -10,7 +10,7 @@
 
 # Driving
 
-Let's be real, driving in vanilla Cyberpunk is dog shit. Cars slide around like they're on ice, nothing has any weight to it, and first person driving is basically unplayable. This list rebuilds all of it.
+*Let's be real, driving in vanilla Cyberpunk is dog shit. Cars slide around like they're on ice, nothing has any weight to it, and first person driving is basically unplayable. This list rebuilds all of it.*
 
 ## Fixing the Handling
 
