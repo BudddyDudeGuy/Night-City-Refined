@@ -8,11 +8,11 @@
 
 ---
 
-# Driving
+# $\textcolor{#FF2E88}{\textsf{Driving}}$
 
 *Let's be real, driving in vanilla Cyberpunk is dog shit. Cars slide around like they're on ice, nothing has any weight to it, and first person driving is basically unplayable. This list rebuilds all of it.*
 
-## Fixing the Handling
+## $\textcolor{#00B3C8}{\textsf{Fixing the Handling}}$
 
 ### General Vehicle Fixes
 
@@ -31,7 +31,7 @@ It also strips out the steering correction the base game quietly runs on you. Yo
 
 [imbamakaber](https://www.nexusmods.com/cyberpunk2077/mods/6823) handles the gears and the engine sound. Cars run through a real gearbox now and you hear it climb and drop with the revs. Give it an hour and you'll be shifting by ear without thinking about it.
 
-## Making First Person Driving Work
+## $\textcolor{#00B3C8}{\textsf{Making First Person Driving Work}}$
 
 [Shift (Dynamic First Person Camera)](https://www.nexusmods.com/cyberpunk2077/mods/22340) by CyanideX is what sold me on driving in first person. The camera moves with the car instead of sitting locked to the dashboard, and it ships with presets so you can dial in how much it swings.
 
@@ -39,11 +39,11 @@ I honestly don't even switch to third person anymore. First person is the better
 
 ---
 
-# Story and Pacing
+# $\textcolor{#FF2E88}{\textsf{Story and Pacing}}$
 
 *Cyberpunk's biggest self-inflicted wound is that the story keeps telling you you're dying while the game hands you a hundred hours of stuff to do. Vik says a few weeks tops, then you spend what amounts to months clearing gigs for Wakako and nobody ever mentions it again. This section closes that gap from both ends: it pulls the fake urgency out of the writing where it doesn't belong, and it puts real space between the main missions so exploring Night City stops feeling like you're ignoring a dying man.*
 
-## Killing the Fake Countdown
+## $\textcolor{#00B3C8}{\textsf{Killing the Fake Countdown}}$
 
 ### Delete "A Few Weeks Tops"
 
@@ -65,7 +65,7 @@ Act 3 has the same problem in miniature. The second you finish Search and Destro
 
 [Panam questline delays](https://www.nexusmods.com/cyberpunk2077/mods/17541) and [Rachel's call delayed](https://www.nexusmods.com/cyberpunk2077/mods/17507) by Metalunacy push back the triggers for Riders on the Storm, With a Little Help from My Friends, Queen of the Highway and They Won't Go When I Go. Same idea, smaller scale. Those questlines are supposed to breathe between chapters, not arrive back to back the same afternoon.
 
-## Watson as White Orchard
+## $\textcolor{#00B3C8}{\textsf{Watson as White Orchard}}$
 
 [LONGER LOCKDOWN - Act 1 Extended](https://www.nexusmods.com/cyberpunk2077/mods/23219), also by hobo of Ferelden, is my favourite thing on this page. It takes the opening of the game and turns it into a proper RPG starting zone, the way White Orchard works in Witcher 3.
 
@@ -75,7 +75,7 @@ It also fixes the dumbest bit of vanilla pacing: Jackie no longer auto-calls you
 
 Paired with Live A Little's bigger Vik debt, the opening hours have an actual goal. Grind up the eddies, pay the man, then go pull the heist.
 
-## Take a Breather
+## $\textcolor{#00B3C8}{\textsf{Take a Breather}}$
 
 [Xurec's pacing and reputation overhaul](https://www.nexusmods.com/cyberpunk2077/mods/23290) handles everything after Act 1. It ties chunks of the city to your Street Cred and your progress instead of dumping all of it on you at once, so quests, gigs, clubs, stores and apartments open up over the course of the game rather than in the first ten hours. Night City stops feeling like a menu and starts feeling like somewhere you're working your way into.
 
@@ -84,7 +84,7 @@ It ships here as the modular version with all five modules enabled, and LONGER L
 >[!IMPORTANT]
 >Take a Breather wants a fresh save. Don't install it, remove it, or toggle its modules partway through a playthrough or locations will stay locked. Also don't buy an apartment through EZEstates until the fixer actually messages you about it and the map shows it unlocked.
 
-## Phantom Liberty in the Right Place
+## $\textcolor{#00B3C8}{\textsf{Phantom Liberty in the Right Place}}$
 
 [OPLI - Overhauled PL Integration](https://www.nexusmods.com/cyberpunk2077/mods/21623) by Alphanine and Orikon fixes the worst structural problem the game has. Vanilla drops Dogtown into the middle of Act 2, so a V who is still a nobody doing favours for Takemura goes and takes down a Chimera and mows through Black Ops squads, then comes back and gets told they're out of their depth. Act 2 ends up bloated with two whole games competing for your attention while Act 3 sits nearly empty.
 
@@ -94,11 +94,11 @@ It ships on **Flexible**, which unlocks Dogtown earlier but still gates the bulk
 
 ---
 
-# Immersion and Survival
+# $\textcolor{#FF2E88}{\textsf{Immersion and Survival}}$
 
 *Vanilla Night City is full of stuff you can technically do. You can buy food, drink at a bar, take a shower, dance at a club, pet a cat, watch a braindance. None of it does anything. It's set dressing you interact with once and never touch again. This section gives all of it a job, and the whole point is that nothing here feels bolted on. Play for an hour and you'll forget which parts CDPR shipped.*
 
-## Dark Future
+## $\textcolor{#00B3C8}{\textsf{Dark Future}}$
 
 [DarkFortuneTeller's survival overhaul](https://www.nexusmods.com/cyberpunk2077/mods/16300) is the mod the rest of this section plugs into. It adds four needs that sit under your health and stamina bars and hide themselves when they're satisfied: Hydration, Nutrition, Energy, and Nerve.
 
@@ -111,7 +111,7 @@ Or you get it back the way Night City would have you get it back. Booze, cigaret
 >[!NOTE]
 >Dark Future deals with addiction and anxiety as mechanics, and it's mature about it rather than glamorising it. If that's not something you want in your game, nearly every feature can be turned off individually in Mod Settings.
 
-## The Deceptious Suite
+## $\textcolor{#00B3C8}{\textsf{The Deceptious Suite}}$
 
 Huge amount of this list is one modder. [deceptious](https://next.nexusmods.com/profile/deceptious) has spent years building small mods that each fix one thing the base game gestures at and never finished, and stacked together they're the reason the world feels lived in.
 
@@ -127,16 +127,16 @@ The Romanced Enhanced set covers Panam, Judy, Kerry and River, plus [Romance Han
 
 All of that feeds Dark Future's Nerve, which is the part that ties the whole section together. Relaxing isn't flavour, it's maintenance.
 
-## Lizzie's Braindances
+## $\textcolor{#00B3C8}{\textsf{Lizzie's Braindances}}$
 
 [ArmanIII's mod](https://www.nexusmods.com/cyberpunk2077/mods/11077) gets written off on the file name and that's a mistake. It builds a full braindance catalog into Lizzie's Bar, and past the obvious stuff it's zen meditation BDs, concerts, hangouts and dates with characters you know, Edgerunners scenes, Psycho Killer episodes, and rides through Night City you can't otherwise take. You can buy BDs, stream them to your apartment instead of trekking to Lizzie's, watch the raw unedited virtus through the braindance editor, and invite your partner over to watch one with you.
 
 It ships here with its Dark Future compatibility file, so a braindance is a real way to get your Nerve back. It's SFW out of the box and asks before enabling anything else.
 
-## Every Ripperdoc Has a Specialty
+## $\textcolor{#00B3C8}{\textsf{Every Ripperdoc Has a Specialty}}$
 
 [Specialized Ripperdocs](https://www.nexusmods.com/cyberpunk2077/mods/23399) by Tremox gives each ripperdoc two cyberware types and nothing else, and it sorts modded cyberware into those specialties automatically, so it holds up no matter what else is installed. Every iconic piece is sold by exactly one doc. Want an iconic Sandevistan? Go find the one who does operating systems. [Ripperdoc Vendor UI Enhancements](https://www.nexusmods.com/cyberpunk2077/mods/23180) puts the specialties on the world map so you're not guessing, and there's a CET lookup window if you want to skip the hunt entirely.
 
-## Everything Else
+## $\textcolor{#00B3C8}{\textsf{Everything Else}}$
 
 The rest is too long to list. [EconomyPunk](https://www.nexusmods.com/cyberpunk2077/mods/16952) so eddies mean something, a [stock market and news system](https://www.nexusmods.com/cyberpunk2077/mods/6319) that reacts to the world, playable blackjack, roulette and pachinko, the Pacifica roller coaster reopened so you can ride it with Judy, Panam, Kerry or Songbird, Delamain given a voice again, the Aldecaldo camp built out, H10 opened up, post-romance deliveries showing up at your door. Just play it and keep an eye out. Half the fun is walking into something you didn't know was in here.
