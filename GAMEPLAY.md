@@ -104,9 +104,9 @@ It ships on **Flexible**, which unlocks Dogtown earlier but still gates the bulk
 
 The first three are what you'd expect. Let Hydration slide and sprinting eats stamina. Let Nutrition go and your max health drops and melee swings get slow. Let Energy run out and your RAM recovery and reload speed suffer. Suddenly the vending machines and food stalls you walked past for sixty hours are infrastructure.
 
-Nerve is the one that makes it a Cyberpunk mod rather than a generic survival mod. It's how calm V is. Firefights drain it, getting traced while quickhacking drains it, and ignoring your other needs drains it. When it gets low your breathing goes ragged, your hands shake while aiming, and you get too wound up to eat or sleep. Hit zero and you have a heart attack. You bring it back by going home and actually living: shower, sleep, dance, spend time with your partner, or reach for a drink, a cigarette or something stronger, all of which are addictive by default. That's the trap the mod is built around.
+Nerve is the one that makes it a Cyberpunk mod rather than a generic survival mod. It's how calm V is. Firefights drain it, getting traced drains it, ignoring your other needs drains it. Run low and your breathing goes ragged, your hands shake while aiming, and you're too wound up to eat or sleep. Hit zero and you have a heart attack. You get it back by going home and actually living: shower, sleep, dance, spend time with your partner.
 
-Turn on its optional fast travel and vehicle summon limits and the whole thing clicks into place. Every night you're out in the city becomes a choice about whether to head back.
+Or you get it back the way Night City would have you get it back. Booze, cigarettes, narcotics, all of it works and all of it is addictive by default, so the quick fix builds into a dependency you then have to come off. That's the part that makes this feel like it belongs in Cyberpunk instead of bolted on from a survival game. The setting is already about people burning themselves out to keep going, and this is the first time the systems actually say so.
 
 >[!NOTE]
 >Dark Future deals with addiction and anxiety as mechanics, and it's mature about it rather than glamorising it. If that's not something you want in your game, nearly every feature can be turned off individually in Mod Settings.
