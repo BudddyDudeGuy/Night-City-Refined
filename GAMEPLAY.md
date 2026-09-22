@@ -91,3 +91,52 @@ It ships here as the modular version with all five modules enabled, and LONGER L
 OPLI moves the expansion so it reads as a branch off Act 3 instead of an interruption. It also repurposes the "Phantom Liberty" journal entry into a permanent tracker for the Relic plot, so at any point you can open the journal and see exactly where you are in the actual story, and it strips the expansion logos and the separate end credits that kept reminding you this was DLC.
 
 It ships on **Flexible**, which unlocks Dogtown earlier but still gates the bulk of Reed's story behind Tapeworm. If you want the full version of the idea, switch it to **Linear** in Mod Settings and Songbird won't call until after Tapeworm. Either way you have to pick before you meet Takemura at Tom's Diner, because the mode locks in there.
+
+---
+
+# Immersion and Survival
+
+*Vanilla Night City is full of stuff you can technically do. You can buy food, drink at a bar, take a shower, dance at a club, pet a cat, watch a braindance. None of it does anything. It's set dressing you interact with once and never touch again. This section gives all of it a job, and the whole point is that nothing here feels bolted on. Play for an hour and you'll forget which parts CDPR shipped.*
+
+## Dark Future
+
+[DarkFortuneTeller's survival overhaul](https://www.nexusmods.com/cyberpunk2077/mods/16300) is the mod the rest of this section plugs into. It adds four needs that sit under your health and stamina bars and hide themselves when they're satisfied: Hydration, Nutrition, Energy, and Nerve.
+
+The first three are what you'd expect. Let Hydration slide and sprinting eats stamina. Let Nutrition go and your max health drops and melee swings get slow. Let Energy run out and your RAM recovery and reload speed suffer. Suddenly the vending machines and food stalls you walked past for sixty hours are infrastructure.
+
+Nerve is the one that makes it a Cyberpunk mod rather than a generic survival mod. It's how calm V is. Firefights drain it, getting traced while quickhacking drains it, and ignoring your other needs drains it. When it gets low your breathing goes ragged, your hands shake while aiming, and you get too wound up to eat or sleep. Hit zero and you have a heart attack. You bring it back by going home and actually living: shower, sleep, dance, spend time with your partner, or reach for a drink, a cigarette or something stronger, all of which are addictive by default. That's the trap the mod is built around.
+
+Turn on its optional fast travel and vehicle summon limits and the whole thing clicks into place. Every night you're out in the city becomes a choice about whether to head back.
+
+>[!NOTE]
+>Dark Future deals with addiction and anxiety as mechanics, and it's mature about it rather than glamorising it. If that's not something you want in your game, nearly every feature can be turned off individually in Mod Settings.
+
+## The Deceptious Suite
+
+Huge amount of this list is one modder. [deceptious](https://next.nexusmods.com/profile/deceptious) has spent years building small mods that each fix one thing the base game gestures at and never finished, and stacked together they're the reason the world feels lived in.
+
+### Out in the City
+
+[Night City Interactions](https://www.nexusmods.com/cyberpunk2077/mods/5519) and its six district addons are the big one. Bars across every district get real interactions, so you can sit down for a drink on your own or bring your partner to Tom's Diner, Lizzie's, the Afterlife, El Coyote Cojo, Red Dirt, 7th Hell and a long list of others. It also ships an Edgerunners tour that walks you through the locations from every episode of the anime.
+
+Then the vendors stop being vending machines with faces. [Immersive Bartenders](https://www.nexusmods.com/cyberpunk2077/mods/7203) and [Immersive Food Vendors](https://www.nexusmods.com/cyberpunk2077/mods/7322) have them actually serve you. [Immersive Rippers](https://www.nexusmods.com/cyberpunk2077/mods/7064) and [Immersive Vik](https://www.nexusmods.com/cyberpunk2077/mods/6794) put V in the chair for chrome work with the doc animated around you instead of the screen fading to black. [Wilson's Range](https://www.nexusmods.com/cyberpunk2077/mods/7367) and the Kabuki range give you somewhere to actually shoot, and [Dance Off](https://www.nexusmods.com/cyberpunk2077/mods/10615) lets you use the dance floors the game built and then locked you out of.
+
+### Back at the Apartment
+
+The Romanced Enhanced set covers Panam, Judy, Kerry and River, plus [Romance Hangouts](https://www.nexusmods.com/cyberpunk2077/mods/11590), the shower feature, [Gone Away](https://www.nexusmods.com/cyberpunk2077/mods/19412) so partners behave sensibly when you leave, and the I Really Want To Stay At Your House set for each of them. Add the cats, the apartment toys, coffee makers in every apartment, and interactive devices in Judy's place, and there's a genuine reason to go home that isn't just a sleep menu.
+
+All of that feeds Dark Future's Nerve, which is the part that ties the whole section together. Relaxing isn't flavour, it's maintenance.
+
+## Lizzie's Braindances
+
+[ArmanIII's mod](https://www.nexusmods.com/cyberpunk2077/mods/11077) gets written off on the file name and that's a mistake. It builds a full braindance catalog into Lizzie's Bar, and past the obvious stuff it's zen meditation BDs, concerts, hangouts and dates with characters you know, Edgerunners scenes, Psycho Killer episodes, and rides through Night City you can't otherwise take. You can buy BDs, stream them to your apartment instead of trekking to Lizzie's, watch the raw unedited virtus through the braindance editor, and invite your partner over to watch one with you.
+
+It ships here with its Dark Future compatibility file, so a braindance is a real way to get your Nerve back. It's SFW out of the box and asks before enabling anything else.
+
+## Every Ripperdoc Has a Specialty
+
+[Specialized Ripperdocs](https://www.nexusmods.com/cyberpunk2077/mods/23399) by Tremox gives each ripperdoc two cyberware types and nothing else, and it sorts modded cyberware into those specialties automatically, so it holds up no matter what else is installed. Every iconic piece is sold by exactly one doc. Want an iconic Sandevistan? Go find the one who does operating systems. [Ripperdoc Vendor UI Enhancements](https://www.nexusmods.com/cyberpunk2077/mods/23180) puts the specialties on the world map so you're not guessing, and there's a CET lookup window if you want to skip the hunt entirely.
+
+## Everything Else
+
+The rest is too long to list. [EconomyPunk](https://www.nexusmods.com/cyberpunk2077/mods/16952) so eddies mean something, a [stock market and news system](https://www.nexusmods.com/cyberpunk2077/mods/6319) that reacts to the world, playable blackjack, roulette and pachinko, the Pacifica roller coaster reopened so you can ride it with Judy, Panam, Kerry or Songbird, Delamain given a voice again, the Aldecaldo camp built out, H10 opened up, post-romance deliveries showing up at your door. Just play it and keep an eye out. Half the fun is walking into something you didn't know was in here.
