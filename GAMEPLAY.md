@@ -7,6 +7,86 @@
 
 ---
 
+# $\huge \textcolor{#FF2E88}{\textsf{\textbf{Combat Overhauled}}}$
+
+*Vanilla combat falls apart about ten hours in. Every gun feels roughly the same, enemies stand in the open and whiff shots from five feet away, and a guy in a tracksuit soaks a whole magazine because the game quietly scaled him to your level. This section fixes all of it. Enemies make sense now, they fight like they want to live, and you actually have to use your brain.*
+
+## $\Large \textcolor{#00B3C8}{\textsf{\textbf{Weapons}}}$
+
+### $\large \textcolor{#7D8590}{\textsf{\textbf{Weapons Improved}}}$
+
+[RelaxItsOk's overhaul](https://www.nexusmods.com/cyberpunk2077/mods/22741) is the core of this whole section, and pretty much everything else in it is tuned around it. It rebuilds every gun's stats from what the gun actually is. Damage comes from the caliber and how well the firing mechanism is made, so a cheap street pistol hits softer than a quality one. Fire rate comes from the bolt. Range comes from caliber and barrel length, which means shotguns finally work past point blank. Recoil, spread and ADS speed come from weight and build quality, and reload speed comes from the size of the gun and its mag. Build quality is pulled from the lore, but every gun stays useful.
+
+On top of that it fixes a pile of stuff vanilla just got wrong: wrong magazine sizes, iconics with missing or duplicated effects, recoil kicking sideways or downward with certain muzzles, pistols getting shouldered like rifles when you aim, and being able to fire before the mag is even seated. Iconics get modifiers that fit the gun instead of magic magazine size bonuses.
+
+### $\large \textcolor{#7D8590}{\textsf{\textbf{Weapon Mods, Muzzles and Suppressors Improved}}}$
+
+The rest of RelaxItsOk's Improved line does the same thing for attachments. [Weapon Mods Improved](https://www.nexusmods.com/cyberpunk2077/mods/21127) rebalances weapon mods so they can compete with iconics instead of being filler. [Weapon Muzzles Improved](https://www.nexusmods.com/cyberpunk2077/mods/20970) drops the crit penalty most muzzles carried and reworks their recoil and ricochet numbers. [Weapon Suppressors Improved](https://www.nexusmods.com/cyberpunk2077/mods/20926) ties each suppressor's stats to how well it's made and cuts the damage penalty, so a suppressor is worth running outside of stealth.
+
+### $\large \textcolor{#7D8590}{\textsf{\textbf{Armor Improved}}}$
+
+Vanilla quietly makes your armor worse as you level, in sudden jumps nobody tells you about. On Normal your armor is already 69% less effective by level 20. [Armor Improved](https://www.nexusmods.com/cyberpunk2077/mods/27503), also RelaxItsOk, swaps that for a steady decline that's the same on every difficulty, so you always know where you stand.
+
+## $\Large \textcolor{#00B3C8}{\textsf{\textbf{Enemies}}}$
+
+### $\large \textcolor{#7D8590}{\textsf{\textbf{Enemy Rarity Fixes Improved}}}$
+
+Rarity is what sets an enemy's health and damage, and vanilla hands it out almost at random, then scales it with your level. [RelaxItsOk's version](https://www.nexusmods.com/cyberpunk2077/mods/30958) of FlashInTheFlesh's original makes rarity match what the enemy actually is and locks it there. A Scav in a tracksuit stays weak forever. A corpo agent stays elite. Enemy Sandevistans get buffed to their tier so they can keep up with you, and corpo squads carry their own company's guns.
+
+The list runs its Weapons Improved HP preset. Low tier enemies drop a bit faster, Rare and Elite get a lot tougher (330 and 573 HP against vanilla's 195 and 390), and bosses stay close to vanilla. You can read how dangerous someone is just by looking at them.
+
+### $\large \textcolor{#7D8590}{\textsf{\textbf{Much Better AI}}}$
+
+[0nlyQ's overhaul](https://www.nexusmods.com/cyberpunk2077/mods/31402) changes how enemies fight without touching their health, damage or spawn counts. Every enemy acts on its role, weapon, rank and faction, so a Scav doesn't fight like an Arasaka soldier. Snipers and netrunners hang back, shotgunners push you, suppressors lay down fire. Break line of sight or move sideways and their shots get worse. Run straight across open ground and you get punished. Squads coordinate, reposition one at a time for better angles, and higher ranked enemies abandon bad cover faster.
+
+### $\large \textcolor{#7D8590}{\textsf{\textbf{Immersive Shooting AI}}}$
+
+Ever wonder why vanilla enemies miss you from point blank? There's a hidden timer that lets each enemy land roughly one hit a second no matter what. [Phoenicia's mod](https://www.nexusmods.com/cyberpunk2077/mods/22782) kills it. Whether a shot lands now comes down to distance, the enemy's skill, their cyberware and their weapon. Up close they will hit you. At range shotgunners fall off hard while riflemen still land shots, and proper cover actually protects you. Fights get deadlier and more tactical at the same time.
+
+### $\large \textcolor{#7D8590}{\textsf{\textbf{Enemy Melee Moves Unlocked}}}$
+
+Melee enemies already had a full moveset animated in the game files. They just never used it. [dnbnhlp's mod](https://www.nexusmods.com/cyberpunk2077/mods/34153) gives back 25 attacks and combos across 12 weapon types and 444 enemy types. Fist fighters kick now, a Maelstrom elite with Mantis Blades has more than two attacks, and melee fights stop being a pattern you learn once and farm forever.
+
+## $\Large \textcolor{#00B3C8}{\textsf{\textbf{Stealth and Netrunning}}}$
+
+### $\large \textcolor{#7D8590}{\textsf{\textbf{Much Better Netrunning}}}$
+
+Quickhacks aren't free anymore. [Much Better Netrunning](https://www.nexusmods.com/cyberpunk2077/mods/27237) by Q and Brahmax locks them until you breach the network, and the daemons you upload in the minigame decide what opens up: devices, people, or cameras and turrets. You can breach from access points, backdoors like vending machines and computers, or unconscious enemies (knock them out, don't kill them, or their cyberware drops off the network). Enemy netrunners fight back too. Netrunning turns into actual infiltration instead of pointing at people until they die.
+
+### $\large \textcolor{#7D8590}{\textsf{\textbf{Stealthrunner}}}$
+
+[RMK's mod](https://www.nexusmods.com/cyberpunk2077/mods/7616) adds optional stealth objectives to main quests, side quests, gigs and NCPD hustles: stay undetected, don't raise suspicion, don't kill anyone, don't touch anyone. Pull them off and you get XP, street cred, eddies and recipes, and enough of them unlock perk points, new cyberware and a stealth perk tree of its own. Works on Phantom Liberty missions too.
+
+### $\large \textcolor{#7D8590}{\textsf{\textbf{Dead Body Alert}}}$
+
+In vanilla a squad finds their buddy's body, panics for a minute, then goes back to smoking like nothing happened. [Dead Body Alert](https://www.nexusmods.com/cyberpunk2077/mods/26746) keeps them alerted. Leave a body where it gets found and the whole area stays hot.
+
+## $\Large \textcolor{#00B3C8}{\textsf{\textbf{Explosions}}}$
+
+### $\large \textcolor{#7D8590}{\textsf{\textbf{Immersive Explosions}}}$
+
+Vanilla decides if an explosion hits you by drawing a line to your feet, so a curb makes you immune to a frag grenade. [Immersive Explosions](https://www.nexusmods.com/cyberpunk2077/mods/31624) checks the chest as well, gives explosions a realistic radius (frags go from about 5m to 8.5m, exploding cars and barrels roughly double), and replaces the flat damage curve with a real falloff, so where you stand in a blast actually matters.
+
+### $\large \textcolor{#7D8590}{\textsf{\textbf{Explosion Knockback and Ragdoll Overhaul}}}$
+
+[cradilyex built this](https://www.nexusmods.com/cyberpunk2077/mods/33327) as an addon to Immersive Explosions. Blasts now push, knock down and ragdoll enemies right out of cover, and they kick your camera too. Don't stand next to a live grenade.
+
+## $\Large \textcolor{#00B3C8}{\textsf{\textbf{Cyberware}}}$
+
+### $\large \textcolor{#7D8590}{\textsf{\textbf{Cyberware Improved}}}$
+
+[Cyberware Improved](https://www.nexusmods.com/cyberpunk2077/mods/23554) runs RelaxItsOk's Improved treatment over your chrome: cleaner stat curves across every tier, and fixes for stuff like the Biomonitor constantly triggering before the Smasher fight in the secret ending.
+
+### $\large \textcolor{#7D8590}{\textsf{\textbf{Black Chrome}}}$
+
+[Phoenicia's expansion](https://www.nexusmods.com/cyberpunk2077/mods/16031) adds cyberware that actually changes how you build. Aegis Shield deflects ranged fire at the cost of RAM, Fortress Legs trade mobility for massive armor, Sponsored Covering pays more for every gig but barely protects you, and there's an auxiliary deck for Sandevistan and Berserk builds that still want device hacks. The illegal stuff is sold in Dogtown and needs street cred to buy anywhere else.
+
+### $\large \textcolor{#7D8590}{\textsf{\textbf{Extra Hands}}}$
+
+[Seijax's mod](https://www.nexusmods.com/cyberpunk2077/mods/12325) is the hand cyberware pack. The Magnetic Wrist Sheath gives you a hidden knife that doesn't take a weapon slot, the Ambush Compiler is a stealth alternative to the Ballistic Coprocessor with big bonuses while you're undetected, and Tactical Link is an iconic Smart Link that does different things depending on which body part your smart rounds hit.
+
+---
+
 # $\huge \textcolor{#FF2E88}{\textsf{\textbf{Driving Redone}}}$
 
 *Let's be real, driving in vanilla Cyberpunk is dog shit. Cars slide around like they're on ice, nothing has any weight to it, and first person driving is basically unplayable. This list rebuilds all of it.*
@@ -178,4 +258,89 @@ It ships here with its Dark Future compatibility file, so a braindance is a real
 
 ## $\Large \textcolor{#00B3C8}{\textsf{\textbf{Everything Else}}}$
 
-The rest is too long to list. [EconomyPunk](https://www.nexusmods.com/cyberpunk2077/mods/16952) so eddies mean something, a [stock market and news system](https://www.nexusmods.com/cyberpunk2077/mods/6319) that reacts to the world, playable blackjack, roulette and pachinko, the Pacifica roller coaster reopened so you can ride it with Judy, Panam, Kerry or Songbird, Delamain given a voice again, the Aldecaldo camp built out, H10 opened up, post-romance deliveries showing up at your door. Just play it and keep an eye out. Half the fun is walking into something you didn't know was in here.
+The rest is too long to list. A [stock market and news system](https://www.nexusmods.com/cyberpunk2077/mods/6319) that reacts to the world, playable blackjack, roulette and pachinko, the Pacifica roller coaster reopened so you can ride it with Judy, Panam, Kerry or Songbird, Delamain given a voice again, the Aldecaldo camp built out, H10 opened up, post-romance deliveries showing up at your door. Just play it and keep an eye out. Half the fun is walking into something you didn't know was in here.
+
+---
+
+# $\huge \textcolor{#FF2E88}{\textsf{\textbf{Economy and Loot Rebalanced}}}$
+
+*Vanilla money is broken by the end of Act 1. Selling guns beats everything, money shards scale into stupid numbers, and before long eddies stop meaning anything. Gear is the same story: once you have a Tier 5 gun there's nothing left to chase. This section makes you earn it and keep earning it.*
+
+## $\Large \textcolor{#00B3C8}{\textsf{\textbf{Economy}}}$
+
+### $\large \textcolor{#7D8590}{\textsf{\textbf{EconomyPunk}}}$
+
+[RelaxItsOk's economy overhaul](https://www.nexusmods.com/cyberpunk2077/mods/16952) reprices basically everything. Selling cyberware is a solid way to make money, clothing is worth selling, and dumping guns no longer beats every other option. Cyberware and quickhacks cost real money, schematics are cheaper so crafting is worth your time, and cars are priced by manufacturer, performance and protection, so a cheap car is actually cheap. Quest rewards are rebuilt around who's paying: the fixer's personality, the risk, and how rich and desperate the client is. Fixers hand you riskier, better paying work as your rep with them grows.
+
+Paired with Live A Little's early game money changes up in Story and Pacing, eddies stay tight from Vik's bill all the way through.
+
+### $\large \textcolor{#7D8590}{\textsf{\textbf{Vehicle Summon Tweaks}}}$
+
+Wreck your car and getting it back costs 1,500 eddies instead of 100, so you actually care about keeping it in one piece. [psiberx's tweaks](https://www.nexusmods.com/cyberpunk2077/mods/4658) also add a dismiss option and sort your favourites alphabetically.
+
+## $\Large \textcolor{#00B3C8}{\textsf{\textbf{Loot}}}$
+
+### $\large \textcolor{#7D8590}{\textsf{\textbf{Weapon Conditioning}}}$
+
+[jack's mod](https://www.nexusmods.com/cyberpunk2077/mods/10479) gives every weapon a condition bar that wears down as you use it or get blown up. Let it hit zero and the gun drops a tier, loses damage and starts jamming, and you have to repair a weapon before you can upgrade it. It also fixes loot drops: the rarer the enemy, the better the tier they can drop, so a common gun off a street punk actually feels common.
+
+### $\large \textcolor{#7D8590}{\textsf{\textbf{Cyberware Capacity Shards RNG Removed}}}$
+
+Instead of hoping capacity shards drop, [this mod](https://www.nexusmods.com/cyberpunk2077/mods/11399) removes them and just gives you the full +74 capacity over time, which is the most you could ever get from finding every single one. No RNG, no wiki hunting.
+
+### $\large \textcolor{#7D8590}{\textsf{\textbf{Replaced With Legendary Money Shards}}}$
+
+By the time you're doing Hansen's airdrops in Dogtown, carry capacity is useless. [This](https://www.nexusmods.com/cyberpunk2077/mods/10930) swaps the Carry Capacity shards in them for legendary money shards.
+
+---
+
+# $\huge \textcolor{#FF2E88}{\textsf{\textbf{Visuals and Performance Upgraded}}}$
+
+*Cyberpunk is already one of the best looking games ever made. This section makes it look like the screenshots and run better doing it, whatever you're playing on.*
+
+## $\Large \textcolor{#00B3C8}{\textsf{\textbf{Performance}}}$
+
+### $\large \textcolor{#7D8590}{\textsf{\textbf{Ultra Plus}}}$
+
+Massive shout out to [SammiLucia and the Ultra Place team](https://www.nexusmods.com/cyberpunk2077/mods/10490). Ultra+ is the backbone of this entire section and some of the best work in Cyberpunk modding, full stop. It fixes a long list of rendering bugs, sets streaming to match your VRAM, and gives you one menu to pick how you want to play: raster, ray tracing, RT with path tracing, or fast or best quality path tracing. It's built for every kind of PC and every kind of player, from a mid range card chasing frames to a top end rig running full path tracing, and the path tracing modes get extra fixes on top like every light casting proper shadows.
+
+>[!TIP]
+>Setup is covered in the [Ultra Plus](https://github.com/BudddyDudeGuy/Cyberpunk_2077-Modlist/blob/main/README.md#ultra-plus) step of the install guide.
+
+### $\large \textcolor{#7D8590}{\textsf{\textbf{CPU Optimization Plus}}}$
+
+[vinson911's CPU Optimization Plus](https://www.nexusmods.com/cyberpunk2077/mods/23484) is the build of CPU Optimization made to run alongside Ultra+. It rebalances how crowds spawn and despawn around V so the city stops choking your CPU, without thinning Night City out.
+
+## $\Large \textcolor{#00B3C8}{\textsf{\textbf{Weather and Lighting}}}$
+
+Nearly everything in this part is [CyanideX](https://next.nexusmods.com/profile/theCyanideX). In terms of quality, nobody in Cyberpunk modding ships better work. It all feels vanilla plus: like something CDPR could have shipped, just better.
+
+### $\large \textcolor{#7D8590}{\textsf{\textbf{Nova City 2}}}$
+
+[Nova City 2](https://www.nexusmods.com/cyberpunk2077/mods/12490) overhauls everything: new weather states and how often they roll, new particle effects, weather tied to time of day, and a rebuilt take on every vanilla weather state. The exposure system is the real win. No more getting blinded driving in first person, no more wild swings between too bright and too dark, and shadows keep their detail.
+
+### $\large \textcolor{#7D8590}{\textsf{\textbf{ReLUX}}}$
+
+[ReLUX](https://www.nexusmods.com/cyberpunk2077/mods/20808), by CyanideX and robber804, redoes level lighting by hand. It strips out fake lights and baked lighting and replaces them with real, placed light sources, so streets and interiors light the way they should. It's built for path tracing and that's where it shines, but it still works on RT and raster.
+
+### $\large \textcolor{#7D8590}{\textsf{\textbf{evoLUT}}}$
+
+[Sevenence's evoLUT](https://www.nexusmods.com/cyberpunk2077/mods/16161) is the color grade: accurate, neutral colors, high contrast, and detail kept in both the shadows and the highlights. It was made on top of Nova City 2 and runs through CyanideX's [LUT Switcher 3](https://www.nexusmods.com/cyberpunk2077/mods/16310), which carries every SDR and HDR version so you can swap between them live.
+
+## $\Large \textcolor{#00B3C8}{\textsf{\textbf{World Detail}}}$
+
+### $\large \textcolor{#7D8590}{\textsf{\textbf{Preem Water}}}$
+
+CyanideX's [Preem Water](https://www.nexusmods.com/cyberpunk2077/mods/8275) runs on its Canon setting, the one closest to vanilla: less mirror-shiny, murkier, bigger and slower waves, and fixed wave intensity in spots where the game had it wrong.
+
+### $\large \textcolor{#7D8590}{\textsf{\textbf{Blur Begone}}}$
+
+[Blur Begone](https://www.nexusmods.com/cyberpunk2077/mods/8105), also CyanideX, strips the smeared blur off glass and other see-through surfaces and gives them proper reflections and refraction.
+
+### $\large \textcolor{#7D8590}{\textsf{\textbf{reFlash 2.0}}}$
+
+[BabaBooey88's mod](https://www.nexusmods.com/cyberpunk2077/mods/8233) makes muzzle flashes bright enough to actually light the room, so with path tracing every shot throws real shadows.
+
+### $\large \textcolor{#7D8590}{\textsf{\textbf{Low Quality Crowd No More}}}$
+
+Vanilla fills out crowds with a cheap "light crowd" NPC type that has worse models and barely any facial animation. [This](https://www.nexusmods.com/cyberpunk2077/mods/11734) swaps them for regular NPCs.
