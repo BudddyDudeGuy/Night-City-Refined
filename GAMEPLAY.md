@@ -274,10 +274,6 @@ The rest is too long to list. A [stock market and news system](https://www.nexus
 
 Paired with Live A Little's early game money changes up in Story and Pacing, eddies stay tight from Vik's bill all the way through.
 
-### $\large \textcolor{#7D8590}{\textsf{\textbf{Vehicle Summon Tweaks}}}$
-
-Wreck your car and getting it back costs 1,500 eddies instead of 100, so you actually care about keeping it in one piece. [psiberx's tweaks](https://www.nexusmods.com/cyberpunk2077/mods/4658) also add a dismiss option and sort your favourites alphabetically.
-
 ## $\Large \textcolor{#00B3C8}{\textsf{\textbf{Loot}}}$
 
 ### $\large \textcolor{#7D8590}{\textsf{\textbf{Weapon Conditioning}}}$
