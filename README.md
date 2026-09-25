@@ -228,6 +228,7 @@ To get a useful answer, please include:
 # Credits and Thanks
 
 - *YOU* for reading this.
+- [aljo](https://next.nexusmods.com/profile/aljoxo) for [Apostasy](https://www.nexusmods.com/skyrimspecialedition/mods/118893), whose mod page and GitHub layout this list's description, README, and Gameplay Guide are modeled on.
 - Every mod author whose work is included in this list. It would not exist without you.
 - [CD Projekt Red](https://www.cdprojektred.com/) for Cyberpunk 2077 and REDmod.
 - [Halgari](https://www.nexusmods.com/skyrimspecialedition/users/17252164) and the [Wabbajack](https://www.wabbajack.org/) team for the platform that makes one-click modlists possible.
