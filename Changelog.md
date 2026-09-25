@@ -4,8 +4,15 @@ All notable changes to Night City Refined are listed here. Builds are published 
 
 ## v1.0.1 - 2026-09-25
 
-1. Removed: Immersive Glass 2.0 (Part A and Part B) and RadioExt, which were deprecated.
-2. Now 514 mods, 541 archives to download, 6.91 GB of free space needed.
+### Added
+
+### Updated
+
+### Removed
+
+- Immersive Glass 2.0 Part A
+- Immersive Glass 2.0 Part B
+- RadioExt
 
 ## v1.0.0 - 2026-09-24
 
