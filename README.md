@@ -3,7 +3,6 @@
 <p align="center">
   [ Installation |
   <a href="https://github.com/BudddyDudeGuy/Cyberpunk_2077-Modlist/blob/main/GAMEPLAY.md">Gameplay Guide</a> |
-  <a href="https://github.com/BudddyDudeGuy/Cyberpunk_2077-Modlist/blob/main/Mod_list.md">Mod List</a> |
   <a href="https://github.com/BudddyDudeGuy/Cyberpunk_2077-Modlist/blob/main/Changelog.md">Changelog</a> |
   <a href="https://github.com/BudddyDudeGuy/Cyberpunk_2077-Modlist/issues">Issues</a> ]
 </p>
@@ -46,8 +45,6 @@ Cyberpunk 2077 Enhanced is a [Wabbajack](https://www.wabbajack.org/) modlist for
 The vision for this list was to never add a mod that obstructed the vanilla vision of Cyberpunk 2077's gameplay and lore. It is meant to be as immersive and lore friendly as possible, with combat that is challenging but still balanced. The list has been played and re-played over hundreds of hours, and with the help of testers and mod authors it is as stable, performance friendly, and bug free as we could get it.
 
 Beyond gameplay, the list brings substantial improvements to visuals and performance through carefully selected graphics and optimization mods. Ray tracing and path tracing are heavily optimized and paired with LUTs from some excellent authors, so the game looks better and runs better at the same time.
-
-A full list of the mods used, with a short description of each, is on the [Mod List](https://github.com/BudddyDudeGuy/Cyberpunk_2077-Modlist/blob/main/Mod_list.md) page.
 
 A summary of the mods that actually change the gameplay loops, balancing, and other key parts of the game is on the [Gameplay Guide](https://github.com/BudddyDudeGuy/Cyberpunk_2077-Modlist/blob/main/GAMEPLAY.md).
 
