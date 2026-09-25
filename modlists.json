@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Night City Refined",
+        "description": "Cyberpunk 2077, refined. A vanilla plus list that fixes and deepens what CDPR built instead of piling on new content: reworked gunplay and enemy AI, rebuilt driving, a story that stops rushing you, survival and immersion systems, a rebalanced economy, and path tracing ready visuals.",
+        "author": "Shnooter",
+        "maintainers": [
+            "github/BudddyDudeGuy"
+        ],
+        "game": "cyberpunk2077",
+        "official": false,
+        "tags": [
+            "Vanilla+",
+            "DLC Required"
+        ],
+        "nsfw": false,
+        "utility_list": false,
+        "image_contains_title": false,
+        "DisplayVersionOnlyInInstallerView": false,
+        "force_down": false,
+        "links": {
+            "image": "https://raw.githubusercontent.com/BudddyDudeGuy/Night-City-Refined/main/Images/cover.webp",
+            "readme": "https://github.com/BudddyDudeGuy/Night-City-Refined/blob/main/README.md",
+            "download": "https://github.com/BudddyDudeGuy/Night-City-Refined/releases/download/v1.0.0/Night.City.Refined.wabbajack",
+            "machineURL": "NightCityRefined",
+            "discordURL": null,
+            "websiteURL": "https://github.com/BudddyDudeGuy/Night-City-Refined",
+            "nexusCollection": null
+        },
+        "download_metadata": {
+            "Hash": "0av7zOR5NNU=",
+            "Size": 21579994,
+            "NumberOfArchives": 543,
+            "SizeOfArchives": 2986290606,
+            "NumberOfInstalledFiles": 7049,
+            "SizeOfInstalledFiles": 3934764377,
+            "TotalSize": 6921054983
+        },
+        "version": "1.0.0",
+        "dateCreated": "2026-09-25T03:40:22Z",
+        "dateUpdated": "2026-09-25T03:40:22Z",
+        "repositoryName": ""
+    }
+]
