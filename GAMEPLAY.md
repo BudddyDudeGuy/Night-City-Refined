@@ -322,21 +322,3 @@ Nearly everything in this part is [CyanideX](https://next.nexusmods.com/profile/
 ### $\large \textcolor{#7D8590}{\textsf{\textbf{evoLUT}}}$
 
 [Sevenence's evoLUT](https://www.nexusmods.com/cyberpunk2077/mods/16161) is the color grade: accurate, neutral colors, high contrast, and detail kept in both the shadows and the highlights. It was made on top of Nova City 2 and runs through CyanideX's [LUT Switcher 3](https://www.nexusmods.com/cyberpunk2077/mods/16310), which carries every SDR and HDR version so you can swap between them live.
-
-## $\Large \textcolor{#00B3C8}{\textsf{\textbf{World Detail}}}$
-
-### $\large \textcolor{#7D8590}{\textsf{\textbf{Preem Water}}}$
-
-CyanideX's [Preem Water](https://www.nexusmods.com/cyberpunk2077/mods/8275) runs on its Canon setting, the one closest to vanilla: less mirror-shiny, murkier, bigger and slower waves, and fixed wave intensity in spots where the game had it wrong.
-
-### $\large \textcolor{#7D8590}{\textsf{\textbf{Blur Begone}}}$
-
-[Blur Begone](https://www.nexusmods.com/cyberpunk2077/mods/8105), also CyanideX, strips the smeared blur off glass and other see-through surfaces and gives them proper reflections and refraction.
-
-### $\large \textcolor{#7D8590}{\textsf{\textbf{reFlash 2.0}}}$
-
-[BabaBooey88's mod](https://www.nexusmods.com/cyberpunk2077/mods/8233) makes muzzle flashes bright enough to actually light the room, so with path tracing every shot throws real shadows.
-
-### $\large \textcolor{#7D8590}{\textsf{\textbf{Low Quality Crowd No More}}}$
-
-Vanilla fills out crowds with a cheap "light crowd" NPC type that has worse models and barely any facial animation. [This](https://www.nexusmods.com/cyberpunk2077/mods/11734) swaps them for regular NPCs.
