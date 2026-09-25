@@ -1,6 +1,6 @@
 # Changelog
 
-All notable changes to Cyberpunk 2077 Enhanced are listed here. Builds are published on the [Releases](https://github.com/BudddyDudeGuy/Cyberpunk_2077-Modlist/releases) page.
+All notable changes to Night City Refined are listed here. Builds are published on the [Releases](https://github.com/BudddyDudeGuy/Cyberpunk_2077-Modlist/releases) page.
 
 ## v1.0.0 - 2026-09-21
 
