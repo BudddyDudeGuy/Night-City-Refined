@@ -10,7 +10,7 @@
 ---
 
 >[!IMPORTANT]
->Cyberpunk 2077 Enhanced requires the **Phantom Liberty** expansion and the free **REDmod** DLC. The list will not install or run without both of them.
+>Night City Refined requires the **Phantom Liberty** expansion and the free **REDmod** DLC. The list will not install or run without both of them.
 
 >[!WARNING]
 >Read this ReadMe in full before installing. Nearly every failed install and broken first launch comes down to a step that was skipped.
@@ -40,7 +40,7 @@
 
 # Introduction
 
-Cyberpunk 2077 Enhanced is a [Wabbajack](https://www.wabbajack.org/) modlist for Cyberpunk 2077, and it is exactly what the title says: Cyberpunk 2077, but better. Better driving, guns, enemies, quests, economy, and a lot more. In-game files were adjusted by hand and mods were curated from a lot of talented authors to improve the gameplay loops, fix bugs, and add quality of life features.
+Night City Refined is a [Wabbajack](https://www.wabbajack.org/) modlist for Cyberpunk 2077, and it is exactly what the name says: Cyberpunk 2077, refined. Better driving, guns, enemies, quests, economy, and a lot more. In-game files were adjusted by hand and mods were curated from a lot of talented authors to improve the gameplay loops, fix bugs, and add quality of life features.
 
 The vision for this list was to never add a mod that obstructed the vanilla vision of Cyberpunk 2077's gameplay and lore. It is meant to be as immersive and lore friendly as possible, with combat that is challenging but still balanced. My brother and I have played and re-played it over hundreds of hours and several full playthroughs, and it is as stable, performance friendly, and bug free as we could get it.
 
@@ -50,7 +50,7 @@ A summary of the mods that actually change the gameplay loops, balancing, and ot
 
 ## System Requirements
 
-Cyberpunk 2077 Enhanced follows the base Cyberpunk 2077 system specs.
+Night City Refined follows the base Cyberpunk 2077 system specs.
 
 | | Minimum (1080p Low) | Recommended (1080p High) |
 |---|---|---|
@@ -119,13 +119,13 @@ REDmod is a free DLC and the list will not work without it. On Steam, open the D
 
 Downloading and installing the list can take a while depending on your internet connection, PC specs, and whether you have Nexus Premium. Without Premium you will need to click the **Slow Download** button for each mod manually.
 
- 1. Download [`Cyberpunk 2077 Enhanced.wabbajack`](https://github.com/BudddyDudeGuy/Cyberpunk_2077-Modlist/releases/latest/download/Cyberpunk.2077.Enhanced.wabbajack) from the [Releases](https://github.com/BudddyDudeGuy/Cyberpunk_2077-Modlist/releases/latest) page.
+ 1. Download [`Night City Refined.wabbajack`](https://github.com/BudddyDudeGuy/Cyberpunk_2077-Modlist/releases/latest/download/Night.City.Refined.wabbajack) from the [Releases](https://github.com/BudddyDudeGuy/Cyberpunk_2077-Modlist/releases/latest) page.
 
  2. Open Wabbajack, click the gear icon in the top right, and press the Nexus login button to link your account. Every mod is pulled from Nexus, so this step is not optional.
 
     ![Screenshot 2024-11-03 175438](https://github.com/user-attachments/assets/671aea5d-43f9-4aec-89be-6514e1d8c5f9)
 
- 3. Select `Install from disk` and set the target modlist path to the `Cyberpunk 2077 Enhanced.wabbajack` file you downloaded in Step 1.
+ 3. Select `Install from disk` and set the target modlist path to the `Night City Refined.wabbajack` file you downloaded in Step 1.
 
  4. Set the `Modlist Installation Location` to a folder such as `C:\Modlist`. It can go anywhere you like.
     > **DO NOT** place it in Program Files, in User folders (Desktop, Documents, Downloads, OneDrive, etc.), or in your Cyberpunk 2077 game folder.
