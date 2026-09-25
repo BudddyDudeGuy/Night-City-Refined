@@ -1,10 +1,10 @@
-![](https://github.com/user-attachments/assets/2d3557b1-ad11-4acf-a5f5-68bfecacd919)
+![](Images/readme/2d3557b1-ad11-4acf-a5f5-68bfecacd919.png)
 
 <p align="center">
   [ Installation |
-  <a href="https://github.com/BudddyDudeGuy/Cyberpunk_2077-Modlist/blob/main/GAMEPLAY.md">Gameplay Guide</a> |
-  <a href="https://github.com/BudddyDudeGuy/Cyberpunk_2077-Modlist/blob/main/Changelog.md">Changelog</a> |
-  <a href="https://github.com/BudddyDudeGuy/Cyberpunk_2077-Modlist/issues">Issues</a> ]
+  <a href="https://github.com/BudddyDudeGuy/Night-City-Refined/blob/main/GAMEPLAY.md">Gameplay Guide</a> |
+  <a href="https://github.com/BudddyDudeGuy/Night-City-Refined/blob/main/Changelog.md">Changelog</a> |
+  <a href="https://github.com/BudddyDudeGuy/Night-City-Refined/issues">Issues</a> ]
 </p>
 
 ---
@@ -46,7 +46,7 @@ The vision for this list is to refine what is already in the game, not to pile o
 
 Beyond gameplay, the list brings substantial improvements to visuals and performance through carefully selected graphics and optimization mods. Ray tracing and path tracing are heavily optimized and paired with LUTs from some excellent authors, so the game looks better and runs better at the same time.
 
-A summary of the mods that actually change the gameplay loops, balancing, and other key parts of the game is on the [Gameplay Guide](https://github.com/BudddyDudeGuy/Cyberpunk_2077-Modlist/blob/main/GAMEPLAY.md).
+A summary of the mods that actually change the gameplay loops, balancing, and other key parts of the game is on the [Gameplay Guide](https://github.com/BudddyDudeGuy/Night-City-Refined/blob/main/GAMEPLAY.md).
 
 ## System Requirements
 
@@ -84,21 +84,21 @@ REDmod is a free DLC and the list will not work without it. On Steam, open the D
 
  2. Press `Win Key + R`, type `%appdata%`, and hit `ENTER`.
 
-    ![68747470733a2f2f692e696d6775722e636f6d2f56694179554f582e706e67](https://github.com/user-attachments/assets/5c09ec98-c842-4083-b63c-cc8088447dd5)
+    ![68747470733a2f2f692e696d6775722e636f6d2f56694179554f582e706e67](Images/readme/5c09ec98-c842-4083-b63c-cc8088447dd5.png)
 
  3. Go up one level into `AppData\Local` and delete the `CD Projekt Red` and `REDEngine` folders. This clears the cached config files so they cannot conflict with the list.
 
-    ![68747470733a2f2f692e696d6775722e636f6d2f656775306438412e706e67](https://github.com/user-attachments/assets/677275ec-6ffb-45fa-a394-23bd86500604)
+    ![68747470733a2f2f692e696d6775722e636f6d2f656775306438412e706e67](Images/readme/677275ec-6ffb-45fa-a394-23bd86500604.png)
 
 ### If You Have Modded the Game Before
 
  1. Go to your main Cyberpunk 2077 directory and delete the `bin`, `engine`, `r6`, and `red4ext` folders.
 
-    ![68747470733a2f2f692e696d6775722e636f6d2f415847375534302e706e67](https://github.com/user-attachments/assets/08ee520b-0391-4e8f-8e80-3c1e68591141)
+    ![68747470733a2f2f692e696d6775722e636f6d2f415847375534302e706e67](Images/readme/08ee520b-0391-4e8f-8e80-3c1e68591141.png)
 
  2. Delete the `mod` folder in `Cyberpunk 2077\archive\pc\`.
 
-    ![68747470733a2f2f692e696d6775722e636f6d2f595730733733582e706e67](https://github.com/user-attachments/assets/ec752043-e227-481e-800b-5c2bb7633a6c)
+    ![68747470733a2f2f692e696d6775722e636f6d2f595730733733582e706e67](Images/readme/ec752043-e227-481e-800b-5c2bb7633a6c.png)
 
  3. Verify your game files through your launcher (Steam, GOG, Epic). This restores every core file you just deleted and guarantees a clean base for the list.
 
@@ -111,7 +111,7 @@ REDmod is a free DLC and the list will not work without it. On Steam, open the D
 
  2. Download the [latest version of Wabbajack](https://www.wabbajack.org/) and place `Wabbajack.exe` inside the folder you created in Step 1.
 
-    ![wjack readme 5](https://github.com/user-attachments/assets/a0d8b2ef-2e7e-4c16-abdc-5591aaa43aee)
+    ![wjack readme 5](Images/readme/a0d8b2ef-2e7e-4c16-abdc-5591aaa43aee.png)
 
  3. Double-click `Wabbajack.exe` to set the program up.
 
@@ -119,11 +119,11 @@ REDmod is a free DLC and the list will not work without it. On Steam, open the D
 
 Downloading and installing the list can take a while depending on your internet connection, PC specs, and whether you have Nexus Premium. Without Premium you will need to click the **Slow Download** button for each mod manually.
 
- 1. Download [`Night City Refined.wabbajack`](https://github.com/BudddyDudeGuy/Cyberpunk_2077-Modlist/releases/latest/download/Night.City.Refined.wabbajack) from the [Releases](https://github.com/BudddyDudeGuy/Cyberpunk_2077-Modlist/releases/latest) page.
+ 1. Download [`Night City Refined.wabbajack`](https://github.com/BudddyDudeGuy/Night-City-Refined/releases/latest/download/Night.City.Refined.wabbajack) from the [Releases](https://github.com/BudddyDudeGuy/Night-City-Refined/releases/latest) page.
 
  2. Open Wabbajack, click the gear icon in the top right, and press the Nexus login button to link your account. Every mod is pulled from Nexus, so this step is not optional.
 
-    ![Screenshot 2024-11-03 175438](https://github.com/user-attachments/assets/671aea5d-43f9-4aec-89be-6514e1d8c5f9)
+    ![Screenshot 2024-11-03 175438](Images/readme/671aea5d-43f9-4aec-89be-6514e1d8c5f9.png)
 
  3. Select `Install from disk` and set the target modlist path to the `Night City Refined.wabbajack` file you downloaded in Step 1.
 
@@ -132,7 +132,7 @@ Downloading and installing the list can take a while depending on your internet 
 
  5. Set the `Downloads Location` wherever you like. Keeping it inside the install location, such as `C:\Modlist\Downloads`, is the easiest option.
 
-    ![Screenshot 2024-11-03 175811](https://github.com/user-attachments/assets/7fcbd99d-ad25-4958-85d1-814852a535f7)
+    ![Screenshot 2024-11-03 175811](Images/readme/7fcbd99d-ad25-4958-85d1-814852a535f7.png)
 
  6. Press the play arrow to begin the download and install.
 
@@ -158,7 +158,7 @@ Cyberpunk 2077 always has to be launched through Mod Organizer 2. Launching the 
 
  3. Once mod organizer is open, in the upper right of Mod organizer 2 you will see a dropdown menu beside the "RUN" button, select "REDprelauncher" and click the "RUN" button
 
-![Screenshot 2024-11-03 181141](https://github.com/user-attachments/assets/91953cea-5040-45b1-b481-46ee820466f8)
+![Screenshot 2024-11-03 181141](Images/readme/91953cea-5040-45b1-b481-46ee820466f8.png)
 
  4. Once "REDprelauncher" is open click the gear icon beside "Play" and click enable mods
 -->
@@ -217,7 +217,7 @@ Delete the folder the modlist is installed in. You can delete the downloads fold
 
 # Issues
 
-If you hit a bug, a crash, or something that just feels off, open a report on the [Issues](https://github.com/BudddyDudeGuy/Cyberpunk_2077-Modlist/issues) page. Stability feedback, performance notes, and balance suggestions are all welcome.
+If you hit a bug, a crash, or something that just feels off, open a report on the [Issues](https://github.com/BudddyDudeGuy/Night-City-Refined/issues) page. Stability feedback, performance notes, and balance suggestions are all welcome.
 
 To get a useful answer, please include:
 
