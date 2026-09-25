@@ -42,7 +42,7 @@
 
 Cyberpunk 2077 Enhanced is a [Wabbajack](https://www.wabbajack.org/) modlist for Cyberpunk 2077, and it is exactly what the title says: Cyberpunk 2077, but better. Better driving, guns, enemies, quests, economy, and a lot more. In-game files were adjusted by hand and mods were curated from a lot of talented authors to improve the gameplay loops, fix bugs, and add quality of life features.
 
-The vision for this list was to never add a mod that obstructed the vanilla vision of Cyberpunk 2077's gameplay and lore. It is meant to be as immersive and lore friendly as possible, with combat that is challenging but still balanced. The list has been played and re-played over hundreds of hours, and with the help of testers and mod authors it is as stable, performance friendly, and bug free as we could get it.
+The vision for this list was to never add a mod that obstructed the vanilla vision of Cyberpunk 2077's gameplay and lore. It is meant to be as immersive and lore friendly as possible, with combat that is challenging but still balanced. My brother and I have played and re-played it over hundreds of hours and several full playthroughs, and it is as stable, performance friendly, and bug free as we could get it.
 
 Beyond gameplay, the list brings substantial improvements to visuals and performance through carefully selected graphics and optimization mods. Ray tracing and path tracing are heavily optimized and paired with LUTs from some excellent authors, so the game looks better and runs better at the same time.
 
@@ -191,7 +191,7 @@ Your values will be different, but the panel should look like this:
 
 ### Controller Aiming
 
-If you play on a gamepad and do not want the game to be trivially easy, copy the controller settings below. Two other testers and myself ran these configurations over hundreds of hours of playtime, and they gave the best feel while keeping the game challenging.
+If you play on a gamepad and do not want the game to be trivially easy, copy the controller settings below. My brother and I ran these configurations over hundreds of hours of playtime, and they gave the best feel while keeping the game challenging.
 
 (controller settings screenshot)
 
@@ -229,7 +229,6 @@ To get a useful answer, please include:
 
 - *YOU* for reading this.
 - Every mod author whose work is included in this list. It would not exist without you.
-- The testers who put hundreds of hours into breaking, balancing, and re-breaking the list.
 - [CD Projekt Red](https://www.cdprojektred.com/) for Cyberpunk 2077 and REDmod.
 - [Halgari](https://www.nexusmods.com/skyrimspecialedition/users/17252164) and the [Wabbajack](https://www.wabbajack.org/) team for the platform that makes one-click modlists possible.
 - The Mod Organizer 2 team, and the authors of CET, RED4ext, redscript, TweakXL, and ArchiveXL, for the frameworks the entire Cyberpunk modding scene is built on.
