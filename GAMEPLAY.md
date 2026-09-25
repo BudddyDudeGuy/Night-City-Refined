@@ -87,6 +87,26 @@ Vanilla decides if an explosion hits you by drawing a line to your feet, so a cu
 
 ---
 
+# $\huge \textcolor{#FF2E88}{\textsf{\textbf{Leveling and Progression Reworked}}}$
+
+*In vanilla, V gets better at shotguns by leveling up from hacking cameras. Level up, open a menu, drop points wherever. None of it has anything to do with how you actually played. This section fixes that. You don't pick what V is good at anymore. You become it by doing it.*
+
+## $\Large \textcolor{#00B3C8}{\textsf{\textbf{Attributes}}}$
+
+### $\large \textcolor{#7D8590}{\textsf{\textbf{Skillful Attributes}}}$
+
+[jack's mod](https://www.nexusmods.com/cyberpunk2077/mods/9281) ties your attributes to how you actually play. Vanilla attribute points are switched off, and each attribute climbs on its own as you level the skill tied to it: Solo raises Body, Shinobi raises Reflexes, Engineer raises Technical Ability, Netrunner raises Intelligence, and Headhunter raises Cool. The more you fight a certain way, the better you get at it. Live behind a shotgun and you end up built like a tank. Hack everything and you end up a netrunner. No menu required.
+
+## $\Large \textcolor{#00B3C8}{\textsf{\textbf{Experience and Rewards}}}$
+
+### $\large \textcolor{#7D8590}{\textsf{\textbf{Skillful}}}$
+
+[Skillful](https://www.nexusmods.com/cyberpunk2077/mods/9309), from the same author, handles the rest. Skill XP comes in fast early and tapers off as you approach the cap, so a build comes together at a good pace without maxing out overnight, while character level and Street Cred run a little slower than vanilla. On top of that you earn an extra perk point every 20 levels in a skill, plus extra cyberware capacity every 15 levels in Body, Reflexes, Technical Ability and Intelligence. Sticking with a playstyle pays off with more than vanilla would ever give you.
+
+Together the two give the whole list a proper RPG feel. Your V ends up shaped by the way you play them.
+
+---
+
 # $\huge \textcolor{#FF2E88}{\textsf{\textbf{Driving Redone}}}$
 
 *Let's be real, driving in vanilla Cyberpunk is dog shit. Cars slide around like they're on ice, nothing has any weight to it, and first person driving is basically unplayable. This list rebuilds all of it.*
