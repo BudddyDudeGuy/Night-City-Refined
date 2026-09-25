@@ -175,11 +175,17 @@ Once the pre-installation steps are done, launch the game and let it load to the
 
     ![LUT Switcher](Images/lut-switcher.png)
 
+    Your pick is saved and carries across saves and reloads. Star the ones you like to add them to your favorites, and if you want to flip between them quickly, the CET `Bindings` menu has hotkeys to toggle the active LUT or cycle through your favorites. A few quests and in-game effects briefly override the color grade, which is normal.
+
+    > evoLUT's author recommends calibrating your display to a gamma of 2.2 and leaving the in-game **Gamma Correction** at `1.00` when playing in SDR.
+
  4. Press `~` again to close the overlay, then open your in-game settings and adjust the graphics to your liking.
 
  5. Open the overlay again and look for the `ULTRA+` window. Ultra Plus should have already set itself up automatically based on your in-game graphics settings, but check the values and adjust them to match your hardware. Your values will be different, but the panel should look something like this:
 
     ![Ultra Plus settings](Images/ultraplus-settings.png)
+
+    > If you use DLSS Ray Reconstruction and the image looks smeary or wrong, switch the Ultra Plus **Denoiser** from `RR Clean` to `Vanilla`. According to the Ultra Plus authors, RR Clean needs an up to date version of DLSS.
 
 <!-- Pending assets. Re-enable once the screenshots are captured and committed to Images/.
 
