@@ -32,7 +32,6 @@
 - [Playing the List](#playing-the-list)
   - [Launching the Game](#launching-the-game)
   - [First Time Game Startup](#first-time-game-startup)
-  - [Optional Setup](#optional-setup)
 - [Updating the Modlist](#updating-the-modlist)
 - [Removing the Modlist](#removing-the-modlist)
 - [Issues](#issues)
@@ -172,20 +171,15 @@ Once the pre-installation steps are done, launch the game and let it load to the
 
  2. Move and resize the CET windows however you like. Your layout is saved automatically for next time.
 
- 3. Press `~` again to close the overlay, then open your in-game settings and adjust the graphics to your liking.
+ 3. Pick your color grade in the `LUT Switcher` window. Select `evoLUT` on the left, then click any version on the right to apply it. They all look great, so choose whichever you like best. My personal favorites are evoLUT 1 and evoLUT 5.
 
-## Optional Setup
+    ![LUT Switcher](Images/lut-switcher.png)
 
-### Ultra Plus
+ 4. Press `~` again to close the overlay, then open your in-game settings and adjust the graphics to your liking.
 
-Look for the `ULTRA+` header in the CET overlay, click the arrow, and expand the window. There are ray tracing and texture settings boxes you can tick. Tick them based on your graphics settings and your hardware.
+ 5. Open the overlay again and look for the `ULTRA+` window. Ultra Plus should have already set itself up automatically based on your in-game graphics settings, but check the values and adjust them to match your hardware. Your values will be different, but the panel should look something like this:
 
->[!CAUTION]
->**Do NOT enable ray tracing in the Ultra Plus overlay if it is not enabled in your base game graphics settings.** The same goes for path tracing, or the game will break on the next launch. Do not tick any of the boxes under **Override Game Graphic Menu Settings**.
-
-Your values will be different, but the panel should look like this:
-
-![Ultra Plus settings](Images/ultraplus-settings.png)
+    ![Ultra Plus settings](Images/ultraplus-settings.png)
 
 <!-- Pending assets. Re-enable once the screenshots are captured and committed to Images/.
 
