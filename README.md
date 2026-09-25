@@ -29,6 +29,7 @@
   - [Wabbajack Installation](#wabbajack-installation)
     - [Installing Wabbajack](#installing-wabbajack)
     - [Downloading and Installing the Modlist](#downloading-and-installing-the-modlist)
+  - [Post-Installation](#post-installation)
 - [Playing the List](#playing-the-list)
   - [Launching the Game](#launching-the-game)
   - [First Time Game Startup](#first-time-game-startup)
@@ -135,6 +136,18 @@ Downloading and installing the list can take a while depending on your internet 
 
  6. Press the play arrow to begin the download and install.
 
+## Post-Installation
+
+>[!WARNING]
+>Night City Refined requires a **new save**. It is not mid-save friendly: several mods rework the opening of the game and how the city unlocks, and adding them to an existing playthrough will break things. Start a new game when you first launch.
+
+Before your first launch, open Mod Organizer 2 and scroll to the `READ TO ENABLE OR DISABLE BASED ON YOUR SETUP` separator. The mods in it depend on your hardware and settings, so go through them and tick or untick each one to match your PC.
+
+ - **Be careful with the path tracing mods.** Several mods here are built only for path tracing and ship enabled. If your PC can't run path tracing, or you don't plan to use it, disable them.
+ - **Use the notes.** Each mod in this separator has a note beside it in the Notes column that tells you when to enable or disable it.
+
+![READ TO ENABLE OR DISABLE BASED ON YOUR SETUP separator](Images/read-to-enable.png)
+
 # Playing the List
 
 Cyberpunk 2077 always has to be launched through Mod Organizer 2. Launching the game from Steam, GOG, Epic, or a desktop shortcut to the game executable will start it unmodded.
@@ -186,6 +199,8 @@ Once the pre-installation steps are done, launch the game and let it load to the
     ![Ultra Plus settings](Images/ultraplus-settings.png)
 
     > If you use DLSS Ray Reconstruction and the image looks smeary or wrong, switch the Ultra Plus **Denoiser** from `RR Clean` to `Vanilla`. According to the Ultra Plus authors, RR Clean needs an up to date version of DLSS.
+
+ 6. That's it, you're ready to play. Almost everything in the list can be adjusted to your taste in the `Mod Settings` menu on the main menu and pause menu, so feel free to look through it once you're in game.
 
 <!-- Pending assets. Re-enable once the screenshots are captured and committed to Images/.
 
