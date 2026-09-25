@@ -202,6 +202,15 @@ Once the pre-installation steps are done, launch the game and let it load to the
 
  6. That's it, you're ready to play. Almost everything in the list can be adjusted to your taste in the `Mod Settings` menu on the main menu and pause menu, so feel free to look through it once you're in game.
 
+>[!IMPORTANT]
+>**Activate the romance message mods.** The first time you reach V's apartment in the H10 megabuilding (right after The Rescue), walk up to the TV and interact with it. You should get a confirmation popup for **Panam Romance Messages Extended** and **Judy Romance Messages Extended**, like the ones below. Without these popups the mods never switch on, and their extra messages with Panam and Judy will not show up.
+>
+>No popup? Leave the apartment, come back in, and interact with the TV again.
+
+![Panam Romance Messages Extended confirmation popup](Images/romance-panam-popup.webp)
+
+![Judy Romance Messages Extended confirmation popup](Images/romance-judy-popup.webp)
+
 <!-- Pending assets. Re-enable once the screenshots are captured and committed to Images/.
 
 ### Controller Aiming
