@@ -24,7 +24,12 @@
       "machineURL": "NightCityRefined",
       "discordURL": null,
       "websiteURL": "https://github.com/BudddyDudeGuy/Night-City-Refined",
-      "nexusCollection": null
+      "nexusCollection": {
+        "collectionId": "515111",
+        "slug": "okah4v",
+        "domainName": "cyberpunk2077",
+        "lastRevisionNumber": 1
+      }
     },
     "download_metadata": {
       "Hash": "OexgQkamPjI=",
