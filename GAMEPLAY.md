@@ -1,8 +1,8 @@
 <p align="center">
-  [ <a href="https://github.com/BudddyDudeGuy/Cyberpunk_2077-Modlist/blob/main/README.md">Installation</a> |
+  [ <a href="https://github.com/BudddyDudeGuy/Night-City-Refined/blob/main/README.md">Installation</a> |
   Gameplay Guide |
-  <a href="https://github.com/BudddyDudeGuy/Cyberpunk_2077-Modlist/blob/main/Changelog.md">Changelog</a> |
-  <a href="https://github.com/BudddyDudeGuy/Cyberpunk_2077-Modlist/issues">Issues</a> ]
+  <a href="https://github.com/BudddyDudeGuy/Night-City-Refined/blob/main/Changelog.md">Changelog</a> |
+  <a href="https://github.com/BudddyDudeGuy/Night-City-Refined/issues">Issues</a> ]
 </p>
 
 ---
@@ -321,7 +321,7 @@ By the time you're doing Hansen's airdrops in Dogtown, carry capacity is useless
 Massive shout out to [SammiLucia and the Ultra Place team](https://www.nexusmods.com/cyberpunk2077/mods/10490). Ultra+ is the backbone of this entire section and some of the best work in Cyberpunk modding, full stop. It fixes a long list of rendering bugs, sets streaming to match your VRAM, and gives you one menu to pick how you want to play: raster, ray tracing, RT with path tracing, or fast or best quality path tracing. It's built for every kind of PC and every kind of player, from a mid range card chasing frames to a top end rig running full path tracing, and the path tracing modes get extra fixes on top like every light casting proper shadows.
 
 >[!TIP]
->Setup is covered in the [Ultra Plus](https://github.com/BudddyDudeGuy/Cyberpunk_2077-Modlist/blob/main/README.md#ultra-plus) step of the install guide.
+>Setup is covered in the [Ultra Plus](https://github.com/BudddyDudeGuy/Night-City-Refined/blob/main/README.md#ultra-plus) step of the install guide.
 
 ### $\large \textcolor{#7D8590}{\textsf{\textbf{CPU Optimization Plus}}}$
 
