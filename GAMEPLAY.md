@@ -35,6 +35,7 @@
   - [Weapon Condition and Jamming](#weapon-condition-and-jamming)
   - [Police](#police)
 - [Economy and Loot](#economy-and-loot)
+- [Street Cred and Locked Areas](#street-cred-and-locked-areas)
 - [Content Additions and Improvements](#content-additions-and-improvements)
   - [World Immersion](#world-immersion)
   - [Hanging Out and Romance](#hanging-out-and-romance)
@@ -73,7 +74,7 @@ This list plays very differently from the base game. These are the things that c
  - **Quickhacks are locked on anything connected to a network until you breach it.** Enemy hideouts and guarded areas are usually on a network. Civilians, police, and anything far from an access point can be hacked straight away. See [Breaching and Quickhacks](#breaching-and-quickhacks).
  - **Money is tight.** Selling guns isn't a gold mine anymore, and Viktor wants €$33,000 for your chrome. See [Economy and Loot](#economy-and-loot).
  - **Act 1 has built-in gaps between missions.** When nothing is happening, that's on purpose. Go do gigs and earn money. See [Vanilla Quest Edits](#vanilla-quest-edits).
- - **Parts of the city unlock as your Street Cred goes up.** Some gigs, clubs, stores and apartments are locked at first. See [Vanilla Quest Edits](#vanilla-quest-edits).
+ - **Some stores, clubs, gigs and apartments are locked until your Street Cred is high enough.** This comes from Take a Breather. If a door won't open or a shop is closed to you, that's usually why. Someone messages you when a place opens up. See [Street Cred and Locked Areas](#street-cred-and-locked-areas).
 
 # Overview and Basics
 
@@ -94,7 +95,8 @@ Before reading on, you can look over the full [load order](https://loadorderlibr
  - [Weapon Conditioning](https://www.nexusmods.com/cyberpunk2077/mods/10479) makes guns wear out, jam and drop a tier if you don't repair them. Read more [here](#weapon-condition-and-jamming).
  - [NCPD Prevention Police Enhancement](https://www.nexusmods.com/cyberpunk2077/mods/9863) changes how the police chase you and who shows up in each district. Read more [here](#police).
  - [Economy Punk](https://www.nexusmods.com/cyberpunk2077/mods/16952) reprices the whole game so money stays tight. Read more [here](#economy-and-loot).
- - [LONGER LOCKDOWN](https://www.nexusmods.com/cyberpunk2077/mods/23219), [Live A Little](https://www.nexusmods.com/cyberpunk2077/mods/13271) and [Take a Breather](https://www.nexusmods.com/cyberpunk2077/mods/23290) space out the story and open the city up over time. Read more [here](#vanilla-quest-edits).
+ - [Take a Breather](https://www.nexusmods.com/cyberpunk2077/mods/23290) locks stores, clubs, gigs and apartments behind Street Cred, so the city opens up as you make a name for yourself. Read more [here](#street-cred-and-locked-areas).
+ - [LONGER LOCKDOWN](https://www.nexusmods.com/cyberpunk2077/mods/23219) and [Live A Little](https://www.nexusmods.com/cyberpunk2077/mods/13271) space out the story and raise the early story money. Read more [here](#vanilla-quest-edits).
  - [OPLI](https://www.nexusmods.com/cyberpunk2077/mods/21623) moves Phantom Liberty so it fits the story better. Read more [here](#vanilla-quest-edits).
 
 # Combat Foundations
@@ -803,6 +805,85 @@ Money is tight in this list, from Viktor's bill at the start all the way to the 
 
 </Details>
 
+# Street Cred and Locked Areas
+
+[Take a Breather](https://www.nexusmods.com/cyberpunk2077/mods/23290) ties the city to your Street Cred. In the base game almost everything is open from the start. In this list, many stores, clubs, gigs and apartments stay locked until you have enough Street Cred. Night City opens up as you make a name for yourself.
+
+ - If a door won't open or a shop won't let you in, you probably don't have enough Street Cred yet.
+ - When a place opens up, a fixer or someone you know messages you about it.
+ - Street Cred comes from gigs, NCPD jobs and quests.
+ - Clubs sell entry tickets, so you can get in early if you pay. For example, Red Dirt costs €$7,500 until Street Cred 10, and Riot costs €$25,000 until Street Cred 30.
+ - Fixers also give you better paying gigs as your Street Cred goes up.
+ - [Immersive Fixers](https://www.nexusmods.com/cyberpunk2077/mods/15460) makes fixers introduce themselves after you do NCPD jobs in their district, instead of calling you out of nowhere.
+
+>[!IMPORTANT]
+>Take a Breather needs a new save. Don't add it, remove it, or change its modules in the middle of a playthrough, or places will stay locked. Also, don't buy an apartment through EZEstates until the fixer messages you about it and the map shows it unlocked.
+
+<Details>
+<summary>Places Locked Behind Street Cred</summary>
+<br>
+
+Some places need a minimum Street Cred. When you reach it, someone messages you to say it's open.
+
+| District | Place | Street Cred |
+|:---|:---|:---:|
+| **Watson** | Clothing and gun shops, medic | 4 |
+| **Watson** | Ho-Oh | 5 |
+| **Watson** | Totentanz | 8 |
+| **Watson** | Afterlife | 10 |
+| **Watson** | Riot | 30 |
+| **Westbrook** | Clothing and gun shops, medic | 5 |
+| **Westbrook** | Casino | 10 |
+| **Westbrook** | Clouds | 12 |
+| **Westbrook** | Apartment | 15 |
+| **Westbrook** | Avante | 20 |
+| **Heywood** | Dicky Twister | 8 |
+| **Heywood** | Apartment | 30 |
+| **Santo Domingo** | Red Dirt | 9 |
+| **Santo Domingo** | Medic | 10 |
+| **Pacifica** | Everything | 9 |
+| **City Center** | Empathy, Downtown medic | 15 |
+| **City Center** | Avante, gun shop, 7th Hell, Corpo Plaza medic | 20 |
+| **City Center** | Apartment, Jinguji | 40 |
+
+</Details>
+
+<Details>
+<summary>Fixer Gig Tiers</summary>
+<br>
+
+Fixers give you better gigs as your Street Cred goes up. This is the Street Cred you need for each tier of gigs.
+
+| Fixer | Tier 1 | Tier 2 | Tier 3 | Tier 4 |
+|:---|:---:|:---:|:---:|:---:|
+| **Regina Jones** (Watson) | 1 | 10 | 21 | 30 |
+| **Wakako Okada** (Westbrook) | 1 | 13 | 26 | 40 |
+| **Padre** (Heywood) | 1 | 15 | 25 | 35 |
+| **Dakota Smith** (Badlands) | 5 | 11 | 18 | 26 |
+| **Muamar Reyes** (Santo Domingo) | 8 | 21 | 38 | 50 |
+| **Mr. Hands** (Pacifica) | 12 | 26 | 35 | 45 |
+| **Dino Dinovic** (City Center) | 15 | 20 | 26 | 34 |
+| **Rogue** (Afterlife) | 32 | 35 | 40 | 50 |
+
+</Details>
+
+<Details>
+<summary>How Fixers Find You</summary>
+<br>
+
+Dino, El Capitan, Dakota and Mr. Hands contact you after you finish enough NCPD scanner jobs in their district. The more Street Cred you have, the fewer jobs you need.
+
+| Street Cred | NCPD jobs needed |
+|:---:|:---:|
+| 0 to 6 | 6 |
+| 7 to 15 | 5 |
+| 16 to 23 | 4 |
+| 24 to 32 | 3 |
+| 33 to 41 | 2 |
+| 42 to 50 | 1 |
+
+</Details>
+
 # Content Additions and Improvements
 
 This section covers the world, the people in it, new quests, and changes to the base game's quests.
@@ -848,15 +929,11 @@ The base game keeps telling you V is dying, while giving you a hundred hours of 
 
  - [LONGER LOCKDOWN](https://www.nexusmods.com/cyberpunk2077/mods/23219) turns the start of the game into a proper starting zone in Watson, with real gaps between the Act 1 missions.
  - [Live A Little](https://www.nexusmods.com/cyberpunk2077/mods/13271) makes quest timers longer and raises the early story money, so you have to go earn it.
- - [Take a Breather](https://www.nexusmods.com/cyberpunk2077/mods/23290) adds pauses between later quests, and locks parts of the city behind Street Cred.
+ - [Take a Breather](https://www.nexusmods.com/cyberpunk2077/mods/23290) adds pauses between later quests, and some quests need a minimum Street Cred. Its store and club locks are covered in [Street Cred and Locked Areas](#street-cred-and-locked-areas).
  - [HALTED HANAKO 2.0](https://www.nexusmods.com/cyberpunk2077/mods/23852) stops the Hanako meeting from starting on its own. It only happens when you call her.
  - [Panam quest timer edits](https://www.nexusmods.com/cyberpunk2077/mods/17541) and [Rachel's call delayed](https://www.nexusmods.com/cyberpunk2077/mods/17507) space out Panam's and Rachel's quests.
  - [Delete "A Few Weeks Tops"](https://www.nexusmods.com/cyberpunk2077/mods/16932), [Hanako Call - No Rush](https://www.nexusmods.com/cyberpunk2077/mods/16926) and A Like Supreme - No Rush cut the lines that rush you.
  - [OPLI](https://www.nexusmods.com/cyberpunk2077/mods/21623) moves Phantom Liberty so it fits the story better.
- - [Immersive Fixers](https://www.nexusmods.com/cyberpunk2077/mods/15460) makes fixers introduce themselves after you do NCPD jobs in their district, instead of calling you out of nowhere.
-
->[!IMPORTANT]
->Take a Breather needs a new save. Don't add it, remove it, or change its modules in the middle of a playthrough, or places will stay locked. Also, don't buy an apartment through EZEstates until the fixer messages you about it and the map shows it unlocked.
 
 <Details>
 <summary>Act 1 Timeline</summary>
@@ -944,69 +1021,3 @@ The base game drops Dogtown into the middle of Act 2. V is still a nobody doing 
 
 </Details>
 
-<Details>
-<summary>Street Cred Locks (Take a Breather)</summary>
-<br>
-
-Some places need a minimum Street Cred. When you reach it, someone messages you to say it's open.
-
-| District | Place | Street Cred |
-|:---|:---|:---:|
-| **Watson** | Clothing and gun shops, medic | 4 |
-| **Watson** | Ho-Oh | 5 |
-| **Watson** | Totentanz | 8 |
-| **Watson** | Afterlife | 10 |
-| **Watson** | Riot | 30 |
-| **Westbrook** | Clothing and gun shops, medic | 5 |
-| **Westbrook** | Casino | 10 |
-| **Westbrook** | Clouds | 12 |
-| **Westbrook** | Apartment | 15 |
-| **Westbrook** | Avante | 20 |
-| **Heywood** | Dicky Twister | 8 |
-| **Heywood** | Apartment | 30 |
-| **Santo Domingo** | Red Dirt | 9 |
-| **Santo Domingo** | Medic | 10 |
-| **Pacifica** | Everything | 9 |
-| **City Center** | Empathy, Downtown medic | 15 |
-| **City Center** | Avante, gun shop, 7th Hell, Corpo Plaza medic | 20 |
-| **City Center** | Apartment, Jinguji | 40 |
-
-Clubs also sell entry tickets, so you can get in early if you pay. For example Red Dirt costs €$7,500 until Street Cred 10, and Riot costs €$25,000 until Street Cred 30.
-
-</Details>
-
-<Details>
-<summary>Fixer Gig Tiers (Take a Breather)</summary>
-<br>
-
-Fixers give you better gigs as your Street Cred goes up. This is the Street Cred you need for each tier of gigs.
-
-| Fixer | Tier 1 | Tier 2 | Tier 3 | Tier 4 |
-|:---|:---:|:---:|:---:|:---:|
-| **Regina Jones** (Watson) | 1 | 10 | 21 | 30 |
-| **Wakako Okada** (Westbrook) | 1 | 13 | 26 | 40 |
-| **Padre** (Heywood) | 1 | 15 | 25 | 35 |
-| **Dakota Smith** (Badlands) | 5 | 11 | 18 | 26 |
-| **Muamar Reyes** (Santo Domingo) | 8 | 21 | 38 | 50 |
-| **Mr. Hands** (Pacifica) | 12 | 26 | 35 | 45 |
-| **Dino Dinovic** (City Center) | 15 | 20 | 26 | 34 |
-| **Rogue** (Afterlife) | 32 | 35 | 40 | 50 |
-
-</Details>
-
-<Details>
-<summary>How Fixers Find You (Immersive Fixers)</summary>
-<br>
-
-Dino, El Capitan, Dakota and Mr. Hands contact you after you finish enough NCPD scanner jobs in their district. The more Street Cred you have, the fewer jobs you need.
-
-| Street Cred | NCPD jobs needed |
-|:---:|:---:|
-| 0 to 6 | 6 |
-| 7 to 15 | 5 |
-| 16 to 23 | 4 |
-| 24 to 32 | 3 |
-| 33 to 41 | 2 |
-| 42 to 50 | 1 |
-
-</Details>
