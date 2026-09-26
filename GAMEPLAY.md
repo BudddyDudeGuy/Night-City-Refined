@@ -66,7 +66,7 @@ This list plays very differently from the base game. These are the things that c
    - Crafting, tech weapons and grenades raise **Technical Ability**.
 
    So if an attribute won't go up, use the weapons and play style tied to it. See [Changes to Leveling](#changes-to-leveling).
- - **If you can't spend a perk point, that's normal.** Perks need the attribute at 4 or higher. Level a skill a little and the point becomes usable. See [Perk Point Acquisition](#perks).
+ - **Leveling up still gives you perk points, just not attribute points.** Spend them in the perk trees like normal. Each perk tree belongs to one attribute, so if a perk is locked, raise that attribute by using its skill. Points you can't spend yet are saved. See [Perks](#perks).
 
 ### Staying Alive
 
@@ -313,7 +313,7 @@ These perks cost your normal perk points.
 Night City Refined changes leveling so that V gets better at what you actually do. You don't pick attributes from a menu anymore. They grow on their own as you play.
 
 >[!TIP]
->**In short:** each attribute goes up when you use the skill tied to it. Spend all your points in character creation. Perks need the attribute at 4, 9, 15 or 20.
+>**In short:** each attribute goes up when you use the skill tied to it. Spend all your points in character creation. Leveling up still gives you perk points to spend like normal.
 
 ## Changes to Leveling
 
@@ -410,9 +410,10 @@ Skill XP comes in fast at low ranks and slows down as the skill gets higher. Cha
 
 ### Perks
 
- - Perks are locked behind attribute levels. The first row of perks in each tree needs that attribute at **4**. The next rows need **9**, **15** and **20**.
- - Attributes start at 3. If you left an attribute at 3 in character creation, you can't buy any of its perks until its skill reaches rank 3. That only takes a few kills.
- - Perk points you can't spend yet are saved until you can.
+ - **You still get perk points.** Every time you level up you get a perk point, the same as the base game. You just don't get an attribute point anymore.
+ - **Spend them like normal.** Perks work the same as the base game. Each perk tree belongs to one attribute, and the stronger perks need that attribute higher. The game shows what each perk needs.
+ - **If a perk is locked, raise its attribute.** Use the skill tied to that attribute and the attribute goes up on its own.
+ - **Points you can't spend yet are saved** until you can use them.
 
 <Details>
 <summary>Where Perk Points Come From</summary>
