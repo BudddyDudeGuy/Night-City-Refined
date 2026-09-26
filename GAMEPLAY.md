@@ -54,7 +54,14 @@ This list plays very differently from the base game. These are the things that c
 >[!WARNING]
 >**Spend all of your attribute points in character creation.** Whatever you put into each attribute there becomes its permanent starting value. Points you leave unspent are lost for good. See [Changes to Leveling](#changes-to-leveling).
 
- - **Attributes go up by playing, not from a menu.** Using shotguns raises Body, hacking raises Intelligence, and so on. See [Changes to Leveling](#changes-to-leveling).
+ - **You can't level up attributes from the menu.** In the base game you get attribute points when you level up and put them wherever you want. In this list those points are turned off. Instead, each attribute goes up on its own as you use the skill tied to it:
+   - Shotguns, LMGs, blunt weapons and fists raise **Body**.
+   - Assault rifles, SMGs, blades, running and dodging raise **Reflexes**.
+   - Pistols, revolvers, precision rifles, headshots and stealth raise **Cool**.
+   - Quickhacks and smart weapons raise **Intelligence**.
+   - Crafting, tech weapons and grenades raise **Technical Ability**.
+
+   So if an attribute won't go up, use the weapons and play style tied to it. See [Changes to Leveling](#changes-to-leveling).
  - **If you can't spend a perk point, that's normal.** Perks need the attribute at 4 or higher. Level a skill a little and the point becomes usable. See [Perk Point Acquisition](#perk-point-acquisition).
  - **You need to eat, drink and sleep.** If you ignore it, you get weaker. See [Survival Needs](#survival-needs).
  - **Watch your Nerve.** Fighting drains it. If it hits 0, V has a heart attack and dies. Showers, sleep, dancing, drinks and smokes bring it back. See [Nerve](#nerve).
