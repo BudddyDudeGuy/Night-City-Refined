@@ -19,8 +19,6 @@
 - [Combat Foundations](#combat-foundations)
   - [Guns and Armor](#guns-and-armor)
   - [Enemies](#enemies)
-  - [Melee](#melee)
-  - [Explosions](#explosions)
 - [Stealth and Netrunning](#stealth-and-netrunning)
   - [Breaching and Quickhacks](#breaching-and-quickhacks)
   - [Stealth](#stealth)
@@ -176,43 +174,6 @@ Androids have 1.5x health, security turrets 1.2x, mechs 1.25x and small drones 2
  - Smoke and Optical Camo make enemies miss.
 
 </Details>
-
-## Melee
-
- - [Consistent And Rectified Lunge](https://www.nexusmods.com/cyberpunk2077/mods/33239) makes every melee weapon step in toward the enemy on strong attacks. In the base game only 5 out of 14 weapon types did.
- - [Melee Attack Variety](https://www.nexusmods.com/cyberpunk2077/mods/32817) makes combos use every attack animation a weapon has, instead of repeating the first two.
- - [Melee Attacks Fixes And Enhancements](https://www.nexusmods.com/cyberpunk2077/mods/16921) fixes attack directions and missing sounds, and adds new combo options after blocks, deflects and jumps.
- - [Sensible Melee Range](https://www.nexusmods.com/cyberpunk2077/mods/32739) makes each weapon's reach match its size. A sledgehammer reaches further than a knife.
- - [Buttslinger Quickmelee](https://www.nexusmods.com/cyberpunk2077/mods/10556) lets you stun an enemy for about 2 seconds by hitting them with your gun. It needs Body 4 or higher. Elites can only be stunned below 25% health, and bosses can't be stunned at all.
-
-<Details>
-<summary>Melee Reach by Weapon</summary>
-<br>
-
-| Weapon | Night City Refined | Base Game |
-|:---|:---:|:---:|
-| Fists | 1.5 | 1.5 |
-| Gorilla Arms | 1.6 | 1.5 |
-| Knife | 1.9 | 1.5 |
-| Axe and Tomahawk | 2.2 | 2.0 |
-| One-handed blunt | 2.2 | 2.0 |
-| Machete and Chainsword | 2.4 | 2.0 |
-| Baton | 2.4 | 4.0 |
-| One-handed blade | 2.6 | 2.0 |
-| Two-handed blunt | 2.7 | 2.5 |
-| Mantis Blades | 2.8 | 2.0 |
-| Katana | 3.0 | 3.0 |
-| Sledgehammer | 3.0 | 2.0 |
-
-</Details>
-
-## Explosions
-
- - [Immersive Explosions](https://www.nexusmods.com/cyberpunk2077/mods/31624) makes explosions bigger and fixes how they hit you.
-   - Frag grenades go from about 5m to 8.5m. Exploding cars and barrels roughly double.
-   - Damage now drops off the further you are from the center. In the base game you took about half damage even at the very edge.
-   - In the base game a knee high curb could make you immune to a grenade. Now full cover still protects you, but low cover doesn't.
- - [Explosion Knockback and Ragdoll Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/33327) makes explosions push things around. Enemies get thrown out of cover. If a blast goes off close to you, V gets knocked down for 2 seconds.
 
 # Stealth and Netrunning
 
