@@ -17,7 +17,6 @@
 - [Overview and Basics](#overview-and-basics)
   - [Core Overhauls](#core-overhauls)
 - [Combat Foundations](#combat-foundations)
-  - [Guns and Armor](#guns-and-armor)
   - [Enemies](#enemies)
 - [Stealth and Netrunning](#stealth-and-netrunning)
   - [Breaching and Quickhacks](#breaching-and-quickhacks)
@@ -82,7 +81,6 @@ Before reading on, you can look over the full [load order](https://loadorderlibr
 
 ## Core Overhauls
 
- - [Weapons Improved](https://www.nexusmods.com/cyberpunk2077/mods/22741) rebuilds every gun around what it actually is, with matching armor, attachment and enemy health changes. Read more [here](#guns-and-armor).
  - [Much Better AI](https://www.nexusmods.com/cyberpunk2077/mods/31402) and [Immersive Shooting AI](https://www.nexusmods.com/cyberpunk2077/mods/22782) make enemies fight as a team and actually hit you. Read more [here](#enemies).
  - [Enemy Rarity Fixes Improved](https://www.nexusmods.com/cyberpunk2077/mods/30958) makes an enemy's strength match what they look like, and stops them scaling with your level. Read more [here](#enemies).
  - [Much Better Netrunning](https://www.nexusmods.com/cyberpunk2077/mods/27237) locks quickhacks on networked enemies and devices until you breach the network. Read more [here](#breaching-and-quickhacks).
@@ -100,30 +98,7 @@ Before reading on, you can look over the full [load order](https://loadorderlibr
 
 # Combat Foundations
 
-The mods in this section are the base of how fighting works in Night City Refined. Enemies are smarter, they hit harder when you give them a clear shot, and your gear matters more.
-
-## Guns and Armor
-
- - [Weapons Improved](https://www.nexusmods.com/cyberpunk2077/mods/22741) rebuilds every gun based on what it actually is.
-   - Damage comes from the bullet size and how well the gun is made. A cheap street pistol hits softer than a quality one.
-   - Range comes from the bullet and barrel length. Shotguns now work past point blank.
-   - Recoil, spread and aim speed come from the gun's weight and quality. Reload speed comes from the size of the gun and its magazine.
-   - It fixes a lot of base game mistakes: wrong magazine sizes, iconics with broken effects, recoil that kicked sideways, and firing before the magazine was in.
-   - The damage numbers in the weapon tooltips are wrong in the base game. Judge guns by how they feel.
- - [Weapon Mods Improved](https://www.nexusmods.com/cyberpunk2077/mods/21127), [Weapon Muzzles Improved](https://www.nexusmods.com/cyberpunk2077/mods/20970) and [Weapon Suppressors Improved](https://www.nexusmods.com/cyberpunk2077/mods/20926) rebalance attachments so more of them are worth using. Suppressors lose most of their damage penalty, so they are usable outside of stealth.
- - [Armor Improved](https://www.nexusmods.com/cyberpunk2077/mods/27503) fixes how armor weakens as you level up.
-   - The base game quietly makes your armor less effective as you level, in big jumps, and the amount changes with difficulty. On Normal your armor is already 69% weaker by level 20.
-   - This list replaces that with a steady drop that is the same on every difficulty. We use the 30% version, so your armor keeps 30% of its value at level 50.
-
-<Details>
-<summary>Armor Effectiveness by Level</summary>
-<br>
-
-| Level | 6 | 12 | 18 | 24 | 30 | 36 | 42 | 50 |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Armor effectiveness lost** | 10% | 30% | 40% | 50% | 55% | 60% | 65% | 70% |
-
-</Details>
+Enemies in Night City Refined are smarter and more dangerous than in the base game. This section explains how they fight and how to survive them.
 
 ## Enemies
 
@@ -141,8 +116,6 @@ The mods in this section are the base of how fighting works in Night City Refine
    - The base game had a hidden timer that only let each enemy hit you about once a second, no matter what. That timer is gone.
    - Now it depends on distance, the enemy's skill and their gun. Up close they will hit you almost every time. At range, shotguns barely hit and rifles still do.
    - Staying in cover, moving sideways, dodging and sliding make you much harder to hit.
- - [Enemy Melee Moves Unlocked](https://www.nexusmods.com/cyberpunk2077/mods/34153) gives melee enemies 25 attacks and combos that were already in the game files but never used. Fist fighters kick now, and a Mantis Blade user has more than two moves.
- - [Tougher Security Turrets](https://www.nexusmods.com/cyberpunk2077/mods/12584) gives security turrets more health and armor, so a turret you hack doesn't die straight away.
 
 <Details>
 <summary>Enemy Health by Rarity</summary>
@@ -189,8 +162,6 @@ Stealth and hacking take more planning in this list. You have to get into the ne
    - Ping, Whistle, Distract and all covert quickhacks work without a breach.
  - [Better Access Point Hacking Netrunner Rewards](https://www.nexusmods.com/cyberpunk2077/mods/10355) gives you short buffs for breaching access points, like extra RAM and faster uploads.
  - [Trace Position Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/12445) means not every enemy can trace you when you hack them. Netrunners can, and they protect their whole squad. Some higher rarity and robotic enemies can too. Regular gangers can't.
- - [Sonic Shock Prevents Trace](https://www.nexusmods.com/cyberpunk2077/mods/11438) brings back the old behavior: once you hit someone with Sonic Shock (blue tier or higher), your next hacks on them can't start a trace.
- - [No Spillover out of combat](https://www.nexusmods.com/cyberpunk2077/mods/24359) stops the Spillover perk from spreading your hacks while you're in stealth, so a spreading hack can't give you away.
  - [Intelligence based scanner time dilation](https://www.nexusmods.com/cyberpunk2077/mods/16270) makes the scanner's slow motion depend on your Intelligence. With low Intelligence, time barely slows down.
 
 <Details>
@@ -248,9 +219,7 @@ With level 3 of the Overclock perk, press `T` while scanning to force open one p
  - [Stealthrunner](https://www.nexusmods.com/cyberpunk2077/mods/7616) adds optional stealth objectives to main quests, side quests, gigs and NCPD jobs, including Phantom Liberty.
    - They show up under your normal objectives. There is a Stealthrunner page in the main menu hub to track your progress.
    - Completing them gives money, XP and Street Cred. Completing enough of them gives perk points, new cyberware and a stealth perk tree.
- - [Dead Body Alert](https://www.nexusmods.com/cyberpunk2077/mods/26746) keeps enemies alert for good once they find a body. In the base game they calmed down after a minute.
  - [Stealth Finishers](https://www.nexusmods.com/cyberpunk2077/mods/9360) lets you do a melee finisher as an instant stealth takedown, instead of always grabbing first.
- - [Body Shield](https://www.nexusmods.com/cyberpunk2077/mods/10533) lets a body you're carrying soak up bullets.
 
 <Details>
 <summary>Stealthrunner Objectives</summary>
