@@ -25,8 +25,6 @@
   - [Stealth](#stealth)
 - [Leveling and Progression](#leveling-and-progression)
   - [Changes to Leveling](#changes-to-leveling)
-  - [Perk Point Acquisition](#perk-point-acquisition)
-  - [Cyberware Capacity](#cyberware-capacity)
 - [New and Notable Mechanics](#new-and-notable-mechanics)
   - [Survival Needs](#survival-needs)
   - [Combat Drugs and Toxicity](#combat-drugs-and-toxicity)
@@ -68,7 +66,7 @@ This list plays very differently from the base game. These are the things that c
    - Crafting, tech weapons and grenades raise **Technical Ability**.
 
    So if an attribute won't go up, use the weapons and play style tied to it. See [Changes to Leveling](#changes-to-leveling).
- - **If you can't spend a perk point, that's normal.** Perks need the attribute at 4 or higher. Level a skill a little and the point becomes usable. See [Perk Point Acquisition](#perk-point-acquisition).
+ - **If you can't spend a perk point, that's normal.** Perks need the attribute at 4 or higher. Level a skill a little and the point becomes usable. See [Perk Point Acquisition](#perks).
 
 ### Staying Alive
 
@@ -410,7 +408,7 @@ Skill XP comes in fast at low ranks and slows down as the skill gets higher. Cha
 
 </Details>
 
-## Perk Point Acquisition
+### Perks
 
  - Perks are locked behind attribute levels. The first row of perks in each tree needs that attribute at **4**. The next rows need **9**, **15** and **20**.
  - Attributes start at 3. If you left an attribute at 3 in character creation, you can't buy any of its perks until its skill reaches rank 3. That only takes a few kills.
@@ -430,13 +428,6 @@ Skill XP comes in fast at low ranks and slows down as the skill gets higher. Cha
 Stealthrunner's own stealth perks cost normal perk points. Buying all of them costs 21.
 
 </Details>
-
-## Cyberware Capacity
-
- - **Capacity grows every level.** [Cyberware Capacity Shards RNG Removed](https://www.nexusmods.com/cyberpunk2077/mods/11399) removes capacity shards from the game. Instead you get +14 capacity straight away and +1 every level, for +74 by level 60. That is the most you could ever get from finding every shard.
- - **Skills add capacity.** Skillful gives +1 capacity each time Solo, Shinobi, Engineer or Netrunner reaches rank 15, 30, 45 and 60. That's up to +16.
- - **The Renaissance Punk perk adds capacity.** [Renaissance Punk - Perk Scaling](https://www.nexusmods.com/cyberpunk2077/mods/14037) changes the Tech perk Renaissance Punk. If you own the perk, each attribute gives +2 capacity at 4, 9, 15 and 20, for up to +40.
- - **Chrome Compressor lowers cyberware cost.** [Actual Chrome Compression](https://www.nexusmods.com/cyberpunk2077/mods/14044) makes the Chrome Compressor reduce how much capacity your installed cyberware costs, from 5% at Tier 2 up to 30% at Tier 5++.
 
 <p align="right"><a href="#top">Back to top</a></p>
 
@@ -763,7 +754,6 @@ Enemies you take down with stealth takedowns never drop lemons.
    - Sleeping at your apartment clears your stars faster (except at Megabuilding H10). Elevators and the metro still work while you're wanted. Dogtown is a safe place to escape to.
    - Shooting at police gets you 2 stars fast. Punching them adds much less.
    - Each district sends different people after you. Northside sends heavily armored cops. Arroyo sends Kang Tao. Japantown sends Tyger Claws. In the Badlands, Militech and drones show up from 2 stars. Pacifica has no police until 3 stars.
- - **Fighting gangs is legal.** [Fighting Gangs Allowed - Reasonable Police](https://www.nexusmods.com/cyberpunk2077/mods/19189) stops police from turning on you for fighting gangs. Hurting civilians or cops is still a crime.
 
 <p align="right"><a href="#top">Back to top</a></p>
 
@@ -780,21 +770,8 @@ Money is tight in this list, from Viktor's bill at the start all the way to the 
    - Selling guns no longer beats everything else. Selling cyberware and clothing is worth it now.
    - Cyberware and quickhacks cost more. Schematics cost less, so crafting is worth your time.
    - Vendors have less money on hand, so you can't sell them everything at once.
-   - Money shards are worth less, and enemies drop much less ammo.
+   - Enemies drop much less ammo.
    - Quest and gig rewards depend on who is paying and how risky the job is. Fixers give you better paying work as they get to know you.
-
-<Details>
-<summary>Money Shard Values</summary>
-<br>
-
-| Shard | Night City Refined | Base Game |
-|:---|:---:|:---:|
-| **Uncommon** | 1,000 | 500 |
-| **Rare** | 1,500 | 2,500 |
-| **Epic** | 2,000 | 4,000 |
-| **Legendary** | 2,500 | 9,000 |
-
-</Details>
 
 <p align="right"><a href="#top">Back to top</a></p>
 
