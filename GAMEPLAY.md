@@ -60,9 +60,8 @@ This list plays very differently from the base game. These are the things that c
  - **Watch your Nerve.** Fighting drains it. If it hits 0, V has a heart attack and dies. Showers, sleep, dancing, drinks and smokes bring it back. See [Nerve](#nerve).
  - **Alcohol, cigarettes and drugs are addictive.** Use them in moderation.
  - **Fast travel is turned off.** You drive, take a taxi, or ride the metro.
- - **You can only craft at your stash**, and your stash can't hold food, drinks or drugs. You can carry 80 less weight than normal.
+ - **You can only craft at a stash.** That means the stash in one of your apartments, or the trunk of a car you own. Your stash can't hold food, drinks or drugs. You can carry 80 less weight than normal.
  - **Your guns wear out.** Repair them at the crafting bench before they drop a tier and start jamming. See [Weapon Condition and Jamming](#weapon-condition-and-jamming).
- - **Only iconic weapons can be upgraded.** This is how the base game works since patch 2.0. Normal guns can only be repaired.
  - **Enemies hit you when you stand in the open.** Use cover, keep moving sideways, and don't rush across open ground. See [Enemies](#enemies).
  - **Quickhacks are locked until you breach the network.** See [Breaching and Quickhacks](#breaching-and-quickhacks).
  - **Money is tight.** Selling guns isn't a gold mine anymore, and Viktor wants €$33,000 for your chrome. See [Economy and Loot](#economy-and-loot).
@@ -278,8 +277,6 @@ With level 3 of the Overclock perk, press `T` while scanning to force open one p
    - Completing them gives money, XP and Street Cred. Completing enough of them gives perk points, new cyberware and a stealth perk tree.
  - [Dead Body Alert](https://www.nexusmods.com/cyberpunk2077/mods/26746) keeps enemies alert for good once they find a body. In the base game they calmed down after a minute.
  - [Stealth Finishers](https://www.nexusmods.com/cyberpunk2077/mods/9360) lets you do a melee finisher as an instant stealth takedown, instead of always grabbing first.
- - [No uncrouching when melee attacking from stealth](https://www.nexusmods.com/cyberpunk2077/mods/4470) keeps V crouched for a stealth melee attack. If the first hit kills, you stay hidden.
- - [Optical Camo Realism and Utility](https://www.nexusmods.com/cyberpunk2077/mods/15308) makes the gun in your hands stay visible while you're cloaked. Holding a gun makes you easier to spot and easier to hit. Fists and arm cyberware stay invisible.
  - [Body Shield](https://www.nexusmods.com/cyberpunk2077/mods/10533) lets a body you're carrying soak up bullets.
 
 <Details>
@@ -647,7 +644,7 @@ Armor slows down how fast you get injured.
 
  - You can carry 80 less weight.
  - Your stash can't hold food, drinks or drugs. Carry them with you or use them.
- - You can only craft at your stash. The crafting menu is removed, and a crafting prompt appears next to your stash.
+ - You can only craft at a stash: the stash in one of your apartments, or the trunk of a car you own. The crafting menu is removed, and a `Craft` prompt appears next to the stash.
  - Food, drinks and drugs weigh more.
  - Ammo costs more for shotguns and snipers, and sells for less.
  - Alcohol lowers your reload speed instead of your aim. Drink enough and you get the Numbed buff, which gives bonus armor.
@@ -709,7 +706,6 @@ The **Detoxifier** cyberware turns half of your toxicity into health.
  - When condition hits 0, the gun **drops one tier**. For example, a Tier 5 gun becomes Tier 4+. Iconic weapons can drop too.
  - Melee weapons never jam, but they still lose condition and can drop a tier.
  - **Repair** your weapons at the crafting bench, on the same screen you upgrade on. The button says `Maintain`. Repairing sets condition back to 100.
- - Only iconic weapons can be upgraded, and they have to be at full condition first. Normal guns can only be repaired. This is how the base game works since patch 2.0.
 
 <Details>
 <summary>Jamming Stages</summary>
@@ -783,10 +779,7 @@ Money is tight in this list, from Viktor's bill at the start all the way to the 
    - Vendors have less money on hand, so you can't sell them everything at once.
    - Money shards are worth less, and enemies drop much less ammo.
    - Quest and gig rewards depend on who is paying and how risky the job is. Fixers give you better paying work as they get to know you.
- - [Bounties Restored](https://www.nexusmods.com/cyberpunk2077/mods/21820) brings back cash bounties on every wanted enemy, not just elites and bosses. Bounties only pay if you kill the target. Weaker enemies pay less.
- - [Replaced With Legendary Money Shards](https://www.nexusmods.com/cyberpunk2077/mods/10930) swaps the Carry Capacity shards in Phantom Liberty airdrops for 6 Legendary money shards, worth €$15,000.
  - [Specialized Ripperdocs](https://www.nexusmods.com/cyberpunk2077/mods/23399) makes each ripperdoc sell only two types of cyberware. Every iconic piece is sold by exactly one ripperdoc. [Ripperdoc Vendor UI Enhancements](https://www.nexusmods.com/cyberpunk2077/mods/23180) shows each ripperdoc's specialties on the map.
- - [DLC Liberation Protocol](https://www.nexusmods.com/cyberpunk2077/mods/12322) puts the Twitch and GOG exclusive weapons in the world as pickups, and adds exclusive clothing to shops in Pacifica and Heywood.
 
 <Details>
 <summary>Money Shard Values</summary>
@@ -798,23 +791,6 @@ Money is tight in this list, from Viktor's bill at the start all the way to the 
 | **Rare** | 1,500 | 2,500 |
 | **Epic** | 2,000 | 4,000 |
 | **Legendary** | 2,500 | 9,000 |
-
-</Details>
-
-<Details>
-<summary>Bounty Payouts by Enemy Rarity</summary>
-<br>
-
-This is how much of the full bounty you get.
-
-| Rarity | Payout |
-|:---|:---:|
-| **Trash** and **Weak** | 10% |
-| **Normal** | 30% |
-| **Rare** | 40% |
-| **Officer** | 50% |
-| **Elite** | 60% |
-| **Boss** and **MaxTac** | 100% |
 
 </Details>
 
