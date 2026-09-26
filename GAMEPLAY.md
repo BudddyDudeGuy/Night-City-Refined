@@ -30,6 +30,7 @@
   - [Weapon Condition and Jamming](#weapon-condition-and-jamming)
 - [Quests and Street Cred](#quests-and-street-cred)
   - [Quest Changes](#quest-changes)
+    - [Act 1 Walkthrough](#act-1-walkthrough)
   - [Street Cred and Locked Areas](#street-cred-and-locked-areas)
 - [Content Additions and Improvements](#content-additions-and-improvements)
   - [World Immersion](#world-immersion)
@@ -84,7 +85,7 @@ This list plays very differently from the base game. These are the things that c
  - **Fast travel is turned off.** You drive, take a taxi, or ride the metro.
  - **You can only craft at a stash.** That means the stash in one of your apartments, or the trunk of a car you own. Your stash can't hold food, drinks or drugs. You can carry 80 less weight than normal.
  - **Money is tight.** Selling guns won't make you rich on its own, but cyberware and clothing sell for much more. Loot everything, use crafting when you can, and take gigs and side jobs to earn eddies.
- - **Act 1 has built-in gaps between missions.** When nothing is happening, that's on purpose. Go do gigs and earn money. See [Quest Changes](#quest-changes).
+ - **Act 1 has built-in gaps between missions.** When nothing is happening, that's on purpose. Go do gigs and earn money. See the [Act 1 Walkthrough](#act-1-walkthrough).
  - **Some stores, clubs, gigs and apartments are locked until your Street Cred is high enough.** This comes from Take a Breather. If a door won't open or a shop is closed to you, that's usually why. Someone messages you when a place opens up. See [Street Cred and Locked Areas](#street-cred-and-locked-areas).
 
 <p align="right"><a href="#top">Back to top</a></p>
@@ -741,8 +742,26 @@ The story is paced differently in this list, and much of the city opens up over 
 
 The base game keeps telling you V is dying, while giving you a hundred hours of other things to do. These mods fix that from both sides. They remove the fake urgency, and they put real time between main missions so you have a reason to explore.
 
->[!TIP]
->**In short:** when the story goes quiet, that's on purpose. Use the time to do gigs, earn money and explore.
+### Act 1 Walkthrough
+
+The start of the game plays differently from the base game. There are breaks between the main missions where nothing story related happens. That's on purpose. Follow these steps so you always know what to do next.
+
+ 1. **Finish The Rescue.** Jackie drops you off at your apartment in Megabuilding H10. From this point on, you need to eat, drink and sleep, so pick up some food and water.
+ 2. **Optional: go out that night.** You don't have to go to bed straight away. You can leave your apartment and do NCPD jobs around Watson. Gigs aren't available yet, and it stays night until you go to sleep.
+ 3. **Go to bed.** Sleeping ends The Rescue and starts a new quest called **The Lockdown**. Watson is locked down, and this is your first stretch of free time.
+ 4. **Spend at least 12 hours in Watson.** Follow The Lockdown in your journal: message Jackie to check on him, message Viktor about the neurovirus, and wait for Jackie to bring your car back from the repair shop. Viktor's clinic and Misty's shop stay locked during this time. Do gigs and NCPD jobs and start saving money.
+ 5. **Go to bed again.** Once 12 hours have passed, sleep in your bed. When you wake up, it's time to go see Viktor.
+ 6. **Optional: ask Jackie for more time.** Before you leave your room, you can call Jackie and tell him to catch up later. That gives you 6 more hours. Sleep again once they've passed. If you don't want the extra time, just walk out.
+ 7. **The Ripperdoc.** Meet Jackie at Misty's, then go to Viktor's clinic for your new cyberware. Viktor charges **€$33,000**. You don't have to pay straight away. Paying him back shows up in your journal.
+ 8. **Wait 1 day.** After you leave Viktor's, there's a 1 day break before The Ride starts. Misty's shop is locked during this time. Keep doing gigs.
+ 9. **The Ride.** It starts on its own once the day has passed.
+ 10. **Start The Pickup when you're ready.** In the base game Jackie calls you to All Foods straight away. Here he doesn't. When you're ready to move on, call Jackie. The Militech credchip for the Flathead is worth **€$50,000**.
+ 11. **The Heist.** After you finish both prep quests, The Pickup and The Information, there's a wait of about 8 hours. Then Jackie texts you that it's time.
+
+>[!NOTE]
+>Some cut dialogue with Viktor and Jackie is restored, and you can offer Viktor your car as payment. He says no. You can change the length of each break in `Settings`, `Mods`, `Longer Lockdown`.
+
+### What Else Changes
 
  - **Act 1 has gaps.** [LONGER LOCKDOWN](https://www.nexusmods.com/cyberpunk2077/mods/23219) turns the start of the game into a proper starting zone in Watson, with real gaps between the Act 1 missions.
  - **Longer quest timers and more expensive story payments.** [Live A Little](https://www.nexusmods.com/cyberpunk2077/mods/13271) makes quest timers longer and raises the early story money, so you have to go earn it.
@@ -751,25 +770,6 @@ The base game keeps telling you V is dying, while giving you a hundred hours of 
  - **Panam and Rachel take their time.** [Panam quest timer edits](https://www.nexusmods.com/cyberpunk2077/mods/17541) and [Rachel's call delayed](https://www.nexusmods.com/cyberpunk2077/mods/17507) space out Panam's and Rachel's quests.
  - **No more rushing lines.** [Delete "A Few Weeks Tops"](https://www.nexusmods.com/cyberpunk2077/mods/16932), [Hanako Call - No Rush](https://www.nexusmods.com/cyberpunk2077/mods/16926) and A Like Supreme - No Rush cut the lines that rush you.
  - **Phantom Liberty moved.** [OPLI](https://www.nexusmods.com/cyberpunk2077/mods/21623) moves Phantom Liberty so it fits the story better.
-
-<Details>
-<summary>Act 1 Timeline</summary>
-<br>
-
-| Step | Base Game | Night City Refined |
-|:---|:---|:---|
-| **The night of The Rescue** | You go straight to bed | You can go out after Jackie drops you off. Only NCPD jobs are available, and it stays night until you sleep |
-| **The Rescue to The Ripperdoc** | Jackie calls when you wake up | **12 hours.** You can go anywhere in Watson. Viktor's and Misty's doors stay locked |
-| **Optional extra time** | None | When you wake up, call Jackie and tell him to catch up later. That gives you **6 more hours** |
-| **The Ripperdoc to The Ride** | Straight away | **1 day.** Misty's is locked until The Ride starts |
-| **After The Ride** | Jackie calls you to All Foods and waits there on his bike | Jackie doesn't call you on his own, so he isn't left waiting outside for days. You start it when you're ready |
-
- - During this time, a new quest called **The Lockdown** replaces The Gig. Jackie gets your car repaired and brings it back to you.
- - Viktor wants **€$33,000** for your cyberware, and the Militech credchip for the Flathead is worth **€$50,000**. Use the gaps to earn the money.
- - Some cut dialogue with Viktor and Jackie is restored. You can offer Viktor your car as payment. He says no.
- - You can change the gap lengths in `Settings`, `Mods`, `Longer Lockdown`.
-
-</Details>
 
 <Details>
 <summary>Quest Money Changes</summary>
