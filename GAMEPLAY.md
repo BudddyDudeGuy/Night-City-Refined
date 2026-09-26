@@ -37,7 +37,6 @@
   - [Hanging Out and Romance](#hanging-out-and-romance)
   - [New Quests](#new-quests)
 - [Police](#police)
-- [Economy and Loot](#economy-and-loot)
 
 # Initial Setup
 
@@ -84,7 +83,7 @@ This list plays very differently from the base game. These are the things that c
 
  - **Fast travel is turned off.** You drive, take a taxi, or ride the metro.
  - **You can only craft at a stash.** That means the stash in one of your apartments, or the trunk of a car you own. Your stash can't hold food, drinks or drugs. You can carry 80 less weight than normal.
- - **Money is tight.** Selling guns isn't a gold mine anymore, and Viktor wants €$33,000 for your chrome. See [Economy and Loot](#economy-and-loot).
+ - **Money is tight.** Selling guns won't make you rich on its own, but cyberware and clothing sell for much more. Loot everything, use crafting when you can, and take gigs and side jobs to earn eddies.
  - **Act 1 has built-in gaps between missions.** When nothing is happening, that's on purpose. Go do gigs and earn money. See [Quest Changes](#quest-changes).
  - **Some stores, clubs, gigs and apartments are locked until your Street Cred is high enough.** This comes from Take a Breather. If a door won't open or a shop is closed to you, that's usually why. Someone messages you when a place opens up. See [Street Cred and Locked Areas](#street-cred-and-locked-areas).
 
@@ -109,7 +108,7 @@ Before reading on, you can look over the full [load order](https://loadorderlibr
  - [SynthDose](https://www.nexusmods.com/cyberpunk2077/mods/14094) adds combat drugs with a toxicity limit. Read more [here](#combat-drugs-and-toxicity).
  - [Weapon Conditioning](https://www.nexusmods.com/cyberpunk2077/mods/10479) makes guns wear out, jam and drop a tier if you don't repair them. Read more [here](#weapon-condition-and-jamming).
  - [NCPD Prevention Police Enhancement](https://www.nexusmods.com/cyberpunk2077/mods/9863) changes how the police chase you and who shows up in each district. Read more [here](#police).
- - [Economy Punk](https://www.nexusmods.com/cyberpunk2077/mods/16952) reprices the whole game so money stays tight. Read more [here](#economy-and-loot).
+ - [Economy Punk](https://www.nexusmods.com/cyberpunk2077/mods/16952) reprices the whole game so money stays tight.
  - [Take a Breather](https://www.nexusmods.com/cyberpunk2077/mods/23290) locks stores, clubs, gigs and apartments behind Street Cred, so the city opens up as you make a name for yourself. Read more [here](#street-cred-and-locked-areas).
  - [LONGER LOCKDOWN](https://www.nexusmods.com/cyberpunk2077/mods/23219) and [Live A Little](https://www.nexusmods.com/cyberpunk2077/mods/13271) space out the story and raise the early story money. Read more [here](#quest-changes).
  - [OPLI](https://www.nexusmods.com/cyberpunk2077/mods/21623) moves Phantom Liberty so it fits the story better. Read more [here](#quest-changes).
@@ -982,23 +981,5 @@ The four romance and Jackie quests start after you visit V's Megabuilding H10 ap
    - Sleeping at your apartment clears your stars faster (except at Megabuilding H10). Elevators and the metro still work while you're wanted. Dogtown is a safe place to escape to.
    - Shooting at police gets you 2 stars fast. Punching them adds much less.
    - Each district sends different people after you. Northside sends heavily armored cops. Arroyo sends Kang Tao. Japantown sends Tyger Claws. In the Badlands, Militech and drones show up from 2 stars. Pacifica has no police until 3 stars.
-
-<p align="right"><a href="#top">Back to top</a></p>
-
----
-
-# Economy and Loot
-
-Money is tight in this list, from Viktor's bill at the start all the way to the end game.
-
->[!TIP]
->**In short:** selling guns won't make you rich. Sell cyberware and clothing, do gigs, and craft your own gear.
-
- - **Everything is repriced.** [Economy Punk](https://www.nexusmods.com/cyberpunk2077/mods/16952) reprices almost everything.
-   - Selling guns no longer beats everything else. Selling cyberware and clothing is worth it now.
-   - Cyberware and quickhacks cost more. Schematics cost less, so crafting is worth your time.
-   - Vendors have less money on hand, so you can't sell them everything at once.
-   - Enemies drop much less ammo.
-   - Quest and gig rewards depend on who is paying and how risky the job is. Fixers give you better paying work as they get to know you.
 
 <p align="right"><a href="#top">Back to top</a></p>
