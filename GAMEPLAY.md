@@ -18,9 +18,8 @@
 - [Before You Start](#before-you-start)
 - [Overview and Basics](#overview-and-basics)
   - [Core Overhauls](#core-overhauls)
-- [Combat Foundations](#combat-foundations)
+- [Combat and Stealth](#combat-and-stealth)
   - [Enemies](#enemies)
-- [Stealth and Netrunning](#stealth-and-netrunning)
   - [Breaching and Quickhacks](#breaching-and-quickhacks)
   - [Stealth](#stealth)
 - [Leveling and Progression](#leveling-and-progression)
@@ -119,14 +118,14 @@ Before reading on, you can look over the full [load order](https://loadorderlibr
 
 ---
 
-# Combat Foundations
+# Combat and Stealth
 
-Enemies in Night City Refined are smarter and more dangerous than in the base game. This section explains how they fight and how to survive them.
+Fights, hacking and stealth all work differently in Night City Refined. Enemies are smarter and more dangerous, you have to breach a network before you can hack it, and staying unseen earns rewards you can't get any other way.
+
+## Enemies
 
 >[!TIP]
 >**In short:** enemies fight as a team and hit hard when you're in the open. Use cover, move sideways, and don't reload where they can see you.
-
-## Enemies
 
  - **Enemies are as strong as they look.** [Enemy Rarity Fixes Improved](https://www.nexusmods.com/cyberpunk2077/mods/30958) makes an enemy's rarity match what they actually are.
    - Rarity decides an enemy's health and damage. In the base game it was close to random, and it scaled with your level.
@@ -170,18 +169,10 @@ Androids have 1.5x health, security turrets 1.2x, mechs 1.25x and small drones 2
 >- Shotgun users are deadly up close and weak at range. Keep your distance from them.
 >- Smoke and Optical Camo make enemies miss.
 
-<p align="right"><a href="#top">Back to top</a></p>
-
----
-
-# Stealth and Netrunning
-
-Stealth and hacking take more planning in this list. You have to get into the network before you can hack people, and staying unseen earns you rewards you can't get any other way.
+## Breaching and Quickhacks
 
 >[!TIP]
 >**In short:** breach a network before you hack anything on it. Knock enemies out instead of killing them if you want to breach from their bodies. Staying unseen earns perk points through Stealthrunner.
-
-## Breaching and Quickhacks
 
  - **Networks must be breached before you hack them.** [Much Better Netrunning](https://www.nexusmods.com/cyberpunk2077/mods/27237) locks quickhacks on anything connected to a network until you breach that network. It turns on after The Rescue.
    - Enemy hideouts and guarded areas are usually on a network, so that's where you need to breach first.
