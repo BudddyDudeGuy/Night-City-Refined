@@ -1,7 +1,6 @@
 <p align="center">
   [ <a href="https://github.com/BudddyDudeGuy/Night-City-Refined/blob/main/README.md">Installation</a> |
   Gameplay Guide |
-  <a href="https://github.com/BudddyDudeGuy/Night-City-Refined/blob/main/FAQ.md">FAQ</a> |
   <a href="https://github.com/BudddyDudeGuy/Night-City-Refined/blob/main/Changelog.md">Changelog</a> |
   <a href="https://loadorderlibrary.com/lists/night-city-refined">Load Order</a> |
   <a href="https://www.nexusmods.com/games/cyberpunk2077/collections/okah4v">Collection</a> |
@@ -44,7 +43,7 @@
 
 # Initial Setup
 
-Install the list with the [Installation Guide](https://github.com/BudddyDudeGuy/Night-City-Refined/blob/main/README.md) before you read this. It covers setup, launching the game, and most technical problems. Common questions are answered in the [FAQ](https://github.com/BudddyDudeGuy/Night-City-Refined/blob/main/FAQ.md).
+Install the list with the [Installation Guide](https://github.com/BudddyDudeGuy/Night-City-Refined/blob/main/README.md) before you read this. It covers setup, launching the game, and most technical problems.
 
 Almost every mod in this list has settings you can change in game. Open the pause menu and look for `Mod Settings`. A few older mods use `Settings` then the `Mods` tab instead. The list ships with settings already tuned, so you don't need to touch anything to play.
 

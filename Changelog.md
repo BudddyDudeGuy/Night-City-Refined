@@ -3,7 +3,6 @@
 <p align="center">
   [ <a href="https://github.com/BudddyDudeGuy/Night-City-Refined/blob/main/README.md">Installation</a> |
   <a href="https://github.com/BudddyDudeGuy/Night-City-Refined/blob/main/GAMEPLAY.md">Gameplay Guide</a> |
-  <a href="https://github.com/BudddyDudeGuy/Night-City-Refined/blob/main/FAQ.md">FAQ</a> |
   Changelog |
   <a href="https://loadorderlibrary.com/lists/night-city-refined">Load Order</a> |
   <a href="https://www.nexusmods.com/games/cyberpunk2077/collections/okah4v">Collection</a> |
