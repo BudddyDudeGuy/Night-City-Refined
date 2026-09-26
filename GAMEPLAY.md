@@ -28,15 +28,16 @@
   - [Survival Needs](#survival-needs)
   - [Combat Drugs and Toxicity](#combat-drugs-and-toxicity)
   - [Weapon Condition and Jamming](#weapon-condition-and-jamming)
-  - [Police](#police)
-- [Economy and Loot](#economy-and-loot)
-- [Street Cred and Locked Areas](#street-cred-and-locked-areas)
+- [Quests and Street Cred](#quests-and-street-cred)
+  - [Quest Changes](#quest-changes)
+  - [Street Cred and Locked Areas](#street-cred-and-locked-areas)
 - [Content Additions and Improvements](#content-additions-and-improvements)
   - [World Immersion](#world-immersion)
   - [Ripperdocs](#ripperdocs)
   - [Hanging Out and Romance](#hanging-out-and-romance)
   - [New Quests](#new-quests)
-  - [Vanilla Quest Edits](#vanilla-quest-edits)
+- [Police](#police)
+- [Economy and Loot](#economy-and-loot)
 
 # Initial Setup
 
@@ -84,7 +85,7 @@ This list plays very differently from the base game. These are the things that c
  - **Fast travel is turned off.** You drive, take a taxi, or ride the metro.
  - **You can only craft at a stash.** That means the stash in one of your apartments, or the trunk of a car you own. Your stash can't hold food, drinks or drugs. You can carry 80 less weight than normal.
  - **Money is tight.** Selling guns isn't a gold mine anymore, and Viktor wants €$33,000 for your chrome. See [Economy and Loot](#economy-and-loot).
- - **Act 1 has built-in gaps between missions.** When nothing is happening, that's on purpose. Go do gigs and earn money. See [Vanilla Quest Edits](#vanilla-quest-edits).
+ - **Act 1 has built-in gaps between missions.** When nothing is happening, that's on purpose. Go do gigs and earn money. See [Quest Changes](#quest-changes).
  - **Some stores, clubs, gigs and apartments are locked until your Street Cred is high enough.** This comes from Take a Breather. If a door won't open or a shop is closed to you, that's usually why. Someone messages you when a place opens up. See [Street Cred and Locked Areas](#street-cred-and-locked-areas).
 
 <p align="right"><a href="#top">Back to top</a></p>
@@ -110,8 +111,8 @@ Before reading on, you can look over the full [load order](https://loadorderlibr
  - [NCPD Prevention Police Enhancement](https://www.nexusmods.com/cyberpunk2077/mods/9863) changes how the police chase you and who shows up in each district. Read more [here](#police).
  - [Economy Punk](https://www.nexusmods.com/cyberpunk2077/mods/16952) reprices the whole game so money stays tight. Read more [here](#economy-and-loot).
  - [Take a Breather](https://www.nexusmods.com/cyberpunk2077/mods/23290) locks stores, clubs, gigs and apartments behind Street Cred, so the city opens up as you make a name for yourself. Read more [here](#street-cred-and-locked-areas).
- - [LONGER LOCKDOWN](https://www.nexusmods.com/cyberpunk2077/mods/23219) and [Live A Little](https://www.nexusmods.com/cyberpunk2077/mods/13271) space out the story and raise the early story money. Read more [here](#vanilla-quest-edits).
- - [OPLI](https://www.nexusmods.com/cyberpunk2077/mods/21623) moves Phantom Liberty so it fits the story better. Read more [here](#vanilla-quest-edits).
+ - [LONGER LOCKDOWN](https://www.nexusmods.com/cyberpunk2077/mods/23219) and [Live A Little](https://www.nexusmods.com/cyberpunk2077/mods/13271) space out the story and raise the early story money. Read more [here](#quest-changes).
+ - [OPLI](https://www.nexusmods.com/cyberpunk2077/mods/21623) moves Phantom Liberty so it fits the story better. Read more [here](#quest-changes).
  - [Specialized Ripperdocs](https://www.nexusmods.com/cyberpunk2077/mods/23399) makes each ripperdoc sell only certain types of cyberware, so you have to shop around. Read more [here](#ripperdocs).
 
 <p align="right"><a href="#top">Back to top</a></p>
@@ -728,170 +729,15 @@ Enemies you take down with stealth takedowns never drop lemons.
 
 </Details>
 
-## Police
-
- - **Police chases last longer.** [NCPD Prevention Police Enhancement](https://www.nexusmods.com/cyberpunk2077/mods/9863) changes how the police chase you.
-   - After the police lose sight of you, it takes 30 to 70 real minutes for your wanted level to clear. Police cars spawn much less, so you can keep playing while wanted.
-   - Sleeping at your apartment clears your stars faster (except at Megabuilding H10). Elevators and the metro still work while you're wanted. Dogtown is a safe place to escape to.
-   - Shooting at police gets you 2 stars fast. Punching them adds much less.
-   - Each district sends different people after you. Northside sends heavily armored cops. Arroyo sends Kang Tao. Japantown sends Tyger Claws. In the Badlands, Militech and drones show up from 2 stars. Pacifica has no police until 3 stars.
-
 <p align="right"><a href="#top">Back to top</a></p>
 
 ---
 
-# Economy and Loot
+# Quests and Street Cred
 
-Money is tight in this list, from Viktor's bill at the start all the way to the end game.
+The story is paced differently in this list, and much of the city opens up over time as your Street Cred grows. This section explains both.
 
->[!TIP]
->**In short:** selling guns won't make you rich. Sell cyberware and clothing, do gigs, and craft your own gear.
-
- - **Everything is repriced.** [Economy Punk](https://www.nexusmods.com/cyberpunk2077/mods/16952) reprices almost everything.
-   - Selling guns no longer beats everything else. Selling cyberware and clothing is worth it now.
-   - Cyberware and quickhacks cost more. Schematics cost less, so crafting is worth your time.
-   - Vendors have less money on hand, so you can't sell them everything at once.
-   - Enemies drop much less ammo.
-   - Quest and gig rewards depend on who is paying and how risky the job is. Fixers give you better paying work as they get to know you.
-
-<p align="right"><a href="#top">Back to top</a></p>
-
----
-
-# Street Cred and Locked Areas
-
-[Take a Breather](https://www.nexusmods.com/cyberpunk2077/mods/23290) ties the city to your Street Cred. In the base game almost everything is open from the start. In this list, many stores, clubs, gigs and apartments stay locked until you have enough Street Cred. Night City opens up as you make a name for yourself.
-
->[!TIP]
->**In short:** if a place won't let you in, you need more Street Cred. Do gigs and NCPD jobs, and someone will message you when it opens.
-
- - If a door won't open or a shop won't let you in, you probably don't have enough Street Cred yet.
- - When a place opens up, a fixer or someone you know messages you about it.
- - Street Cred comes from gigs, NCPD jobs and quests.
- - Clubs sell entry tickets, so you can get in early if you pay. For example, Red Dirt costs €$7,500 until Street Cred 10, and Riot costs €$25,000 until Street Cred 30.
- - Fixers also give you better paying gigs as your Street Cred goes up.
- - **Fixers find you.** [Immersive Fixers](https://www.nexusmods.com/cyberpunk2077/mods/15460) makes fixers introduce themselves after you do NCPD jobs in their district, instead of calling you out of nowhere.
-
->[!WARNING]
->Take a Breather needs a new save. Don't add it, remove it, or change its modules in the middle of a playthrough, or places will stay locked. Also, don't buy an apartment through EZEstates until the fixer messages you about it and the map shows it unlocked.
-
-<Details>
-<summary>Places Locked Behind Street Cred</summary>
-<br>
-
-Some places need a minimum Street Cred. When you reach it, someone messages you to say it's open.
-
-| District | Place | Street Cred |
-|:---|:---|:---:|
-| **Watson** | Clothing and gun shops, medic | 4 |
-| **Watson** | Ho-Oh | 5 |
-| **Watson** | Totentanz | 8 |
-| **Watson** | Afterlife | 10 |
-| **Watson** | Riot | 30 |
-| **Westbrook** | Clothing and gun shops, medic | 5 |
-| **Westbrook** | Casino | 10 |
-| **Westbrook** | Clouds | 12 |
-| **Westbrook** | Apartment | 15 |
-| **Westbrook** | Avante | 20 |
-| **Heywood** | Dicky Twister | 8 |
-| **Heywood** | Apartment | 30 |
-| **Santo Domingo** | Red Dirt | 9 |
-| **Santo Domingo** | Medic | 10 |
-| **Pacifica** | Everything | 9 |
-| **City Center** | Empathy, Downtown medic | 15 |
-| **City Center** | Avante, gun shop, 7th Hell, Corpo Plaza medic | 20 |
-| **City Center** | Apartment, Jinguji | 40 |
-
-</Details>
-
-<Details>
-<summary>Fixer Gig Tiers</summary>
-<br>
-
-Fixers give you better gigs as your Street Cred goes up. This is the Street Cred you need for each tier of gigs.
-
-| Fixer | Tier 1 | Tier 2 | Tier 3 | Tier 4 |
-|:---|:---:|:---:|:---:|:---:|
-| **Regina Jones** (Watson) | 1 | 10 | 21 | 30 |
-| **Wakako Okada** (Westbrook) | 1 | 13 | 26 | 40 |
-| **Padre** (Heywood) | 1 | 15 | 25 | 35 |
-| **Dakota Smith** (Badlands) | 5 | 11 | 18 | 26 |
-| **Muamar Reyes** (Santo Domingo) | 8 | 21 | 38 | 50 |
-| **Mr. Hands** (Pacifica) | 12 | 26 | 35 | 45 |
-| **Dino Dinovic** (City Center) | 15 | 20 | 26 | 34 |
-| **Rogue** (Afterlife) | 32 | 35 | 40 | 50 |
-
-</Details>
-
-<Details>
-<summary>How Fixers Find You</summary>
-<br>
-
-Dino, El Capitan, Dakota and Mr. Hands contact you after you finish enough NCPD scanner jobs in their district. The more Street Cred you have, the fewer jobs you need.
-
-| Street Cred | NCPD jobs needed |
-|:---:|:---:|
-| 0 to 6 | 6 |
-| 7 to 15 | 5 |
-| 16 to 23 | 4 |
-| 24 to 32 | 3 |
-| 33 to 41 | 2 |
-| 42 to 50 | 1 |
-
-</Details>
-
-<p align="right"><a href="#top">Back to top</a></p>
-
----
-
-# Content Additions and Improvements
-
-This section covers the world, the people in it, new quests, and changes to the base game's quests.
-
-## World Immersion
-
-A lot of what you can do in Night City in the base game does nothing. You can buy a drink, dance, or take a shower, and it's just decoration. In this list those things have a purpose, because they feed [Dark Future's](#survival-needs) needs.
-
- - **Bars you can sit down at.** [Night City Interactions](https://www.nexusmods.com/cyberpunk2077/mods/5519) and its six district addons let you sit down for a drink at bars all over the city, alone or with your partner. It also has an Edgerunners tour of places from the anime.
- - **Vendors serve you.** [Immersive Bartenders](https://www.nexusmods.com/cyberpunk2077/mods/7203) and [Immersive Food Vendors](https://www.nexusmods.com/cyberpunk2077/mods/7322) have vendors actually serve you. [Immersive Rippers](https://www.nexusmods.com/cyberpunk2077/mods/7064) and [Immersive Vik](https://www.nexusmods.com/cyberpunk2077/mods/6794) put V in the chair for cyberware work.
- - **Dance floors.** [Dance Off](https://www.nexusmods.com/cyberpunk2077/mods/10615) lets you dance on the dance floors. Dancing restores Nerve.
- - **Gun ranges.** [Wilson's Range](https://www.nexusmods.com/cyberpunk2077/mods/7367) and the Kabuki gun range give you somewhere to practice shooting.
- - **Gambling.** You can gamble with real eddies: [roulette](https://www.nexusmods.com/cyberpunk2077/mods/15450), [blackjack](https://www.nexusmods.com/cyberpunk2077/mods/19575) and [pachinko](https://www.nexusmods.com/cyberpunk2077/mods/19889). Don't save or load in the middle of a game, or you lose your chips.
- - **Stock market.** The [Stock Market and News System](https://www.nexusmods.com/cyberpunk2077/mods/6319) adds a stock market to every computer. Prices react to the story and to what you do.
- - **Roller coaster.** The Pacifica roller coaster is open again, and you can ride it with your partner. It restores Nerve and Humanity.
- - **Apartment life.** Cats in every apartment, toys to play with, coffee makers, and a more open Megabuilding H10.
-
-## Ripperdocs
-
- - **Each ripperdoc sells different cyberware.** [Specialized Ripperdocs](https://www.nexusmods.com/cyberpunk2077/mods/23399) makes each ripperdoc sell only two types of cyberware. In the base game every ripperdoc sells almost everything.
-   - If a ripperdoc doesn't sell what you want, try a different one.
-   - Every iconic piece of cyberware is sold by exactly one ripperdoc. For example, to buy an iconic Sandevistan you have to find the ripperdoc who sells operating systems.
-   - There is also a lookup window in the Cyber Engine Tweaks overlay that lists where each iconic is sold.
- - **Specialties on the map.** [Ripperdoc Vendor UI Enhancements](https://www.nexusmods.com/cyberpunk2077/mods/23180) shows each ripperdoc's specialties on the map, so you know where to go.
-
-## Hanging Out and Romance
-
- - **Time with your partner.** The Romanced Enhanced mods for Panam, Judy, Kerry and River, plus [Romance Hangouts](https://www.nexusmods.com/cyberpunk2077/mods/11590), let you spend time with your partner: hang out, go on dates, shower together, and have them stay over at your place.
- - **Partners behave when you leave.** [Gone Away](https://www.nexusmods.com/cyberpunk2077/mods/19412) makes partners behave sensibly when you leave.
- - **Gifts at your door.** Post-Romance Delivery System has your partner send things to your door.
- - **Braindances.** [Lizzie's Braindances](https://www.nexusmods.com/cyberpunk2077/mods/11077) adds a full braindance catalog at Lizzie's Bar: meditation, concerts, dates with characters you know, Edgerunners scenes and more. You can stream them to your apartment and watch with your partner. Finishing a braindance restores Nerve and Energy. It's safe for work out of the box and asks before turning anything else on.
-
-Time with your partner, showers, dancing and braindances all restore Nerve. Going home and relaxing is how you keep your Nerve up.
-
-## New Quests
-
-| Quest | What it is |
-|:---|:---|
-| [Missing Persons - Fixer's Hidden Gems](https://www.nexusmods.com/cyberpunk2077/mods/5058) | Starts after Regina's gig Monster Hunt. Fixers send you gigs for almost every hidden gem in the city. Finishing all of them gives a special reward |
-| [Pacifica Typhoon - Dogtown's Hidden Gems](https://www.nexusmods.com/cyberpunk2077/mods/12245) | The same thing for Dogtown. Starts after Lucretia My Reflection |
-| [Californication](https://www.nexusmods.com/cyberpunk2077/mods/7833) | A date with Judy at the dam. Needs Judy romanced |
-| [Hot Fuzz](https://www.nexusmods.com/cyberpunk2077/mods/7832) | A night with Judy at the No-Tell Motel. Needs Judy romanced |
-| [Encore](https://www.nexusmods.com/cyberpunk2077/mods/8413) | Panam visits you in the city. Needs Panam romanced |
-| [One More Light](https://www.nexusmods.com/cyberpunk2077/mods/7834) | Visit Jackie's niche at the columbarium. Needs you to have gone to Jackie's ofrenda |
-
-The four romance and Jackie quests start after you visit V's Megabuilding H10 apartment. They show up as a text from the character.
-
-## Vanilla Quest Edits
+## Quest Changes
 
 The base game keeps telling you V is dying, while giving you a hundred hours of other things to do. These mods fix that from both sides. They remove the fake urgency, and they put real time between main missions so you have a reason to explore.
 
@@ -991,5 +837,168 @@ The base game drops Dogtown into the middle of Act 2. V is still a nobody doing 
 >If you want Phantom Liberty to come even later, switch OPLI to **Linear** in `Mod Settings`. Then Songbird doesn't call until after Tapeworm. You have to choose before you meet Takemura at Tom's Diner in Playing for Time. After that, the mode is locked.
 
 </Details>
+
+## Street Cred and Locked Areas
+
+[Take a Breather](https://www.nexusmods.com/cyberpunk2077/mods/23290) ties the city to your Street Cred. In the base game almost everything is open from the start. In this list, many stores, clubs, gigs and apartments stay locked until you have enough Street Cred. Night City opens up as you make a name for yourself.
+
+>[!TIP]
+>**In short:** if a place won't let you in, you need more Street Cred. Do gigs and NCPD jobs, and someone will message you when it opens.
+
+ - If a door won't open or a shop won't let you in, you probably don't have enough Street Cred yet.
+ - When a place opens up, a fixer or someone you know messages you about it.
+ - Street Cred comes from gigs, NCPD jobs and quests.
+ - Clubs sell entry tickets, so you can get in early if you pay. For example, Red Dirt costs €$7,500 until Street Cred 10, and Riot costs €$25,000 until Street Cred 30.
+ - Fixers also give you better paying gigs as your Street Cred goes up.
+ - **Fixers find you.** [Immersive Fixers](https://www.nexusmods.com/cyberpunk2077/mods/15460) makes fixers introduce themselves after you do NCPD jobs in their district, instead of calling you out of nowhere.
+
+>[!WARNING]
+>Take a Breather needs a new save. Don't add it, remove it, or change its modules in the middle of a playthrough, or places will stay locked. Also, don't buy an apartment through EZEstates until the fixer messages you about it and the map shows it unlocked.
+
+<Details>
+<summary>Places Locked Behind Street Cred</summary>
+<br>
+
+Some places need a minimum Street Cred. When you reach it, someone messages you to say it's open.
+
+| District | Place | Street Cred |
+|:---|:---|:---:|
+| **Watson** | Clothing and gun shops, medic | 4 |
+| **Watson** | Ho-Oh | 5 |
+| **Watson** | Totentanz | 8 |
+| **Watson** | Afterlife | 10 |
+| **Watson** | Riot | 30 |
+| **Westbrook** | Clothing and gun shops, medic | 5 |
+| **Westbrook** | Casino | 10 |
+| **Westbrook** | Clouds | 12 |
+| **Westbrook** | Apartment | 15 |
+| **Westbrook** | Avante | 20 |
+| **Heywood** | Dicky Twister | 8 |
+| **Heywood** | Apartment | 30 |
+| **Santo Domingo** | Red Dirt | 9 |
+| **Santo Domingo** | Medic | 10 |
+| **Pacifica** | Everything | 9 |
+| **City Center** | Empathy, Downtown medic | 15 |
+| **City Center** | Avante, gun shop, 7th Hell, Corpo Plaza medic | 20 |
+| **City Center** | Apartment, Jinguji | 40 |
+
+</Details>
+
+<Details>
+<summary>Fixer Gig Tiers</summary>
+<br>
+
+Fixers give you better gigs as your Street Cred goes up. This is the Street Cred you need for each tier of gigs.
+
+| Fixer | Tier 1 | Tier 2 | Tier 3 | Tier 4 |
+|:---|:---:|:---:|:---:|:---:|
+| **Regina Jones** (Watson) | 1 | 10 | 21 | 30 |
+| **Wakako Okada** (Westbrook) | 1 | 13 | 26 | 40 |
+| **Padre** (Heywood) | 1 | 15 | 25 | 35 |
+| **Dakota Smith** (Badlands) | 5 | 11 | 18 | 26 |
+| **Muamar Reyes** (Santo Domingo) | 8 | 21 | 38 | 50 |
+| **Mr. Hands** (Pacifica) | 12 | 26 | 35 | 45 |
+| **Dino Dinovic** (City Center) | 15 | 20 | 26 | 34 |
+| **Rogue** (Afterlife) | 32 | 35 | 40 | 50 |
+
+</Details>
+
+<Details>
+<summary>How Fixers Find You</summary>
+<br>
+
+Dino, El Capitan, Dakota and Mr. Hands contact you after you finish enough NCPD scanner jobs in their district. The more Street Cred you have, the fewer jobs you need.
+
+| Street Cred | NCPD jobs needed |
+|:---:|:---:|
+| 0 to 6 | 6 |
+| 7 to 15 | 5 |
+| 16 to 23 | 4 |
+| 24 to 32 | 3 |
+| 33 to 41 | 2 |
+| 42 to 50 | 1 |
+
+</Details>
+
+<p align="right"><a href="#top">Back to top</a></p>
+
+---
+
+# Content Additions and Improvements
+
+This section covers the world, the people in it, and new quests.
+
+## World Immersion
+
+A lot of what you can do in Night City in the base game does nothing. You can buy a drink, dance, or take a shower, and it's just decoration. In this list those things have a purpose, because they feed [Dark Future's](#survival-needs) needs.
+
+ - **Bars you can sit down at.** [Night City Interactions](https://www.nexusmods.com/cyberpunk2077/mods/5519) and its six district addons let you sit down for a drink at bars all over the city, alone or with your partner. It also has an Edgerunners tour of places from the anime.
+ - **Vendors serve you.** [Immersive Bartenders](https://www.nexusmods.com/cyberpunk2077/mods/7203) and [Immersive Food Vendors](https://www.nexusmods.com/cyberpunk2077/mods/7322) have vendors actually serve you. [Immersive Rippers](https://www.nexusmods.com/cyberpunk2077/mods/7064) and [Immersive Vik](https://www.nexusmods.com/cyberpunk2077/mods/6794) put V in the chair for cyberware work.
+ - **Dance floors.** [Dance Off](https://www.nexusmods.com/cyberpunk2077/mods/10615) lets you dance on the dance floors. Dancing restores Nerve.
+ - **Gun ranges.** [Wilson's Range](https://www.nexusmods.com/cyberpunk2077/mods/7367) and the Kabuki gun range give you somewhere to practice shooting.
+ - **Gambling.** You can gamble with real eddies: [roulette](https://www.nexusmods.com/cyberpunk2077/mods/15450), [blackjack](https://www.nexusmods.com/cyberpunk2077/mods/19575) and [pachinko](https://www.nexusmods.com/cyberpunk2077/mods/19889). Don't save or load in the middle of a game, or you lose your chips.
+ - **Stock market.** The [Stock Market and News System](https://www.nexusmods.com/cyberpunk2077/mods/6319) adds a stock market to every computer. Prices react to the story and to what you do.
+ - **Roller coaster.** The Pacifica roller coaster is open again, and you can ride it with your partner. It restores Nerve and Humanity.
+ - **Apartment life.** Cats in every apartment, toys to play with, coffee makers, and a more open Megabuilding H10.
+
+## Ripperdocs
+
+ - **Each ripperdoc sells different cyberware.** [Specialized Ripperdocs](https://www.nexusmods.com/cyberpunk2077/mods/23399) makes each ripperdoc sell only two types of cyberware. In the base game every ripperdoc sells almost everything.
+   - If a ripperdoc doesn't sell what you want, try a different one.
+   - Every iconic piece of cyberware is sold by exactly one ripperdoc. For example, to buy an iconic Sandevistan you have to find the ripperdoc who sells operating systems.
+   - There is also a lookup window in the Cyber Engine Tweaks overlay that lists where each iconic is sold.
+ - **Specialties on the map.** [Ripperdoc Vendor UI Enhancements](https://www.nexusmods.com/cyberpunk2077/mods/23180) shows each ripperdoc's specialties on the map, so you know where to go.
+
+## Hanging Out and Romance
+
+ - **Time with your partner.** The Romanced Enhanced mods for Panam, Judy, Kerry and River, plus [Romance Hangouts](https://www.nexusmods.com/cyberpunk2077/mods/11590), let you spend time with your partner: hang out, go on dates, shower together, and have them stay over at your place.
+ - **Partners behave when you leave.** [Gone Away](https://www.nexusmods.com/cyberpunk2077/mods/19412) makes partners behave sensibly when you leave.
+ - **Gifts at your door.** Post-Romance Delivery System has your partner send things to your door.
+ - **Braindances.** [Lizzie's Braindances](https://www.nexusmods.com/cyberpunk2077/mods/11077) adds a full braindance catalog at Lizzie's Bar: meditation, concerts, dates with characters you know, Edgerunners scenes and more. You can stream them to your apartment and watch with your partner. Finishing a braindance restores Nerve and Energy. It's safe for work out of the box and asks before turning anything else on.
+
+Time with your partner, showers, dancing and braindances all restore Nerve. Going home and relaxing is how you keep your Nerve up.
+
+## New Quests
+
+| Quest | What it is |
+|:---|:---|
+| [Missing Persons - Fixer's Hidden Gems](https://www.nexusmods.com/cyberpunk2077/mods/5058) | Starts after Regina's gig Monster Hunt. Fixers send you gigs for almost every hidden gem in the city. Finishing all of them gives a special reward |
+| [Pacifica Typhoon - Dogtown's Hidden Gems](https://www.nexusmods.com/cyberpunk2077/mods/12245) | The same thing for Dogtown. Starts after Lucretia My Reflection |
+| [Californication](https://www.nexusmods.com/cyberpunk2077/mods/7833) | A date with Judy at the dam. Needs Judy romanced |
+| [Hot Fuzz](https://www.nexusmods.com/cyberpunk2077/mods/7832) | A night with Judy at the No-Tell Motel. Needs Judy romanced |
+| [Encore](https://www.nexusmods.com/cyberpunk2077/mods/8413) | Panam visits you in the city. Needs Panam romanced |
+| [One More Light](https://www.nexusmods.com/cyberpunk2077/mods/7834) | Visit Jackie's niche at the columbarium. Needs you to have gone to Jackie's ofrenda |
+
+The four romance and Jackie quests start after you visit V's Megabuilding H10 apartment. They show up as a text from the character.
+
+<p align="right"><a href="#top">Back to top</a></p>
+
+---
+
+# Police
+
+ - **Police chases last longer.** [NCPD Prevention Police Enhancement](https://www.nexusmods.com/cyberpunk2077/mods/9863) changes how the police chase you.
+   - After the police lose sight of you, it takes 30 to 70 real minutes for your wanted level to clear. Police cars spawn much less, so you can keep playing while wanted.
+   - Sleeping at your apartment clears your stars faster (except at Megabuilding H10). Elevators and the metro still work while you're wanted. Dogtown is a safe place to escape to.
+   - Shooting at police gets you 2 stars fast. Punching them adds much less.
+   - Each district sends different people after you. Northside sends heavily armored cops. Arroyo sends Kang Tao. Japantown sends Tyger Claws. In the Badlands, Militech and drones show up from 2 stars. Pacifica has no police until 3 stars.
+
+<p align="right"><a href="#top">Back to top</a></p>
+
+---
+
+# Economy and Loot
+
+Money is tight in this list, from Viktor's bill at the start all the way to the end game.
+
+>[!TIP]
+>**In short:** selling guns won't make you rich. Sell cyberware and clothing, do gigs, and craft your own gear.
+
+ - **Everything is repriced.** [Economy Punk](https://www.nexusmods.com/cyberpunk2077/mods/16952) reprices almost everything.
+   - Selling guns no longer beats everything else. Selling cyberware and clothing is worth it now.
+   - Cyberware and quickhacks cost more. Schematics cost less, so crafting is worth your time.
+   - Vendors have less money on hand, so you can't sell them everything at once.
+   - Enemies drop much less ammo.
+   - Quest and gig rewards depend on who is paying and how risky the job is. Fixers give you better paying work as they get to know you.
 
 <p align="right"><a href="#top">Back to top</a></p>
