@@ -674,6 +674,7 @@ The **Detoxifier** cyberware turns half of your toxicity into health.
  - When condition hits 0, the gun **drops one tier**. For example, a Tier 5 gun becomes Tier 4+. Iconic weapons can drop too.
  - Melee weapons never jam, but they still lose condition and can drop a tier.
  - **Repair** your weapons at the crafting bench, on the same screen you upgrade on. The button says `Maintain`. Repairing sets condition back to 100.
+ - **Tougher enemies drop better guns.** The tier of a gun an enemy drops depends on how tough that enemy is, not on your level. Street gangers drop Tier 1 and 2 guns for the whole game. Rare enemies drop Tier 3, and Elites and bosses drop Tier 4. The very best guns come from crafting and iconics.
 
 <Details>
 <summary>Jamming Stages</summary>
