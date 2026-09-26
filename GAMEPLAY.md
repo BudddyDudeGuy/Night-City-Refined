@@ -1,3 +1,5 @@
+<a name="top"></a>
+
 <p align="center">
   [ <a href="https://github.com/BudddyDudeGuy/Night-City-Refined/blob/main/README.md">Installation</a> |
   Gameplay Guide |
@@ -45,12 +47,18 @@ Install the list with the [Installation Guide](https://github.com/BudddyDudeGuy/
 
 Almost every mod in this list has settings you can change in game. Open the pause menu and look for `Mod Settings`. A few older mods use `Settings` then the `Mods` tab instead. The list ships with settings already tuned, so you don't need to touch anything to play.
 
+<p align="right"><a href="#top">Back to top</a></p>
+
+---
+
 # Before You Start
 
 This list plays very differently from the base game. These are the things that catch new players out. Each one links to the section that explains it.
 
 >[!WARNING]
 >**Spend all of your attribute points in character creation.** Whatever you put into each attribute there becomes its permanent starting value. Points you leave unspent are lost for good. See [Changes to Leveling](#changes-to-leveling).
+
+### Your Character
 
  - **You can't level up attributes from the menu.** In the base game you get attribute points when you level up and put them wherever you want. In this list those points are turned off. Instead, each attribute goes up on its own as you use the skill tied to it:
    - Shotguns, LMGs, blunt weapons and fists raise **Body**.
@@ -61,17 +69,30 @@ This list plays very differently from the base game. These are the things that c
 
    So if an attribute won't go up, use the weapons and play style tied to it. See [Changes to Leveling](#changes-to-leveling).
  - **If you can't spend a perk point, that's normal.** Perks need the attribute at 4 or higher. Level a skill a little and the point becomes usable. See [Perk Point Acquisition](#perk-point-acquisition).
+
+### Staying Alive
+
  - **You need to eat, drink and sleep.** If you ignore it, you get weaker. See [Survival Needs](#survival-needs).
  - **Watch your Nerve.** Fighting drains it. If it hits 0, V has a heart attack and dies. Showers, sleep, dancing, drinks and smokes bring it back. See [Nerve](#nerve).
  - **Alcohol, cigarettes and drugs are addictive.** Use them in moderation.
+
+### Combat
+
+ - **Enemies hit you when you stand in the open.** Use cover, keep moving sideways, and don't rush across open ground. See [Enemies](#enemies).
+ - **Your guns wear out.** Repair them at the crafting bench before they drop a tier and start jamming. See [Weapon Condition and Jamming](#weapon-condition-and-jamming).
+ - **Quickhacks are locked on anything connected to a network until you breach it.** Enemy hideouts and guarded areas are usually on a network. Civilians, police, and anything far from an access point can be hacked straight away. See [Breaching and Quickhacks](#breaching-and-quickhacks).
+
+### The World
+
  - **Fast travel is turned off.** You drive, take a taxi, or ride the metro.
  - **You can only craft at a stash.** That means the stash in one of your apartments, or the trunk of a car you own. Your stash can't hold food, drinks or drugs. You can carry 80 less weight than normal.
- - **Your guns wear out.** Repair them at the crafting bench before they drop a tier and start jamming. See [Weapon Condition and Jamming](#weapon-condition-and-jamming).
- - **Enemies hit you when you stand in the open.** Use cover, keep moving sideways, and don't rush across open ground. See [Enemies](#enemies).
- - **Quickhacks are locked on anything connected to a network until you breach it.** Enemy hideouts and guarded areas are usually on a network. Civilians, police, and anything far from an access point can be hacked straight away. See [Breaching and Quickhacks](#breaching-and-quickhacks).
  - **Money is tight.** Selling guns isn't a gold mine anymore, and Viktor wants €$33,000 for your chrome. See [Economy and Loot](#economy-and-loot).
  - **Act 1 has built-in gaps between missions.** When nothing is happening, that's on purpose. Go do gigs and earn money. See [Vanilla Quest Edits](#vanilla-quest-edits).
  - **Some stores, clubs, gigs and apartments are locked until your Street Cred is high enough.** This comes from Take a Breather. If a door won't open or a shop is closed to you, that's usually why. Someone messages you when a place opens up. See [Street Cred and Locked Areas](#street-cred-and-locked-areas).
+
+<p align="right"><a href="#top">Back to top</a></p>
+
+---
 
 # Overview and Basics
 
@@ -96,23 +117,30 @@ Before reading on, you can look over the full [load order](https://loadorderlibr
  - [OPLI](https://www.nexusmods.com/cyberpunk2077/mods/21623) moves Phantom Liberty so it fits the story better. Read more [here](#vanilla-quest-edits).
  - [Specialized Ripperdocs](https://www.nexusmods.com/cyberpunk2077/mods/23399) makes each ripperdoc sell only certain types of cyberware, so you have to shop around. Read more [here](#ripperdocs).
 
+<p align="right"><a href="#top">Back to top</a></p>
+
+---
+
 # Combat Foundations
 
 Enemies in Night City Refined are smarter and more dangerous than in the base game. This section explains how they fight and how to survive them.
 
+>[!TIP]
+>**In short:** enemies fight as a team and hit hard when you're in the open. Use cover, move sideways, and don't reload where they can see you.
+
 ## Enemies
 
- - [Enemy Rarity Fixes Improved](https://www.nexusmods.com/cyberpunk2077/mods/30958) makes an enemy's rarity match what they actually are.
+ - **Enemies are as strong as they look.** [Enemy Rarity Fixes Improved](https://www.nexusmods.com/cyberpunk2077/mods/30958) makes an enemy's rarity match what they actually are.
    - Rarity decides an enemy's health and damage. In the base game it was close to random, and it scaled with your level.
    - Now a ganger in a tracksuit stays weak for the whole game, and a corpo agent with military chrome stays elite. Enemies don't scale with your level.
    - Corpo squads carry their own company's guns. Enemy Sandevistans are stronger so they can keep up with you.
    - The list uses the author's health settings made for Weapons Improved. Weak enemies go down a bit faster. Rare and Elite enemies are much tougher.
- - [Much Better AI](https://www.nexusmods.com/cyberpunk2077/mods/31402) changes how enemies fight. It does not give them more health, damage or numbers.
+ - **Enemies fight as a team.** [Much Better AI](https://www.nexusmods.com/cyberpunk2077/mods/31402) changes how enemies fight. It does not give them more health, damage or numbers.
    - Every enemy acts based on its role, weapon, rank and gang. A Scav does not fight like an Arasaka soldier.
    - Squads work together. One pins you down with fire while others move around to your side. Grenades get thrown to push you out of cover.
    - Enemies punish mistakes. They push forward when they see you reloading, healing or out of stamina.
    - Some gangs panic and run when they are losing. Maelstrom, Animals and Valentinos never run.
- - [Immersive Shooting AI](https://www.nexusmods.com/cyberpunk2077/mods/22782) changes when enemy shots actually hit you.
+ - **Enemies can actually hit you.** [Immersive Shooting AI](https://www.nexusmods.com/cyberpunk2077/mods/22782) changes when enemy shots actually hit you.
    - The base game had a hidden timer that only let each enemy hit you about once a second, no matter what. That timer is gone.
    - Now it depends on distance, the enemy's skill and their gun. Up close they will hit you almost every time. At range, shotguns barely hit and rifles still do.
    - Staying in cover, moving sideways, dodging and sliding make you much harder to hit.
@@ -134,35 +162,38 @@ Androids have 1.5x health, security turrets 1.2x, mechs 1.25x and small drones 2
 
 </Details>
 
-<Details>
-<summary>How to Survive Firefights</summary>
-<br>
+>[!TIP]
+>**How to survive firefights**
+>- Don't stand still in the open. That is the fastest way to die.
+>- Move sideways to the shooter instead of straight at them. Sideways movement makes enemies miss much more.
+>- Peeking out of cover makes you much harder to hit, except against snipers and tech weapons.
+>- Break line of sight when you reload or heal. Enemies push when they see you do it.
+>- Watch your flanks. If one enemy keeps shooting at your cover, someone else is probably moving around you.
+>- Shotgun users are deadly up close and weak at range. Keep your distance from them.
+>- Smoke and Optical Camo make enemies miss.
 
- - Don't stand still in the open. That is the fastest way to die.
- - Move sideways to the shooter instead of straight at them. Sideways movement makes enemies miss much more.
- - Peeking out of cover makes you much harder to hit, except against snipers and tech weapons.
- - Break line of sight when you reload or heal. Enemies push when they see you do it.
- - Watch your flanks. If one enemy keeps shooting at your cover, someone else is probably moving around you.
- - Shotgun users are deadly up close and weak at range. Keep your distance from them.
- - Smoke and Optical Camo make enemies miss.
+<p align="right"><a href="#top">Back to top</a></p>
 
-</Details>
+---
 
 # Stealth and Netrunning
 
 Stealth and hacking take more planning in this list. You have to get into the network before you can hack people, and staying unseen earns you rewards you can't get any other way.
 
+>[!TIP]
+>**In short:** breach a network before you hack anything on it. Knock enemies out instead of killing them if you want to breach from their bodies. Staying unseen earns perk points through Stealthrunner.
+
 ## Breaching and Quickhacks
 
- - [Much Better Netrunning](https://www.nexusmods.com/cyberpunk2077/mods/27237) locks quickhacks on anything connected to a network until you breach that network. It turns on after The Rescue.
+ - **Networks must be breached before you hack them.** [Much Better Netrunning](https://www.nexusmods.com/cyberpunk2077/mods/27237) locks quickhacks on anything connected to a network until you breach that network. It turns on after The Rescue.
    - Enemy hideouts and guarded areas are usually on a network, so that's where you need to breach first.
    - Civilians, police, and anything more than 50m from an access point aren't locked. You can hack them straight away. Hacking them still makes noise that can alert enemy netrunners nearby.
    - Each area's network has three parts: devices, people, and cameras and turrets. To hack something in one of those parts, you have to unlock it first.
    - You unlock them by winning the breach minigame. The daemons you upload decide which parts open.
    - Ping, Whistle, Distract and all covert quickhacks work without a breach.
- - [Better Access Point Hacking Netrunner Rewards](https://www.nexusmods.com/cyberpunk2077/mods/10355) gives you short buffs for breaching access points, like extra RAM and faster uploads.
- - [Trace Position Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/12445) means not every enemy can trace you when you hack them. Netrunners can, and they protect their whole squad. Some higher rarity and robotic enemies can too. Regular gangers can't.
- - [Intelligence based scanner time dilation](https://www.nexusmods.com/cyberpunk2077/mods/16270) makes the scanner's slow motion depend on your Intelligence. With low Intelligence, time barely slows down.
+ - **Access points give buffs.** [Better Access Point Hacking Netrunner Rewards](https://www.nexusmods.com/cyberpunk2077/mods/10355) gives you short buffs for breaching access points, like extra RAM and faster uploads.
+ - **Not everyone can trace you.** [Trace Position Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/12445) means not every enemy can trace you when you hack them. Netrunners can, and they protect their whole squad. Some higher rarity and robotic enemies can too. Regular gangers can't.
+ - **Scanner slow motion depends on Intelligence.** [Intelligence based scanner time dilation](https://www.nexusmods.com/cyberpunk2077/mods/16270) makes the scanner's slow motion depend on your Intelligence. With low Intelligence, time barely slows down.
 
 <Details>
 <summary>Ways to Breach a Network</summary>
@@ -216,10 +247,10 @@ With level 3 of the Overclock perk, press `T` while scanning to force open one p
 
 ## Stealth
 
- - [Stealthrunner](https://www.nexusmods.com/cyberpunk2077/mods/7616) adds optional stealth objectives to main quests, side quests, gigs and NCPD jobs, including Phantom Liberty.
+ - **Stealth objectives on every mission.** [Stealthrunner](https://www.nexusmods.com/cyberpunk2077/mods/7616) adds optional stealth objectives to main quests, side quests, gigs and NCPD jobs, including Phantom Liberty.
    - They show up under your normal objectives. There is a Stealthrunner page in the main menu hub to track your progress.
    - Completing them gives money, XP and Street Cred. Completing enough of them gives perk points, new cyberware and a stealth perk tree.
- - [Stealth Finishers](https://www.nexusmods.com/cyberpunk2077/mods/9360) lets you do a melee finisher as an instant stealth takedown, instead of always grabbing first.
+ - **Stealth takedowns with melee weapons.** [Stealth Finishers](https://www.nexusmods.com/cyberpunk2077/mods/9360) lets you do a melee finisher as an instant stealth takedown, instead of always grabbing first.
 
 <Details>
 <summary>Stealthrunner Objectives</summary>
@@ -275,9 +306,16 @@ These perks cost your normal perk points.
 
 </Details>
 
+<p align="right"><a href="#top">Back to top</a></p>
+
+---
+
 # Leveling and Progression
 
 Night City Refined changes leveling so that V gets better at what you actually do. You don't pick attributes from a menu anymore. They grow on their own as you play.
+
+>[!TIP]
+>**In short:** each attribute goes up when you use the skill tied to it. Spend all your points in character creation. Perks need the attribute at 4, 9, 15 or 20.
 
 ## Changes to Leveling
 
@@ -395,10 +433,14 @@ Stealthrunner's own stealth perks cost normal perk points. Buying all of them co
 
 ## Cyberware Capacity
 
- - [Cyberware Capacity Shards RNG Removed](https://www.nexusmods.com/cyberpunk2077/mods/11399) removes capacity shards from the game. Instead you get +14 capacity straight away and +1 every level, for +74 by level 60. That is the most you could ever get from finding every shard.
- - Skillful gives +1 capacity each time Solo, Shinobi, Engineer or Netrunner reaches rank 15, 30, 45 and 60. That's up to +16.
- - [Renaissance Punk - Perk Scaling](https://www.nexusmods.com/cyberpunk2077/mods/14037) changes the Tech perk Renaissance Punk. If you own the perk, each attribute gives +2 capacity at 4, 9, 15 and 20, for up to +40.
- - [Actual Chrome Compression](https://www.nexusmods.com/cyberpunk2077/mods/14044) makes the Chrome Compressor reduce how much capacity your installed cyberware costs, from 5% at Tier 2 up to 30% at Tier 5++.
+ - **Capacity grows every level.** [Cyberware Capacity Shards RNG Removed](https://www.nexusmods.com/cyberpunk2077/mods/11399) removes capacity shards from the game. Instead you get +14 capacity straight away and +1 every level, for +74 by level 60. That is the most you could ever get from finding every shard.
+ - **Skills add capacity.** Skillful gives +1 capacity each time Solo, Shinobi, Engineer or Netrunner reaches rank 15, 30, 45 and 60. That's up to +16.
+ - **The Renaissance Punk perk adds capacity.** [Renaissance Punk - Perk Scaling](https://www.nexusmods.com/cyberpunk2077/mods/14037) changes the Tech perk Renaissance Punk. If you own the perk, each attribute gives +2 capacity at 4, 9, 15 and 20, for up to +40.
+ - **Chrome Compressor lowers cyberware cost.** [Actual Chrome Compression](https://www.nexusmods.com/cyberpunk2077/mods/14044) makes the Chrome Compressor reduce how much capacity your installed cyberware costs, from 5% at Tier 2 up to 30% at Tier 5++.
+
+<p align="right"><a href="#top">Back to top</a></p>
+
+---
 
 # New and Notable Mechanics
 
@@ -407,6 +449,9 @@ These are the new systems you have to manage while you play. They are the bigges
 ## Survival Needs
 
 [Dark Future](https://www.nexusmods.com/cyberpunk2077/mods/16300) adds four needs: **Hydration**, **Nutrition**, **Energy** and **Nerve**. It turns on after The Rescue.
+
+>[!TIP]
+>**In short:** eat, drink and sleep, and keep Nerve above 0. Showers, sleep, dancing and time with your partner bring Nerve back. Alcohol, cigarettes and drugs work too, but they're addictive.
 
  - The four bars sit under your health and stamina. They hide when they're full.
  - You can always see them in the weapon wheel, the inventory and the skip time screen.
@@ -463,6 +508,9 @@ These are the new systems you have to manage while you play. They are the bigges
 ### Nerve
 
 Nerve is how calm V is. It's the most important need, because it's the only one that can kill you.
+
+>[!WARNING]
+>**If Nerve reaches 0, V has a heart attack and dies.** Keep an eye on it during long fights, and top it up with a shower, sleep, dancing, a drink or a smoke.
 
 <Details>
 <summary>Nerve Penalties</summary>
@@ -599,6 +647,9 @@ Armor slows down how fast you get injured.
 
 [SynthDose](https://www.nexusmods.com/cyberpunk2077/mods/14094) adds combat drugs. They come as inhalers and injectors, and they share the slot and cooldown with your healing items.
 
+>[!TIP]
+>**In short:** drugs give strong combat buffs but fill your toxicity bar. Keep it under 50%.
+
  - Every drug fills your **toxicity bar**, which sits under your stamina bar.
  - Over 50% toxicity you get debuffs and take damage. Go over the limit and you take massive damage.
  - Toxicity goes back down to 0 over time. Enemy poison raises it too.
@@ -642,6 +693,9 @@ The **Detoxifier** cyberware turns half of your toxicity into health.
 ## Weapon Condition and Jamming
 
 [Weapon Conditioning](https://www.nexusmods.com/cyberpunk2077/mods/10479) gives every weapon a **Condition** bar from 0 to 100.
+
+>[!TIP]
+>**In short:** repair your guns at the crafting bench with `Maintain` before they drop a tier. A gun starts to jam once it has lost 80 condition since its last repair.
 
  - Condition goes down every time you shoot or swing, hit or miss. Explosions that hit you also damage the gun in your hands.
  - As condition drops, the gun gets closer to jamming and does a little less damage.
@@ -704,18 +758,25 @@ Enemies you take down with stealth takedowns never drop lemons.
 
 ## Police
 
- - [NCPD Prevention Police Enhancement](https://www.nexusmods.com/cyberpunk2077/mods/9863) changes how the police chase you.
+ - **Police chases last longer.** [NCPD Prevention Police Enhancement](https://www.nexusmods.com/cyberpunk2077/mods/9863) changes how the police chase you.
    - After the police lose sight of you, it takes 30 to 70 real minutes for your wanted level to clear. Police cars spawn much less, so you can keep playing while wanted.
    - Sleeping at your apartment clears your stars faster (except at Megabuilding H10). Elevators and the metro still work while you're wanted. Dogtown is a safe place to escape to.
    - Shooting at police gets you 2 stars fast. Punching them adds much less.
    - Each district sends different people after you. Northside sends heavily armored cops. Arroyo sends Kang Tao. Japantown sends Tyger Claws. In the Badlands, Militech and drones show up from 2 stars. Pacifica has no police until 3 stars.
- - [Fighting Gangs Allowed - Reasonable Police](https://www.nexusmods.com/cyberpunk2077/mods/19189) stops police from turning on you for fighting gangs. Hurting civilians or cops is still a crime.
+ - **Fighting gangs is legal.** [Fighting Gangs Allowed - Reasonable Police](https://www.nexusmods.com/cyberpunk2077/mods/19189) stops police from turning on you for fighting gangs. Hurting civilians or cops is still a crime.
+
+<p align="right"><a href="#top">Back to top</a></p>
+
+---
 
 # Economy and Loot
 
 Money is tight in this list, from Viktor's bill at the start all the way to the end game.
 
- - [Economy Punk](https://www.nexusmods.com/cyberpunk2077/mods/16952) reprices almost everything.
+>[!TIP]
+>**In short:** selling guns won't make you rich. Sell cyberware and clothing, do gigs, and craft your own gear.
+
+ - **Everything is repriced.** [Economy Punk](https://www.nexusmods.com/cyberpunk2077/mods/16952) reprices almost everything.
    - Selling guns no longer beats everything else. Selling cyberware and clothing is worth it now.
    - Cyberware and quickhacks cost more. Schematics cost less, so crafting is worth your time.
    - Vendors have less money on hand, so you can't sell them everything at once.
@@ -735,18 +796,25 @@ Money is tight in this list, from Viktor's bill at the start all the way to the 
 
 </Details>
 
+<p align="right"><a href="#top">Back to top</a></p>
+
+---
+
 # Street Cred and Locked Areas
 
 [Take a Breather](https://www.nexusmods.com/cyberpunk2077/mods/23290) ties the city to your Street Cred. In the base game almost everything is open from the start. In this list, many stores, clubs, gigs and apartments stay locked until you have enough Street Cred. Night City opens up as you make a name for yourself.
+
+>[!TIP]
+>**In short:** if a place won't let you in, you need more Street Cred. Do gigs and NCPD jobs, and someone will message you when it opens.
 
  - If a door won't open or a shop won't let you in, you probably don't have enough Street Cred yet.
  - When a place opens up, a fixer or someone you know messages you about it.
  - Street Cred comes from gigs, NCPD jobs and quests.
  - Clubs sell entry tickets, so you can get in early if you pay. For example, Red Dirt costs €$7,500 until Street Cred 10, and Riot costs €$25,000 until Street Cred 30.
  - Fixers also give you better paying gigs as your Street Cred goes up.
- - [Immersive Fixers](https://www.nexusmods.com/cyberpunk2077/mods/15460) makes fixers introduce themselves after you do NCPD jobs in their district, instead of calling you out of nowhere.
+ - **Fixers find you.** [Immersive Fixers](https://www.nexusmods.com/cyberpunk2077/mods/15460) makes fixers introduce themselves after you do NCPD jobs in their district, instead of calling you out of nowhere.
 
->[!IMPORTANT]
+>[!WARNING]
 >Take a Breather needs a new save. Don't add it, remove it, or change its modules in the middle of a playthrough, or places will stay locked. Also, don't buy an apartment through EZEstates until the fixer messages you about it and the map shows it unlocked.
 
 <Details>
@@ -814,6 +882,10 @@ Dino, El Capitan, Dakota and Mr. Hands contact you after you finish enough NCPD 
 
 </Details>
 
+<p align="right"><a href="#top">Back to top</a></p>
+
+---
+
 # Content Additions and Improvements
 
 This section covers the world, the people in it, new quests, and changes to the base game's quests.
@@ -822,29 +894,29 @@ This section covers the world, the people in it, new quests, and changes to the 
 
 A lot of what you can do in Night City in the base game does nothing. You can buy a drink, dance, or take a shower, and it's just decoration. In this list those things have a purpose, because they feed [Dark Future's](#survival-needs) needs.
 
- - [Night City Interactions](https://www.nexusmods.com/cyberpunk2077/mods/5519) and its six district addons let you sit down for a drink at bars all over the city, alone or with your partner. It also has an Edgerunners tour of places from the anime.
- - [Immersive Bartenders](https://www.nexusmods.com/cyberpunk2077/mods/7203) and [Immersive Food Vendors](https://www.nexusmods.com/cyberpunk2077/mods/7322) have vendors actually serve you. [Immersive Rippers](https://www.nexusmods.com/cyberpunk2077/mods/7064) and [Immersive Vik](https://www.nexusmods.com/cyberpunk2077/mods/6794) put V in the chair for cyberware work.
- - [Dance Off](https://www.nexusmods.com/cyberpunk2077/mods/10615) lets you dance on the dance floors. Dancing restores Nerve.
- - [Wilson's Range](https://www.nexusmods.com/cyberpunk2077/mods/7367) and the Kabuki gun range give you somewhere to practice shooting.
- - You can gamble with real eddies: [roulette](https://www.nexusmods.com/cyberpunk2077/mods/15450), [blackjack](https://www.nexusmods.com/cyberpunk2077/mods/19575) and [pachinko](https://www.nexusmods.com/cyberpunk2077/mods/19889). Don't save or load in the middle of a game, or you lose your chips.
- - The [Stock Market and News System](https://www.nexusmods.com/cyberpunk2077/mods/6319) adds a stock market to every computer. Prices react to the story and to what you do.
- - The Pacifica roller coaster is open again, and you can ride it with your partner. It restores Nerve and Humanity.
- - Cats in every apartment, toys to play with, coffee makers, and a more open Megabuilding H10.
+ - **Bars you can sit down at.** [Night City Interactions](https://www.nexusmods.com/cyberpunk2077/mods/5519) and its six district addons let you sit down for a drink at bars all over the city, alone or with your partner. It also has an Edgerunners tour of places from the anime.
+ - **Vendors serve you.** [Immersive Bartenders](https://www.nexusmods.com/cyberpunk2077/mods/7203) and [Immersive Food Vendors](https://www.nexusmods.com/cyberpunk2077/mods/7322) have vendors actually serve you. [Immersive Rippers](https://www.nexusmods.com/cyberpunk2077/mods/7064) and [Immersive Vik](https://www.nexusmods.com/cyberpunk2077/mods/6794) put V in the chair for cyberware work.
+ - **Dance floors.** [Dance Off](https://www.nexusmods.com/cyberpunk2077/mods/10615) lets you dance on the dance floors. Dancing restores Nerve.
+ - **Gun ranges.** [Wilson's Range](https://www.nexusmods.com/cyberpunk2077/mods/7367) and the Kabuki gun range give you somewhere to practice shooting.
+ - **Gambling.** You can gamble with real eddies: [roulette](https://www.nexusmods.com/cyberpunk2077/mods/15450), [blackjack](https://www.nexusmods.com/cyberpunk2077/mods/19575) and [pachinko](https://www.nexusmods.com/cyberpunk2077/mods/19889). Don't save or load in the middle of a game, or you lose your chips.
+ - **Stock market.** The [Stock Market and News System](https://www.nexusmods.com/cyberpunk2077/mods/6319) adds a stock market to every computer. Prices react to the story and to what you do.
+ - **Roller coaster.** The Pacifica roller coaster is open again, and you can ride it with your partner. It restores Nerve and Humanity.
+ - **Apartment life.** Cats in every apartment, toys to play with, coffee makers, and a more open Megabuilding H10.
 
 ## Ripperdocs
 
- - [Specialized Ripperdocs](https://www.nexusmods.com/cyberpunk2077/mods/23399) makes each ripperdoc sell only two types of cyberware. In the base game every ripperdoc sells almost everything.
+ - **Each ripperdoc sells different cyberware.** [Specialized Ripperdocs](https://www.nexusmods.com/cyberpunk2077/mods/23399) makes each ripperdoc sell only two types of cyberware. In the base game every ripperdoc sells almost everything.
    - If a ripperdoc doesn't sell what you want, try a different one.
    - Every iconic piece of cyberware is sold by exactly one ripperdoc. For example, to buy an iconic Sandevistan you have to find the ripperdoc who sells operating systems.
    - There is also a lookup window in the Cyber Engine Tweaks overlay that lists where each iconic is sold.
- - [Ripperdoc Vendor UI Enhancements](https://www.nexusmods.com/cyberpunk2077/mods/23180) shows each ripperdoc's specialties on the map, so you know where to go.
+ - **Specialties on the map.** [Ripperdoc Vendor UI Enhancements](https://www.nexusmods.com/cyberpunk2077/mods/23180) shows each ripperdoc's specialties on the map, so you know where to go.
 
 ## Hanging Out and Romance
 
- - The Romanced Enhanced mods for Panam, Judy, Kerry and River, plus [Romance Hangouts](https://www.nexusmods.com/cyberpunk2077/mods/11590), let you spend time with your partner: hang out, go on dates, shower together, and have them stay over at your place.
- - [Gone Away](https://www.nexusmods.com/cyberpunk2077/mods/19412) makes partners behave sensibly when you leave.
- - Post-Romance Delivery System has your partner send things to your door.
- - [Lizzie's Braindances](https://www.nexusmods.com/cyberpunk2077/mods/11077) adds a full braindance catalog at Lizzie's Bar: meditation, concerts, dates with characters you know, Edgerunners scenes and more. You can stream them to your apartment and watch with your partner. Finishing a braindance restores Nerve and Energy. It's safe for work out of the box and asks before turning anything else on.
+ - **Time with your partner.** The Romanced Enhanced mods for Panam, Judy, Kerry and River, plus [Romance Hangouts](https://www.nexusmods.com/cyberpunk2077/mods/11590), let you spend time with your partner: hang out, go on dates, shower together, and have them stay over at your place.
+ - **Partners behave when you leave.** [Gone Away](https://www.nexusmods.com/cyberpunk2077/mods/19412) makes partners behave sensibly when you leave.
+ - **Gifts at your door.** Post-Romance Delivery System has your partner send things to your door.
+ - **Braindances.** [Lizzie's Braindances](https://www.nexusmods.com/cyberpunk2077/mods/11077) adds a full braindance catalog at Lizzie's Bar: meditation, concerts, dates with characters you know, Edgerunners scenes and more. You can stream them to your apartment and watch with your partner. Finishing a braindance restores Nerve and Energy. It's safe for work out of the box and asks before turning anything else on.
 
 Time with your partner, showers, dancing and braindances all restore Nerve. Going home and relaxing is how you keep your Nerve up.
 
@@ -865,13 +937,16 @@ The four romance and Jackie quests start after you visit V's Megabuilding H10 ap
 
 The base game keeps telling you V is dying, while giving you a hundred hours of other things to do. These mods fix that from both sides. They remove the fake urgency, and they put real time between main missions so you have a reason to explore.
 
- - [LONGER LOCKDOWN](https://www.nexusmods.com/cyberpunk2077/mods/23219) turns the start of the game into a proper starting zone in Watson, with real gaps between the Act 1 missions.
- - [Live A Little](https://www.nexusmods.com/cyberpunk2077/mods/13271) makes quest timers longer and raises the early story money, so you have to go earn it.
- - [Take a Breather](https://www.nexusmods.com/cyberpunk2077/mods/23290) adds pauses between later quests, and some quests need a minimum Street Cred. Its store and club locks are covered in [Street Cred and Locked Areas](#street-cred-and-locked-areas).
- - [HALTED HANAKO 2.0](https://www.nexusmods.com/cyberpunk2077/mods/23852) stops the Hanako meeting from starting on its own. It only happens when you call her.
- - [Panam quest timer edits](https://www.nexusmods.com/cyberpunk2077/mods/17541) and [Rachel's call delayed](https://www.nexusmods.com/cyberpunk2077/mods/17507) space out Panam's and Rachel's quests.
- - [Delete "A Few Weeks Tops"](https://www.nexusmods.com/cyberpunk2077/mods/16932), [Hanako Call - No Rush](https://www.nexusmods.com/cyberpunk2077/mods/16926) and A Like Supreme - No Rush cut the lines that rush you.
- - [OPLI](https://www.nexusmods.com/cyberpunk2077/mods/21623) moves Phantom Liberty so it fits the story better.
+>[!TIP]
+>**In short:** when the story goes quiet, that's on purpose. Use the time to do gigs, earn money and explore.
+
+ - **Act 1 has gaps.** [LONGER LOCKDOWN](https://www.nexusmods.com/cyberpunk2077/mods/23219) turns the start of the game into a proper starting zone in Watson, with real gaps between the Act 1 missions.
+ - **Longer quest timers and more expensive story payments.** [Live A Little](https://www.nexusmods.com/cyberpunk2077/mods/13271) makes quest timers longer and raises the early story money, so you have to go earn it.
+ - **Pauses between quests.** [Take a Breather](https://www.nexusmods.com/cyberpunk2077/mods/23290) adds pauses between later quests, and some quests need a minimum Street Cred. Its store and club locks are covered in [Street Cred and Locked Areas](#street-cred-and-locked-areas).
+ - **Hanako waits for you.** [HALTED HANAKO 2.0](https://www.nexusmods.com/cyberpunk2077/mods/23852) stops the Hanako meeting from starting on its own. It only happens when you call her.
+ - **Panam and Rachel take their time.** [Panam quest timer edits](https://www.nexusmods.com/cyberpunk2077/mods/17541) and [Rachel's call delayed](https://www.nexusmods.com/cyberpunk2077/mods/17507) space out Panam's and Rachel's quests.
+ - **No more rushing lines.** [Delete "A Few Weeks Tops"](https://www.nexusmods.com/cyberpunk2077/mods/16932), [Hanako Call - No Rush](https://www.nexusmods.com/cyberpunk2077/mods/16926) and A Like Supreme - No Rush cut the lines that rush you.
+ - **Phantom Liberty moved.** [OPLI](https://www.nexusmods.com/cyberpunk2077/mods/21623) moves Phantom Liberty so it fits the story better.
 
 <Details>
 <summary>Act 1 Timeline</summary>
@@ -959,3 +1034,4 @@ The base game drops Dogtown into the middle of Act 2. V is still a nobody doing 
 
 </Details>
 
+<p align="right"><a href="#top">Back to top</a></p>
