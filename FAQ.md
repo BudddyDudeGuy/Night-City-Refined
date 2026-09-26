@@ -87,7 +87,7 @@ Put them into whatever fits the V you want to play. That is your starting point,
 
 Spend every point. Points you leave unspent in character creation are gone for good, because the normal attribute points are turned off in this list. There is no menu to spend them in later.
 
-Starting points are a head start, not a limit. Every attribute can still reach 20 by leveling its skill to the max, no matter where it started.
+Starting points are a head start, not a limit. Every attribute can still reach 20 by leveling its skill to the max, no matter where it started. When a skill hits rank 60, you get the last point as an unspent attribute point. Click it into that attribute in the Attributes screen to reach 20.
 
 </Details>
 
