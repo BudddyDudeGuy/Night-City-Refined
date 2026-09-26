@@ -385,7 +385,7 @@ Attributes rise fast early on and slow down near the top. This table shows the s
 <summary>XP Speed Compared to the Base Game</summary>
 <br>
 
-Skill XP comes in fast at low ranks and slows down as the skill gets higher. Character level and Street Cred are a little slower than the base game.
+Skill XP comes in fast at low ranks and slows down as the skill gets higher. Character level is the same speed as the base game. Street Cred is a little slower, at 80%.
 
 | Skill | Rank 1 | Rank 20 | Rank 40 | Rank 59 |
 |:---|:---:|:---:|:---:|:---:|
@@ -394,11 +394,6 @@ Skill XP comes in fast at low ranks and slows down as the skill gets higher. Cha
 | **Shinobi** | 178% | 146% | 112% | 80% |
 | **Netrunner** | 168% | 139% | 109% | 80% |
 | **Headhunter** | 80% | 80% | 80% | 80% |
-
-| | Speed |
-|:---|:---:|
-| **Character level** | 80% |
-| **Street Cred** | 80% |
 
 </Details>
 
