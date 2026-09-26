@@ -189,7 +189,6 @@ Stealth and hacking take more planning in this list. You have to get into the ne
    - Each area's network has three parts: devices, people, and cameras and turrets. To hack something in one of those parts, you have to unlock it first.
    - You unlock them by winning the breach minigame. The daemons you upload decide which parts open.
    - Ping, Whistle, Distract and all covert quickhacks work without a breach.
- - **Access points give buffs.** [Better Access Point Hacking Netrunner Rewards](https://www.nexusmods.com/cyberpunk2077/mods/10355) gives you short buffs for breaching access points, like extra RAM and faster uploads.
  - **Not everyone can trace you.** [Trace Position Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/12445) means not every enemy can trace you when you hack them. Netrunners can, and they protect their whole squad. Some higher rarity and robotic enemies can too. Regular gangers can't.
  - **Scanner slow motion depends on Intelligence.** [Intelligence based scanner time dilation](https://www.nexusmods.com/cyberpunk2077/mods/16270) makes the scanner's slow motion depend on your Intelligence. With low Intelligence, time barely slows down.
 
