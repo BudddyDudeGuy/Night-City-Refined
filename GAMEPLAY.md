@@ -70,7 +70,7 @@ This list plays very differently from the base game. These are the things that c
  - **You can only craft at a stash.** That means the stash in one of your apartments, or the trunk of a car you own. Your stash can't hold food, drinks or drugs. You can carry 80 less weight than normal.
  - **Your guns wear out.** Repair them at the crafting bench before they drop a tier and start jamming. See [Weapon Condition and Jamming](#weapon-condition-and-jamming).
  - **Enemies hit you when you stand in the open.** Use cover, keep moving sideways, and don't rush across open ground. See [Enemies](#enemies).
- - **Quickhacks are locked until you breach the network.** See [Breaching and Quickhacks](#breaching-and-quickhacks).
+ - **Quickhacks are locked on anything connected to a network until you breach it.** Enemy hideouts and guarded areas are usually on a network. Civilians, police, and anything far from an access point can be hacked straight away. See [Breaching and Quickhacks](#breaching-and-quickhacks).
  - **Money is tight.** Selling guns isn't a gold mine anymore, and Viktor wants €$33,000 for your chrome. See [Economy and Loot](#economy-and-loot).
  - **Act 1 has built-in gaps between missions.** When nothing is happening, that's on purpose. Go do gigs and earn money. See [Vanilla Quest Edits](#vanilla-quest-edits).
  - **Parts of the city unlock as your Street Cred goes up.** Some gigs, clubs, stores and apartments are locked at first. See [Vanilla Quest Edits](#vanilla-quest-edits).
@@ -86,7 +86,7 @@ Before reading on, you can look over the full [load order](https://loadorderlibr
  - [Weapons Improved](https://www.nexusmods.com/cyberpunk2077/mods/22741) rebuilds every gun around what it actually is, with matching armor, attachment and enemy health changes. Read more [here](#guns-and-armor).
  - [Much Better AI](https://www.nexusmods.com/cyberpunk2077/mods/31402) and [Immersive Shooting AI](https://www.nexusmods.com/cyberpunk2077/mods/22782) make enemies fight as a team and actually hit you. Read more [here](#enemies).
  - [Enemy Rarity Fixes Improved](https://www.nexusmods.com/cyberpunk2077/mods/30958) makes an enemy's strength match what they look like, and stops them scaling with your level. Read more [here](#enemies).
- - [Much Better Netrunning](https://www.nexusmods.com/cyberpunk2077/mods/27237) locks quickhacks until you breach the network. Read more [here](#breaching-and-quickhacks).
+ - [Much Better Netrunning](https://www.nexusmods.com/cyberpunk2077/mods/27237) locks quickhacks on networked enemies and devices until you breach the network. Read more [here](#breaching-and-quickhacks).
  - [Stealthrunner](https://www.nexusmods.com/cyberpunk2077/mods/7616) adds stealth objectives and rewards to almost every mission. Read more [here](#stealth).
  - [Skillful](https://www.nexusmods.com/cyberpunk2077/mods/9309) and [Skillful Attributes](https://www.nexusmods.com/cyberpunk2077/mods/9281) make your attributes grow from how you play. Read more [here](#leveling-and-progression).
  - [Dark Future](https://www.nexusmods.com/cyberpunk2077/mods/16300) adds hunger, thirst, sleep, Nerve and addiction. Read more [here](#survival-needs).
@@ -217,7 +217,9 @@ Stealth and hacking take more planning in this list. You have to get into the ne
 
 ## Breaching and Quickhacks
 
- - [Much Better Netrunning](https://www.nexusmods.com/cyberpunk2077/mods/27237) locks quickhacks until you breach the network. It turns on after The Rescue.
+ - [Much Better Netrunning](https://www.nexusmods.com/cyberpunk2077/mods/27237) locks quickhacks on anything connected to a network until you breach that network. It turns on after The Rescue.
+   - Enemy hideouts and guarded areas are usually on a network, so that's where you need to breach first.
+   - Civilians, police, and anything more than 50m from an access point aren't locked. You can hack them straight away. Hacking them still makes noise that can alert enemy netrunners nearby.
    - Each area's network has three parts: devices, people, and cameras and turrets. To hack something in one of those parts, you have to unlock it first.
    - You unlock them by winning the breach minigame. The daemons you upload decide which parts open.
    - Ping, Whistle, Distract and all covert quickhacks work without a breach.
