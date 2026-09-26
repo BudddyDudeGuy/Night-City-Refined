@@ -37,6 +37,7 @@
 - [Street Cred and Locked Areas](#street-cred-and-locked-areas)
 - [Content Additions and Improvements](#content-additions-and-improvements)
   - [World Immersion](#world-immersion)
+  - [Ripperdocs](#ripperdocs)
   - [Hanging Out and Romance](#hanging-out-and-romance)
   - [New Quests](#new-quests)
   - [Vanilla Quest Edits](#vanilla-quest-edits)
@@ -97,6 +98,7 @@ Before reading on, you can look over the full [load order](https://loadorderlibr
  - [Take a Breather](https://www.nexusmods.com/cyberpunk2077/mods/23290) locks stores, clubs, gigs and apartments behind Street Cred, so the city opens up as you make a name for yourself. Read more [here](#street-cred-and-locked-areas).
  - [LONGER LOCKDOWN](https://www.nexusmods.com/cyberpunk2077/mods/23219) and [Live A Little](https://www.nexusmods.com/cyberpunk2077/mods/13271) space out the story and raise the early story money. Read more [here](#vanilla-quest-edits).
  - [OPLI](https://www.nexusmods.com/cyberpunk2077/mods/21623) moves Phantom Liberty so it fits the story better. Read more [here](#vanilla-quest-edits).
+ - [Specialized Ripperdocs](https://www.nexusmods.com/cyberpunk2077/mods/23399) makes each ripperdoc sell only certain types of cyberware, so you have to shop around. Read more [here](#ripperdocs).
 
 # Combat Foundations
 
@@ -789,7 +791,6 @@ Money is tight in this list, from Viktor's bill at the start all the way to the 
    - Vendors have less money on hand, so you can't sell them everything at once.
    - Money shards are worth less, and enemies drop much less ammo.
    - Quest and gig rewards depend on who is paying and how risky the job is. Fixers give you better paying work as they get to know you.
- - [Specialized Ripperdocs](https://www.nexusmods.com/cyberpunk2077/mods/23399) makes each ripperdoc sell only two types of cyberware. Every iconic piece is sold by exactly one ripperdoc. [Ripperdoc Vendor UI Enhancements](https://www.nexusmods.com/cyberpunk2077/mods/23180) shows each ripperdoc's specialties on the map.
 
 <Details>
 <summary>Money Shard Values</summary>
@@ -899,6 +900,14 @@ A lot of what you can do in Night City in the base game does nothing. You can bu
  - The [Stock Market and News System](https://www.nexusmods.com/cyberpunk2077/mods/6319) adds a stock market to every computer. Prices react to the story and to what you do.
  - The Pacifica roller coaster is open again, and you can ride it with your partner. It restores Nerve and Humanity.
  - Cats in every apartment, toys to play with, coffee makers, and a more open Megabuilding H10.
+
+## Ripperdocs
+
+ - [Specialized Ripperdocs](https://www.nexusmods.com/cyberpunk2077/mods/23399) makes each ripperdoc sell only two types of cyberware. In the base game every ripperdoc sells almost everything.
+   - If a ripperdoc doesn't sell what you want, try a different one.
+   - Every iconic piece of cyberware is sold by exactly one ripperdoc. For example, to buy an iconic Sandevistan you have to find the ripperdoc who sells operating systems.
+   - There is also a lookup window in the Cyber Engine Tweaks overlay that lists where each iconic is sold.
+ - [Ripperdoc Vendor UI Enhancements](https://www.nexusmods.com/cyberpunk2077/mods/23180) shows each ripperdoc's specialties on the map, so you know where to go.
 
 ## Hanging Out and Romance
 
