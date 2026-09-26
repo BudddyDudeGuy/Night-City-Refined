@@ -744,19 +744,21 @@ The base game keeps telling you V is dying, while giving you a hundred hours of 
 
 ### Act 1 Walkthrough
 
-The start of the game plays differently from the base game. There are breaks between the main missions where nothing story related happens. That's on purpose. Follow these steps so you always know what to do next.
+Act 1 has breaks between the main missions. That's on purpose. Use this table to know what to do next.
 
- 1. **Finish The Rescue.** Jackie drops you off at your apartment in Megabuilding H10. From this point on, you need to eat, drink and sleep, so pick up some food and water.
- 2. **Optional: go out that night.** You don't have to go to bed straight away. You can leave your apartment and do NCPD jobs around Watson. Gigs aren't available yet, and it stays night until you go to sleep.
- 3. **Go to bed.** Sleeping ends The Rescue and starts a new quest called **The Lockdown**. Watson is locked down, and this is your first stretch of free time.
- 4. **Spend at least 12 hours in Watson.** Follow The Lockdown in your journal: message Jackie to check on him, message Viktor about the neurovirus, and wait for Jackie to bring your car back from the repair shop. Viktor's clinic and Misty's shop stay locked during this time. Do gigs and NCPD jobs and start saving money.
- 5. **Go to bed again.** Once 12 hours have passed, sleep in your bed. When you wake up, it's time to go see Viktor.
- 6. **Optional: ask Jackie for more time.** Before you leave your room, you can call Jackie and tell him to catch up later. That gives you 6 more hours. Sleep again once they've passed. If you don't want the extra time, just walk out.
- 7. **The Ripperdoc.** Meet Jackie at Misty's, then go to Viktor's clinic for your new cyberware. Viktor charges **€$33,000**. You don't have to pay straight away. Paying him back shows up in your journal.
- 8. **Wait 1 day.** After you leave Viktor's, there's a 1 day break before The Ride starts. Misty's shop is locked during this time. Keep doing gigs.
- 9. **The Ride.** It starts on its own once the day has passed.
- 10. **Start The Pickup when you're ready.** In the base game Jackie calls you to All Foods straight away. Here he doesn't. When you're ready to move on, call Jackie. The Militech credchip for the Flathead is worth **€$50,000**.
- 11. **The Heist.** After you finish both prep quests, The Pickup and The Information, there's a wait of about 8 hours. Then Jackie texts you that it's time.
+| When | What to do |
+|:---|:---|
+| **The Rescue ends** | You now need to eat, drink and sleep. Grab food and water |
+| **That night** *(optional)* | Go out and do NCPD jobs. It stays night until you sleep |
+| **Go to bed** | The new quest **The Lockdown** starts |
+| **Next 12 hours** | Free time in Watson. Do gigs and earn money. Viktor's and Misty's are locked |
+| **Go to bed again** | Wake up. Time to see Viktor |
+| **Want more time?** *(optional)* | Call Jackie and tell him to catch up later. You get 6 more hours |
+| **The Ripperdoc** | Get your cyberware. Viktor charges **€$33,000**. Pay him whenever |
+| **Next 1 day** | Free time again. Misty's is locked |
+| **The Ride** | Starts on its own |
+| **When you're ready** | Call Jackie to start **The Pickup**. The Flathead credchip is worth **€$50,000** |
+| **Both prep quests done** | Wait about 8 hours. Jackie texts you for **The Heist** |
 
 >[!NOTE]
 >Some cut dialogue with Viktor and Jackie is restored, and you can offer Viktor your car as payment. He says no. You can change the length of each break in `Settings`, `Mods`, `Longer Lockdown`.
