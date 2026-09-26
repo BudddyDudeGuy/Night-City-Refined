@@ -24,7 +24,7 @@
   - [Breaching and Quickhacks](#breaching-and-quickhacks)
   - [Stealth](#stealth)
 - [Leveling and Progression](#leveling-and-progression)
-  - [Changes to Leveling](#changes-to-leveling)
+  - [Perks](#perks)
 - [New and Notable Mechanics](#new-and-notable-mechanics)
   - [Survival Needs](#survival-needs)
   - [Combat Drugs and Toxicity](#combat-drugs-and-toxicity)
@@ -54,7 +54,7 @@ Almost every mod in this list has settings you can change in game. Open the paus
 This list plays very differently from the base game. These are the things that catch new players out. Each one links to the section that explains it.
 
 >[!WARNING]
->**Spend all of your attribute points in character creation.** Whatever you put into each attribute there becomes its permanent starting value. Points you leave unspent are lost for good. See [Changes to Leveling](#changes-to-leveling).
+>**Spend all of your attribute points in character creation.** Whatever you put into each attribute there becomes its permanent starting value. Points you leave unspent are lost for good. See [Changes to Leveling](#leveling-and-progression).
 
 ### Your Character
 
@@ -65,7 +65,7 @@ This list plays very differently from the base game. These are the things that c
    - Quickhacks and smart weapons raise **Intelligence**.
    - Crafting, tech weapons and grenades raise **Technical Ability**.
 
-   So if an attribute won't go up, use the weapons and play style tied to it. See [Changes to Leveling](#changes-to-leveling).
+   So if an attribute won't go up, use the weapons and play style tied to it. See [Changes to Leveling](#leveling-and-progression).
  - **Leveling up still gives you perk points, just not attribute points.** Spend them in the perk trees like normal. Each perk tree belongs to one attribute, so if a perk is locked, raise that attribute by using its skill. Points you can't spend yet are saved. See [Perks](#perks).
 
 ### Staying Alive
@@ -310,19 +310,14 @@ These perks cost your normal perk points.
 
 # Leveling and Progression
 
-Night City Refined changes leveling so that V gets better at what you actually do. You don't pick attributes from a menu anymore. They grow on their own as you play.
+Night City Refined uses [Skillful](https://www.nexusmods.com/cyberpunk2077/mods/9309) and [Skillful Attributes](https://www.nexusmods.com/cyberpunk2077/mods/9281). With these mods, your attributes go up based on how you play.
 
->[!TIP]
->**In short:** each attribute goes up when you use the skill tied to it. Spend all your points in character creation. Leveling up still gives you perk points to spend like normal.
-
-## Changes to Leveling
-
-Leveling is handled by [Skillful](https://www.nexusmods.com/cyberpunk2077/mods/9309) and [Skillful Attributes](https://www.nexusmods.com/cyberpunk2077/mods/9281).
-
- - The game has five skills. Each skill is tied to one attribute.
- - When a skill levels up, its attribute goes up with it, automatically.
- - The normal attribute points you get from leveling are turned off. The only way to raise an attribute is to use its skill.
+ - You don't get attribute points when you level up, and you don't choose where they go.
+ - Each attribute is tied to one skill. When you use that skill, the attribute goes up on its own.
+ - For example, fighting with shotguns levels up the Solo skill, and Solo raises Body.
  - You can see your skill levels in the Attributes screen. Click `Skill Progression` in the bottom right corner.
+
+The tables and dropdowns below show how it works.
 
 | Skill | Raises |
 |:---:|:---:|
@@ -408,7 +403,7 @@ Skill XP comes in fast at low ranks and slows down as the skill gets higher. Cha
 
 </Details>
 
-### Perks
+## Perks
 
  - **You still get perk points.** Every time you level up you get a perk point, the same as the base game. You just don't get an attribute point anymore.
  - **Spend them like normal.** Perks work the same as the base game. Each perk tree belongs to one attribute, and the stronger perks need that attribute higher. The game shows what each perk needs.
