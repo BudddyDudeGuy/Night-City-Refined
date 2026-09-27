@@ -89,8 +89,6 @@ Key Info
 Key Info
 
  - Initial public release.
- - 517 mods, 543 archives to download, 6.92 GB of free space needed.
- - Built from the `Weapons Improved` profile.
  - Includes ReShade (RenoDX HDR), bundled with the list so there is nothing extra to download or configure.
  - Hardware-dependent mods sit under the `READ TO ENABLE OR DISABLE BASED ON YOUR SETUP` separator in Mod Organizer 2. Each one is labeled; enable or disable them to match your setup before first launch.
 
