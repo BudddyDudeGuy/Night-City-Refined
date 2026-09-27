@@ -20,11 +20,44 @@
 <details>
 <summary>1.0 Versions</summary>
 
+ - [1.0.5](#105) Release Date: September 27, 2026
  - [1.0.4](#104) Release Date: September 27, 2026
  - [1.0.3](#103) Release Date: September 27, 2026
  - [1.0.2](#102) Release Date: September 26, 2026
  - [1.0.1](#101) Release Date: September 25, 2026
  - [1.0.0](#100) Release Date: September 24, 2026
+
+### 1.0.5
+
+Key Info
+
+ - **Save-Safe Update**
+ - Fixed sounds that could go missing, glitch loud, or play in V's ear with no direction in busy areas.
+ - Fixed missing sounds for the extendable ladder and security turrets.
+ - Replaced No More Duplicate NPCs with Lightweight Crowd Duplicate Randomizer, a more optimized and cleaner way to stop identical crowd NPCs from spawning near each other.
+ - Explosions no longer knock down Elite, MaxTac and boss enemies, and the tier 5 Weapon Glitch quickhack no longer knocks NPCs down.
+
+<Details>
+<summary>Changes</summary>
+
+#### Updated
+
+ - [Explosion Knockback and Ragdoll Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/33327)
+
+#### Added
+
+ - [Loud Noises Fix - Audio Pool Fix](https://www.nexusmods.com/cyberpunk2077/mods/34270)
+ - [Sound SFX Fixes](https://www.nexusmods.com/cyberpunk2077/mods/20963)
+ - [Lightweight Crowd Duplicate Randomizer](https://www.nexusmods.com/cyberpunk2077/mods/27433)
+ - [AudioXL](https://www.nexusmods.com/cyberpunk2077/mods/33442)
+ - [RedLogger](https://www.nexusmods.com/cyberpunk2077/mods/31920)
+ - [DigitalVixen Core](https://www.nexusmods.com/cyberpunk2077/mods/28390)
+
+#### Removed
+
+ - [No More Duplicate NPCs](https://www.nexusmods.com/cyberpunk2077/mods/15585)
+
+</Details>
 
 ### 1.0.4
 
