@@ -20,9 +20,34 @@
 <details>
 <summary>1.0 Versions</summary>
 
+ - [1.0.3](#103) Release Date: September 27, 2026
  - [1.0.2](#102) Release Date: September 26, 2026
  - [1.0.1](#101) Release Date: September 25, 2026
  - [1.0.0](#100) Release Date: September 24, 2026
+
+### 1.0.3
+
+Key Info
+
+ - **Save-Safe Update**
+ - Updated Ultra Plus.
+
+<Details>
+<summary>Changes</summary>
+
+#### Updated
+
+ - [Ultra Plus](https://www.nexusmods.com/cyberpunk2077/mods/10490)
+
+#### Added
+
+ - N/A
+
+#### Removed
+
+ - N/A
+
+</Details>
 
 ### 1.0.2
 
