@@ -979,8 +979,8 @@ The four romance and Jackie quests start after you visit V's Megabuilding H10 ap
 
 # Police
 
- - **Police chases last longer.** [NCPD Prevention Police Enhancement](https://www.nexusmods.com/cyberpunk2077/mods/9863) changes how the police chase you.
-   - After the police lose sight of you, it takes 30 to 70 real minutes for your wanted level to clear. Police cars spawn much less, so you can keep playing while wanted.
+ - **Police work differently.** [NCPD Prevention Police Enhancement](https://www.nexusmods.com/cyberpunk2077/mods/9863) changes how the police chase you.
+   - After the police lose sight of you, your stars clear in about 2.5 minutes at 1 star, up to about 4.5 minutes at 5 stars. If they spot you again, the timer starts over.
    - Sleeping at your apartment clears your stars faster (except at Megabuilding H10). Elevators and the metro still work while you're wanted. Dogtown is a safe place to escape to.
    - Shooting at police gets you 2 stars fast. Punching them adds much less.
    - Each district sends different people after you. Northside sends heavily armored cops. Arroyo sends Kang Tao. Japantown sends Tyger Claws. In the Badlands, Militech and drones show up from 2 stars. Pacifica has no police until 3 stars.

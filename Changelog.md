@@ -20,10 +20,35 @@
 <details>
 <summary>1.0 Versions</summary>
 
+ - [1.0.4](#104) Release Date: September 27, 2026
  - [1.0.3](#103) Release Date: September 27, 2026
  - [1.0.2](#102) Release Date: September 26, 2026
  - [1.0.1](#101) Release Date: September 25, 2026
  - [1.0.0](#100) Release Date: September 24, 2026
+
+### 1.0.4
+
+Key Info
+
+ - **Save-Safe Update**
+ - Switched NCPD Prevention Police Enhancement from the Fugitive Edition to the Arcade version. The police are more forgiving and closer to vanilla. Wanted stars now clear in about 2.5 to 4.5 minutes after the police lose you, instead of 30 to 70 minutes. All of the mod's other police changes stay the same.
+
+<Details>
+<summary>Changes</summary>
+
+#### Updated
+
+ - [NCPD Prevention Police Enhancement](https://www.nexusmods.com/cyberpunk2077/mods/9863): Fugitive Edition replaced with Arcade
+
+#### Added
+
+ - N/A
+
+#### Removed
+
+ - N/A
+
+</Details>
 
 ### 1.0.3
 
