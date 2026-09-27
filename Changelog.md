@@ -20,8 +20,43 @@
 <details>
 <summary>1.0 Versions</summary>
 
+ - [1.0.2](#102) Release Date: September 26, 2026
  - [1.0.1](#101) Release Date: September 25, 2026
  - [1.0.0](#100) Release Date: September 24, 2026
+
+### 1.0.2
+
+Key Info
+
+ - **Save-Safe Update**
+ - Updated a few mods.
+ - The Mod Organizer 2 profile is now called `Night City Refined` instead of `Weapons Improved`.
+ - Adjusted mod settings:
+   - Immersive Shooting AI: enemy damage set to 0.7 and accuracy to 0.9, as recommended by the Weapons Improved author.
+   - Weapon Conditioning: dropped gun tier now follows enemy rarity, police drop Uncommon guns, and guns wear 20% slower.
+   - Live A Little: Viktor's debt now matches the in-game text (€$33,000). Only applies if you haven't paid him yet.
+   - Skillful: character level XP is no longer slowed.
+   - SynthDose: alcohol changes disabled for Dark Future compatibility.
+
+<Details>
+<summary>Changes</summary>
+
+#### Updated
+
+ - [The Nullifier](https://www.nexusmods.com/cyberpunk2077/mods/23091)
+ - [Immersive Night City Fixes](https://www.nexusmods.com/cyberpunk2077/mods/20588)
+ - [Vehicle Handling Redux - General Vehicle Fixes](https://www.nexusmods.com/cyberpunk2077/mods/33749)
+ - [Lizzie's Braindances](https://www.nexusmods.com/cyberpunk2077/mods/11077)
+
+#### Added
+
+ - N/A
+
+#### Removed
+
+ - N/A
+
+</Details>
 
 ### 1.0.1
 
