@@ -20,12 +20,32 @@
 <details>
 <summary>1.0 Versions</summary>
 
+ - [1.0.6](#106) Release Date: September 28, 2026
  - [1.0.5](#105) Release Date: September 27, 2026
  - [1.0.4](#104) Release Date: September 27, 2026
  - [1.0.3](#103) Release Date: September 27, 2026
  - [1.0.2](#102) Release Date: September 26, 2026
  - [1.0.1](#101) Release Date: September 25, 2026
  - [1.0.0](#100) Release Date: September 24, 2026
+
+### 1.0.6
+
+Key Info
+
+ - **Save-Safe Update**
+ - Fixed stutters in busy areas like H10 and a rare crash when closing the game.
+ - Fixed Ultra Plus UI settings not syncing properly, and improved streaming on the Medium, High and Insane presets.
+ - Mod Organizer 2 got a fresh look: a Night City Refined skin, a new splash screen, and a cleaner mod list with color-coded sections and sub-sections. Load order behavior is unchanged.
+
+<Details>
+<summary>Changes</summary>
+
+#### Updated
+
+ - [Ultra Plus](https://www.nexusmods.com/cyberpunk2077/mods/10490)
+ - [Loud Noises Fix - Audio Pool Fix](https://www.nexusmods.com/cyberpunk2077/mods/34270)
+
+</Details>
 
 ### 1.0.5
 
