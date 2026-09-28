@@ -1,4 +1,4 @@
-![](Images/readme/2d3557b1-ad11-4acf-a5f5-68bfecacd919.png)
+![Night City Refined](Images/banner.png)
 
 <p align="center">
   [ Installation |
