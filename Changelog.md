@@ -20,6 +20,7 @@
 <details>
 <summary>1.0 Versions</summary>
 
+ - [1.0.8](#108) Release Date: September 28, 2026
  - [1.0.7](#107) Release Date: September 28, 2026
  - [1.0.6](#106) Release Date: September 28, 2026
  - [1.0.5](#105) Release Date: September 27, 2026
@@ -28,6 +29,30 @@
  - [1.0.2](#102) Release Date: September 26, 2026
  - [1.0.1](#101) Release Date: September 25, 2026
  - [1.0.0](#100) Release Date: September 24, 2026
+
+### 1.0.8
+
+Key Info
+
+ - **Save-Safe Update**
+ - Removed Disable Fake Lights with Path Tracing. It conflicts with Ultra Plus, which already does the same thing.
+
+<Details>
+<summary>Changes</summary>
+
+#### Updated
+
+ - N/A
+
+#### Added
+
+ - N/A
+
+#### Removed
+
+ - [Fake Lights No More (Disable Fake Lights with Path Tracing)](https://www.nexusmods.com/cyberpunk2077/mods/16060)
+
+</Details>
 
 ### 1.0.7
 
