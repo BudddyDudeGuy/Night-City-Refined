@@ -63,6 +63,9 @@ Key Info
  - Mods made only for path tracing are now disabled by default. If you play with path tracing, enable them in the `Path Tracing` sub-separator.
  - The notes on every mod in `READ TO ENABLE OR DISABLE BASED ON YOUR SETUP` now follow one simple format, like `ENABLE IF USING PATH TRACING`.
 
+>[!TIP]
+>**Updating from an earlier version?** ReShade can stay in your game even with RenoDX disabled. To fully remove it, open Mod Organizer 2, go to **Tools > RootBuilder**, and click **Delete Backup** and **Delete Cache**.
+
 <Details>
 <summary>Changes</summary>
 
