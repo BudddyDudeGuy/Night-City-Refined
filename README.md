@@ -145,7 +145,7 @@ Downloading and installing the list can take a while depending on your internet 
 
 Before your first launch, open Mod Organizer 2 and scroll to the `READ TO ENABLE OR DISABLE BASED ON YOUR SETUP` separator. The mods in it depend on your hardware and settings, so go through them and tick or untick each one to match your PC.
 
- - **Be careful with the path tracing mods.** Several mods here are built only for path tracing and ship enabled. If your PC can't run path tracing, or you don't plan to use it, disable them.
+ - **Path tracing and HDR mods ship disabled.** Several mods here are built only for path tracing, and RenoDX is only for HDR. If you play with path tracing or on an HDR monitor, enable the ones you need.
  - **Use the notes.** Each mod in this separator has a note beside it in the Notes column that tells you when to enable or disable it.
 
 ![READ TO ENABLE OR DISABLE BASED ON YOUR SETUP separator](Images/read-to-enable.png)

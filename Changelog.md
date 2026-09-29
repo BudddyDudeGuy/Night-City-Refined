@@ -20,6 +20,7 @@
 <details>
 <summary>1.0 Versions</summary>
 
+ - [1.0.7](#107) Release Date: September 28, 2026
  - [1.0.6](#106) Release Date: September 28, 2026
  - [1.0.5](#105) Release Date: September 27, 2026
  - [1.0.4](#104) Release Date: September 27, 2026
@@ -27,6 +28,44 @@
  - [1.0.2](#102) Release Date: September 26, 2026
  - [1.0.1](#101) Release Date: September 25, 2026
  - [1.0.0](#100) Release Date: September 24, 2026
+
+### 1.0.7
+
+Key Info
+
+ - **Save-Safe Update**
+ - RenoDX HDR is now disabled by default. On regular (SDR) monitors it made the game too dark. If you play in HDR, enable it in the `READ TO ENABLE OR DISABLE BASED ON YOUR SETUP` separator.
+ - Mods made only for path tracing are now disabled by default. If you play with path tracing, enable them in the `Path Tracing` sub-separator.
+ - The notes on every mod in `READ TO ENABLE OR DISABLE BASED ON YOUR SETUP` now follow one simple format, like `ENABLE IF USING PATH TRACING`.
+
+<Details>
+<summary>Changes</summary>
+
+#### Updated
+
+ - N/A
+
+#### Added
+
+ - N/A
+
+#### Removed
+
+ - N/A
+
+#### Now Disabled by Default
+
+ - [RenoDX](https://www.nexusmods.com/cyberpunk2077/mods/13912)
+ - [ReLUX](https://www.nexusmods.com/cyberpunk2077/mods/20808) (plus the H10, El Coyote Cojo and Cottage add-ons)
+ - [ReLUX Plus (Riders on the Storm)](https://www.nexusmods.com/cyberpunk2077/mods/22129)
+ - [Cyberpunk Ultra Skin](https://www.nexusmods.com/cyberpunk2077/mods/10490)
+ - [Cargo Lights with PT](https://www.nexusmods.com/cyberpunk2077/mods/7135)
+
+#### Now Enabled by Default
+
+ - [Cargo Lights Non PT](https://www.nexusmods.com/cyberpunk2077/mods/7135)
+
+</Details>
 
 ### 1.0.6
 
