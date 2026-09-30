@@ -21,7 +21,35 @@
 <details>
 <summary>1.1 Versions</summary>
 
+ - [1.1.1](#111) Release Date: September 29, 2026
  - [1.1.0](#110) Release Date: September 29, 2026
+
+### 1.1.1
+
+Key Info
+
+ - **Save-Safe Update**
+ - Replaced Nova Traffic with Night City Traffic Overhaul. Every district now has its own traffic: gang cars on their turf, NCPD patrols, taxis, Delamains, buses and utility trucks. It sets traffic up once when a save loads instead of swapping cars while you play, so it's lighter on performance. Each district can be tuned in `Mod Settings`.
+ - Removed the NCPD 2.0 Nova Traffic Patch. Night City Traffic Overhaul already puts those police cars into traffic.
+ - Fixed an Ultra Plus bug where the V5 setting didn't apply. The RT+PT mode is now called RT+.
+
+<Details>
+<summary>Changes</summary>
+
+#### Updated
+
+ - [Ultra Plus](https://www.nexusmods.com/cyberpunk2077/mods/10490)
+
+#### Added
+
+ - [Night City Traffic Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/25552)
+
+#### Removed
+
+ - [Nova Traffic](https://www.nexusmods.com/cyberpunk2077/mods/14025)
+ - [NCPD 2.0 - Nova Traffic Patch](https://www.nexusmods.com/cyberpunk2077/mods/17285)
+
+</Details>
 
 ### 1.1.0
 
