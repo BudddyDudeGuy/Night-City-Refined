@@ -13,7 +13,56 @@
 
 # Table of Contents
 
+ - [1.1 Versions](#11-versions)
  - [1.0 Versions](#10-versions)
+
+## 1.1 Versions
+
+<details>
+<summary>1.1 Versions</summary>
+
+ - [1.1.0](#110) Release Date: September 29, 2026
+
+### 1.1.0
+
+Key Info
+
+ - **Not Save-Safe Update**
+ - Start a new game after updating.
+ - Removed LONGER LOCKDOWN. It stopped the car radio from working until you got your first car, and its long Act 1 breaks dragged. Act 1 now plays closer to vanilla, with a short break before The Ride and The Heist. Its author, hobo of Ferelden, has been sick and is working on an update, so we're holding off on the mod until then. Wishing him well and a quick recovery.
+ - Hunger, thirst, sleep and Nerve penalties now start later and build up more gradually. The four stages now begin at 70, 55, 35 and 15 instead of 85, 75, 50 and 25.
+ - Every handheld gun has new, louder shot sounds, with echoes that change with your surroundings.
+ - You can now shoot hoops on 62 basketball courts around Night City.
+ - You can now buy from more of Night City's street vendors.
+ - Fixed the radio in V's H10 apartment turning itself back on every time you sleep.
+ - Fixed enemy hack resistance stacking up and making quickhacks cost far too much RAM.
+ - Fixed industrial curtains showing up invisible.
+
+<Details>
+<summary>Changes</summary>
+
+#### Updated
+
+ - [Blur Begone](https://www.nexusmods.com/cyberpunk2077/mods/8105)
+ - [Quickhack Fixes](https://www.nexusmods.com/cyberpunk2077/mods/18290)
+ - [DigitalVixen Core](https://www.nexusmods.com/cyberpunk2077/mods/28390)
+ - [AudioXL](https://www.nexusmods.com/cyberpunk2077/mods/33442)
+
+#### Added
+
+ - [The Loudening - AudioXL](https://www.nexusmods.com/cyberpunk2077/mods/30510)
+ - [Street Games - Playable Basketball](https://www.nexusmods.com/cyberpunk2077/mods/33368)
+ - [Street Vendors](https://www.nexusmods.com/cyberpunk2077/mods/2894)
+ - [Street Vendors - Vixens Patch](https://www.nexusmods.com/cyberpunk2077/mods/30510)
+ - [H10 Radio State Fix](https://www.nexusmods.com/cyberpunk2077/mods/33257)
+
+#### Removed
+
+ - [LONGER LOCKDOWN Act 1 Extended](https://www.nexusmods.com/cyberpunk2077/mods/23219)
+
+</Details>
+
+</details>
 
 ## 1.0 Versions
 

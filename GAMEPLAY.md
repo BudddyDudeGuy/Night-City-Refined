@@ -85,7 +85,7 @@ This list plays very differently from the base game. These are the things that c
  - **Fast travel is turned off.** You drive, take a taxi, or ride the metro.
  - **You can only craft at a stash.** That means the stash in one of your apartments, or the trunk of a car you own. Your stash can't hold food, drinks or drugs. You can carry 80 less weight than normal.
  - **Money is tight.** Selling guns won't make you rich on its own, but cyberware and clothing sell for much more. Loot everything, use crafting when you can, and take gigs and side jobs to earn eddies.
- - **Act 1 has built-in gaps between missions.** When nothing is happening, that's on purpose. Go do gigs and earn money. See the [Act 1 Walkthrough](#act-1-walkthrough).
+ - **Act 1 has a couple of short breaks between missions.** When nothing is happening, that's on purpose. Go do gigs and earn money. See the [Act 1 Walkthrough](#act-1-walkthrough).
  - **Some stores, clubs, gigs and apartments are locked until your Street Cred is high enough.** This comes from Take a Breather. If a door won't open or a shop is closed to you, that's usually why. Someone messages you when a place opens up. See [Street Cred and Locked Areas](#street-cred-and-locked-areas).
 
 <p align="right"><a href="#top">Back to top</a></p>
@@ -111,7 +111,7 @@ Before reading on, you can look over the full [load order](https://loadorderlibr
  - [NCPD Prevention Police Enhancement](https://www.nexusmods.com/cyberpunk2077/mods/9863) changes how the police chase you and who shows up in each district. Read more [here](#police).
  - [Economy Punk](https://www.nexusmods.com/cyberpunk2077/mods/16952) reprices the whole game so money stays tight.
  - [Take a Breather](https://www.nexusmods.com/cyberpunk2077/mods/23290) locks stores, clubs, gigs and apartments behind Street Cred, so the city opens up as you make a name for yourself. Read more [here](#street-cred-and-locked-areas).
- - [LONGER LOCKDOWN](https://www.nexusmods.com/cyberpunk2077/mods/23219) and [Live A Little](https://www.nexusmods.com/cyberpunk2077/mods/13271) space out the story and raise the early story money. Read more [here](#quest-changes).
+ - [Live A Little](https://www.nexusmods.com/cyberpunk2077/mods/13271) spaces out the story and raises the early story money. Read more [here](#quest-changes).
  - [OPLI](https://www.nexusmods.com/cyberpunk2077/mods/21623) moves Phantom Liberty so it fits the story better. Read more [here](#quest-changes).
  - [Specialized Ripperdocs](https://www.nexusmods.com/cyberpunk2077/mods/23399) makes each ripperdoc sell only certain types of cyberware, so you have to shop around. Read more [here](#ripperdocs).
 
@@ -428,7 +428,7 @@ These are the new systems you have to manage while you play. They are the bigges
 
  - The four bars sit under your health and stamina. They hide when they're full.
  - You can always see them in the weapon wheel, the inventory and the skip time screen.
- - Each need has four warning stages, at 85, 75, 50 and 25. The lower it gets, the worse the penalty.
+ - Each need has four warning stages, at 70, 55, 35 and 15. The lower it gets, the worse the penalty.
  - Only Nerve can kill you. The other three just make you weaker.
  - Fast travel is turned off. Drive, take a taxi or ride the metro.
 
@@ -445,10 +445,10 @@ These are the new systems you have to manage while you play. They are the bigges
 
 | Stage | Stamina regen | Other |
 |:---:|:---:|:---|
-| **85** Slightly Thirsty | -10% | |
-| **75** Thirsty | -25% | Sprinting and jumping cost stamina |
-| **50** Parched | -50% | Sprinting and jumping cost stamina |
-| **25** Dehydrated | -75% | Sprinting and jumping cost stamina |
+| **70** Slightly Thirsty | -10% | |
+| **55** Thirsty | -25% | Sprinting and jumping cost stamina |
+| **35** Parched | -50% | Sprinting and jumping cost stamina |
+| **15** Dehydrated | -75% | Sprinting and jumping cost stamina |
 
 </Details>
 
@@ -458,10 +458,10 @@ These are the new systems you have to manage while you play. They are the bigges
 
 | Stage | Max health | Melee attack speed |
 |:---:|:---:|:---:|
-| **85** Slightly Hungry | -10% | |
-| **75** Hungry | -20% | -20% |
-| **50** Famished | -30% | -30% |
-| **25** Starving | -40% | -40% |
+| **70** Slightly Hungry | -10% | |
+| **55** Hungry | -20% | -20% |
+| **35** Famished | -30% | -30% |
+| **15** Starving | -40% | -40% |
 
 </Details>
 
@@ -471,10 +471,10 @@ These are the new systems you have to manage while you play. They are the bigges
 
 | Stage | Max stamina | RAM recovery | Reload speed |
 |:---:|:---:|:---:|:---:|
-| **85** Drained | -15% | -10% | |
-| **75** Tired | -20% | -25% | 20% slower |
-| **50** Fatigued | -30% | -50% | 30% slower |
-| **25** Exhausted | -40% | -75% | 40% slower |
+| **70** Drained | -15% | -10% | |
+| **55** Tired | -20% | -25% | 20% slower |
+| **35** Fatigued | -30% | -50% | 30% slower |
+| **15** Exhausted | -40% | -75% | 40% slower |
 
 </Details>
 
@@ -491,10 +491,10 @@ Nerve is how calm V is. It's the most important need, because it's the only one 
 
 | Stage | What happens |
 |:---:|:---|
-| **85** On Edge | Stamina takes a little longer to start refilling |
-| **75** Anxious | Your hands shake when you aim. More recoil and spread |
-| **50** Distressed | Heavy breathing and worse shaking. Sleep won't bring Nerve back anymore |
-| **25** Desperate | The worst shaking. You feel sick and can't eat or drink |
+| **70** On Edge | Stamina takes a little longer to start refilling |
+| **55** Anxious | Your hands shake when you aim. More recoil and spread |
+| **35** Distressed | Heavy breathing and worse shaking. Sleep won't bring Nerve back anymore |
+| **15** Desperate | The worst shaking. You feel sick and can't eat or drink |
 | **0** | V has a heart attack and dies |
 
 The Second Heart cyberware saves you from the heart attack once, then goes on cooldown.
@@ -744,30 +744,21 @@ The base game keeps telling you V is dying, while giving you a hundred hours of 
 
 ### Act 1 Walkthrough
 
-Act 1 has breaks between the main missions. That's on purpose. Use this table to know what to do next.
+Act 1 has a couple of breaks between the main missions. That's on purpose. Use this table to know what to do next.
 
 | When | What to do |
 |:---|:---|
 | **The Rescue ends** | You now need to eat, drink and sleep. Grab food and water |
-| **That night** *(optional)* | Go out and do NCPD jobs. It stays night until you sleep |
-| **Go to bed** | The new quest **The Lockdown** starts |
-| **Next 12 hours** | Free time in Watson. Do gigs and earn money. Viktor's and Misty's are locked |
-| **Go to bed again** | Wake up. Time to see Viktor |
-| **Want more time?** *(optional)* | Call Jackie and tell him to catch up later. You get 6 more hours |
+| **Go to bed** | Wake up. Jackie calls. Time to see Viktor |
 | **The Ripperdoc** | Get your cyberware. Viktor charges **€$33,000**. Pay him whenever |
-| **Next 1 day** | Free time again. Misty's is locked |
-| **The Ride** | Starts on its own |
-| **When you're ready** | Call Jackie to start **The Pickup**. The Flathead credchip is worth **€$50,000** |
+| **Next 4 hours** | Free time. Jackie texts you when he's ready. Meet him at Misty's for **The Ride** |
+| **After The Ride** | Jackie calls you to start **The Pickup**. The Flathead credchip is worth **€$50,000** |
 | **Both prep quests done** | Wait about 8 hours. Jackie texts you for **The Heist** |
-
->[!NOTE]
->Some cut dialogue with Viktor and Jackie is restored, and you can offer Viktor your car as payment. He says no. You can change the length of each break in `Settings`, `Mods`, `Longer Lockdown`.
 
 ### What Else Changes
 
- - **Act 1 has gaps.** [LONGER LOCKDOWN](https://www.nexusmods.com/cyberpunk2077/mods/23219) turns the start of the game into a proper starting zone in Watson, with real gaps between the Act 1 missions.
  - **Longer quest timers and more expensive story payments.** [Live A Little](https://www.nexusmods.com/cyberpunk2077/mods/13271) makes quest timers longer and raises the early story money, so you have to go earn it.
- - **Pauses between quests.** [Take a Breather](https://www.nexusmods.com/cyberpunk2077/mods/23290) adds pauses between later quests, and some quests need a minimum Street Cred. Its store and club locks are covered in [Street Cred and Locked Areas](#street-cred-and-locked-areas).
+ - **Pauses between quests.** [Take a Breather](https://www.nexusmods.com/cyberpunk2077/mods/23290) adds pauses between quests, including the breaks before The Ride and The Heist, and some quests need a minimum Street Cred. Its store and club locks are covered in [Street Cred and Locked Areas](#street-cred-and-locked-areas).
  - **Hanako waits for you.** [HALTED HANAKO 2.0](https://www.nexusmods.com/cyberpunk2077/mods/23852) stops the Hanako meeting from starting on its own. It only happens when you call her.
  - **Panam and Rachel take their time.** [Panam quest timer edits](https://www.nexusmods.com/cyberpunk2077/mods/17541) and [Rachel's call delayed](https://www.nexusmods.com/cyberpunk2077/mods/17507) space out Panam's and Rachel's quests.
  - **No more rushing lines.** [Delete "A Few Weeks Tops"](https://www.nexusmods.com/cyberpunk2077/mods/16932), [Hanako Call - No Rush](https://www.nexusmods.com/cyberpunk2077/mods/16926) and A Like Supreme - No Rush cut the lines that rush you.
