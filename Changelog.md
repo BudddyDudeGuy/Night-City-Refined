@@ -21,8 +21,38 @@
 <details>
 <summary>1.1 Versions</summary>
 
+ - [1.1.2](#112) Release Date: October 1, 2026
  - [1.1.1](#111) Release Date: September 29, 2026
  - [1.1.0](#110) Release Date: September 29, 2026
+
+### 1.1.2
+
+Key Info
+
+ - **Save-Safe Update**
+ - Fixed some areas being extremely dark with path tracing. Removed three outdated ReLUX add-ons for V's H10 apartment, El Coyote Cojo and the Cottage. They aren't part of the current ReLUX, which stays in the list. CyanideX is looking into it and plans to update ReLUX soon. His mods are a must-have.
+ - Quickhacks now reach further. Range starts at 40m (was 30m) and grows to 100m at Netrunning level 60 (was 60m).
+ - Police cars in traffic no longer drive around with their lights on. Fewer gangs drive through other gangs' turf, gang cars no longer carry extra passengers, and taxi drivers are no longer Sixth Street members.
+ - Hovering over a ripperdoc that sells Arms or Legs cyberware on the map now shows "Unlocks at Level 10" until you reach level 10. In vanilla, ripperdocs don't sell any Arms or Legs cyberware before level 10, so their shelves can look empty early on.
+
+<Details>
+<summary>Changes</summary>
+
+#### Updated
+
+ - [Misc NC Fixes](https://www.nexusmods.com/cyberpunk2077/mods/28073)
+
+#### Added
+
+ - Ripperdoc Stock Notes (made for Night City Refined)
+
+#### Removed
+
+ - [ReLUX - H10 - V's Apartment](https://www.nexusmods.com/cyberpunk2077/mods/20808)
+ - [ReLUX - El Coyote Cojo](https://www.nexusmods.com/cyberpunk2077/mods/20808)
+ - [ReLUX - Cottage (Pyramid Song)](https://www.nexusmods.com/cyberpunk2077/mods/20808)
+
+</Details>
 
 ### 1.1.1
 
