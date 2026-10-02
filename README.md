@@ -24,13 +24,14 @@
 - [Introduction](#introduction)
   - [System Requirements](#system-requirements)
 - [Installation](#installation)
-  - [Pre-Installation](#pre-installation)
+  - [Pre-Installation](#pre-installation-do-this-for-a-brand-new-clean-install)
     - [Installing REDmod](#installing-redmod)
     - [Clean Install](#clean-install)
     - [If You Have Modded the Game Before](#if-you-have-modded-the-game-before)
   - [Wabbajack Installation](#wabbajack-installation)
     - [Installing Wabbajack](#installing-wabbajack)
-    - [Downloading and Installing the Modlist](#downloading-and-installing-the-modlist)
+    - [Downloading and Installing Night City Refined](#downloading-and-installing-night-city-refined)
+  - [Problems with Installation](#problems-with-installation)
   - [Post-Installation](#post-installation)
 - [Playing the List](#playing-the-list)
   - [Launching the Game](#launching-the-game)
@@ -67,9 +68,9 @@ Night City Refined follows the base Cyberpunk 2077 system specs.
 
 # Installation
 
-Follow the steps below to install the modlist and prepare your game for an enhanced Cyberpunk 2077 experience. If you are updating an existing install, skip to the [updating section](#updating-the-modlist).
+Installing Night City Refined is easy and, if you have Nexus Premium, mostly a waiting game. If you are updating an existing install, skip to the [updating section](#updating-the-modlist).
 
-## Pre-Installation
+## Pre-Installation *(do this for a brand new, clean install)*
 
 These steps are only required the first time you install the list.
 
@@ -108,35 +109,97 @@ REDmod is a free DLC and the list will not work without it. On Steam, open the D
 
 ### Installing Wabbajack
 
- 1. Create an empty folder named `Wabbajack` on the root of your drive, such as `C:\Wabbajack`.
-    > **DO NOT** place it in Program Files, in User folders (Desktop, Documents, Downloads, OneDrive, etc.), in your Cyberpunk 2077 game folder, or in any folder related to the modlist itself (the downloads or install folder).
+Once you have completed the pre-installation section, follow these steps to install Wabbajack:
 
- 2. Download the [latest version of Wabbajack](https://www.wabbajack.org/) and place `Wabbajack.exe` inside the folder you created in Step 1.
+ 1. Create an empty folder named `Wabbajack` on the root of your drive, such as `C:\Wabbajack`.
+    > - **DO NOT** place it in Program Files, in User folders (Desktop, Documents, Downloads, OneDrive, etc.), in your Cyberpunk 2077 game folder, or in any folder related to the modlist itself (the downloads or install folder).
+    > - The `Wabbajack` folder does not need to be on an SSD, but it makes installing faster.
+
+ 2. Download the [latest version of Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases/latest/download/Wabbajack.exe) and place `Wabbajack.exe` inside the folder you created in Step 1.
 
     ![wjack readme 5](Images/readme/a0d8b2ef-2e7e-4c16-abdc-5591aaa43aee.png)
 
  3. Double-click `Wabbajack.exe` to set the program up.
 
-### Downloading and Installing the Modlist
+### Downloading and Installing Night City Refined
+
+>[!CAUTION]
+>**A legal copy of Cyberpunk 2077 with Phantom Liberty is required.** Pirated copies of the game will cause the installation to fail.
 
 Downloading and installing the list can take a while depending on your internet connection, PC specs, and whether you have Nexus Premium. Without Premium you will need to click the **Slow Download** button for each mod manually.
 
- 1. Download [`Night City Refined.wabbajack`](https://github.com/BudddyDudeGuy/Night-City-Refined/releases/latest/download/Night.City.Refined.wabbajack) from the [Releases](https://github.com/BudddyDudeGuy/Night-City-Refined/releases/latest) page.
-
- 2. Open Wabbajack, click the gear icon in the top right, and press the Nexus login button to link your account. Every mod is pulled from Nexus, so this step is not optional.
+ 1. Open Wabbajack, click the gear icon, and press the Nexus login button to link your account. Every mod is pulled from Nexus, so this step is not optional.
 
     ![Screenshot 2024-11-03 175438](Images/readme/671aea5d-43f9-4aec-89be-6514e1d8c5f9.png)
 
- 3. Select `Install from disk` and set the target modlist path to the `Night City Refined.wabbajack` file you downloaded in Step 1.
+ 2. Click `Browse lists`.
+ 3. Pick **Cyberpunk 2077** from the game filter drop-down box (or use the search bar to find **Night City Refined**).
+ 4. Press the download arrow on the Night City Refined card and wait for it to download.
+ 5. Set the `Installation Location` to a folder such as `C:\Night City Refined`.
+    > - **DO NOT** place it in Program Files, in User folders (Desktop, Documents, Downloads, OneDrive, etc.), or in your Cyberpunk 2077 game folder.
+    > - The `Downloads Location` does not need to be on an SSD, but it makes installing faster. Keeping it inside the install location, such as `C:\Night City Refined\Downloads`, is the easiest option.
+ 6. Press the `Install` button.
+ 7. Turn on your favorite show or a nice long video as Wabbajack does its thing. Alternatively, read through this ReadMe again.
+ 8. If the installation is successful, move on to [Post-Installation](#post-installation). If it is not, check the tips below or ask on the [Discord](https://discord.gg/teNx8uBpXt).
 
- 4. Set the `Modlist Installation Location` to a folder such as `C:\Modlist`. It can go anywhere you like.
-    > **DO NOT** place it in Program Files, in User folders (Desktop, Documents, Downloads, OneDrive, etc.), or in your Cyberpunk 2077 game folder.
+<Details>
+<summary>Installing from the .wabbajack file instead</summary>
 
- 5. Set the `Downloads Location` wherever you like. Keeping it inside the install location, such as `C:\Modlist\Downloads`, is the easiest option.
+If the list does not show up in the gallery, download [`Night City Refined.wabbajack`](https://github.com/BudddyDudeGuy/Night-City-Refined/releases/latest/download/Night.City.Refined.wabbajack) from the [Releases](https://github.com/BudddyDudeGuy/Night-City-Refined/releases/latest) page, select `Install from disk` in Wabbajack, and point it at that file. The rest of the steps are the same.
 
-    ![Screenshot 2024-11-03 175811](Images/readme/7fcbd99d-ad25-4958-85d1-814852a535f7.png)
+</Details>
 
- 6. Press the play arrow to begin the download and install.
+## Problems with Installation
+
+It is possible that you may run into an error with Wabbajack while installing. Some common issues are listed below.
+
+<Details>
+<summary>A download failed or the install stopped partway through!</summary>
+
+This is almost always a hiccup on Nexus's end or with your connection, not a problem with the list. Run the install again with the exact same paths. Wabbajack keeps everything it has already downloaded and picks up where it left off.
+
+</Details>
+
+<Details>
+<summary>Wabbajack couldn't find my game folder!</summary>
+
+Make sure you own a legal copy of Cyberpunk 2077 with Phantom Liberty and REDmod installed, and that you have launched the game at least once. Then re-read the [Pre-Installation](#pre-installation-do-this-for-a-brand-new-clean-install) section.
+
+</Details>
+
+<Details>
+<summary>My antivirus reports a virus with the program or modlist!</summary>
+
+Windows 10/11 may quarantine a file that Wabbajack or Mod Organizer 2 needs. Add your `Wabbajack` folder and your modlist folder as exclusions in Windows Security, then run the install again.
+
+</Details>
+
+<Details>
+<summary>Sanity check error extracting file:</summary>
+
+Wabbajack will sometimes have issues extracting files if they use special characters. If you encounter this issue in a Wabbajack log, try the steps below:
+
+ 1. Press `Win Key + R`.
+ 2. Type `intl.cpl` and hit `ENTER`.
+ 3. Navigate to *Administrative* and click `Change system locale...`.
+ 4. Change the *Current system locale:* to `English (United Kingdom)`.
+ 5. **Uncheck** `Beta: Use Unicode UTF-8 for worldwide language support`.
+ 6. Click `OK`.
+ 7. **Restart your PC** and run the Wabbajack install again.
+
+</Details>
+
+<Details>
+<summary>Wabbajack is crashing during the installation!</summary>
+
+If Wabbajack keeps crashing, freezing, or blue-screening your PC, lower its resource usage:
+
+ 1. Open Wabbajack.
+ 2. Open Wabbajack's **Settings**.
+ 3. Under the **Performance** box, lower each number to half of what it is currently set to.
+ 4. Continue the installation.
+
+</Details>
 
 ## Post-Installation
 
