@@ -22,9 +22,37 @@
 <details>
 <summary>1.1 Versions</summary>
 
+ - [1.1.3](#113) Release Date: October 2, 2026
  - [1.1.2](#112) Release Date: October 1, 2026
  - [1.1.1](#111) Release Date: September 29, 2026
  - [1.1.0](#110) Release Date: September 29, 2026
+
+### 1.1.3
+
+Key Info
+
+ - **Save-Safe Update**
+ - Added Advanced Crash Reporter. When the game crashes or freezes, it shows a short summary naming the mod most likely involved and saves a full report. Find it in your install folder under `overwrite\bin\x64\plugins\AdvancedCrashReporter\reports` and post it in the [Discord](https://discord.gg/teNx8uBpXt) when asking for help.
+ - Added the Meredith Stout Romance Addon. About 48 in-game hours after Venus in Furs, Meredith messages V and the romance continues from there. Works on existing saves, even if you've already finished her quests.
+ - Removed Street Games - Playable Basketball. It was reported to cause problems with the Corpo start.
+
+<Details>
+<summary>Changes</summary>
+
+#### Updated
+
+ - N/A
+
+#### Added
+
+ - [Advanced Crash Reporter](https://www.nexusmods.com/cyberpunk2077/mods/34403)
+ - [Meredith Stout Romance Addon](https://www.nexusmods.com/cyberpunk2077/mods/30587)
+
+#### Removed
+
+ - [Street Games - Playable Basketball](https://www.nexusmods.com/cyberpunk2077/mods/33368)
+
+</Details>
 
 ### 1.1.2
 
