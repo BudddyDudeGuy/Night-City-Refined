@@ -1,11 +1,14 @@
 <a name="top"></a>
 
+![Night City Refined](Images/banner-gameplay.png)
+
 <p align="center">
   [ <a href="https://github.com/BudddyDudeGuy/Night-City-Refined/blob/main/README.md">Installation</a> |
   Gameplay Guide |
   <a href="https://github.com/BudddyDudeGuy/Night-City-Refined/blob/main/Changelog.md">Changelog</a> |
   <a href="https://loadorderlibrary.com/lists/night-city-refined">Load Order</a> |
   <a href="https://www.nexusmods.com/games/cyberpunk2077/collections/okah4v">Collection</a> |
+  <a href="https://discord.gg/teNx8uBpXt">Discord</a> |
   <a href="https://github.com/BudddyDudeGuy/Night-City-Refined/issues">Issues</a> ]
 </p>
 
@@ -30,7 +33,6 @@
   - [Weapon Condition and Jamming](#weapon-condition-and-jamming)
 - [Quests and Street Cred](#quests-and-street-cred)
   - [Quest Changes](#quest-changes)
-    - [Act 1 Walkthrough](#act-1-walkthrough)
   - [Street Cred and Locked Areas](#street-cred-and-locked-areas)
 - [Content Additions and Improvements](#content-additions-and-improvements)
   - [World Immersion](#world-immersion)
@@ -85,7 +87,7 @@ This list plays very differently from the base game. These are the things that c
  - **Fast travel is turned off.** You drive, take a taxi, or ride the metro.
  - **You can only craft at a stash.** That means the stash in one of your apartments, or the trunk of a car you own. Your stash can't hold food, drinks or drugs. You can carry 80 less weight than normal.
  - **Money is tight.** Selling guns won't make you rich on its own, but cyberware and clothing sell for much more. Loot everything, use crafting when you can, and take gigs and side jobs to earn eddies.
- - **Act 1 has a couple of short breaks between missions.** When nothing is happening, that's on purpose. Go do gigs and earn money. See the [Act 1 Walkthrough](#act-1-walkthrough).
+ - **Some main missions have a short pause before the next one starts.** When nothing is happening, that's on purpose. Go do gigs and earn money. See [Quest Changes](#quest-changes).
  - **Some stores, clubs, gigs and apartments are locked until your Street Cred is high enough.** This comes from Take a Breather. If a door won't open or a shop is closed to you, that's usually why. Someone messages you when a place opens up. See [Street Cred and Locked Areas](#street-cred-and-locked-areas).
 
 <p align="right"><a href="#top">Back to top</a></p>
@@ -741,21 +743,6 @@ The story is paced differently in this list, and much of the city opens up over 
 ## Quest Changes
 
 The base game keeps telling you V is dying, while giving you a hundred hours of other things to do. These mods fix that from both sides. They remove the fake urgency, and they put real time between main missions so you have a reason to explore.
-
-### Act 1 Walkthrough
-
-Act 1 has a couple of breaks between the main missions. That's on purpose. Use this table to know what to do next.
-
-| When | What to do |
-|:---|:---|
-| **The Rescue ends** | You now need to eat, drink and sleep. Grab food and water |
-| **Go to bed** | Wake up. Jackie calls. Time to see Viktor |
-| **The Ripperdoc** | Get your cyberware. Viktor charges **€$33,000**. Pay him whenever |
-| **Next 4 hours** | Free time. Jackie texts you when he's ready. Meet him at Misty's for **The Ride** |
-| **After The Ride** | Jackie calls you to start **The Pickup**. The Flathead credchip is worth **€$50,000** |
-| **Both prep quests done** | Wait about 8 hours. Jackie texts you for **The Heist** |
-
-### What Else Changes
 
  - **Longer quest timers and more expensive story payments.** [Live A Little](https://www.nexusmods.com/cyberpunk2077/mods/13271) makes quest timers longer and raises the early story money, so you have to go earn it.
  - **Pauses between quests.** [Take a Breather](https://www.nexusmods.com/cyberpunk2077/mods/23290) adds pauses between quests, including the breaks before The Ride and The Heist, and some quests need a minimum Street Cred. Its store and club locks are covered in [Street Cred and Locked Areas](#street-cred-and-locked-areas).

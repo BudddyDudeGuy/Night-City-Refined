@@ -1,4 +1,4 @@
-![Night City Refined](Images/banner.png)
+![Night City Refined](Images/banner-changelog.png)
 
 <p align="center">
   [ <a href="https://github.com/BudddyDudeGuy/Night-City-Refined/blob/main/README.md">Installation</a> |
@@ -6,6 +6,7 @@
   Changelog |
   <a href="https://loadorderlibrary.com/lists/night-city-refined">Load Order</a> |
   <a href="https://www.nexusmods.com/games/cyberpunk2077/collections/okah4v">Collection</a> |
+  <a href="https://discord.gg/teNx8uBpXt">Discord</a> |
   <a href="https://github.com/BudddyDudeGuy/Night-City-Refined/issues">Issues</a> ]
 </p>
 
