@@ -6,6 +6,7 @@
   <a href="https://github.com/BudddyDudeGuy/Night-City-Refined/blob/main/Changelog.md">Changelog</a> |
   <a href="https://loadorderlibrary.com/lists/night-city-refined">Load Order</a> |
   <a href="https://www.nexusmods.com/games/cyberpunk2077/collections/okah4v">Collection</a> |
+  <a href="https://discord.gg/teNx8uBpXt">Discord</a> |
   <a href="https://github.com/BudddyDudeGuy/Night-City-Refined/issues">Issues</a> ]
 </p>
 
@@ -66,13 +67,13 @@ Night City Refined follows the base Cyberpunk 2077 system specs.
 >[!WARNING]
 >An SSD is **required**. Mod loading and asset streaming will stutter or crash on a mechanical hard drive.
 
+If your PC runs vanilla Cyberpunk 2077, it runs Night City Refined. Path tracing is the exception: plan on a high end RTX card with DLSS Frame Generation if you want it.
+
 # Installation
 
 Installing Night City Refined is easy and, if you have Nexus Premium, mostly a waiting game. If you are updating an existing install, skip to the [updating section](#updating-the-modlist).
 
 ## Pre-Installation *(do this for a brand new, clean install)*
-
-These steps are only required the first time you install the list.
 
 ### Installing REDmod
 
@@ -87,21 +88,23 @@ REDmod is a free DLC and the list will not work without it. On Steam, open the D
 
  2. Press `Win Key + R`, type `%appdata%`, and hit `ENTER`.
 
-    ![68747470733a2f2f692e696d6775722e636f6d2f56694179554f582e706e67](Images/readme/5c09ec98-c842-4083-b63c-cc8088447dd5.png)
-
  3. Go up one level into `AppData\Local` and delete the `CD Projekt Red` and `REDEngine` folders. This clears the cached config files so they cannot conflict with the list.
 
-    ![68747470733a2f2f692e696d6775722e636f6d2f656775306438412e706e67](Images/readme/677275ec-6ffb-45fa-a394-23bd86500604.png)
+<p>
+  <img src="Images/appdata-search.png" height="150" alt="Searching for %appdata%">
+  &nbsp;
+  <img src="Images/appdata-folders.png" height="150" alt="CD Projekt Red and REDEngine folders in AppData\Local">
+</p>
 
 ### If You Have Modded the Game Before
 
  1. Go to your main Cyberpunk 2077 directory and delete the `bin`, `engine`, `r6`, and `red4ext` folders.
 
-    ![68747470733a2f2f692e696d6775722e636f6d2f415847375534302e706e67](Images/readme/08ee520b-0391-4e8f-8e80-3c1e68591141.png)
+    ![bin, engine, r6, and red4ext folders in the game directory](Images/readme/08ee520b-0391-4e8f-8e80-3c1e68591141.png)
 
  2. Delete the `mod` folder in `Cyberpunk 2077\archive\pc\`.
 
-    ![68747470733a2f2f692e696d6775722e636f6d2f595730733733582e706e67](Images/readme/ec752043-e227-481e-800b-5c2bb7633a6c.png)
+    ![mod folder in archive\pc](Images/readme/ec752043-e227-481e-800b-5c2bb7633a6c.png)
 
  3. Verify your game files through your launcher (Steam, GOG, Epic). This restores every core file you just deleted and guarantees a clean base for the list.
 
@@ -117,8 +120,6 @@ Once you have completed the pre-installation section, follow these steps to inst
 
  2. Download the [latest version of Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases/latest/download/Wabbajack.exe) and place `Wabbajack.exe` inside the folder you created in Step 1.
 
-    ![wjack readme 5](Images/readme/a0d8b2ef-2e7e-4c16-abdc-5591aaa43aee.png)
-
  3. Double-click `Wabbajack.exe` to set the program up.
 
 ### Downloading and Installing Night City Refined
@@ -128,19 +129,23 @@ Once you have completed the pre-installation section, follow these steps to inst
 
 Downloading and installing the list can take a while depending on your internet connection, PC specs, and whether you have Nexus Premium. Without Premium you will need to click the **Slow Download** button for each mod manually.
 
- 1. Open Wabbajack, click the gear icon, and press the Nexus login button to link your account. Every mod is pulled from Nexus, so this step is not optional.
+ 1. Open Wabbajack and click `Settings` in the bottom left.
 
-    ![Screenshot 2024-11-03 175438](Images/readme/671aea5d-43f9-4aec-89be-6514e1d8c5f9.png)
+    ![Wabbajack Settings button](Images/wabbajack-settings.png)
 
- 2. Click `Browse lists`.
- 3. Pick **Cyberpunk 2077** from the game filter drop-down box (or use the search bar to find **Night City Refined**).
- 4. Press the download arrow on the Night City Refined card and wait for it to download.
- 5. Set the `Installation Location` to a folder such as `C:\Night City Refined`.
+ 2. Under **Logins**, click `Log in` beside **Nexus Mods** and sign in to your Nexus account. Once it is linked, the button reads `Logged in`. Every mod is pulled from Nexus, so this step is not optional.
+
+    ![Wabbajack Nexus Mods login](Images/wabbajack-nexus-login.png)
+
+ 3. Click `Browse lists`.
+ 4. Pick **Cyberpunk 2077** from the game filter drop-down box (or use the search bar to find **Night City Refined**).
+ 5. Press the download arrow on the Night City Refined card and wait for it to download.
+ 6. Set the `Installation Location` to a folder such as `C:\Night City Refined`.
     > - **DO NOT** place it in Program Files, in User folders (Desktop, Documents, Downloads, OneDrive, etc.), or in your Cyberpunk 2077 game folder.
     > - The `Downloads Location` does not need to be on an SSD, but it makes installing faster. Keeping it inside the install location, such as `C:\Night City Refined\Downloads`, is the easiest option.
- 6. Press the `Install` button.
- 7. Turn on your favorite show or a nice long video as Wabbajack does its thing. Alternatively, read through this ReadMe again.
- 8. If the installation is successful, move on to [Post-Installation](#post-installation). If it is not, check the tips below or ask on the [Discord](https://discord.gg/teNx8uBpXt).
+ 7. Press the `Install` button.
+ 8. Turn on your favorite show or a nice long video as Wabbajack does its thing. Alternatively, read through this ReadMe again.
+ 9. If the installation is successful, move on to [Post-Installation](#post-installation). If it is not, check the tips below or ask on the [Discord](https://discord.gg/teNx8uBpXt).
 
 <Details>
 <summary>Installing from the .wabbajack file instead</summary>
@@ -208,10 +213,10 @@ If Wabbajack keeps crashing, freezing, or blue-screening your PC, lower its reso
 
 Before your first launch, open Mod Organizer 2 and scroll to the `READ TO ENABLE OR DISABLE BASED ON YOUR SETUP` separator. The mods in it depend on your hardware and settings, so go through them and tick or untick each one to match your PC.
 
- - **Path tracing and HDR mods ship disabled.** Several mods here are built only for path tracing, and RenoDX is only for HDR. If you play with path tracing or on an HDR monitor, enable the ones you need.
+ - **Path tracing, HDR, and keyboard mods ship disabled.** Several mods here are built only for path tracing, RenoDX is only for HDR, and Quickhack Hotkeys is only for mouse and keyboard. Enable the ones that match how you play.
  - **Use the notes.** Each mod in this separator has a note beside it in the Notes column that tells you when to enable or disable it.
 
-![READ TO ENABLE OR DISABLE BASED ON YOUR SETUP separator](Images/read-to-enable.png)
+![READ TO ENABLE OR DISABLE BASED ON YOUR SETUP separator and its notes in Mod Organizer 2](Images/mo2-read-to-enable.png)
 
 # Playing the List
 
@@ -222,6 +227,8 @@ Cyberpunk 2077 always has to be launched through Mod Organizer 2. Launching the 
  1. Open your modlist folder and run `ModOrganizer.exe`.
 
  2. In the upper right of Mod Organizer 2 there is a dropdown menu beside the `RUN` button. Select `Cyberpunk 2077` and click `RUN`.
+
+    ![Cyberpunk 2077 selected beside the Run button in Mod Organizer 2](Images/mo2-run.png)
 
 >[!CAUTION]
 >A window will pop up with an `Unlock` button. **DO NOT click Unlock.** Give the game time to launch. Never click `Unlock` while playing the list, it will break the game.
@@ -249,21 +256,21 @@ Once the pre-installation steps are done, launch the game and let it load to the
 
  2. Move and resize the CET windows however you like. Your layout is saved automatically for next time.
 
- 3. Pick your color grade in the `LUT Switcher` window. Select `evoLUT` on the left, then click any version on the right to apply it. They all look great, so choose whichever you like best. My personal favorites are evoLUT 1 and evoLUT 5.
-
-    ![LUT Switcher](Images/lut-switcher.png)
+ 3. <img src="Images/lut-switcher.png" align="right" width="280" alt="LUT Switcher"> Pick your color grade in the `LUT Switcher` window. Select `evoLUT` on the left, then click any version on the right to apply it. They all look great, so choose whichever you like best. My personal favorites are evoLUT 1 and evoLUT 5.
 
     Your pick is saved and carries across saves and reloads. Star the ones you like to add them to your favorites, and if you want to flip between them quickly, the CET `Bindings` menu has hotkeys to toggle the active LUT or cycle through your favorites. A few quests and in-game effects briefly override the color grade, which is normal.
 
     > evoLUT's author recommends calibrating your display to a gamma of 2.2 and leaving the in-game **Gamma Correction** at `1.00` when playing in SDR.
 
+    <br clear="right">
+
  4. Press `~` again to close the overlay, then open your in-game settings and adjust the graphics to your liking.
 
- 5. Open the overlay again and look for the `ULTRA+` window. Ultra Plus should have already set itself up automatically based on your in-game graphics settings, but check the values and adjust them to match your hardware. Your values will be different, but the panel should look something like this:
-
-    ![Ultra Plus settings](Images/ultraplus-settings.png)
+ 5. <img src="Images/ultraplus-settings.png" align="right" width="280" alt="Ultra Plus settings"> Open the overlay again and look for the `ULTRA+` window. Ultra Plus should have already set itself up automatically based on your in-game graphics settings, but check the values and adjust them to match your hardware. Your values will be different, but the panel should look something like the one on the right.
 
     > If you use DLSS Ray Reconstruction and the image looks smeary or wrong, switch the Ultra Plus **Denoiser** from `RR Clean` to `Vanilla`. According to the Ultra Plus authors, RR Clean needs an up to date version of DLSS.
+
+    <br clear="right">
 
  6. That's it, you're ready to play. Almost everything in the list can be adjusted to your taste in the `Mod Settings` menu on the main menu and pause menu, so feel free to look through it once you're in game.
 
@@ -272,9 +279,10 @@ Once the pre-installation steps are done, launch the game and let it load to the
 >
 >No popup? Leave the apartment, come back in, and interact with the TV again.
 
-![Panam Romance Messages Extended confirmation popup](Images/romance-panam-popup.webp)
-
-![Judy Romance Messages Extended confirmation popup](Images/romance-judy-popup.webp)
+<p align="center">
+  <img src="Images/romance-panam-popup.webp" width="49%" alt="Panam Romance Messages Extended confirmation popup">
+  <img src="Images/romance-judy-popup.webp" width="49%" alt="Judy Romance Messages Extended confirmation popup">
+</p>
 
 <!-- Pending assets. Re-enable once the screenshots are captured and committed to Images/.
 
@@ -295,7 +303,9 @@ If you have an RTX 4070 or better, you can copy my settings directly. My system 
 
 # Updating the Modlist
 
-Updating works the same way as installing. Open Wabbajack, make sure your paths are identical to your original install, and tick the `Overwrite Installation` box.
+Updating works the same way as installing. Open Wabbajack, find Night City Refined in `Browse lists`, and download the new version. Wabbajack remembers the paths from your original install, so just press `Install` and it will update your existing install in place.
+
+Before updating, check the [Changelog](https://github.com/BudddyDudeGuy/Night-City-Refined/blob/main/Changelog.md) to see whether the update is **save-safe**. Most updates are, so you can keep playing your current save. If an update is not save-safe, finish or abandon your playthrough before updating and start a new game afterwards.
 
 >[!WARNING]
 >Any mods you added yourself will be deleted when updating. To keep them, prefix the mod name in MO2 with `[NoDelete]`.
@@ -306,7 +316,7 @@ Delete the folder the modlist is installed in. You can delete the downloads fold
 
 # Issues
 
-If you hit a bug, a crash, or something that just feels off, open a report on the [Issues](https://github.com/BudddyDudeGuy/Night-City-Refined/issues) page. Stability feedback, performance notes, and balance suggestions are all welcome.
+If you hit a bug, a crash, or something that just feels off, ask on the [Discord](https://discord.gg/teNx8uBpXt) or open a report on the [Issues](https://github.com/BudddyDudeGuy/Night-City-Refined/issues) page. Stability feedback, performance notes, and balance suggestions are all welcome.
 
 To get a useful answer, please include:
 
@@ -317,6 +327,8 @@ To get a useful answer, please include:
 # Credits and Thanks
 
 - *YOU* for reading this.
+- [RelaxItsOk](https://next.nexusmods.com/profile/RelaxItsOk), [CyanideX](https://next.nexusmods.com/profile/theCyanideX), [deceptious](https://next.nexusmods.com/profile/deceptious), [ShinyaON](https://next.nexusmods.com/profile/ShinyaON), [MrFlashMode](https://next.nexusmods.com/profile/MrFlashMode), and [SammiLucia](https://next.nexusmods.com/profile/sammilucia) and the Ultra Plus team, whose work this list is built on.
+- Q from Welcome to Night City, for taking the time to talk with me, share his thoughts, and help guide me through getting this modlist set up. Welcome to Night City was also a huge inspiration for this list.
 - [aljo](https://next.nexusmods.com/profile/aljoxo) for [Apostasy](https://www.nexusmods.com/skyrimspecialedition/mods/118893), whose mod page and GitHub layout this list's description, README, and Gameplay Guide are modeled on.
 - Every mod author whose work is included in this list. It would not exist without you.
 - [CD Projekt Red](https://www.cdprojektred.com/) for Cyberpunk 2077 and REDmod.
