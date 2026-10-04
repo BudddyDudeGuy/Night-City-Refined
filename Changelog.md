@@ -22,10 +22,43 @@
 <details>
 <summary>1.1 Versions</summary>
 
+ - [1.1.4](#114) Release Date: October 3, 2026
  - [1.1.3](#113) Release Date: October 2, 2026
  - [1.1.2](#112) Release Date: October 1, 2026
  - [1.1.1](#111) Release Date: September 29, 2026
  - [1.1.0](#110) Release Date: September 29, 2026
+
+### 1.1.4
+
+Key Info
+
+ - **Save-Safe Update**
+ - Added three profiles so the lighting matches your graphics settings. Pick one from the profile dropdown at the top of MO2. **Raster** (no ray tracing or path tracing) turns off the lighting overhauls, which fixes the game looking far too dark without ray tracing. **Ray Tracing** (the default) keeps Nova City 2 and The Nullifier, the same look as before. **Path Tracing** turns on ReLUX, ReLUX Plus, Cyberpunk Ultra Skin and the path tracing version of Cargo Lights.
+ - The default color grade is now evoLUT 1, the closest to vanilla. You can still pick any other LUT in the LUT Switcher window.
+ - Quickhacks no longer have a distance limit once you breach a network. You still need to breach first, except for the quickhacks that never need a breach (Ping, Whistle, Distract and Covert hacks).
+ - Fixed Advanced Crash Reporter not loading in game. Crash reports are now in your Cyberpunk 2077 game folder under `bin\x64\plugins\AdvancedCrashReporter\reports` (not the overwrite folder as 1.1.3 said). After a crash the game now closes on its own, so Steam no longer gets stuck on "game still running".
+ - Street lights now follow a proper schedule: on at 6 PM, off at 6 AM, earlier in rain, fog and overcast weather, and they come on across the city in a wave instead of all at once.
+ - Fixed an elevator door that could stop you progressing in the quest Pisces.
+ - MO2 now shows which version of Night City Refined you have at the top of the mod list.
+ - The empty DISABLED section at the bottom of MO2 is now called ADD YOUR OWN MODS HERE. Mods you install yourself land there.
+
+<Details>
+<summary>Changes</summary>
+
+#### Updated
+
+ - [Advanced Crash Reporter](https://www.nexusmods.com/cyberpunk2077/mods/34403)
+ - [Immersive Night City Fixes](https://www.nexusmods.com/cyberpunk2077/mods/20588)
+
+#### Added
+
+ - [The Grid (Custom Street Light Hours - Weather Effects - Blackouts)](https://www.nexusmods.com/cyberpunk2077/mods/34592)
+
+#### Removed
+
+ - N/A
+
+</Details>
 
 ### 1.1.3
 
