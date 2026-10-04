@@ -22,11 +22,53 @@
 <details>
 <summary>1.1 Versions</summary>
 
+ - [1.1.5](#115) Release Date: October 4, 2026
  - [1.1.4](#114) Release Date: October 3, 2026
  - [1.1.3](#113) Release Date: October 2, 2026
  - [1.1.2](#112) Release Date: October 1, 2026
  - [1.1.1](#111) Release Date: September 29, 2026
  - [1.1.0](#110) Release Date: September 29, 2026
+
+### 1.1.5
+
+Key Info
+
+ - **Save-Safe Update**
+ - The profiles are now named by PC tier and listed low to high: **1 - Low-End PC** (no ray tracing), **2 - Mid-Range PC** (ray tracing, the default) and **3 - High-End PC** (path tracing). They work the same as before; only the names changed.
+ - Balanced stealth so enemies don't spot you instantly. They also give up the search sooner and hear less from takedowns and silenced shots, while still being tougher and more believable than vanilla.
+ - Enemies now show on the minimap. Police only show when you tag them.
+ - Fixed dead enemies sometimes showing on the minimap as live enemies with vision cones.
+ - Common-quality loot and bodies now show on the minimap.
+ - Fixed the Vehicle Dismiss keyboard key, which was set to a controller button. Hold R on keyboard, D-pad Up on controller.
+ - The Kiroshi Deep Scan card is trimmed so it no longer runs off the screen.
+ - Traffic no longer panics into chain reactions over small bumps. Real danger still scares drivers.
+ - More base-game fixes: enemy netrunner hacks now follow the same rules as yours, enemies no longer survive killing blows at 1 HP over and over, machete finishers kill instead of knocking out, melee attack speed above 200% now counts, and the sky ads come back on after Lightning Breaks.
+ - New phone features: hang up fixer calls (hold T) and get the job by text, Read All, sorting and favourite contacts.
+ - Cleaner optional section in MO2: the lighting mods now sit with the other lighting mods (the profiles switch them), and the plain Dirt Begone is on by default. Switch to the DLSS or FSR version in READ TO ENABLE OR DISABLE BASED ON YOUR SETUP if you use one.
+ - Crash reports from Advanced Crash Reporter are in your install folder under `overwrite\bin\x64\plugins\AdvancedCrashReporter\reports` (the 1.1.4 notes said the game folder, which was wrong).
+
+<Details>
+<summary>Changes</summary>
+
+#### Updated
+
+ - N/A
+
+#### Added
+
+ - [No Panic Driving - Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/24027)
+ - [Enemy Quickhack Fixes](https://www.nexusmods.com/cyberpunk2077/mods/34525)
+ - [Finisher Grace Fix](https://www.nexusmods.com/cyberpunk2077/mods/34456)
+ - [Machete Finisher Kill Fix](https://www.nexusmods.com/cyberpunk2077/mods/34454)
+ - [Melee Attack Speed Cap Fix](https://www.nexusmods.com/cyberpunk2077/mods/34588)
+ - [Lightning Breaks Sky Ads Fix](https://www.nexusmods.com/cyberpunk2077/mods/34627)
+ - [Smartphone](https://www.nexusmods.com/cyberpunk2077/mods/34488)
+
+#### Removed
+
+ - [Flashback Fixer](https://www.nexusmods.com/cyberpunk2077/mods/16236)
+
+</Details>
 
 ### 1.1.4
 
