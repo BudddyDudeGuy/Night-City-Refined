@@ -22,12 +22,49 @@
 <details>
 <summary>1.1 Versions</summary>
 
+ - [1.1.6](#116) Release Date: October 6, 2026
  - [1.1.5](#115) Release Date: October 4, 2026
  - [1.1.4](#114) Release Date: October 3, 2026
  - [1.1.3](#113) Release Date: October 2, 2026
  - [1.1.2](#112) Release Date: October 1, 2026
  - [1.1.1](#111) Release Date: September 29, 2026
  - [1.1.0](#110) Release Date: September 29, 2026
+
+### 1.1.6
+
+Key Info
+
+ - **Save-Safe Update**
+ - Netrunning now follows one rule: free to look, earned to hurt. Cameras and basic devices (doors, vending machines and the like) can always be hacked without a breach. Turrets and hacks on people still need one.
+ - Failed breaches no longer punish you, so retrying is free.
+ - You get traced far less. Enemy netrunners only fight back if you fail a breach while one is on the network or hack right next to one who is already alert, hacking things that are not on a network no longer alerts them, mechs and drones can no longer trace you, and hacking through cameras, turrets or RC cars follows the same trace rules as hacking in person.
+ - Enemy netrunners stay hidden from Ping, so you have to find them yourself.
+ - Enemy gunfire hits at full damage again. Their accuracy stays slightly lowered so you are not beamed across the map.
+ - Enemies fight smarter: they flank, punish your reloads and heals, and hack a little more often, and they hold out longer before breaking and retreating.
+ - Explosions only knock you down when you are close to the blast.
+ - Elites can only be stunned with a gun butt below 20% health. Bosses still can't be stunned.
+ - Picking up a body no longer forces your gun out.
+ - Weapon mods can be taken off any weapon, and they come back to your inventory when you sell, dismantle or drop a gun. Press Period (.) or LB + D-pad Up in a weapon's mod screen to strip every mod at once.
+ - Iconic weapon looks can no longer be crafted, so iconics stay special.
+ - Removed Dead Body Alert: Much Better AI already handles finding bodies, and it checks line of sight instead of noticing bodies through walls.
+
+<Details>
+<summary>Changes</summary>
+
+#### Updated
+
+ - [Much Better AI](https://www.nexusmods.com/cyberpunk2077/mods/31402)
+
+#### Added
+
+ - [UnequipMods - Remove Weapon](https://www.nexusmods.com/cyberpunk2077/mods/31701)
+
+#### Removed
+
+ - [Dead Body Alert](https://www.nexusmods.com/cyberpunk2077/mods/26746)
+ - [Replace Weapon Mods](https://www.nexusmods.com/cyberpunk2077/mods/15409)
+
+</Details>
 
 ### 1.1.5
 
