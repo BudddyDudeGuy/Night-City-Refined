@@ -29,6 +29,7 @@
     - [Installing REDmod](#installing-redmod)
     - [Clean Install](#clean-install)
     - [If You Have Modded the Game Before](#if-you-have-modded-the-game-before)
+    - [Pagefile and Crash Prevention](#pagefile-and-crash-prevention)
   - [Wabbajack Installation](#wabbajack-installation)
     - [Installing Wabbajack](#installing-wabbajack)
     - [Downloading and Installing Night City Refined](#downloading-and-installing-night-city-refined)
@@ -58,7 +59,7 @@ Night City Refined follows the base Cyberpunk 2077 system specs.
 
 | | Minimum (1080p Low) | Recommended (1080p High) |
 |---|---|---|
-| **OS** | Windows 10/11 64-bit | Windows 10/11 64-bit |
+| **OS** | Windows 11 64-bit | Windows 11 64-bit |
 | **CPU** | i7-6700 / R5 1600 | i7-12700 / R5 7600 |
 | **RAM** | 12 GB | 16 GB |
 | **GPU** | GTX 1060 6GB / RX 580 | RTX 3060 / RX 5700 XT |
@@ -74,6 +75,9 @@ If your PC runs vanilla Cyberpunk 2077, it runs Night City Refined. Path tracing
 Installing Night City Refined is easy and, if you have Nexus Premium, mostly a waiting game. If you are updating an existing install, skip to the [updating section](#updating-the-modlist).
 
 ## Pre-Installation *(do this for a brand new, clean install)*
+
+>[!IMPORTANT]
+>**Support is only given on Windows 11.** The list is built and tested on Windows 11, and that is the only system we can troubleshoot properly. If you are on Windows 10, Linux, Steam Deck, or anything else, the list may still work and we will try to help, but those reports are not a priority.
 
 ### Installing REDmod
 
@@ -107,6 +111,47 @@ REDmod is a free DLC and the list will not work without it. On Steam, open the D
     ![mod folder in archive\pc](Images/readme/ec752043-e227-481e-800b-5c2bb7633a6c.png)
 
  3. Verify your game files through your launcher (Steam, GOG, Epic). This restores every core file you just deleted and guarantees a clean base for the list.
+
+### Pagefile and Crash Prevention
+
+>[!WARNING]
+>Night City Refined runs hundreds of mods on top of a game that already uses a lot of memory. Running out of memory **will** cause crashes to desktop, so this step is **NOT** optional, no matter how much RAM or VRAM you have.
+
+**To set up a pagefile:**
+
+ 1. Press `Win Key + R`.
+
+ 2. Type `sysdm.cpl ,3` and hit `ENTER`.
+
+ 3. Under **Performance**, click `Settings...`.
+
+ 4. Click the **Advanced** tab at the top.
+
+ 5. Under **Virtual Memory**, click `Change...`.
+
+ 6. Untick `Automatically manage paging file size for all drives` if it is ticked.
+
+ 7. Select a drive, ideally your fastest SSD.
+
+ 8. Click `Custom size:`.
+
+ 9. In the box next to **Initial size (MB)**, type `20480`.
+
+ 10. In the box next to **Maximum size (MB)**, type `20480`.
+
+ 11. Click `Set`, then `OK`, then `Apply`, then `OK`.
+
+ 12. **Restart your PC.**
+
+>[!TIP]
+>The pagefile does not need to be on the same drive as Wabbajack, the modlist, or the game. It takes up 20 GB, so pick a drive with room to spare.
+
+<Details>
+<summary>Why do we need a pagefile?</summary>
+
+The pagefile is space on your drive that Windows uses as extra memory when your RAM fills up. Cyberpunk 2077 is a heavy game on its own, and a modded install loads far more into memory on top of it: extra scripts, tweaks, textures, and archives. When Windows manages the pagefile by itself, it can start too small and grow mid-game, and if the game asks for memory while it is still growing, it crashes to desktop. Setting a fixed size up front means the memory is always there when the game needs it.
+
+</Details>
 
 ## Wabbajack Installation
 
@@ -213,7 +258,7 @@ If Wabbajack keeps crashing, freezing, or blue-screening your PC, lower its reso
 
 Before your first launch, open Mod Organizer 2 and scroll to the `READ TO ENABLE OR DISABLE BASED ON YOUR SETUP` separator. The mods in it depend on your hardware and settings, so go through them and tick or untick each one to match your PC.
 
- - **Path tracing, HDR, and keyboard mods ship disabled.** Several mods here are built only for path tracing, RenoDX is only for HDR, and Quickhack Hotkeys is only for mouse and keyboard. Enable the ones that match how you play.
+ - **Upscaler, HDR, and keyboard mods.** Dirt Begone comes in three versions: the plain one (no upscaler) is on by default, so if you use FSR or DLSS, untick it and tick that one instead. RenoDX is only for HDR, and Quickhack Hotkeys is only for mouse and keyboard. Both ship disabled.
  - **Use the notes.** Each mod in this separator has a note beside it in the Notes column that tells you when to enable or disable it.
 
 ![READ TO ENABLE OR DISABLE BASED ON YOUR SETUP separator and its notes in Mod Organizer 2](Images/mo2-read-to-enable.png)
