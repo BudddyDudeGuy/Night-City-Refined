@@ -40,7 +40,6 @@ Key Info
  - This update resets mod settings one last time to the Night City Refined defaults. If you changed any, write them down before updating.
  - On first launch, Cyber Engine Tweaks asks you to pick a key for its overlay. Press ~ or any key you like.
  - Mods you add yourself are kept on updates if their folder name starts with [NoDelete].
- - Ultra Plus now picks its mode from your own ray tracing / path tracing settings instead of starting in path tracing.
  - React To Horn: pedestrians and drivers now react 70% of the time (was 100%).
  - Economy Punk: "Power Level to Payment" raised from 500 to 2500.
  - Civilians no longer sit merged into each other on benches, and vendors are no longer duplicated.
