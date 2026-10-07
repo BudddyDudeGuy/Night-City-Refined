@@ -22,6 +22,7 @@
 <details>
 <summary>1.1 Versions</summary>
 
+ - [1.1.7](#117) Release Date: October 7, 2026
  - [1.1.6](#116) Release Date: October 6, 2026
  - [1.1.5](#115) Release Date: October 4, 2026
  - [1.1.4](#114) Release Date: October 3, 2026
@@ -29,6 +30,45 @@
  - [1.1.2](#112) Release Date: October 1, 2026
  - [1.1.1](#111) Release Date: September 29, 2026
  - [1.1.0](#110) Release Date: September 29, 2026
+
+### 1.1.7
+
+Key Info
+
+ - **Save-Safe Update**
+ - From this version on, your mod settings, hotkeys and camera settings are kept when you update the list.
+ - This update resets mod settings one last time to the Night City Refined defaults. If you changed any, write them down before updating.
+ - On first launch, Cyber Engine Tweaks asks you to pick a key for its overlay. Press ~ or any key you like.
+ - Mods you add yourself are kept on updates if their folder name starts with [NoDelete].
+ - Ultra Plus now picks its mode from your own ray tracing / path tracing settings instead of starting in path tracing.
+ - React To Horn: pedestrians and drivers now react 70% of the time (was 100%).
+ - Economy Punk: "Power Level to Payment" raised from 500 to 2500.
+ - Civilians no longer sit merged into each other on benches, and vendors are no longer duplicated.
+ - Fixed bright light leaking into the Basilisk cockpit.
+ - New story touches: reminders of Reed's train ambush in key Phantom Liberty scenes, and an extended Tears in Rain Easter egg.
+ - The Collection no longer lists old mod versions or mods that aren't in the list.
+
+<Details>
+<summary>Changes</summary>
+
+#### Updated
+
+ - [ArchiveXL](https://www.nexusmods.com/cyberpunk2077/mods/4198)
+ - [Economy Punk](https://www.nexusmods.com/cyberpunk2077/mods/16952)
+ - [Immersive Explosions](https://www.nexusmods.com/cyberpunk2077/mods/31624)
+
+#### Added
+
+ - [Basilisk Shadows Fix](https://www.nexusmods.com/cyberpunk2077/mods/33808)
+ - [Crowd Seat Overlap Fix](https://www.nexusmods.com/cyberpunk2077/mods/34735)
+ - [Immersion Extension - Reed's Train Ambush - Echoes of the Past](https://www.nexusmods.com/cyberpunk2077/mods/34502)
+ - [Tears in Rain - Cyberpunk Secret Immersion Extended](https://www.nexusmods.com/cyberpunk2077/mods/27326)
+
+#### Removed
+
+ - N/A
+
+</Details>
 
 ### 1.1.6
 
