@@ -150,7 +150,7 @@ Downloading and installing the list can take a while depending on your internet 
 <Details>
 <summary>Installing from the .wabbajack file instead</summary>
 
-If the list does not show up in the gallery, download [`Night City Refined.wabbajack`](https://github.com/BudddyDudeGuy/Night-City-Refined/releases/latest/download/Night.City.Refined.wabbajack) from the [Releases](https://github.com/BudddyDudeGuy/Night-City-Refined/releases/latest) page, select `Install from disk` in Wabbajack, and point it at that file. The rest of the steps are the same.
+If the list does not show up in the gallery, download `Night City Refined <version>.zip` from the [Nexus mod page](https://www.nexusmods.com/cyberpunk2077/mods/34281?tab=files), extract `Night City Refined.wabbajack` from it, select `Install from disk` in Wabbajack, and point it at that file. The rest of the steps are the same.
 
 </Details>
 
