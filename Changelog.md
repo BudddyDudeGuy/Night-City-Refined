@@ -45,6 +45,7 @@ Key Info
  - Civilians no longer sit merged into each other on benches, and vendors are no longer duplicated.
  - Fixed bright light leaking into the Basilisk cockpit.
  - New story touches: reminders of Reed's train ambush in key Phantom Liberty scenes, and an extended Tears in Rain Easter egg.
+ - Ultra Plus updated to Ultra Plus X (v10 release candidate): fixes shadow flicker, black blobs when objects switch detail levels, and short grass draw distance, especially in the Badlands.
  - The Collection no longer lists old mod versions or mods that aren't in the list.
 
 <Details>
@@ -55,6 +56,7 @@ Key Info
  - [ArchiveXL](https://www.nexusmods.com/cyberpunk2077/mods/4198)
  - [Economy Punk](https://www.nexusmods.com/cyberpunk2077/mods/16952)
  - [Immersive Explosions](https://www.nexusmods.com/cyberpunk2077/mods/31624)
+ - [Ultra Plus](https://www.nexusmods.com/cyberpunk2077/mods/10490)
 
 #### Added
 
