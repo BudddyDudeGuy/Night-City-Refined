@@ -22,6 +22,7 @@
 <details>
 <summary>1.1 Versions</summary>
 
+ - [1.1.8](#118) Release Date: October 7, 2026
  - [1.1.7](#117) Release Date: October 7, 2026
  - [1.1.6](#116) Release Date: October 6, 2026
  - [1.1.5](#115) Release Date: October 4, 2026
@@ -30,6 +31,36 @@
  - [1.1.2](#112) Release Date: October 1, 2026
  - [1.1.1](#111) Release Date: September 29, 2026
  - [1.1.0](#110) Release Date: September 29, 2026
+
+### 1.1.8
+
+Key Info
+
+ - **Save-Safe Update**
+ - Your mod settings, hotkeys and camera settings from 1.1.7 carry over with this update, no need to set them again.
+ - Main menu no longer shows up blank before you accept the EULA (Bloat Begone replaced by Cleaner Main Menu and Pause Menu).
+ - Light Beams Fix removed: INCF Core already includes the same fix, so nothing changes in game.
+ - Panam's "back with the clan" text after Riders on the Storm now arrives at night, as intended.
+ - Misc NC Fixes now applies all its fixes where it overlapped with INCF Core.
+
+<Details>
+<summary>Changes</summary>
+
+#### Updated
+
+ - N/A
+
+#### Added
+
+ - [Cleaner Main Menu and Pause Menu](https://www.nexusmods.com/cyberpunk2077/mods/10285)
+
+#### Removed
+
+ - [Bloat Begone (Remove Unwanted Menu Elements and Ads)](https://www.nexusmods.com/cyberpunk2077/mods/9208)
+ - [Bloat Begone - Pause Menu](https://www.nexusmods.com/cyberpunk2077/mods/9208)
+ - [Light Beams Fix](https://www.nexusmods.com/cyberpunk2077/mods/12381)
+
+</Details>
 
 ### 1.1.7
 
