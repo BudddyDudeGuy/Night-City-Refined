@@ -14,8 +14,48 @@
 
 # Table of Contents
 
+ - [1.2 Versions](#12-versions)
  - [1.1 Versions](#11-versions)
  - [1.0 Versions](#10-versions)
+
+## 1.2 Versions
+
+<details>
+<summary>1.2 Versions</summary>
+
+ - [1.2.0](#120) Release Date: October 9, 2026
+
+### 1.2.0
+
+Key Info
+
+ - **Save-Safe Update**
+ - Authentic Shift removed: General Vehicle Fixes now reworks every car's engine and gearbox itself, and its author lists Authentic Shift as incompatible.
+ - Vehicle Handling Redux and Nulled Drive Helpers are temporarily removed until versions made for the new General Vehicle Fixes come out.
+
+<Details>
+<summary>Changes</summary>
+
+#### Updated
+
+ - [General Vehicle Fixes](https://www.nexusmods.com/cyberpunk2077/mods/31813)
+ - [Lizzie's Braindances](https://www.nexusmods.com/cyberpunk2077/mods/11077)
+ - [Ultra Plus](https://www.nexusmods.com/cyberpunk2077/mods/10490)
+
+#### Added
+
+ - N/A
+
+#### Removed
+
+ - [Authentic Shift](https://www.nexusmods.com/cyberpunk2077/mods/6823)
+ - [Nulled Drive Helpers - Vehicle Handling Redux](https://www.nexusmods.com/cyberpunk2077/mods/30908)
+ - [Vehicle Handling Redux](https://www.nexusmods.com/cyberpunk2077/mods/33749)
+ - [Vehicle Handling Redux - General Vehicle Fixes](https://www.nexusmods.com/cyberpunk2077/mods/33749)
+
+</Details>
+
+</details>
 
 ## 1.1 Versions
 
