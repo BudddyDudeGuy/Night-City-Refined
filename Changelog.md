@@ -22,6 +22,7 @@
 <details>
 <summary>1.1 Versions</summary>
 
+ - [1.1.9](#119) Release Date: October 8, 2026
  - [1.1.8](#118) Release Date: October 7, 2026
  - [1.1.7](#117) Release Date: October 7, 2026
  - [1.1.6](#116) Release Date: October 6, 2026
@@ -31,6 +32,39 @@
  - [1.1.2](#112) Release Date: October 1, 2026
  - [1.1.1](#111) Release Date: September 29, 2026
  - [1.1.0](#110) Release Date: September 29, 2026
+
+### 1.1.9
+
+Key Info
+
+ - **Save-Safe Update**
+ - Crafting and upgrading costs rebalanced around EconomyPunk: upgrades need far fewer components, and cyberware upgrades are covered too.
+ - Fixed the Radioport cutting out when a passing car or a nearby radio is on the same station, and sounding muffled after you get out of a car.
+ - Fixed passing traffic cars playing their radio as if it were in your car.
+ - Ultra Plus no longer shows its FPS and VRAM counter on screen by default (you can turn it back on in the Ultra Plus window in the CET overlay).
+ - General Vehicle Fixes 3.01 reworks every car's engine, gearbox and weight balance, so cars drive noticeably differently.
+
+<Details>
+<summary>Changes</summary>
+
+#### Updated
+
+ - [General Vehicle Fixes](https://www.nexusmods.com/cyberpunk2077/mods/31813)
+ - [LUT Switcher 3 - Core](https://www.nexusmods.com/cyberpunk2077/mods/16310)
+ - [Ultra Plus](https://www.nexusmods.com/cyberpunk2077/mods/10490)
+
+#### Added
+
+ - [Crafting Cost Rebalance](https://www.nexusmods.com/cyberpunk2077/mods/34805)
+ - [Radioport Fixes](https://www.nexusmods.com/cyberpunk2077/mods/33838)
+ - [Traffic Radio Fix](https://www.nexusmods.com/cyberpunk2077/mods/34659)
+ - [Upgrading Cost Rebalance](https://www.nexusmods.com/cyberpunk2077/mods/31456)
+
+#### Removed
+
+ - N/A
+
+</Details>
 
 ### 1.1.8
 
