@@ -20,7 +20,7 @@
     "links": {
       "image": "https://raw.githubusercontent.com/BudddyDudeGuy/Night-City-Refined/main/Images/gallery-card.webp",
       "readme": "https://github.com/BudddyDudeGuy/Night-City-Refined/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Night City Refined.wabbajack_1eb3cd3d-91d9-4369-992b-c47aaf8135bb",
+      "download": "https://authored-files.wabbajack.org/Night City Refined.wabbajack_beda6c17-b5ef-490c-ac19-7d00d92380a0",
       "machineURL": "NightCityRefined",
       "discordURL": null,
       "websiteURL": "https://github.com/BudddyDudeGuy/Night-City-Refined",
@@ -32,17 +32,17 @@
       }
     },
     "download_metadata": {
-      "Hash": "2BQtDO9Sul8=",
-      "Size": 22014162,
-      "NumberOfArchives": 514,
-      "SizeOfArchives": 3088361234,
-      "NumberOfInstalledFiles": 8175,
-      "SizeOfInstalledFiles": 4197441649,
-      "TotalSize": 7285802883
+      "Hash": "VlJMzzF5S+Q=",
+      "Size": 22014842,
+      "NumberOfArchives": 515,
+      "SizeOfArchives": 3088366822,
+      "NumberOfInstalledFiles": 8177,
+      "SizeOfInstalledFiles": 4197461145,
+      "TotalSize": 7285827967
     },
     "version": "1.2.1",
     "dateCreated": "2026-09-25T03:40:22Z",
-    "dateUpdated": "2026-10-10T18:55:56.2351655Z",
+    "dateUpdated": "2026-10-10T19:05:19.2860436Z",
     "repositoryName": ""
   }
 ]
