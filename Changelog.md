@@ -23,8 +23,33 @@
 <details>
 <summary>1.2 Versions</summary>
 
+ - [1.2.2](#122) Release Date: October 10, 2026
  - [1.2.1](#121) Release Date: October 10, 2026
  - [1.2.0](#120) Release Date: October 9, 2026
+
+### 1.2.2
+
+Key Info
+
+ - **Save-Safe Update**
+ - Traffic Unjammed is removed: players reported crashes on long drives, broken El Capitan car-theft jobs and worse traffic jams, and the mod is no longer updated. Traffic is back to how it was before 1.2.1.
+
+<Details>
+<summary>Changes</summary>
+
+#### Updated
+
+ - N/A
+
+#### Added
+
+ - N/A
+
+#### Removed
+
+ - [Traffic Unjammed](https://www.nexusmods.com/cyberpunk2077/mods/27306)
+
+</Details>
 
 ### 1.2.1
 
