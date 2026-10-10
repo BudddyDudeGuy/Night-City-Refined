@@ -23,7 +23,58 @@
 <details>
 <summary>1.2 Versions</summary>
 
+ - [1.2.1](#121) Release Date: October 10, 2026
  - [1.2.0](#120) Release Date: October 9, 2026
+
+### 1.2.1
+
+Key Info
+
+ - **Save-Safe Update**
+ - Crowds look far more varied: over 2,000 unused civilian outfits are back, and look-alikes standing near each other get different looks. This replaces Lightweight Crowd Duplicate Randomizer and Low Quality Crowd No More.
+ - Civilians walk in different styles (calm, confident, worried, tired) that fit who they are and where they live.
+ - Glass looks right from both sides: shop doors, display cases, fish tanks and plastic curtains no longer turn milky or vanish from behind. Reflections of the car's interior on its windows are off by default (Mod Settings > ReFRACT > Interior Reflections).
+ - Blur Begone is now adjustable in Mod Settings, including glass blur and reflection strength.
+ - Traffic jams clear on their own instead of cars sitting stuck.
+ - Vault and step up onto ledges and obstacles almost anywhere.
+ - Autosaves happen at most once an hour, and only the 3 newest are kept, which means fewer autosave stutters.
+ - Optical camo: the mod listed as "Optical Camo Partial CD" was really Camo Realism and now carries its right name. The real Partial CD is added: you can cloak with a partial charge and turn it off early to keep the rest.
+
+<Details>
+<summary>Changes</summary>
+
+#### Updated
+
+ - [Advanced Crash Reporter](https://www.nexusmods.com/cyberpunk2077/mods/34403)
+ - [Blur Begone (Clear Materials with Refraction)](https://www.nexusmods.com/cyberpunk2077/mods/8105)
+ - [Fluff Vendor Fixes](https://www.nexusmods.com/cyberpunk2077/mods/27795)
+ - [General Vehicle Fixes](https://www.nexusmods.com/cyberpunk2077/mods/31813)
+ - [Immersion Patch - Cyberpunk Story Quest Fixes](https://www.nexusmods.com/cyberpunk2077/mods/29152)
+ - [Loot Icons Extension Light](https://www.nexusmods.com/cyberpunk2077/mods/16386)
+
+#### Added
+
+ - [Autosave Performance Fix](https://www.nexusmods.com/cyberpunk2077/mods/25635)
+ - [Bandit roof stripe fix](https://www.nexusmods.com/cyberpunk2077/mods/34680)
+ - [Crowd Variety Restored](https://www.nexusmods.com/cyberpunk2077/mods/34908)
+ - [Crowd Walks Restored](https://www.nexusmods.com/cyberpunk2077/mods/34789)
+ - [Gris-Gris Decal Fix](https://www.nexusmods.com/cyberpunk2077/mods/34866)
+ - [Optical Camo Realism and Utility - Camo Partial CD](https://www.nexusmods.com/cyberpunk2077/mods/15308)
+ - [Optical Camo Realism and Utility - Camo Realism](https://www.nexusmods.com/cyberpunk2077/mods/15308)
+ - [Pacifica Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/21848)
+ - [ReFRACT](https://www.nexusmods.com/cyberpunk2077/mods/34858)
+ - [Step Up Anywhere](https://www.nexusmods.com/cyberpunk2077/mods/33052)
+ - [Stuck Weapon Slot Bug Fix](https://www.nexusmods.com/cyberpunk2077/mods/34900)
+ - [Traffic Unjammed](https://www.nexusmods.com/cyberpunk2077/mods/27306)
+ - [Vault Anywhere](https://www.nexusmods.com/cyberpunk2077/mods/33018)
+
+#### Removed
+
+ - [Lightweight Crowd Duplicate Randomizer](https://www.nexusmods.com/cyberpunk2077/mods/27433)
+ - [Low Quality Crowd No More](https://www.nexusmods.com/cyberpunk2077/mods/11734)
+ - [Optical Camo Partial CD](https://www.nexusmods.com/cyberpunk2077/mods/15308)
+
+</Details>
 
 ### 1.2.0
 
