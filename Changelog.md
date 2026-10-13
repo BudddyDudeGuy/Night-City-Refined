@@ -16,11 +16,36 @@
 
 | Series | Versions |
 |:-:|:--|
-| **1.2** | [1.2.2](#version-122) · [1.2.1](#version-121) · [1.2.0](#version-120) |
+| **1.2** | [1.2.3](#version-123) · [1.2.2](#version-122) · [1.2.1](#version-121) · [1.2.0](#version-120) |
 | **1.1** | [1.1.9](#version-119) · [1.1.8](#version-118) · [1.1.7](#version-117) · [1.1.6](#version-116) · [1.1.5](#version-115) · [1.1.4](#version-114) · [1.1.3](#version-113) · [1.1.2](#version-112) · [1.1.1](#version-111) · [1.1.0](#version-110) |
 | **1.0** | [1.0.8](#version-108) · [1.0.7](#version-107) · [1.0.6](#version-106) · [1.0.5](#version-105) · [1.0.4](#version-104) · [1.0.3](#version-103) · [1.0.2](#version-102) · [1.0.1](#version-101) · [1.0.0](#version-100) |
 
 ---
+
+<a id="123"></a>
+## Version 1.2.3
+
+![Save Compatible](https://img.shields.io/badge/Save-Compatible-brightgreen) ![Released](https://img.shields.io/badge/Released-October_13,_2026-lightgrey)
+> Enemy gunfire toned down, plus glass and audio framework updates.
+
+#### Gameplay
+- Changed: enemy gunfire hits softer and misses a little more (Immersive Shooting AI damage 0.7, accuracy 0.8). This resets those two sliders for everyone; if you set your own, set them again in Mod Settings.
+
+#### Visuals
+- Updated Blur Begone ([link](https://www.nexusmods.com/cyberpunk2077/mods/8105)): new settings for painted, black and frosted windows and sheer clothing.
+- Updated Crowd Walks Restored ([link](https://www.nexusmods.com/cyberpunk2077/mods/34789)).
+- Updated ReFRACT ([link](https://www.nexusmods.com/cyberpunk2077/mods/34858)): crystal domes now reflect the cabin, plus fixes for RenoDX and setups without ReShade.
+
+#### Performance
+- Updated Ultra Plus ([link](https://www.nexusmods.com/cyberpunk2077/mods/10490)).
+
+#### Fixes & QoL
+- Updated The Loudening - AudioXL ([link](https://www.nexusmods.com/cyberpunk2077/mods/30510)).
+
+#### Framework
+- Updated AudioXL ([link](https://www.nexusmods.com/cyberpunk2077/mods/33442)).
+- Updated DigitalVixen Core ([link](https://www.nexusmods.com/cyberpunk2077/mods/28390)).
+- Updated Redscript Configuration Framework ([link](https://www.nexusmods.com/cyberpunk2077/mods/30726)).
 
 <a id="122"></a>
 ## Version 1.2.2
