@@ -26,7 +26,6 @@
 ## Version 1.2.4
 
 ![Save Compatible](https://img.shields.io/badge/Save-Compatible-brightgreen) ![Released](https://img.shields.io/badge/Released-October_14,_2026-lightgrey)
-> Longer draw distance and better shadows for High-End, ray tracing lighting fixes for Mid-Range.
 
 #### Visuals
 - Removed Improved Vegetation LODs ([link](https://www.nexusmods.com/cyberpunk2077/mods/3627)): removed, Improved Environment LODs covers it.
