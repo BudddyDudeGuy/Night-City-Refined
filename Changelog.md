@@ -16,11 +16,38 @@
 
 | Series | Versions |
 |:-:|:--|
-| **1.2** | [1.2.3](#version-123) · [1.2.2](#version-122) · [1.2.1](#version-121) · [1.2.0](#version-120) |
+| **1.2** | [1.2.4](#version-124) · [1.2.3](#version-123) · [1.2.2](#version-122) · [1.2.1](#version-121) · [1.2.0](#version-120) |
 | **1.1** | [1.1.9](#version-119) · [1.1.8](#version-118) · [1.1.7](#version-117) · [1.1.6](#version-116) · [1.1.5](#version-115) · [1.1.4](#version-114) · [1.1.3](#version-113) · [1.1.2](#version-112) · [1.1.1](#version-111) · [1.1.0](#version-110) |
 | **1.0** | [1.0.8](#version-108) · [1.0.7](#version-107) · [1.0.6](#version-106) · [1.0.5](#version-105) · [1.0.4](#version-104) · [1.0.3](#version-103) · [1.0.2](#version-102) · [1.0.1](#version-101) · [1.0.0](#version-100) |
 
 ---
+
+<a id="124"></a>
+## Version 1.2.4
+
+![Save Compatible](https://img.shields.io/badge/Save-Compatible-brightgreen) ![Released](https://img.shields.io/badge/Released-October_14,_2026-lightgrey)
+> Each profile gets its own Ultra Plus settings, plus distance and shadow upgrades for High-End and ray tracing lighting fixes for Mid-Range.
+
+#### Visuals
+- Removed Improved Vegetation LODs ([link](https://www.nexusmods.com/cyberpunk2077/mods/3627)): removed, Improved Environment LODs covers it.
+- Added Disable Fake Lights with Path Tracing ([link](https://www.nexusmods.com/cyberpunk2077/mods/16060)): removes fake glow lights that clash with ray traced lighting (Mid-Range profile).
+- Added Improved Vehicle Lights Draw Distance ([link](https://www.nexusmods.com/cyberpunk2077/mods/5082)): car lights stay visible from further away (Mid-Range profile).
+- Added Ray Traced Lighting Fixes ([link](https://www.nexusmods.com/cyberpunk2077/mods/29720)): fixes lights that look wrong with ray tracing (Mid-Range profile).
+- Updated Blur Begone ([link](https://www.nexusmods.com/cyberpunk2077/mods/8105)): tinted glass no longer goes dark in fog, better ReFRACT and RenoDX compatibility.
+- Updated Crowd Variety Restored ([link](https://www.nexusmods.com/cyberpunk2077/mods/34908)): removed 3 street looks that showed up see-through.
+- Updated ReFRACT ([link](https://www.nexusmods.com/cyberpunk2077/mods/34858)): crystal dome fixes, new Half-Rate Tracing and Only In Vehicles options.
+
+#### Performance
+- Updated Ultra Plus ([link](https://www.nexusmods.com/cyberpunk2077/mods/10490)): fixes a game memory bug that could crash after long sessions, raises the FPS target cap to 300 and fixes SHaRC flicker.
+- Changed: each profile now starts Ultra Plus in its own mode (Low-End Raster, Mid-Range RT+, High-End PT Next) and keeps its own Ultra Plus settings. Your old Ultra Plus settings don't carry over: set them again once per profile in the CET overlay.
+
+#### Miscellaneous
+- Added Faster Rainmap and Distant Shadows ([link](https://www.nexusmods.com/cyberpunk2077/mods/8610)): rain and distant shadows update faster (High-End profile).
+- Added General Shadows Fixes ([link](https://www.nexusmods.com/cyberpunk2077/mods/20405)): fixes broken and missing shadows (High-End profile).
+- Added Improved Distant Shadows and Reflections ([link](https://www.nexusmods.com/cyberpunk2077/mods/20623)): shadows and reflections reach further (High-End profile).
+- Added Improved Environment LODs ([link](https://www.nexusmods.com/cyberpunk2077/mods/4923)): better looking distant buildings and terrain, replaces Improved Vegetation LODs (High-End profile).
+- Added Not So Good Draw Distance ([link](https://www.nexusmods.com/cyberpunk2077/mods/11240)): longer draw distance (High-End profile).
+- Changed: CET overlay windows now open in a tidy layout instead of piled in one spot.
 
 <a id="123"></a>
 ## Version 1.2.3
