@@ -26,7 +26,7 @@
 ## Version 1.2.4
 
 ![Save Compatible](https://img.shields.io/badge/Save-Compatible-brightgreen) ![Released](https://img.shields.io/badge/Released-October_14,_2026-lightgrey)
-> Each profile gets its own Ultra Plus settings, plus distance and shadow upgrades for High-End and ray tracing lighting fixes for Mid-Range.
+> Longer draw distance and better shadows for High-End, ray tracing lighting fixes for Mid-Range.
 
 #### Visuals
 - Removed Improved Vegetation LODs ([link](https://www.nexusmods.com/cyberpunk2077/mods/3627)): removed, Improved Environment LODs covers it.
