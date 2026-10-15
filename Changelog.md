@@ -26,7 +26,7 @@
 ## Version 1.2.5
 
 ![Save Compatible](https://img.shields.io/badge/Save-Compatible-brightgreen) ![Released](https://img.shields.io/badge/Released-October_14,_2026-lightgrey)
-> LOD mods are out: they cost too much FPS for most PCs. Got a beast of a PC? Add them yourself under ADD YOUR OWN MODS HERE.
+> Got rid of the LOD mods. I tried playing around with them and tweaking them, but the FPS cost was way too much. The rest is general updates and fixes.
 
 #### Immersion
 - Updated Lizzie's Braindances ([link](https://www.nexusmods.com/cyberpunk2077/mods/11077)).
