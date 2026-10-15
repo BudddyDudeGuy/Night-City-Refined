@@ -16,11 +16,50 @@
 
 | Series | Versions |
 |:-:|:--|
-| **1.2** | [1.2.4](#version-124) · [1.2.3](#version-123) · [1.2.2](#version-122) · [1.2.1](#version-121) · [1.2.0](#version-120) |
+| **1.2** | [1.2.5](#version-125) · [1.2.4](#version-124) · [1.2.3](#version-123) · [1.2.2](#version-122) · [1.2.1](#version-121) · [1.2.0](#version-120) |
 | **1.1** | [1.1.9](#version-119) · [1.1.8](#version-118) · [1.1.7](#version-117) · [1.1.6](#version-116) · [1.1.5](#version-115) · [1.1.4](#version-114) · [1.1.3](#version-113) · [1.1.2](#version-112) · [1.1.1](#version-111) · [1.1.0](#version-110) |
 | **1.0** | [1.0.8](#version-108) · [1.0.7](#version-107) · [1.0.6](#version-106) · [1.0.5](#version-105) · [1.0.4](#version-104) · [1.0.3](#version-103) · [1.0.2](#version-102) · [1.0.1](#version-101) · [1.0.0](#version-100) |
 
 ---
+
+<a id="125"></a>
+## Version 1.2.5
+
+![Save Compatible](https://img.shields.io/badge/Save-Compatible-brightgreen) ![Released](https://img.shields.io/badge/Released-October_14,_2026-lightgrey)
+> LOD mods are out: they cost too much FPS for most PCs. Got a beast of a PC? Add them yourself under ADD YOUR OWN MODS HERE.
+
+#### Immersion
+- Updated Lizzie's Braindances ([link](https://www.nexusmods.com/cyberpunk2077/mods/11077)).
+
+#### Driving
+- Changed: No Panic Driving now also calms drivers when traffic cars hit each other or get hit by something that isn't a car (reset to the new default for everyone).
+
+#### HUD & UI
+- Updated Loot Icons Extension Light ([link](https://www.nexusmods.com/cyberpunk2077/mods/16386)).
+
+#### Visuals
+- Removed Faster Rainmap and Distant Shadows ([link](https://www.nexusmods.com/cyberpunk2077/mods/8610)): removed, Ultra Plus already does the same thing.
+- Removed Improved Environment LODs ([link](https://www.nexusmods.com/cyberpunk2077/mods/4923)): removed, too heavy on FPS.
+- Removed Not So Good Draw Distance ([link](https://www.nexusmods.com/cyberpunk2077/mods/11240)): removed, too heavy on FPS.
+- Updated Crowd Variety Restored ([link](https://www.nexusmods.com/cyberpunk2077/mods/34908)).
+- Updated LUT Switcher 3 - Core ([link](https://www.nexusmods.com/cyberpunk2077/mods/16310)).
+- Updated O'Neill's Explicit Content - AIO ([link](https://www.nexusmods.com/cyberpunk2077/mods/23668)).
+- Changed: General Shadows Fixes and Improved Distant Shadows and Reflections are now on in every profile, with Ray Tracing Mode and player shadows set to match each profile (reset to the new defaults).
+
+#### Performance
+- Updated Ultra Plus ([link](https://www.nexusmods.com/cyberpunk2077/mods/10490)): final v10 release.
+
+#### Fixes & QoL
+- Updated Crowd Seat Overlap Fix ([link](https://www.nexusmods.com/cyberpunk2077/mods/34735)): fixes the kids' hopscotch game running through the couple in front of H10.
+- Fixed: PreemScopes reticles, computer wallpapers and arcade screens show correctly again.
+- Fixed: Immersive Bartenders' El Coyote bartender scene works again.
+
+#### Framework
+- Updated AudioXL ([link](https://www.nexusmods.com/cyberpunk2077/mods/33442)).
+- Updated DigitalVixen Core ([link](https://www.nexusmods.com/cyberpunk2077/mods/28390)).
+- Updated RedFunctions ([link](https://www.nexusmods.com/cyberpunk2077/mods/32312)).
+- Updated Redscript Configuration Framework ([link](https://www.nexusmods.com/cyberpunk2077/mods/30726)).
+- Updated Window Utils ([link](https://www.nexusmods.com/cyberpunk2077/mods/26589)).
 
 <a id="124"></a>
 ## Version 1.2.4
