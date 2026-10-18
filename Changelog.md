@@ -16,11 +16,54 @@
 
 | Series | Versions |
 |:-:|:--|
-| **1.2** | [1.2.5](#version-125) · [1.2.4](#version-124) · [1.2.3](#version-123) · [1.2.2](#version-122) · [1.2.1](#version-121) · [1.2.0](#version-120) |
+| **1.2** | [1.2.6](#version-126) · [1.2.5](#version-125) · [1.2.4](#version-124) · [1.2.3](#version-123) · [1.2.2](#version-122) · [1.2.1](#version-121) · [1.2.0](#version-120) |
 | **1.1** | [1.1.9](#version-119) · [1.1.8](#version-118) · [1.1.7](#version-117) · [1.1.6](#version-116) · [1.1.5](#version-115) · [1.1.4](#version-114) · [1.1.3](#version-113) · [1.1.2](#version-112) · [1.1.1](#version-111) · [1.1.0](#version-110) |
 | **1.0** | [1.0.8](#version-108) · [1.0.7](#version-107) · [1.0.6](#version-106) · [1.0.5](#version-105) · [1.0.4](#version-104) · [1.0.3](#version-103) · [1.0.2](#version-102) · [1.0.1](#version-101) · [1.0.0](#version-100) |
 
 ---
+
+<a id="126"></a>
+## Version 1.2.6
+
+![Save Compatible](https://img.shields.io/badge/Save-Compatible-brightgreen) ![Released](https://img.shields.io/badge/Released-October_17,_2026-lightgrey)
+> A small update: Delamain and the crash reporter are fixed, plus a few new world touches and a round of mod updates.
+
+#### Gameplay
+- Updated Immersive Explosions ([link](https://www.nexusmods.com/cyberpunk2077/mods/31624)).
+- Updated Step Up Anywhere ([link](https://www.nexusmods.com/cyberpunk2077/mods/33052)).
+
+#### Immersion
+- Updated HD pack - Lizzies Braindance ([link](https://www.nexusmods.com/cyberpunk2077/mods/11077)).
+- Updated Judy Romance Messages Mod ([link](https://www.nexusmods.com/cyberpunk2077/mods/4465)).
+- Updated Lizzie's Braindances ([link](https://www.nexusmods.com/cyberpunk2077/mods/11077)).
+- Updated Panam Romance Messages Mod ([link](https://www.nexusmods.com/cyberpunk2077/mods/4228)).
+
+#### Quests & Story
+- Fixed: Delamain follows his path in The Ride instead of circling the lot. General Vehicle Fixes was causing it, so we added a temporary patch until its author updates the mod.
+
+#### HUD & UI
+- Updated Loot Icons Extension Light ([link](https://www.nexusmods.com/cyberpunk2077/mods/16386)).
+- Updated Minimap Widgets ([link](https://www.nexusmods.com/cyberpunk2077/mods/17477)).
+
+#### Visuals
+- Added Crowd Props Restored ([link](https://www.nexusmods.com/cyberpunk2077/mods/35285)): civilians carry phones, cups, tablets and bags that match who they are.
+- Added RT Contact Shadow Fix ([link](https://www.nexusmods.com/cyberpunk2077/mods/35156)): removes the gap under tires in ray-traced and path-traced shadows.
+
+#### Fixes & QoL
+- Added Aerial Takedown Sound Fix ([link](https://www.nexusmods.com/cyberpunk2077/mods/34993)).
+- Added Bare Hands Aerial Takedown Bloodless ([link](https://www.nexusmods.com/cyberpunk2077/mods/34044)).
+- Added Crowd Umbrellas Restored ([link](https://www.nexusmods.com/cyberpunk2077/mods/35264)): umbrellas in the rain.
+- Added Female Standing Peeing Fix ([link](https://www.nexusmods.com/cyberpunk2077/mods/35082)).
+- Added Shotgun Shell Eject Fix ([link](https://www.nexusmods.com/cyberpunk2077/mods/35058)).
+- Updated Advanced Crash Reporter ([link](https://www.nexusmods.com/cyberpunk2077/mods/34403)).
+- Updated Autosave Performance Fix ([link](https://www.nexusmods.com/cyberpunk2077/mods/25635)).
+- Updated Immersion Patch - Cyberpunk Story Quest Fixes ([link](https://www.nexusmods.com/cyberpunk2077/mods/29152)).
+- Updated Map Waypoint Bug Fixes ([link](https://www.nexusmods.com/cyberpunk2077/mods/32175)).
+- Updated Radioport Fixes ([link](https://www.nexusmods.com/cyberpunk2077/mods/33838)).
+- Fixed: Advanced Crash Reporter was broken in the last update and wasn't writing crash reports. It's fixed and works in every profile again.
+
+#### Framework
+- Updated AudioXL ([link](https://www.nexusmods.com/cyberpunk2077/mods/33442)).
 
 <a id="125"></a>
 ## Version 1.2.5
