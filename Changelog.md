@@ -16,11 +16,47 @@
 
 | Series | Versions |
 |:-:|:--|
-| **1.2** | [1.2.6](#version-126) · [1.2.5](#version-125) · [1.2.4](#version-124) · [1.2.3](#version-123) · [1.2.2](#version-122) · [1.2.1](#version-121) · [1.2.0](#version-120) |
+| **1.2** | [1.2.7](#version-127) · [1.2.6](#version-126) · [1.2.5](#version-125) · [1.2.4](#version-124) · [1.2.3](#version-123) · [1.2.2](#version-122) · [1.2.1](#version-121) · [1.2.0](#version-120) |
 | **1.1** | [1.1.9](#version-119) · [1.1.8](#version-118) · [1.1.7](#version-117) · [1.1.6](#version-116) · [1.1.5](#version-115) · [1.1.4](#version-114) · [1.1.3](#version-113) · [1.1.2](#version-112) · [1.1.1](#version-111) · [1.1.0](#version-110) |
 | **1.0** | [1.0.8](#version-108) · [1.0.7](#version-107) · [1.0.6](#version-106) · [1.0.5](#version-105) · [1.0.4](#version-104) · [1.0.3](#version-103) · [1.0.2](#version-102) · [1.0.1](#version-101) · [1.0.0](#version-100) |
 
 ---
+
+<a id="127"></a>
+## Version 1.2.7
+
+![Save Compatible](https://img.shields.io/badge/Save-Compatible-brightgreen) ![Released](https://img.shields.io/badge/Released-October_21,_2026-lightgrey)
+> I wanted to push this update before game update 2.5, so every mod is as up to date as possible on 2.31 while things move to the new version. Next up: refining and tweaking more settings, and fixing bugs in the list.
+
+#### Gameplay
+- Updated Skillful ([link](https://www.nexusmods.com/cyberpunk2077/mods/9309)): settings moved to a new menu (Shift+F8). Any Skillful settings you changed are back to the list's defaults.
+- Updated Skillful Attributes ([link](https://www.nexusmods.com/cyberpunk2077/mods/9281)).
+
+#### Immersion
+- Added V For Vibrant ([link](https://www.nexusmods.com/cyberpunk2077/mods/30658)): V reacts out loud to fights, close calls, loot and level ups, using the game's own voice lines.
+- Updated Gone Away - Better Partner Suspended Behaviour ([link](https://www.nexusmods.com/cyberpunk2077/mods/19412)).
+- Updated Meredith Stout Romance Addon ([link](https://www.nexusmods.com/cyberpunk2077/mods/30587)).
+- Updated Say Something Damn It ([link](https://www.nexusmods.com/cyberpunk2077/mods/22228)).
+
+#### HUD & UI
+- Updated Adaptive Sliders ([link](https://www.nexusmods.com/cyberpunk2077/mods/5075)).
+
+#### Visuals
+- Updated Preem Hair ([link](https://www.nexusmods.com/cyberpunk2077/mods/8223)): every vanilla hairstyle rebuilt, so hair looks cleaner.
+
+#### Fixes & QoL
+- Added Time Skip Wheel Fix ([link](https://www.nexusmods.com/cyberpunk2077/mods/35559)): the time skip wheel now has a real 24-hour clock, follows your cursor and snaps to quarter hours.
+- Updated Better Quality Sort V2 ([link](https://www.nexusmods.com/cyberpunk2077/mods/20267)).
+- Updated Crowd Umbrellas Restored ([link](https://www.nexusmods.com/cyberpunk2077/mods/35264)): umbrellas spread more evenly across the city.
+- Updated Quickhack Fixes ([link](https://www.nexusmods.com/cyberpunk2077/mods/18290)).
+
+#### Framework
+- Added GetTenSO CORE ([link](https://www.nexusmods.com/cyberpunk2077/mods/35521)).
+- Added V Voice Framework ([link](https://www.nexusmods.com/cyberpunk2077/mods/30646)).
+- Updated ArchiveXL ([link](https://www.nexusmods.com/cyberpunk2077/mods/4198)).
+- Updated Codeware ([link](https://www.nexusmods.com/cyberpunk2077/mods/7780)).
+- Updated Mod Configuration Menu ([link](https://www.nexusmods.com/cyberpunk2077/mods/31640)).
+- Updated TweakXL ([link](https://www.nexusmods.com/cyberpunk2077/mods/4197)).
 
 <a id="126"></a>
 ## Version 1.2.6
