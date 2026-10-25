@@ -16,11 +16,48 @@
 
 | Series | Versions |
 |:-:|:--|
-| **1.2** | [1.2.7](#version-127) · [1.2.6](#version-126) · [1.2.5](#version-125) · [1.2.4](#version-124) · [1.2.3](#version-123) · [1.2.2](#version-122) · [1.2.1](#version-121) · [1.2.0](#version-120) |
+| **1.2** | [1.2.8](#version-128) · [1.2.7](#version-127) · [1.2.6](#version-126) · [1.2.5](#version-125) · [1.2.4](#version-124) · [1.2.3](#version-123) · [1.2.2](#version-122) · [1.2.1](#version-121) · [1.2.0](#version-120) |
 | **1.1** | [1.1.9](#version-119) · [1.1.8](#version-118) · [1.1.7](#version-117) · [1.1.6](#version-116) · [1.1.5](#version-115) · [1.1.4](#version-114) · [1.1.3](#version-113) · [1.1.2](#version-112) · [1.1.1](#version-111) · [1.1.0](#version-110) |
 | **1.0** | [1.0.8](#version-108) · [1.0.7](#version-107) · [1.0.6](#version-106) · [1.0.5](#version-105) · [1.0.4](#version-104) · [1.0.3](#version-103) · [1.0.2](#version-102) · [1.0.1](#version-101) · [1.0.0](#version-100) |
 
 ---
+
+<a id="128"></a>
+## Version 1.2.8
+
+![Save Compatible](https://img.shields.io/badge/Save-Compatible-brightgreen) ![Released](https://img.shields.io/badge/Released-October_25,_2026-lightgrey)
+> Leveling and weapon condition mods removed, car camera fixed.
+
+#### Gameplay
+- Removed Skillful ([link](https://www.nexusmods.com/cyberpunk2077/mods/9309)): removed after players had trouble with leveling. Your attributes, perks and level stay exactly as they are, so you don't need to do anything. If you want to reset your attributes and spend the points again, you can:
+  - Load your save and open the Character menu (out of combat).
+  - Refund all your perks first, so none get stuck behind an attribute.
+  - Hit Reset Attributes and confirm. You get every attribute point back.
+  - Spend your attribute points, then your perk points.
+- Removed Skillful Attributes ([link](https://www.nexusmods.com/cyberpunk2077/mods/9281)): removed along with Skillful.
+- Removed Weapon Conditioning ([link](https://www.nexusmods.com/cyberpunk2077/mods/10479)): removed after players had trouble with weapon wear and repairs. Weapons that already lost a tier stay at that tier; upgrade them at a bench.
+
+#### Driving
+- Updated General Vehicle Fixes ([link](https://www.nexusmods.com/cyberpunk2077/mods/31813)): Delamain and other auto-driving cars no longer bump into walls.
+- Changed: car and bike camera reworked. Cars now use your game's FOV setting instead of the old zoomed-out view, free look and immersive aiming in vehicles are on, and camera shake is realistic for cars and sport for bikes. Already playing? Your old Shift settings stay until you reset them:
+  - Close the game.
+  - In MO2, scroll to the bottom of the mod list, right-click Overwrite and pick Open in Explorer.
+  - Go to bin > x64 > plugins > cyber_engine_tweaks > mods > Shift.
+  - Delete userConfig.json.
+  - Launch the game. Shift now uses the new defaults (redo any Shift changes of your own in its CET window).
+
+#### Visuals
+- Updated Blur Begone ([link](https://www.nexusmods.com/cyberpunk2077/mods/8105)).
+- Updated ReFRACT ([link](https://www.nexusmods.com/cyberpunk2077/mods/34858)).
+
+#### Performance
+- Updated Ultra Plus ([link](https://www.nexusmods.com/cyberpunk2077/mods/10490)).
+
+#### Fixes & QoL
+- Added Map Exit Lighting and HDR Fixes ([link](https://www.nexusmods.com/cyberpunk2077/mods/23420)): fixes the lighting and HDR glitch after you close the map.
+
+#### Framework
+- Updated Mod Configuration Menu ([link](https://www.nexusmods.com/cyberpunk2077/mods/31640)).
 
 <a id="127"></a>
 ## Version 1.2.7
