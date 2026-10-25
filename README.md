@@ -12,6 +12,9 @@
 
 ---
 
+>[!CAUTION]
+>**Requires game version 2.31. Not compatible with update 2.5 yet.** Don't update your game until we update the list. [How to stay on 2.31 or roll back](https://wiki.redmodding.org/cyberpunk-2077-modding/for-mod-users/users-modding-cyberpunk-2077/users-downgrading-preventing-auto-updates) · Updates are posted in our [Discord](https://discord.gg/teNx8uBpXt).
+
 >[!IMPORTANT]
 >Night City Refined requires the **Phantom Liberty** expansion and the free **REDmod** DLC. The list will not install or run without both of them.
 
