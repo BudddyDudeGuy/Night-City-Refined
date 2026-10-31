@@ -16,11 +16,207 @@
 
 | Series | Versions |
 |:-:|:--|
+| **1.3** | [1.3.0](#version-130) |
 | **1.2** | [1.2.8](#version-128) · [1.2.7](#version-127) · [1.2.6](#version-126) · [1.2.5](#version-125) · [1.2.4](#version-124) · [1.2.3](#version-123) · [1.2.2](#version-122) · [1.2.1](#version-121) · [1.2.0](#version-120) |
 | **1.1** | [1.1.9](#version-119) · [1.1.8](#version-118) · [1.1.7](#version-117) · [1.1.6](#version-116) · [1.1.5](#version-115) · [1.1.4](#version-114) · [1.1.3](#version-113) · [1.1.2](#version-112) · [1.1.1](#version-111) · [1.1.0](#version-110) |
 | **1.0** | [1.0.8](#version-108) · [1.0.7](#version-107) · [1.0.6](#version-106) · [1.0.5](#version-105) · [1.0.4](#version-104) · [1.0.3](#version-103) · [1.0.2](#version-102) · [1.0.1](#version-101) · [1.0.0](#version-100) |
 
 ---
+
+<a id="130"></a>
+## Version 1.3.0
+
+![Save Compatible](https://img.shields.io/badge/Save-Compatible-brightgreen) ![Beta](https://img.shields.io/badge/Beta-Test_Build,_Not_The_Official_Release-orange) ![Released](https://img.shields.io/badge/Released-October_30,_2026-lightgrey)
+> BETA test build for Cyberpunk patch 2.5, not the official release. Back up your saves first: saves made on 2.5 will not load on 2.31.
+
+#### Gameplay
+- Removed Black Chrome - Cyberware Expansion ([link](https://www.nexusmods.com/cyberpunk2077/mods/16031)): NCR adds no new cyberware. Your saves load fine, but its cyberware is gone.
+- Removed DLC Liberation Protocol ([link](https://www.nexusmods.com/cyberpunk2077/mods/12322)): replaced by Exclusive Items Unlocker, which works on 2.5. Extra copies from DLC Liberation Protocol disappear.
+- Removed Extra Hands (cyberware) ([link](https://www.nexusmods.com/cyberpunk2077/mods/12325)): goes with Black Chrome. Its hand cyberware is gone from your saves.
+- Removed Intelligence based scanner time dilation ([link](https://www.nexusmods.com/cyberpunk2077/mods/16270)).
+- Added Enhanced Biomonitor ([link](https://www.nexusmods.com/cyberpunk2077/mods/14318)).
+- Added Enhanced Kerenzikov - Vanilla ([link](https://www.nexusmods.com/cyberpunk2077/mods/24146)).
+- Added Enhanced Microgenerator ([link](https://www.nexusmods.com/cyberpunk2077/mods/14353)).
+- Added Exclusive Items Unlocker ([link](https://www.nexusmods.com/cyberpunk2077/mods/24025)).
+- Added Iconic Boar Carver ([link](https://www.nexusmods.com/cyberpunk2077/mods/36413)).
+- Added La Chingona Dorada Crit Damage ([link](https://www.nexusmods.com/cyberpunk2077/mods/13746)).
+- Added Sandevistan Fire Rate Restored ([link](https://www.nexusmods.com/cyberpunk2077/mods/25489)).
+- Added Time Dilation Overhaul ([link](https://www.nexusmods.com/cyberpunk2077/mods/4931)).
+- Updated Crafting Cost Rebalance ([link](https://www.nexusmods.com/cyberpunk2077/mods/34805)).
+- Updated Enhanced Craft ([link](https://www.nexusmods.com/cyberpunk2077/mods/4378)).
+- Updated Game v2.0 patch - No Forced Weapon On Carrying Bodies ([link](https://www.nexusmods.com/cyberpunk2077/mods/9223)).
+- Updated Keep Drawing The Line (ricochet preview) ([link](https://www.nexusmods.com/cyberpunk2077/mods/7198)).
+- Updated Kiroshi Optics Night Vision Mod ([link](https://www.nexusmods.com/cyberpunk2077/mods/8326)).
+- Updated Melee Attack Variety ([link](https://www.nexusmods.com/cyberpunk2077/mods/32817)).
+- Updated Much Better AI ([link](https://www.nexusmods.com/cyberpunk2077/mods/31402)).
+- Updated Much Better Netrunning ([link](https://www.nexusmods.com/cyberpunk2077/mods/27237)).
+- Updated Not as much Faster Vehicle Knockback Animation ([link](https://www.nexusmods.com/cyberpunk2077/mods/5431)).
+- Updated Optical Camo Realism and Utility - Camo Partial CD ([link](https://www.nexusmods.com/cyberpunk2077/mods/15308)).
+- Updated Optical Camo Realism and Utility - Camo Realism ([link](https://www.nexusmods.com/cyberpunk2077/mods/15308)).
+- Updated Set Bonuses ([link](https://www.nexusmods.com/cyberpunk2077/mods/8103)).
+- Updated Slaught-O-Matic QoL ([link](https://www.nexusmods.com/cyberpunk2077/mods/14125)).
+- Updated Stealthrunner - Stealth Gameplay Expansion ([link](https://www.nexusmods.com/cyberpunk2077/mods/7616)).
+- Updated UnequipMods - Remove Weapon ([link](https://www.nexusmods.com/cyberpunk2077/mods/31701)).
+
+#### Immersion
+- Added Crowd Voice Unlocked ([link](https://www.nexusmods.com/cyberpunk2077/mods/36527)).
+- Added Japantown Apartment Balcony ([link](https://www.nexusmods.com/cyberpunk2077/mods/29466)).
+- Added Japantown Balcony Screen Remove ([link](https://www.nexusmods.com/cyberpunk2077/mods/29466)).
+- Added Japantown Holographic Ad Remover ([link](https://www.nexusmods.com/cyberpunk2077/mods/19513)).
+- Updated Apartment Toys ([link](https://www.nexusmods.com/cyberpunk2077/mods/26674)).
+- Updated Dark Future - Urban Survival Gameplay ([link](https://www.nexusmods.com/cyberpunk2077/mods/16300)).
+- Updated Dark Future mod features ([link](https://www.nexusmods.com/cyberpunk2077/mods/11077)).
+- Updated H10 Megabuilding Unlocked ([link](https://www.nexusmods.com/cyberpunk2077/mods/12681)).
+- Updated HD pack - Lizzies Braindance ([link](https://www.nexusmods.com/cyberpunk2077/mods/11077)).
+- Updated Immersive Rippers ([link](https://www.nexusmods.com/cyberpunk2077/mods/7064)).
+- Updated Immersive Rippers - Dogtown ([link](https://www.nexusmods.com/cyberpunk2077/mods/10255)).
+- Updated Immersive Timeskip ([link](https://www.nexusmods.com/cyberpunk2077/mods/5115)).
+- Updated Improved Aldecaldos Camp ([link](https://www.nexusmods.com/cyberpunk2077/mods/13821)).
+- Updated Japantown Apartment View Enhanced ([link](https://www.nexusmods.com/cyberpunk2077/mods/19491)).
+- Updated Judy Romance Messages Mod ([link](https://www.nexusmods.com/cyberpunk2077/mods/4465)).
+- Updated Kabuki Gun Range Enhanced ([link](https://www.nexusmods.com/cyberpunk2077/mods/13466)).
+- Updated Lizzie's Braindance - Only Lizzie's Staff ([link](https://www.nexusmods.com/cyberpunk2077/mods/11077)).
+- Updated Lizzie's Braindances ([link](https://www.nexusmods.com/cyberpunk2077/mods/11077)).
+- Updated Lizzie's Braindances - Native Interactions Framework Compatability ([link](https://www.nexusmods.com/cyberpunk2077/mods/11077)).
+- Updated NCI Addon - Badlands and Pacifica ([link](https://www.nexusmods.com/cyberpunk2077/mods/15138)).
+- Updated Night City Interactions - Core ([link](https://www.nexusmods.com/cyberpunk2077/mods/5519)).
+- Updated Panam Romanced Enhanced ([link](https://www.nexusmods.com/cyberpunk2077/mods/4626)).
+- Updated Post-Romance Delivery System (Judy) ([link](https://www.nexusmods.com/cyberpunk2077/mods/21496)).
+- Updated Post-Romance Delivery System (Kerry) ([link](https://www.nexusmods.com/cyberpunk2077/mods/21420)).
+- Updated Post-Romance Delivery System (Meredith) ([link](https://www.nexusmods.com/cyberpunk2077/mods/23242)).
+- Updated Post-Romance Delivery System (Panam) ([link](https://www.nexusmods.com/cyberpunk2077/mods/21689)).
+- Updated Post-Romance Delivery System (River) ([link](https://www.nexusmods.com/cyberpunk2077/mods/21449)).
+- Updated River Romanced Enhanced ([link](https://www.nexusmods.com/cyberpunk2077/mods/4870)).
+- Updated Say Something Damn It ([link](https://www.nexusmods.com/cyberpunk2077/mods/22228)).
+- Updated V For Vibrant ([link](https://www.nexusmods.com/cyberpunk2077/mods/30658)).
+
+#### Quests & Story
+- Updated Immersion Extension - Reed's Train Ambush - Echoes of the Past ([link](https://www.nexusmods.com/cyberpunk2077/mods/34502)).
+- Updated New Quest - Encore ([link](https://www.nexusmods.com/cyberpunk2077/mods/8413)).
+- Updated New Quest - One More Light ([link](https://www.nexusmods.com/cyberpunk2077/mods/7834)).
+
+#### Driving
+- Added Enhanceed Car Physics ([link](https://www.nexusmods.com/cyberpunk2077/mods/14454)).
+- Updated General Vehicle Fixes ([link](https://www.nexusmods.com/cyberpunk2077/mods/31813)).
+- Updated Shift (Dynamic Vehicle and Weapon Camera with Presets) ([link](https://www.nexusmods.com/cyberpunk2077/mods/22340)).
+
+#### Vehicles
+- Added Curbside ([link](https://www.nexusmods.com/cyberpunk2077/mods/35922)).
+- Updated Auto Drive Enhanced ([link](https://www.nexusmods.com/cyberpunk2077/mods/23157)).
+- Updated Delamain No. 22 ([link](https://www.nexusmods.com/cyberpunk2077/mods/14405)).
+- Updated Night City Traffic Overhaul ([link](https://www.nexusmods.com/cyberpunk2077/mods/25552)).
+- Updated Parking Spots Enhanced ([link](https://www.nexusmods.com/cyberpunk2077/mods/15708)).
+
+#### HUD & UI
+- Removed No Intro Videos ([link](https://www.nexusmods.com/cyberpunk2077/mods/533)).
+- Added Load Begone ([link](https://www.nexusmods.com/cyberpunk2077/mods/8144)).
+- Added Modded Save Loading Screen Fix ([link](https://www.nexusmods.com/cyberpunk2077/mods/35867)).
+- Added Weapon Skin Icons ([link](https://www.nexusmods.com/cyberpunk2077/mods/35480)).
+- Updated Cleaner Main Menu and Pause Menu ([link](https://www.nexusmods.com/cyberpunk2077/mods/10285)).
+- Updated Custom Quickslots ([link](https://www.nexusmods.com/cyberpunk2077/mods/3096)).
+- Updated Filter Saves by Lifepath and Type ([link](https://www.nexusmods.com/cyberpunk2077/mods/3400)).
+- Updated Immersive Main Menu Audio ([link](https://www.nexusmods.com/cyberpunk2077/mods/22695)).
+- Updated Inventory Free View ([link](https://www.nexusmods.com/cyberpunk2077/mods/32542)).
+- Updated Limited HUD ([link](https://www.nexusmods.com/cyberpunk2077/mods/2592)).
+- Updated Loot Icons Extension Light ([link](https://www.nexusmods.com/cyberpunk2077/mods/16386)).
+- Updated Named Saves ([link](https://www.nexusmods.com/cyberpunk2077/mods/4521)).
+- Updated Native Settings UI Side Menu Add-on ([link](https://www.nexusmods.com/cyberpunk2077/mods/16218)).
+- Updated Quickhack Loadouts ([link](https://www.nexusmods.com/cyberpunk2077/mods/11682)).
+- Updated Revised Backpack ([link](https://www.nexusmods.com/cyberpunk2077/mods/17642)).
+- Updated Stand Still Please ([link](https://www.nexusmods.com/cyberpunk2077/mods/4714)).
+
+#### Visuals
+- Updated Always Best Quality _ Ads - Map - Hud - Photo Mode - Vending Machines and more ([link](https://www.nexusmods.com/cyberpunk2077/mods/12700)).
+- Updated Better Sleeves ([link](https://www.nexusmods.com/cyberpunk2077/mods/10319)).
+- Updated Blur Begone (Clear Materials with Refraction) ([link](https://www.nexusmods.com/cyberpunk2077/mods/8105)).
+- Updated Clear Windows - Cars Edition ([link](https://www.nexusmods.com/cyberpunk2077/mods/13529)).
+- Updated Clear Windows - Little Smearing ([link](https://www.nexusmods.com/cyberpunk2077/mods/13497)).
+- Updated Crowd Props Restored ([link](https://www.nexusmods.com/cyberpunk2077/mods/35285)).
+- Updated Crowd Variety Restored ([link](https://www.nexusmods.com/cyberpunk2077/mods/34908)).
+- Updated Equipment-EX ([link](https://www.nexusmods.com/cyberpunk2077/mods/6945)).
+- Updated Improved Vehicle Lights Draw Distance ([link](https://www.nexusmods.com/cyberpunk2077/mods/5082)).
+- Updated LUT Switcher 3 - Core ([link](https://www.nexusmods.com/cyberpunk2077/mods/16310)).
+- Updated NPCs Enhancement - Hyst Bodies ([link](https://www.nexusmods.com/cyberpunk2077/mods/9887)).
+- Updated RT Contact Shadow Fix ([link](https://www.nexusmods.com/cyberpunk2077/mods/35156)).
+- Updated ReFRACT ([link](https://www.nexusmods.com/cyberpunk2077/mods/34858)).
+- Updated The Nullifier ([link](https://www.nexusmods.com/cyberpunk2077/mods/23091)).
+
+#### Performance
+- Added Ultra Plus Underware ([link](https://www.nexusmods.com/cyberpunk2077/mods/10490)).
+- Updated Ultra Plus Best Performance and Visuals for Everyone ([link](https://www.nexusmods.com/cyberpunk2077/mods/10490)).
+
+#### Fixes & QoL
+- Added Chimera Melee Mod Fix ([link](https://www.nexusmods.com/cyberpunk2077/mods/36420)).
+- Added Orbital Air Traffic Enhanced ([link](https://www.nexusmods.com/cyberpunk2077/mods/31355)).
+- Added Sandevistan Preemptive End Fix ([link](https://www.nexusmods.com/cyberpunk2077/mods/29636)).
+- Added Trash Removal Clouds ([link](https://www.nexusmods.com/cyberpunk2077/mods/26313)).
+- Updated Advanced Crash Reporter ([link](https://www.nexusmods.com/cyberpunk2077/mods/34403)).
+- Updated Apartment Bench Arm Fix ([link](https://www.nexusmods.com/cyberpunk2077/mods/12611)).
+- Updated Better Quality Sort V2 ([link](https://www.nexusmods.com/cyberpunk2077/mods/20267)).
+- Updated Bolt Shot FX Reset Fix ([link](https://www.nexusmods.com/cyberpunk2077/mods/19036)).
+- Updated Dash Fix ([link](https://www.nexusmods.com/cyberpunk2077/mods/16272)).
+- Updated Database Fixes ([link](https://www.nexusmods.com/cyberpunk2077/mods/10636)).
+- Updated Decals Flickering Fix ([link](https://www.nexusmods.com/cyberpunk2077/mods/16579)).
+- Updated Deceptious Bug Fixes ([link](https://www.nexusmods.com/cyberpunk2077/mods/18318)).
+- Updated Easier Controller Sprint ([link](https://www.nexusmods.com/cyberpunk2077/mods/26610)).
+- Updated Immersion Patch - Cyberpunk Story Quest Fixes ([link](https://www.nexusmods.com/cyberpunk2077/mods/29152)).
+- Updated Immersive Night City Fixes ([link](https://www.nexusmods.com/cyberpunk2077/mods/20588)).
+- Updated Loud Noises Fix - Audio Pool Fix ([link](https://www.nexusmods.com/cyberpunk2077/mods/34270)).
+- Updated Mark To Sell ([link](https://www.nexusmods.com/cyberpunk2077/mods/4725)).
+- Updated Misc NC Fixes ([link](https://www.nexusmods.com/cyberpunk2077/mods/28073)).
+- Updated QuestTriggerFixes - Compatibility ([link](https://www.nexusmods.com/cyberpunk2077/mods/17980)).
+- Updated Second Heart Fix ([link](https://www.nexusmods.com/cyberpunk2077/mods/11100)).
+- Updated Sound SFX Fixes ([link](https://www.nexusmods.com/cyberpunk2077/mods/20963)).
+- Updated Time Skip Wheel Fix ([link](https://www.nexusmods.com/cyberpunk2077/mods/35559)).
+- Updated Untrack Quest Ultimate - No Main Quest re-tracking - No leftovers ([link](https://www.nexusmods.com/cyberpunk2077/mods/6328)).
+
+#### Framework
+- Updated ArchiveXL ([link](https://www.nexusmods.com/cyberpunk2077/mods/4198)).
+- Updated AudioXL ([link](https://www.nexusmods.com/cyberpunk2077/mods/33442)).
+- Updated Audioware ([link](https://www.nexusmods.com/cyberpunk2077/mods/12001)).
+- Updated Codeware ([link](https://www.nexusmods.com/cyberpunk2077/mods/7780)).
+- Updated Cyber Engine Tweaks ([link](https://www.nexusmods.com/cyberpunk2077/mods/107)).
+- Updated Deceptious Quest Core ([link](https://www.nexusmods.com/cyberpunk2077/mods/7831)).
+- Updated DigitalVixen Core ([link](https://www.nexusmods.com/cyberpunk2077/mods/28390)).
+- Updated GetTenSO CORE ([link](https://www.nexusmods.com/cyberpunk2077/mods/35521)).
+- Updated Immersive Night City Fixes - CORE ([link](https://www.nexusmods.com/cyberpunk2077/mods/27040)).
+- Updated Input Loader ([link](https://www.nexusmods.com/cyberpunk2077/mods/4575)).
+- Updated Material and Texture Override (Crashes Resolved) ([link](https://www.nexusmods.com/cyberpunk2077/mods/25246)).
+- Updated Mod Configuration Menu ([link](https://www.nexusmods.com/cyberpunk2077/mods/31640)).
+- Updated Mod Settings ([link](https://www.nexusmods.com/cyberpunk2077/mods/4885)).
+- Updated Native Interactions Framework ([link](https://www.nexusmods.com/cyberpunk2077/mods/21422)).
+- Updated Native Settings UI ([link](https://www.nexusmods.com/cyberpunk2077/mods/3518)).
+- Updated PhotoMode-EX ([link](https://www.nexusmods.com/cyberpunk2077/mods/18839)).
+- Updated RED4ext ([link](https://www.nexusmods.com/cyberpunk2077/mods/2380)).
+- Updated ReImagined ([link](https://www.nexusmods.com/cyberpunk2077/mods/25845)).
+- Updated RedData ([link](https://www.nexusmods.com/cyberpunk2077/mods/14139)).
+- Updated RedFileSystem ([link](https://www.nexusmods.com/cyberpunk2077/mods/13378)).
+- Updated RedFunctions ([link](https://www.nexusmods.com/cyberpunk2077/mods/32312)).
+- Updated RedLogger ([link](https://www.nexusmods.com/cyberpunk2077/mods/31920)).
+- Updated Redscript Configuration Framework ([link](https://www.nexusmods.com/cyberpunk2077/mods/30726)).
+- Updated TweakXL ([link](https://www.nexusmods.com/cyberpunk2077/mods/4197)).
+- Updated V Voice Framework ([link](https://www.nexusmods.com/cyberpunk2077/mods/30646)).
+- Updated Window Utils ([link](https://www.nexusmods.com/cyberpunk2077/mods/26589)).
+- Updated redscript ([link](https://www.nexusmods.com/cyberpunk2077/mods/1511)).
+- Every framework and 100+ mods updated for patch 2.5.
+
+#### Optional
+- Added Mixed Input Fix ([link](https://www.nexusmods.com/cyberpunk2077/mods/31759)).
+- Added Mixed Input Fix - Menu Keys ([link](https://www.nexusmods.com/cyberpunk2077/mods/31759)).
+- Updated Quickhack Hotkeys ([link](https://www.nexusmods.com/cyberpunk2077/mods/7238)).
+
+#### Waiting for 2.5
+- NCPD Prevention: back once its full 2.5 version is out (only a cut-down build exists now).
+- General Shadows Fixes: off until it's updated for 2.5.
+- Better UI Character Lighting - Portrait Edition: off until it's updated for 2.5.
+- Map Search: off until it's updated for 2.5.
+- Map Waypoint Bug Fixes: off until it's updated for 2.5.
+- Radioport Fixes: off until it's updated for 2.5.
+- Roller Coaster Enhanced: off until it's updated for 2.5.
+- Ugly Building Removed (E3): off until it's updated for 2.5.
+- NCPD Uniform 2.0: off until it's updated for 2.5.
+- Disable Fake Lights with Path Tracing: off until it's updated for 2.5.
+- Skillful, Skillful Attributes and Weapon Conditioning: still out until they have 2.5 versions.
 
 <a id="128"></a>
 ## Version 1.2.8
