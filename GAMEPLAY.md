@@ -25,12 +25,9 @@
   - [Enemies](#enemies)
   - [Breaching and Quickhacks](#breaching-and-quickhacks)
   - [Stealth](#stealth)
-- [Leveling and Progression](#leveling-and-progression)
-  - [Perks](#perks)
 - [New and Notable Mechanics](#new-and-notable-mechanics)
   - [Survival Needs](#survival-needs)
   - [Combat Drugs and Toxicity](#combat-drugs-and-toxicity)
-  - [Weapon Condition and Jamming](#weapon-condition-and-jamming)
 - [Quests and Street Cred](#quests-and-street-cred)
   - [Quest Changes](#quest-changes)
   - [Street Cred and Locked Areas](#street-cred-and-locked-areas)
@@ -39,7 +36,6 @@
   - [Ripperdocs](#ripperdocs)
   - [Hanging Out and Romance](#hanging-out-and-romance)
   - [New Quests](#new-quests)
-- [Police](#police)
 
 # Initial Setup
 
@@ -55,21 +51,6 @@ Almost every mod in this list has settings you can change in game. Open the paus
 
 This list plays very differently from the base game. These are the things that catch new players out. Each one links to the section that explains it.
 
->[!WARNING]
->**Spend all of your attribute points in character creation.** Whatever you put into each attribute there becomes its permanent starting value. Points you leave unspent are lost for good. See [Changes to Leveling](#leveling-and-progression).
-
-### Your Character
-
- - **You can't level up attributes from the menu.** In the base game you get attribute points when you level up and put them wherever you want. In this list those points are turned off. Instead, each attribute goes up on its own as you use the skill tied to it:
-   - Shotguns, LMGs, blunt weapons and fists raise **Body**.
-   - Assault rifles, SMGs, blades, running and dodging raise **Reflexes**.
-   - Pistols, revolvers, precision rifles, headshots and stealth raise **Cool**.
-   - Quickhacks and smart weapons raise **Intelligence**.
-   - Crafting, tech weapons and grenades raise **Technical Ability**.
-
-   So if an attribute won't go up, use the weapons and play style tied to it. See [Changes to Leveling](#leveling-and-progression).
- - **Leveling up still gives you perk points, just not attribute points.** Spend them in the perk trees like normal. Each perk tree belongs to one attribute, so if a perk is locked, raise that attribute by using its skill. Points you can't spend yet are saved. See [Perks](#perks).
-
 ### Staying Alive
 
  - **You need to eat, drink and sleep.** If you ignore it, you get weaker. See [Survival Needs](#survival-needs).
@@ -79,7 +60,6 @@ This list plays very differently from the base game. These are the things that c
 ### Combat
 
  - **Enemies hit you when you stand in the open.** Use cover, keep moving sideways, and don't rush across open ground. See [Enemies](#enemies).
- - **Your guns wear out.** Repair them at the crafting bench before they drop a tier and start jamming. See [Weapon Condition and Jamming](#weapon-condition-and-jamming).
  - **Quickhacks are locked on anything connected to a network until you breach it.** Enemy hideouts and guarded areas are usually on a network. Civilians, police, and anything far from an access point can be hacked straight away. See [Breaching and Quickhacks](#breaching-and-quickhacks).
 
 ### The World
@@ -106,11 +86,8 @@ Before reading on, you can look over the full [load order](https://loadorderlibr
  - [Enemy Rarity Fixes Improved](https://www.nexusmods.com/cyberpunk2077/mods/30958) makes an enemy's strength match what they look like, and stops them scaling with your level. Read more [here](#enemies).
  - [Much Better Netrunning](https://www.nexusmods.com/cyberpunk2077/mods/27237) locks quickhacks on networked enemies and devices until you breach the network. Read more [here](#breaching-and-quickhacks).
  - [Stealthrunner](https://www.nexusmods.com/cyberpunk2077/mods/7616) adds stealth objectives and rewards to almost every mission. Read more [here](#stealth).
- - [Skillful](https://www.nexusmods.com/cyberpunk2077/mods/9309) and [Skillful Attributes](https://www.nexusmods.com/cyberpunk2077/mods/9281) make your attributes grow from how you play. Read more [here](#leveling-and-progression).
  - [Dark Future](https://www.nexusmods.com/cyberpunk2077/mods/16300) adds hunger, thirst, sleep, Nerve and addiction. Read more [here](#survival-needs).
  - [SynthDose](https://www.nexusmods.com/cyberpunk2077/mods/14094) adds combat drugs with a toxicity limit. Read more [here](#combat-drugs-and-toxicity).
- - [Weapon Conditioning](https://www.nexusmods.com/cyberpunk2077/mods/10479) makes guns wear out, jam and drop a tier if you don't repair them. Read more [here](#weapon-condition-and-jamming).
- - [NCPD Prevention Police Enhancement](https://www.nexusmods.com/cyberpunk2077/mods/9863) changes how the police chase you and who shows up in each district. Read more [here](#police).
  - [Economy Punk](https://www.nexusmods.com/cyberpunk2077/mods/16952) reprices the whole game so money stays tight.
  - [Take a Breather](https://www.nexusmods.com/cyberpunk2077/mods/23290) locks stores, clubs, gigs and apartments behind Street Cred, so the city opens up as you make a name for yourself. Read more [here](#street-cred-and-locked-areas).
  - [Live A Little](https://www.nexusmods.com/cyberpunk2077/mods/13271) spaces out the story and raises the early story money. Read more [here](#quest-changes).
@@ -184,7 +161,6 @@ Androids have 1.5x health, security turrets 1.2x, mechs 1.25x and small drones 2
    - You unlock them by winning the breach minigame. The daemons you upload decide which parts open.
    - Ping, Whistle, Distract and all covert quickhacks work without a breach.
  - **Not everyone can trace you.** [Trace Position Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/12445) means not every enemy can trace you when you hack them. Netrunners can, and they protect their whole squad. Some higher rarity and robotic enemies can too. Regular gangers can't.
- - **Scanner slow motion depends on Intelligence.** [Intelligence based scanner time dilation](https://www.nexusmods.com/cyberpunk2077/mods/16270) makes the scanner's slow motion depend on your Intelligence. With low Intelligence, time barely slows down.
 
 <Details>
 <summary>Ways to Breach a Network</summary>
@@ -223,16 +199,6 @@ Enemy netrunners can start a Cold War against you.
 <br>
 
 With level 3 of the Overclock perk, press `T` while scanning to force open one part of the network for 20 seconds. After that it locks again, and your cyberdeck is disabled for 2 minutes.
-
-</Details>
-
-<Details>
-<summary>Scanner Slow Motion by Intelligence</summary>
-<br>
-
-| Intelligence | 1 to 3 | 4 to 8 | 9 to 14 | 15 to 19 | 20 |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Time speed while scanning** | 99% (almost none) | 70% | 50% | 25% | 3% (base game) |
 
 </Details>
 
@@ -294,122 +260,6 @@ These perks cost your normal perk points.
 | **Audio Disruption** | 15 No-Touch | Quieter footsteps and silent landings |
 | **Energy Shield** | 20 Pacifist | When a fight starts, the next few hits deal half damage |
 | **Code Injection** | 20 Shadow | A takedown on a tagged enemy can spread to another tagged enemy nearby |
-
-</Details>
-
-<p align="right"><a href="#top">Back to top</a></p>
-
----
-
-# Leveling and Progression
-
-Night City Refined uses [Skillful](https://www.nexusmods.com/cyberpunk2077/mods/9309) and [Skillful Attributes](https://www.nexusmods.com/cyberpunk2077/mods/9281). With these mods, your attributes go up based on how you play.
-
- - You don't get attribute points when you level up, and you don't choose where they go.
- - Each attribute is tied to one skill. When you use that skill, the attribute goes up on its own.
- - For example, fighting with shotguns levels up the Solo skill, and Solo raises Body.
- - You can see your skill levels in the Attributes screen. Click `Skill Progression` in the bottom right corner.
-
-The tables and dropdowns below show how it works.
-
-| Skill | Raises |
-|:---:|:---:|
-| **Solo** | Body |
-| **Shinobi** | Reflexes |
-| **Headhunter** | Cool |
-| **Netrunner** | Intelligence |
-| **Engineer** | Technical Ability |
-
->[!WARNING]
->**Spend all of your attribute points in character creation.** What you put into each attribute there becomes its permanent starting value, and you level up from there as you play. Unspent points are lost for good, because the normal attribute points are turned off. Put them into whatever fits the V you want to play.
-
-<Details>
-<summary>What Levels Up Each Skill</summary>
-<br>
-
-**Solo (Body)**
- - Killing enemies with shotguns, LMGs, hammers, clubs, your fists and Gorilla Arms
-
-**Shinobi (Reflexes)**
- - Killing enemies with assault rifles, SMGs, katanas, machetes, chainswords and Mantis Blades
- - Running, jumping, climbing, dodging and dashing
-
-**Headhunter (Cool)**
- - Killing enemies with pistols, revolvers, precision rifles, knives and axes
- - Headshots with any weapon
- - Kills with silenced weapons, and takedowns
- - Completing Stealthrunner objectives
-
-**Netrunner (Intelligence)**
- - Using quickhacks on enemies and objects. Killing an enemy with a quickhack is worth more
- - Jacking into access points
- - Killing enemies while locked on with a smart weapon
-
-**Engineer (Technical Ability)**
- - Crafting and disassembling items
- - Killing enemies with charged tech weapons, grenades and the Projectile Launch System
- - Using the Overload quickhack
- - Doing elemental damage and damage over time, like burning, shock and poison
-
-</Details>
-
-<Details>
-<summary>Skill Rank Needed for Each Attribute Level</summary>
-<br>
-
-Attributes rise fast early on and slow down near the top. This table shows the skill rank you need to reach each attribute level, based on where the attribute started in character creation.
-
-| Attribute level | Started at 3 | Started at 4 | Started at 5 | Started at 6 |
-|:---:|:---:|:---:|:---:|:---:|
-| **4** | Rank 3 | Start | Start | Start |
-| **6** | Rank 8 | Rank 6 | Rank 3 | Start |
-| **9** | Rank 16 | Rank 14 | Rank 12 | Rank 9 |
-| **12** | Rank 25 | Rank 23 | Rank 21 | Rank 19 |
-| **15** | Rank 35 | Rank 34 | Rank 32 | Rank 31 |
-| **18** | Rank 48 | Rank 48 | Rank 47 | Rank 46 |
-| **19** | Rank 54 | Rank 53 | Rank 53 | Rank 52 |
-| **20** | Rank 60 | Rank 60 | Rank 60 | Rank 60 |
-
->[!NOTE]
->When a skill hits rank 60, its attribute stops at 19 and you get an unspent attribute point instead. Open the Attributes screen and click the point into that attribute to reach 20.
-
-</Details>
-
-<Details>
-<summary>XP Speed Compared to the Base Game</summary>
-<br>
-
-Skill XP comes in fast at low ranks and slows down as the skill gets higher. Character level is the same speed as the base game. Street Cred is a little slower, at 80%.
-
-| Skill | Rank 1 | Rank 20 | Rank 40 | Rank 59 |
-|:---|:---:|:---:|:---:|:---:|
-| **Solo** | 218% | 179% | 139% | 100% |
-| **Engineer** | 188% | 159% | 129% | 100% |
-| **Shinobi** | 178% | 146% | 112% | 80% |
-| **Netrunner** | 168% | 139% | 109% | 80% |
-| **Headhunter** | 80% | 80% | 80% | 80% |
-
-</Details>
-
-## Perks
-
- - **You still get perk points.** Every time you level up you get a perk point, the same as the base game. You just don't get an attribute point anymore.
- - **Spend them like normal.** Perks work the same as the base game. Each perk tree belongs to one attribute, and the stronger perks need that attribute higher. The game shows what each perk needs.
- - **If a perk is locked, raise its attribute.** Use the skill tied to that attribute and the attribute goes up on its own.
- - **Points you can't spend yet are saved** until you can use them.
-
-<Details>
-<summary>Where Perk Points Come From</summary>
-<br>
-
-| Source | Perk points |
-|:---|:---|
-| **Character level** | 1 every level, the same as the base game |
-| **Skill ranks** | 1 each time a skill reaches rank 20, 40 and 60. That's 15 in total if all five skills are maxed |
-| **Stealthrunner** | 1 for each reward level, up to 30. See [Stealth](#stealth) |
-| **Missing Persons** | 1 for finishing the whole quest line |
-
-Stealthrunner's own stealth perks cost normal perk points. Buying all of them costs 21.
 
 </Details>
 
@@ -665,73 +515,6 @@ The **Detoxifier** cyberware turns half of your toxicity into health.
 
 </Details>
 
-## Weapon Condition and Jamming
-
-[Weapon Conditioning](https://www.nexusmods.com/cyberpunk2077/mods/10479) gives every weapon a **Condition** bar from 0 to 100.
-
->[!TIP]
->**In short:** repair your guns at the crafting bench with `Maintain` before they drop a tier. A gun starts to jam once it has lost 80 condition since its last repair.
-
- - Condition goes down every time you shoot or swing, hit or miss. Explosions that hit you also damage the gun in your hands.
- - As condition drops, the gun gets closer to jamming and does a little less damage.
- - When condition hits 0, the gun **drops one tier**. For example, a Tier 5 gun becomes Tier 4+. Iconic weapons can drop too.
- - Melee weapons never jam, but they still lose condition and can drop a tier.
- - **Repair** your weapons at the crafting bench, on the same screen you upgrade on. The button says `Maintain`. Repairing sets condition back to 100.
- - **Tougher enemies drop better guns.** The tier of a gun an enemy drops depends on how tough that enemy is, not on your level. Street gangers drop Tier 1 and 2 guns for the whole game. Rare enemies drop Tier 3, and Elites and bosses drop Tier 4. The very best guns come from crafting and iconics.
-
-<Details>
-<summary>Jamming Stages</summary>
-<br>
-
-Jamming depends on how much condition the gun has lost since you last repaired or upgraded it. The chance is rolled on every shot, so fully automatic guns jam more often.
-
-| Condition lost since last repair | Jam chance per shot | Extra |
-|:---:|:---:|:---|
-| 0 to 80 | None | |
-| 80 to 100 | 3% | Repair now. This is your warning |
-| 100 to 125 | 4% | The gun has dropped a tier |
-| 125 to 155 | 8% | |
-| 155 to 180 | 18% | Jams can hurt you |
-| 180 to 199 | 25% | Jams hurt you more |
-| 199 and up | 45% | Jams hurt you the most |
-
-If you repair while you are in the 3% warning stage, the gun never drops a tier.
-
-</Details>
-
-<Details>
-<summary>Grey Tier 1 Guns</summary>
-<br>
-
-Plain grey Tier 1 guns are junk on purpose. They always have a chance to jam, even right after a repair. The mod author's idea is that "common tier weapons actually feel common".
-
-A repaired grey Tier 1 gun shows **50** condition in your inventory. It is really at full condition. That's just how the mod displays it for grey Tier 1 guns.
-
-</Details>
-
-<Details>
-<summary>Repair Costs</summary>
-<br>
-
-Repairing costs crafting components from one tier below the gun. For example, a Legendary gun is repaired with Epic components. The more condition the gun has lost, the more it costs.
-
-</Details>
-
-<Details>
-<summary>Condition of Weapons You Find</summary>
-<br>
-
-| Where the gun came from | Condition |
-|:---|:---:|
-| Dropped by an enemy | 25 to 95. About 1 in 7 is a lemon that already jams |
-| Crafted | 90 to 100 |
-| Bought from a vendor | 80 to 100 |
-| Found in the world | 43 to 90 |
-
-Enemies you take down with stealth takedowns never drop lemons.
-
-</Details>
-
 <p align="right"><a href="#top">Back to top</a></p>
 
 ---
@@ -950,17 +733,5 @@ Time with your partner, showers, dancing and braindances all restore Nerve. Goin
 | [One More Light](https://www.nexusmods.com/cyberpunk2077/mods/7834) | Visit Jackie's niche at the columbarium. Needs you to have gone to Jackie's ofrenda |
 
 The four romance and Jackie quests start after you visit V's Megabuilding H10 apartment. They show up as a text from the character.
-
-<p align="right"><a href="#top">Back to top</a></p>
-
----
-
-# Police
-
- - **Police work differently.** [NCPD Prevention Police Enhancement](https://www.nexusmods.com/cyberpunk2077/mods/9863) changes how the police chase you.
-   - After the police lose sight of you, your stars clear in about 2.5 minutes at 1 star, up to about 4.5 minutes at 5 stars. If they spot you again, the timer starts over.
-   - Sleeping at your apartment clears your stars faster (except at Megabuilding H10). Elevators and the metro still work while you're wanted. Dogtown is a safe place to escape to.
-   - Shooting at police gets you 2 stars fast. Punching them adds much less.
-   - Each district sends different people after you. Northside sends heavily armored cops. Arroyo sends Kang Tao. Japantown sends Tyger Claws. In the Badlands, Militech and drones show up from 2 stars. Pacifica has no police until 3 stars.
 
 <p align="right"><a href="#top">Back to top</a></p>
