@@ -16,7 +16,7 @@
 >**Now available on the latest game update, 2.5.** Back up your saves first: saves made on 2.5 will not load on 2.31. [What's new](https://github.com/BudddyDudeGuy/Night-City-Refined/blob/main/Changelog.md#130) · Updates are posted in our [Discord](https://discord.gg/teNx8uBpXt).
 
 >[!IMPORTANT]
->Night City Refined requires the **Phantom Liberty** expansion and the free **REDmod** DLC. The list will not install or run without both of them.
+>Night City Refined requires the **Phantom Liberty** expansion. The list will not install or run without it.
 
 >[!WARNING]
 >Read this ReadMe in full before installing. Nearly every failed install and broken first launch comes down to a step that was skipped.
@@ -29,7 +29,6 @@
   - [System Requirements](#system-requirements)
 - [Installation](#installation)
   - [Pre-Installation](#pre-installation-do-this-for-a-brand-new-clean-install)
-    - [Installing REDmod](#installing-redmod)
     - [Clean Install](#clean-install)
     - [If You Have Modded the Game Before](#if-you-have-modded-the-game-before)
     - [Pagefile and Crash Prevention](#pagefile-and-crash-prevention)
@@ -81,10 +80,6 @@ Installing Night City Refined is easy and, if you have Nexus Premium, mostly a w
 
 >[!IMPORTANT]
 >**Support is only given on Windows 11.** The list is built and tested on Windows 11, and that is the only system we can troubleshoot properly. If you are on Windows 10, Linux, Steam Deck, or anything else, the list may still work and we will try to help, but those reports are not a priority.
-
-### Installing REDmod
-
-REDmod is a free DLC and the list will not work without it. On Steam, open the DLC page for Cyberpunk 2077 and download it from there. The process is the same on the other storefronts.
 
 ### Clean Install
 
@@ -216,7 +211,7 @@ This is almost always a hiccup on Nexus's end or with your connection, not a pro
 <Details>
 <summary>Wabbajack couldn't find my game folder!</summary>
 
-Make sure you own a legal copy of Cyberpunk 2077 with Phantom Liberty and REDmod installed, and that you have launched the game at least once. Then re-read the [Pre-Installation](#pre-installation-do-this-for-a-brand-new-clean-install) section.
+Make sure you own a legal copy of Cyberpunk 2077 with Phantom Liberty installed, and that you have launched the game at least once. Then re-read the [Pre-Installation](#pre-installation-do-this-for-a-brand-new-clean-install) section.
 
 </Details>
 
@@ -285,8 +280,7 @@ Cyberpunk 2077 always has to be launched through Mod Organizer 2. Launching the 
 >If you want a desktop shortcut, make it from the dropdown menu under the `RUN` button in MO2 rather than from the game executable.
 
 <!-- REDprelauncher is not needed for this list. Mod Organizer 2 launches the game directly
-     with "--launcher-skip -modded", which is what the "enable mods" tick box sets, and the
-     REDmod cache is shipped prebuilt with the modlist so there is nothing to deploy.
+     with "--launcher-skip -modded", which is what the "enable mods" tick box sets.
 
  3. Once mod organizer is open, in the upper right of Mod organizer 2 you will see a dropdown menu beside the "RUN" button, select "REDprelauncher" and click the "RUN" button
 
@@ -379,7 +373,7 @@ To get a useful answer, please include:
 - Q from Welcome to Night City, for taking the time to talk with me, share his thoughts, and help guide me through getting this modlist set up. Welcome to Night City was also a huge inspiration for this list.
 - [aljo](https://next.nexusmods.com/profile/aljoxo) for [Apostasy](https://www.nexusmods.com/skyrimspecialedition/mods/118893), whose mod page and GitHub layout this list's description, README, and Gameplay Guide are modeled on.
 - Every mod author whose work is included in this list. It would not exist without you.
-- [CD Projekt Red](https://www.cdprojektred.com/) for Cyberpunk 2077 and REDmod.
+- [CD Projekt Red](https://www.cdprojektred.com/) for Cyberpunk 2077.
 - [Halgari](https://www.nexusmods.com/skyrimspecialedition/users/17252164) and the [Wabbajack](https://www.wabbajack.org/) team for the platform that makes one-click modlists possible.
 - The Mod Organizer 2 team, and the authors of CET, RED4ext, redscript, TweakXL, and ArchiveXL, for the frameworks the entire Cyberpunk modding scene is built on.
 - [Nexus Mods](https://www.nexusmods.com/) for hosting the mods that make up this list.
