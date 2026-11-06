@@ -16,12 +16,48 @@
 
 | Series | Versions |
 |:-:|:--|
-| **1.3** | [1.3.0](#version-130) |
+| **1.3** | [1.3.1](#version-131) · [1.3.0](#version-130) |
 | **1.2** | [1.2.8](#version-128) · [1.2.7](#version-127) · [1.2.6](#version-126) · [1.2.5](#version-125) · [1.2.4](#version-124) · [1.2.3](#version-123) · [1.2.2](#version-122) · [1.2.1](#version-121) · [1.2.0](#version-120) |
 | **1.1** | [1.1.9](#version-119) · [1.1.8](#version-118) · [1.1.7](#version-117) · [1.1.6](#version-116) · [1.1.5](#version-115) · [1.1.4](#version-114) · [1.1.3](#version-113) · [1.1.2](#version-112) · [1.1.1](#version-111) · [1.1.0](#version-110) |
 | **1.0** | [1.0.8](#version-108) · [1.0.7](#version-107) · [1.0.6](#version-106) · [1.0.5](#version-105) · [1.0.4](#version-104) · [1.0.3](#version-103) · [1.0.2](#version-102) · [1.0.1](#version-101) · [1.0.0](#version-100) |
 
 ---
+
+<a id="131"></a>
+## Version 1.3.1
+
+![Save Compatible](https://img.shields.io/badge/Save-Compatible-brightgreen) ![Released](https://img.shields.io/badge/Released-November_5,_2026-lightgrey)
+> Small update with mod fixes and one new menu cleanup mod.
+
+#### Gameplay
+- Updated Melee Attack Variety ([link](https://www.nexusmods.com/cyberpunk2077/mods/32817)): now reacts to the direction of your swing, with 28 new attacks and more strong attacks on bare fists.
+- Updated Reset Attributes always available ([link](https://www.nexusmods.com/cyberpunk2077/mods/9240)).
+
+#### Immersion
+- Updated Gambling System - Roulette ([link](https://www.nexusmods.com/cyberpunk2077/mods/15450)): world edits fixed for patch 2.5.
+- Updated Playable Blackjack - Gambling System ([link](https://www.nexusmods.com/cyberpunk2077/mods/19575)).
+
+#### Driving
+- Updated General Vehicle Fixes ([link](https://www.nexusmods.com/cyberpunk2077/mods/31813)).
+
+#### HUD & UI
+- Added Remove Mods Menu ([link](https://www.nexusmods.com/cyberpunk2077/mods/35686)): removes the mod.io Mods button, the Mod Verification popup and the outdated mods check at launch.
+- Updated Minimap Widgets ([link](https://www.nexusmods.com/cyberpunk2077/mods/17477)).
+- Updated Night City Cinematic Loading Screens ([link](https://www.nexusmods.com/cyberpunk2077/mods/28338)).
+
+#### Visuals
+- Updated Black Smoke Full ([link](https://www.nexusmods.com/cyberpunk2077/mods/23861)).
+- Updated The Nullifier ([link](https://www.nexusmods.com/cyberpunk2077/mods/23091)).
+
+#### Fixes & QoL
+- Removed Loud Noises Fix - Audio Pool Fix ([link](https://www.nexusmods.com/cyberpunk2077/mods/34270)): the same fix is now built into Ultra Plus.
+
+#### Framework
+- Updated DigitalVixen Core ([link](https://www.nexusmods.com/cyberpunk2077/mods/28390)).
+- Updated RedFunctions ([link](https://www.nexusmods.com/cyberpunk2077/mods/32312)).
+
+#### Miscellaneous
+- Fixed the "RedMod is not enabled" error when deploying REDmod mods you added yourself.
 
 <a id="130"></a>
 ## Version 1.3.0
