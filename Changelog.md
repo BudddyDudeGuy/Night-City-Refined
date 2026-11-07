@@ -16,12 +16,49 @@
 
 | Series | Versions |
 |:-:|:--|
-| **1.3** | [1.3.1](#version-131) · [1.3.0](#version-130) |
+| **1.3** | [1.3.2](#version-132) · [1.3.1](#version-131) · [1.3.0](#version-130) |
 | **1.2** | [1.2.8](#version-128) · [1.2.7](#version-127) · [1.2.6](#version-126) · [1.2.5](#version-125) · [1.2.4](#version-124) · [1.2.3](#version-123) · [1.2.2](#version-122) · [1.2.1](#version-121) · [1.2.0](#version-120) |
 | **1.1** | [1.1.9](#version-119) · [1.1.8](#version-118) · [1.1.7](#version-117) · [1.1.6](#version-116) · [1.1.5](#version-115) · [1.1.4](#version-114) · [1.1.3](#version-113) · [1.1.2](#version-112) · [1.1.1](#version-111) · [1.1.0](#version-110) |
 | **1.0** | [1.0.8](#version-108) · [1.0.7](#version-107) · [1.0.6](#version-106) · [1.0.5](#version-105) · [1.0.4](#version-104) · [1.0.3](#version-103) · [1.0.2](#version-102) · [1.0.1](#version-101) · [1.0.0](#version-100) |
 
 ---
+
+<a id="132"></a>
+## Version 1.3.2
+
+![Save Compatible](https://img.shields.io/badge/Save-Compatible-brightgreen) ![Released](https://img.shields.io/badge/Released-November_6,_2026-lightgrey)
+> Street stalls open across Night City, plus a batch of quest and story fixes.
+
+#### Gameplay
+- Added Iconic Cyberware - Smart Biomonitor ([link](https://www.nexusmods.com/cyberpunk2077/mods/30355)): makes the Biomonitor an iconic. It only drops from Lt. Mower, no ripperdoc sells it.
+- Updated Enhanced Craft ([link](https://www.nexusmods.com/cyberpunk2077/mods/4378)).
+
+#### Immersion
+- Removed Street Vendors ([link](https://www.nexusmods.com/cyberpunk2077/mods/2894)): replaced by Street Vendors Unlocked.
+- Removed Street Vendors - Vixens Patch ([link](https://www.nexusmods.com/cyberpunk2077/mods/30510)): replaced by Street Vendors Unlocked.
+- Added Street Vendors Unlocked ([link](https://www.nexusmods.com/cyberpunk2077/mods/37501)): replaces Street Vendors, Street Vendors - Vixens Patch and Fluff Vendor Fixes. Street stalls across Night City now sell to you. Crafting parts are left out of their stock.
+- Updated Japantown Holographic Ad Remover ([link](https://www.nexusmods.com/cyberpunk2077/mods/19513)).
+
+#### Driving
+- Updated General Vehicle Fixes ([link](https://www.nexusmods.com/cyberpunk2077/mods/31813)): slip now works at any speed, sand and ground grip are better, handbrake is less icy. Its Mod Settings tab is gone.
+
+#### Visuals
+- Added Ugly Building Removed (E3) ([link](https://www.nexusmods.com/cyberpunk2077/mods/16419)): back, it works on 2.5 again.
+- Updated General Shadows Fixes ([link](https://www.nexusmods.com/cyberpunk2077/mods/20405)): fixes ArchiveXL errors.
+
+#### Fixes & QoL
+- Removed Fluff Vendor Fixes ([link](https://www.nexusmods.com/cyberpunk2077/mods/27795)): replaced by Street Vendors Unlocked.
+- Added Clouds Investigation Privacy - Pedantic Correction ([link](https://www.nexusmods.com/cyberpunk2077/mods/28626)): gives V privacy in the closed booth at Clouds.
+- Added Conditional Reload Speed Fix ([link](https://www.nexusmods.com/cyberpunk2077/mods/37385)): reload speed bonuses from perks like Ready, Rested, Reloaded and High Noon now turn on and off properly.
+- Added CrossWALK Audio Restoration ([link](https://www.nexusmods.com/cyberpunk2077/mods/28184)): restores the broken crosswalk signal audio.
+- Added Lobby Talk - Pedantic Correction ([link](https://www.nexusmods.com/cyberpunk2077/mods/29258)): fixes dialogue timing during the escape from Konpeki Plaza.
+- Added Not In My Hand - Pedantic Correction ([link](https://www.nexusmods.com/cyberpunk2077/mods/28677)): fixes Lucy Thackery's late reaction in the Hippocratic Oath gig.
+- Added Pedantic Text Corrections ([link](https://www.nexusmods.com/cyberpunk2077/mods/33275)): fixes errors in in-game text.
+- Added Perks And Skills Fixes ([link](https://www.nexusmods.com/cyberpunk2077/mods/37252)): a collection of fixes for player perks and skills.
+- Added Safeword Audio Fix - Pedantic Correction ([link](https://www.nexusmods.com/cyberpunk2077/mods/27780)): fixes Female V's safeword audio at Clouds.
+- Added Spooky Spotlight - Pedantic Correction ([link](https://www.nexusmods.com/cyberpunk2077/mods/29359)): fixes the All Foods scene in The Pickup.
+- Added Time Travel Begone - Pedantic Correction ([link](https://www.nexusmods.com/cyberpunk2077/mods/29286)): removes impossible time skips and weather jumps in some quests, like the end of The Rescue.
+- Updated Immersive Night City Fixes ([link](https://www.nexusmods.com/cyberpunk2077/mods/20588)).
 
 <a id="131"></a>
 ## Version 1.3.1
