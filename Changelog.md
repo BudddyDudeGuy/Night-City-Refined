@@ -16,12 +16,93 @@
 
 | Series | Versions |
 |:-:|:--|
-| **1.3** | [1.3.2](#version-132) · [1.3.1](#version-131) · [1.3.0](#version-130) |
+| **1.3** | [1.3.3](#version-133) · [1.3.2](#version-132) · [1.3.1](#version-131) · [1.3.0](#version-130) |
 | **1.2** | [1.2.8](#version-128) · [1.2.7](#version-127) · [1.2.6](#version-126) · [1.2.5](#version-125) · [1.2.4](#version-124) · [1.2.3](#version-123) · [1.2.2](#version-122) · [1.2.1](#version-121) · [1.2.0](#version-120) |
 | **1.1** | [1.1.9](#version-119) · [1.1.8](#version-118) · [1.1.7](#version-117) · [1.1.6](#version-116) · [1.1.5](#version-115) · [1.1.4](#version-114) · [1.1.3](#version-113) · [1.1.2](#version-112) · [1.1.1](#version-111) · [1.1.0](#version-110) |
 | **1.0** | [1.0.8](#version-108) · [1.0.7](#version-107) · [1.0.6](#version-106) · [1.0.5](#version-105) · [1.0.4](#version-104) · [1.0.3](#version-103) · [1.0.2](#version-102) · [1.0.1](#version-101) · [1.0.0](#version-100) |
 
 ---
+
+<a id="133"></a>
+## Version 1.3.3
+
+![Save Compatible](https://img.shields.io/badge/Save-Compatible-brightgreen) ![Released](https://img.shields.io/badge/Released-November_11,_2026-lightgrey)
+> Real rain with Torrent, retuned driving, and Skillful is back.
+
+- Skillful and Skillful Attributes are back and fine to pick up mid-playthrough. The first time you load your save, you get the bonus perk points and cyberware capacity for the levels you already have, then it's Skillful leveling from there: RuneScape style, your skills and attributes grow from what you actually do. Make a manual save first, just in case.
+- General Vehicle Fixes is updated and Nulled Drive Helpers is added, set up the way the General Vehicle Fixes author recommends. If cars feel slow to turn, raise Perfect Steering Factor in Settings > General Vehicle Fixes. Let us know in the Discord how it feels.
+- Changed: the speedometer shows the game's normal speeds again. Turn on Use Realistic Values in Mod Settings > Speedometer Fixes for true speeds.
+- Fixed: the Scav Haunt in The Rescue is no longer pitch black on High-End. We made a patch for the clash between ReLUX and Time Travel Begone.
+- Removed for now: Mute Menu and Inventory Humming, it breaks the HKGN radio station. I reached out to the author with an updated version, so it's out in the meantime.
+
+#### Gameplay
+- Added Skillful ([link](https://www.nexusmods.com/cyberpunk2077/mods/9309)): more XP from playing, plus extra perk points and cyberware capacity as you level.
+- Added Skillful Attributes ([link](https://www.nexusmods.com/cyberpunk2077/mods/9281)): your attributes rise on their own as your skills level up.
+- Updated Crafting Cost Rebalance ([link](https://www.nexusmods.com/cyberpunk2077/mods/34805)).
+- Updated Stealthrunner - Stealth Gameplay Expansion ([link](https://www.nexusmods.com/cyberpunk2077/mods/7616)).
+- Updated UnequipMods - Remove Weapon ([link](https://www.nexusmods.com/cyberpunk2077/mods/31701)).
+
+#### Immersion
+- Updated HD pack - Lizzies Braindance ([link](https://www.nexusmods.com/cyberpunk2077/mods/11077)).
+- Updated Immersive Audio Distance ([link](https://www.nexusmods.com/cyberpunk2077/mods/36809)).
+- Updated Judy Romance Messages Mod ([link](https://www.nexusmods.com/cyberpunk2077/mods/4465)).
+- Updated Lizzie's Braindances ([link](https://www.nexusmods.com/cyberpunk2077/mods/11077)).
+- Updated Meredith Stout Romance Addon ([link](https://www.nexusmods.com/cyberpunk2077/mods/30587)).
+- Updated Say Something Damn It ([link](https://www.nexusmods.com/cyberpunk2077/mods/22228)).
+
+#### Driving
+- Added Nulled Drive Helpers ([link](https://www.nexusmods.com/cyberpunk2077/mods/30908)): removes two of the game's hidden driving helpers, so bikes turn properly and cars feel more raw.
+- Updated General Vehicle Fixes ([link](https://www.nexusmods.com/cyberpunk2077/mods/31813)): slip and wheel turn speed back to vanilla values, and tires lose a little more grip in big slides. Its steering settings are back under Settings > General Vehicle Fixes.
+
+#### Vehicles
+- Added Road Name Sign Readable Colours ([link](https://www.nexusmods.com/cyberpunk2077/mods/31297)): street name signs are easier to read.
+- Added Spawned NPC Post Combat Fix ([link](https://www.nexusmods.com/cyberpunk2077/mods/32862)): gangsters drive or run away after an open-world fight instead of standing around.
+- Added Vehicle Destruction Mesh Fix ([link](https://www.nexusmods.com/cyberpunk2077/mods/35121)): three traffic cars now look properly wrecked when destroyed.
+- Updated Night City Traffic Overhaul ([link](https://www.nexusmods.com/cyberpunk2077/mods/25552)).
+- Updated Road Name Sign Fixes and Additions ([link](https://www.nexusmods.com/cyberpunk2077/mods/32656)).
+
+#### HUD & UI
+- Added Better UI Character Lighting - Portrait Edition ([link](https://www.nexusmods.com/cyberpunk2077/mods/22734)): back, it works on 2.5 again.
+- Updated Inventory Free View ([link](https://www.nexusmods.com/cyberpunk2077/mods/32542)).
+- Updated Night City Cinematic Loading Screens ([link](https://www.nexusmods.com/cyberpunk2077/mods/28338)).
+- Updated Quest Widget - Right Aligned ([link](https://www.nexusmods.com/cyberpunk2077/mods/17229)).
+- Updated Real Vendor Names ([link](https://www.nexusmods.com/cyberpunk2077/mods/4941)).
+- Updated Weapon Skin Icons ([link](https://www.nexusmods.com/cyberpunk2077/mods/35480)).
+
+#### Visuals
+- Added Local Shadows Flickering Fix ([link](https://www.nexusmods.com/cyberpunk2077/mods/37646)): stops flickering local shadows (Mid-Range and High-End).
+- Added Torrent ([link](https://www.nexusmods.com/cyberpunk2077/mods/37031)): real rain drops, splashes, wheel spray and lightning. Rain stops indoors and streaks at you while driving. Quality is set per profile.
+- Updated Always Best Quality _ Ads - Map - Hud - Photo Mode - Vending Machines and more ([link](https://www.nexusmods.com/cyberpunk2077/mods/12700)).
+- Updated Crowd Variety Restored ([link](https://www.nexusmods.com/cyberpunk2077/mods/34908)).
+- Updated Judy Enhanced Body with 4K Texture ([link](https://www.nexusmods.com/cyberpunk2077/mods/10150)).
+- Updated Need More Smoke - Model H ([link](https://www.nexusmods.com/cyberpunk2077/mods/20419)): now the all-in-one version.
+- Updated Panam Body Enhanced ([link](https://www.nexusmods.com/cyberpunk2077/mods/4843)).
+- Updated Ray Traced Lighting Fixes ([link](https://www.nexusmods.com/cyberpunk2077/mods/29720)).
+- Updated ReLUX ([link](https://www.nexusmods.com/cyberpunk2077/mods/20808)).
+- Updated ReLUX Plus (Riders on the Storm) ([link](https://www.nexusmods.com/cyberpunk2077/mods/22129)).
+- Updated The Nullifier ([link](https://www.nexusmods.com/cyberpunk2077/mods/23091)).
+
+#### Fixes & QoL
+- Removed Mute Menu and Inventory Humming ([link](https://www.nexusmods.com/cyberpunk2077/mods/18781)): breaks the HKGN radio station on 2.5. Back when it's updated.
+- Updated Fixed NPC Vehicle Reactions ([link](https://www.nexusmods.com/cyberpunk2077/mods/19530)).
+- Updated Immersion Patch - Cyberpunk Story Quest Fixes ([link](https://www.nexusmods.com/cyberpunk2077/mods/29152)).
+- Updated Immersion Patch - Minor Activities Quest Fixes ([link](https://www.nexusmods.com/cyberpunk2077/mods/27162)).
+- Updated Immersion Patch - NCART Train Motion Fixes ([link](https://www.nexusmods.com/cyberpunk2077/mods/24914)).
+- Updated Metro Pocket Guide ([link](https://www.nexusmods.com/cyberpunk2077/mods/11882)).
+- Updated Quickhack Fixes ([link](https://www.nexusmods.com/cyberpunk2077/mods/18290)).
+- Updated Time Travel Begone - Pedantic Correction ([link](https://www.nexusmods.com/cyberpunk2077/mods/29286)).
+
+#### Framework
+- Updated AudioXL ([link](https://www.nexusmods.com/cyberpunk2077/mods/33442)).
+- Updated Calendar ([link](https://www.nexusmods.com/cyberpunk2077/mods/30331)).
+- Updated DigitalVixen Core ([link](https://www.nexusmods.com/cyberpunk2077/mods/28390)).
+- Updated GetTenSO CORE ([link](https://www.nexusmods.com/cyberpunk2077/mods/35521)).
+- Updated Mod Configuration Menu ([link](https://www.nexusmods.com/cyberpunk2077/mods/31640)).
+- Updated Mod Settings ([link](https://www.nexusmods.com/cyberpunk2077/mods/4885)).
+- Updated RED4ext ([link](https://www.nexusmods.com/cyberpunk2077/mods/2380)).
+- Updated RedFunctions ([link](https://www.nexusmods.com/cyberpunk2077/mods/32312)).
+- Updated RedLogger ([link](https://www.nexusmods.com/cyberpunk2077/mods/31920)).
+- Updated Redscript Configuration Framework ([link](https://www.nexusmods.com/cyberpunk2077/mods/30726)).
 
 <a id="132"></a>
 ## Version 1.3.2
