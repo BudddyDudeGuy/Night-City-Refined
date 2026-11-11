@@ -30,7 +30,7 @@
 > Real rain with Torrent, retuned driving, and Skillful is back.
 
 - Skillful and Skillful Attributes are back and fine to pick up mid-playthrough. The first time you load your save, you get the bonus perk points and cyberware capacity for the levels you already have, then it's Skillful leveling from there: RuneScape style, your skills and attributes grow from what you actually do. Make a manual save first, just in case.
-- General Vehicle Fixes is updated and Nulled Drive Helpers is added, set up the way the General Vehicle Fixes author recommends. If cars feel slow to turn, raise Perfect Steering Factor in Settings > General Vehicle Fixes. Let us know in the Discord how it feels.
+- Driving: we know it hasn't felt great the last few updates, so we're working on it. General Vehicle Fixes is updated and Nulled Drive Helpers is added, set up the way its author recommends. Hopefully it's better now, so let us know in the Discord. The author keeps updating General Vehicle Fixes, so we'll give it a few more tries; if it still doesn't work out in the list, we may switch to a different setup. If cars feel slow to turn, raise Perfect Steering Factor in Settings > General Vehicle Fixes.
 - Changed: the speedometer shows the game's normal speeds again. Turn on Use Realistic Values in Mod Settings > Speedometer Fixes for true speeds.
 - Fixed: the Scav Haunt in The Rescue is no longer pitch black on High-End. We made a patch for the clash between ReLUX and Time Travel Begone.
 - Removed for now: Mute Menu and Inventory Humming, it breaks the HKGN radio station. I reached out to the author with an updated version, so it's out in the meantime.
